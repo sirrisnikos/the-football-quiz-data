@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "Which country does Lamine Yamal play for?",
+    "options": ["Spain", "France", "Morocco", "Argentina"],
+    "correct_answer": "Spain",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "Erling Haaland represents which national team?",
+    "options": ["Sweden", "Denmark", "Norway", "Germany"],
+    "correct_answer": "Norway",
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "In which country is the 'La Liga' professional football league played?",
+    "options": ["Italy", "Portugal", "Spain", "Argentina"],
+    "correct_answer": "Spain",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "Kylian Mbappé is a citizen of which country?",
+    "options": ["Belgium", "France", "Senegal", "Cameroon"],
+    "correct_answer": "France",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "Which South American nation did the legend Pele represent?",
+    "options": ["Argentina", "Uruguay", "Chile", "Brazil"],
+    "correct_answer": "Brazil",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "The Allianz Arena, famous for its color-changing exterior, is in which country?",
+    "options": ["Austria", "Germany", "Switzerland", "Netherlands"],
+    "correct_answer": "Germany",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "Which country does Mohamed Salah play for internationally?",
+    "options": ["Morocco", "Egypt", "Saudi Arabia", "Algeria"],
+    "correct_answer": "Egypt",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "Wembley Stadium, the 'Home of Football,' is located in which country?",
+    "options": ["England", "Italy", "Spain", "Scotland"],
+    "correct_answer": "England",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "The club 'Real Madrid' is based in which country?",
+    "options": ["Portugal", "Mexico", "Spain", "Italy"],
+    "correct_answer": "Spain",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "Lionel Messi was born in which country?",
+    "options": ["Spain", "Argentina", "Uruguay", "Brazil"],
+    "correct_answer": "Argentina",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "In which country would you find the San Siro stadium?",
+    "options": ["Italy", "Spain", "Germany", "Portugal"],
+    "correct_answer": "Italy",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "The 'Superclásico' is a famous derby between Boca Juniors and River Plate in which country?",
+    "options": ["Argentina", "Colombia", "Mexico", "Brazil"],
+    "correct_answer": "Argentina",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "Which nation hosted the 2022 World Cup?",
+    "options": ["Iran", "Qatar", "Egypt", "Saudi Arabia"],
+    "correct_answer": "Qatar",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "Cristiano Ronaldo is the all-time leading scorer for which national team?",
+    "options": ["Spain", "Brazil", "Portugal", "France"],
+    "correct_answer": "Portugal",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "In which country is the 'Serie A' league primarily based?",
+    "options": ["Italy", "Spain", "France", "Germany"],
+    "correct_answer": "Italy",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "The club 'Ajax' is famously located in which city?",
+    "options": ["Brussels", "Rotterdam", "Amsterdam", "Eindhoven"],
+    "correct_answer": "Amsterdam",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "Which continent does the national team of Japan compete in?",
+    "options": ["Europe", "Asia", "Oceania", "South America"],
+    "correct_answer": "Asia",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "Kevin De Bruyne is a key player for which national team?",
+    "options": ["Netherlands", "Belgium", "France", "Germany"],
+    "correct_answer": "Belgium",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "The 'Old Trafford' stadium is located in which English city?",
+    "options": ["London", "Liverpool", "Manchester", "Leeds"],
+    "correct_answer": "Manchester",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "In which country would you find the club 'Valencia'?",
+    "options": ["Spain", "Brazil", "Portugal", "Argentina"],
+    "correct_answer": "Spain",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "Which of these countries has won a FIFA World Cup?",
+    "options": ["Portugal", "Netherlands", "England", "Belgium"],
+    "correct_answer": "England",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "The 'Ligue 1' professional league is played in which country?",
+    "options": ["Belgium", "Switzerland", "France", "Canada"],
+    "correct_answer": "France",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "Which city is home to the stadium 'Camp Nou'?",
+    "options": ["Madrid", "Barcelona", "Seville", "Valencia"],
+    "correct_answer": "Barcelona",
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "Robert Lewandowski is the most famous striker from which country?",
+    "options": ["Germany", "Poland", "Czech Republic", "Austria"],
+    "correct_answer": "Poland",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "In which country is the 'MLS' (Major League Soccer) primarily based?",
+    "options": ["United Kingdom", "Australia", "USA", "South Africa"],
+    "correct_answer": "USA",
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "The 'Arsenal' and 'Chelsea' rivalry takes place in which city?",
+    "options": ["Liverpool", "London", "Manchester", "Newcastle"],
+    "correct_answer": "London",
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "Which European nation won the 2010 FIFA World Cup?",
+    "options": ["Germany", "Netherlands", "Italy", "Spain"],
+    "correct_answer": "Spain",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "Luis Suárez is a legendary striker for which national team?",
+    "options": ["Argentina", "Uruguay", "Paraguay", "Colombia"],
+    "correct_answer": "Uruguay",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "In which city does the club 'Juventus' play their home matches?",
+    "options": ["Rome", "Milan", "Turin", "Florence"],
+    "correct_answer": "Turin",
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question": "Which country is the home of the 'Eredivisie' league?",
+    "options": ["Belgium", "Denmark", "Netherlands", "Sweden"],
+    "correct_answer": "Netherlands",
+    "difficulty": 1
+  }
+]

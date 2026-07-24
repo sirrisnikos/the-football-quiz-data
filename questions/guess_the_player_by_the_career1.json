@@ -1,0 +1,291 @@
+[
+  {
+    "id": 1,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "FC Barcelona", "years": "2004-2021" },
+      { "team": "Paris Saint-Germain", "years": "2021-2023" },
+      { "team": "Inter Miami", "years": "2023-Present" }
+    ],
+    "correct_answer": "Lionel Messi"
+  },
+  {
+    "id": 2,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Sporting CP", "years": "2002-2003" },
+      { "team": "Manchester United", "years": "2003-2009" },
+      { "team": "Real Madrid", "years": "2009-2018" },
+      { "team": "Juventus", "years": "2018-2021" },
+      { "team": "Manchester United", "years": "2021-2022" },
+      { "team": "Al Nassr", "years": "2023-Present" }
+    ],
+    "correct_answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 3,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Santos", "years": "2009-2013" },
+      { "team": "FC Barcelona", "years": "2013-2017" },
+      { "team": "Paris Saint-Germain", "years": "2017-2023" },
+      { "team": "Al Hilal", "years": "2023-2025" },
+      { "team": "Santos", "years": "2025-present" }
+    ],
+    "correct_answer": "Neymar Jr"
+  },
+  {
+    "id": 4,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "AS Monaco", "years": "2015-2017" },
+      { "team": "Paris Saint-Germain", "years": "2017-2024" },
+      { "team": "Real Madrid", "years": "2024-Present" }
+    ],
+    "correct_answer": "Kylian Mbappé"
+  },
+  {
+    "id": 5,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Bryne", "years": "2016" },
+      { "team": "Molde", "years": "2017-2019" },
+      { "team": "Red Bull Salzburg", "years": "2019-2020" },
+      { "team": "Borussia Dortmund", "years": "2020-2022" },
+      { "team": "Manchester City", "years": "2022-Present" }
+    ],
+    "correct_answer": "Erling Haaland"
+  },
+  {
+    "id": 6,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Znicz Pruszków", "years": "2006-2008" },
+      { "team": "Lech Poznań", "years": "2008-2010" },
+      { "team": "Borussia Dortmund", "years": "2010-2014" },
+      { "team": "Bayern Munich", "years": "2014-2022" },
+      { "team": "FC Barcelona", "years": "2022-Present" }
+    ],
+    "correct_answer": "Robert Lewandowski"
+  },
+  {
+    "id": 7,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+     { "team": "Al Mokawloon", "years": "2010-2012" },
+     { "team": "Basel", "years": "2012-2014" },
+     { "team": "Chelsea", "years": "2014-2016" },
+     { "team": "Fiorentina (Loan)", "years": "2015" },
+     { "team": "AS Roma", "years": "2015-2017" },
+     { "team": "Liverpool", "years": "2017-Present" }
+
+    ],
+    "correct_answer": "Mohamed Salah"
+  },
+  {
+    "id": 8,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Dinamo Zagreb", "years": "2003-2008" },
+      { "team": "Zrinjski Mostar (Loan)", "years": "2003-2004" },
+      { "team": "Inter Zaprešić (Loan)", "years": "2004-2005" },
+      { "team": "Tottenham Hotspur", "years": "2008-2012" },
+      { "team": "Real Madrid", "years": "2012-2025" },
+      { "team": "AC Milan", "years": "2025-Present" }
+    ],
+    "correct_answer": "Luka Modrić"
+  },
+  {
+    "id": 9,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Genk", "years": "2008-2012" },
+      { "team": "Chelsea", "years": "2012-2014" },
+      { "team": "Werder Bremen (Loan)", "years": "2012-2013" },
+      { "team": "VfL Wolfsburg", "years": "2014-2015" },
+      { "team": "Manchester City", "years": "2015-2025" },
+      { "team": "Napoli", "years": "2025-Present" }
+    ],
+    "correct_answer": "Kevin De Bruyne"
+  },
+  {
+    "id": 10,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Lyon", "years": "2004-2009" },
+      { "team": "Real Madrid", "years": "2009-2023" },
+      { "team": "Al-Ittihad", "years": "2023-2026" },
+      { "team": "Al Hilal", "years": "2026-Present"}
+    ],
+    "correct_answer": "Karim Benzema"
+  },
+  {
+    "id": 11,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career":[
+      { "team": "Tottenham Hotspur", "years": "2009-2023" },
+      { "team": "Leyton Orient (Loan)", "years": "2011" },
+      { "team": "Millwall (Loan)", "years": "2012" },
+      { "team": "Norwich City (Loan)", "years": "2012-2013" },
+      { "team": "Leicester City (Loan)", "years": "2013" },
+      { "team": "Bayern Munich", "years": "2023-Present" }
+],
+    "correct_answer": "Harry Kane"
+  },
+  {
+    "id": 12,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Sevilla", "years": "2004-2005" },
+      { "team": "Real Madrid", "years": "2005-2021" },
+      { "team": "Paris Saint-Germain", "years": "2021-2023" },
+      { "team": "Sevilla", "years": "2023-2024" },
+      { "team": "Monterrey", "years": "2025-2026" }
+    ],
+    "correct_answer": "Sergio Ramos"
+  },
+  {
+    "id": 13,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Groningen", "years": "2011-2013" },
+      { "team": "Celtic", "years": "2013-2015" },
+      { "team": "Southampton", "years": "2015-2018" },
+      { "team": "Liverpool", "years": "2018-Present" }
+    ],
+    "correct_answer": "Virgil van Dijk"
+  },
+  {
+    "id": 14,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Barcelona 2", "years": "2001-2002" },
+      { "team": "FC Barcelona", "years": "2002-2018" },
+      { "team": "Vissel Kobe", "years": "2018-2023" },
+      { "team": "Emirates Club", "years": "2023-2024" }
+       ],
+    "correct_answer": "Andrés Iniesta"
+  },
+  {
+    "id": 15,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Barcelona 2", "years": "1997-1998" },
+      { "team": "FC Barcelona", "years": "1998-2015" },
+      { "team": "Al Sadd", "years": "2015-2019" }],
+    "correct_answer": "Xavi Hernández"
+  },
+  {
+    "id": 16,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Manchester United", "years": "1992-2003" },
+      { "team": "Preston North End (Loan)", "years": "1995" },
+      { "team": "Real Madrid", "years": "2003-2007" },
+      { "team": "LA Galaxy", "years": "2007-2012" },
+      { "team": "AC Milan (Loan)", "years": "2009" },
+      { "team": "AC Milan (Loan)", "years": "2010" },
+      { "team": "Paris Saint-Germain", "years": "2013" }
+    ],
+    "correct_answer": "David Beckham"
+  },
+  {
+    "id": 17,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+     { "team": "Malmö FF", "years": "1999-2001" },
+     { "team": "Ajax", "years": "2001-2004" },
+     { "team": "Juventus", "years": "2004-2006" },
+     { "team": "Inter Milan", "years": "2006-2009" },
+     { "team": "Barcelona", "years": "2009-2011" },
+     { "team": "AC Milan (Loan)", "years": "2010-2011" },
+     { "team": "AC Milan", "years": "2011-2012" },
+     { "team": "Paris Saint-Germain", "years": "2012-2016" },
+     { "team": "Manchester United", "years": "2016-2018" },
+     { "team": "LA Galaxy", "years": "2018-2019" },
+     { "team": "AC Milan", "years": "2020-2023" }
+    ],
+    "correct_answer": "Zlatan Ibrahimović"
+  },
+  {
+    "id": 18,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Everton", "years": "2002-2004" },
+      { "team": "Manchester United", "years": "2004-2017" },
+      { "team": "Everton", "years": "2017-2018" },
+      { "team": "D.C. United", "years": "2018-2020" },
+      { "team": "Derby County", "years": "2020-2021" }
+    ],
+    "correct_answer": "Wayne Rooney"
+  },
+  {
+    "id": 19,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Grêmio", "years": "1998-2001" },
+      { "team": "Paris Saint-Germain", "years": "2001-2003" },
+      { "team": "FC Barcelona", "years": "2003-2008" },
+      { "team": "AC Milan", "years": "2008-2011" },
+      { "team": "Flamengo", "years": "2011-2012" },
+      { "team": "Atlético Mineiro", "years": "2012-2014" },
+      { "team": "Querétaro", "years": "2014-2015" },
+      { "team": "Fluminense", "years": "2015-2016" }
+      ],
+    "correct_answer": "Ronaldinho"
+  },
+  {
+    "id": 20,
+    "category": "guess_the_player_by_career",
+    "level": 1,
+    "question": "Which player had this career path?",
+    "career": [
+      { "team": "Monaco B", "years": "1994-1995" },
+      { "team": "Monaco", "years": "1994-1999" },
+      { "team": "Juventus", "years": "1999" },
+      { "team": "Arsenal", "years": "1999-2007" },
+      { "team": "Barcelona", "years": "2007-2010" },
+      { "team": "New York Red Bulls", "years": "2010-2014" },
+      { "team": "Arsenal (Loan)", "years": "2012" }
+    ],
+    "correct_answer": "Thierry Henry"
+  }
+]

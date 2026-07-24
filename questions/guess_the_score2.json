@@ -1,0 +1,17 @@
+[
+  {"id":31,"match":"Barcelona vs Juventus","score":"3-1","level":2,"notes":"UCL Final 2015"},
+  {"id":32,"match":"Real Madrid vs Liverpool","score":"3-1","level":2,"notes":"UCL Final 2018"},
+  {"id":33,"match":"Liverpool vs Real Madrid","score":"0-1","level":2,"notes":"UCL Final 2022"},
+  {"id":34,"match":"Barcelona vs Arsenal","score":"2-1","level":2,"notes":"UCL Final 2006"},
+  {"id":35,"match":"Bayern Munich vs Chelsea","score":"1-1","level":2,"notes":"UCL Final 2012 (with extra time)"},
+  {"id":36,"match":"France vs Croatia","score":"4-2","level":2,"notes":"World Cup Final 2018"},
+  {"id":37,"match":"Juventus vs Real Madrid","score":"1-4","level":2,"notes":"UCL Final 2017"},
+  {"id":38,"match":"Portugal vs France","score":"1-0","level":2,"notes":"EURO Final 2016"},
+  {"id":39,"match":"Italy vs England","score":"1-1","level":2,"notes":"EURO Final 2020 (with extra time)"},
+  {"id":40,"match":"Spain vs Italy","score":"4-0","level":2,"notes":"EURO Final 2012"},
+  {"id":41,"match":"Netherlands vs Spain","score":"0-1","level":2,"notes":"World Cup Final 2010 (with extra time)"},
+  {"id":42,"match":"Real Madrid vs Atletico Madrid","score":"4-1","level":2,"notes":"UCL Final 2014 (with extra time)"},
+  {"id":43,"match":"Real Madrid vs Atletico Madrid","score":"1-1","level":2,"notes":"UCL Final 2016"},
+  {"id":44,"match":"Bayern Munich vs Inter","score":"0-2","level":2,"notes":"UCL Final 2010"},
+  {"id":45,"match":"Barcelona vs Manchester United","score":"3-1","level":2,"notes":"UCL Final 2011"}
+]

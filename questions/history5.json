@@ -1,0 +1,212 @@
+[
+    {
+      "id": 1,
+      "question": "Which club won the first-ever European Cup (now UCL) in 1956?",
+      "options": ["Real Madrid", "Ajax", "Bayern Munich", "Benfica"],
+      "correct_answer": "Real Madrid",
+      "difficulty": 5
+    },
+    {
+      "id": 2,
+      "question": "How many goals did Mbappe score in the 2024/25 UEFA Champions League?",
+      "options": ["11", "8", "7", "12"],
+      "correct_answer": "7",
+      "difficulty": 5
+    },
+    {
+      "id": 3,
+      "question": "Which club won the first Italian league title (Serie A) in 1898?",
+      "options": ["Inter Milan", "Torino", "Genoa", "Cagliari"],
+      "correct_answer": "Genoa",
+      "difficulty": 5
+    },
+    {
+      "id": 4,
+      "question": "How many teams has Ronaldinho played for?",
+      "options": ["7", "8", "6", "10"],
+      "correct_answer": "8",
+      "difficulty": 5
+    },
+    {
+      "id": 5,
+      "question": "Who was the first player to win the Ballon d'Or three times (1983, 1984, 1985)?",
+      "options": ["Johan Cruyff", "Marco van Basten", "Michel Platini", "Karl-Heinz Rummenigge"],
+      "correct_answer": "Johan Cruyff",
+      "difficulty": 5
+    },
+    {
+      "id": 6,
+      "question": "Who was Real Madrid's top scorer before Cristiano Ronaldo joined the club in 2009?",
+      "options": ["Alfredo Di Stéfano", "Ferenc Puskás", "Raul González", "Carlos Santillana"],
+      "correct_answer": "Raul González",
+      "difficulty": 5
+    },
+    {
+      "id": 7,
+      "question": "Which English club is the only one to have won the European Cup (UCL) more times than their own domestic top-flight league?",
+      "options": ["Nottingham Forest", "Aston Villa", "Chelsea", "Leeds United"],
+      "correct_answer": "Nottingham Forest",
+      "difficulty": 5
+    },
+    {
+      "id": 8,
+      "question": "Who was the manager of the 'Grande Inter' side that won back-to-back European Cups in 1964 and 1965?",
+      "options": ["Helenio Herrera", "Nereo Rocco", "Giovanni Trapattoni", "Marcello Lippi"],
+      "correct_answer": "Helenio Herrera",
+      "difficulty": 5
+    },
+    {
+      "id": 9,
+      "question": "Who was the 2015-16 Premier League top scorer?",
+      "options": ["Jamie Vardy", "Harry Kane", "Eden Hazard", "Sergio Agüero"],
+      "correct_answer": "Harry Kane",
+      "difficulty": 5
+    },
+    {
+      "id": 10,
+      "question": "Who was the first-ever winner of the Ballon d'Or in 1956?",
+      "options": ["Alfredo Di Stéfano", "Stanley Matthews", "Raymond Kopa", "Ferenc Puskás"],
+      "correct_answer": "Stanley Matthews",
+      "difficulty": 5
+    },
+    {
+      "id": 11,
+      "question": "Which nation won the 1976 European Championship via the famous Antonín Panenka penalty?",
+      "options": ["West Germany", "Czechoslovakia", "Yugoslavia", "Netherlands"],
+      "correct_answer": "Czechoslovakia",
+      "difficulty": 5
+    },
+    {
+      "id": 12,
+      "question": "Which club conceded the most goals in the 2024-25 La liga season?",
+      "options": ["Real Valladolid", "Girona", "Celta de Vigo", "Las Palmas"],
+      "correct_answer": "Real Valladolid",
+      "difficulty": 5
+    },
+    {
+      "id": 13,
+      "question": "Who was the EURO 2008 top scorer?",
+      "options": ["Lukas Podolski", "Miroslav Klose", "David Villa", "Fernando Torres"],
+      "correct_answer": "David Villa",
+      "difficulty": 5
+    },
+    {
+      "id": 14,
+      "question": "Which goalkeeper had the most clean sheets in the 2004 EURO tournament?",
+      "options": ["Antonis Nikopolidis", "Iker Casillas", "Oliver Kahn", "Edwin van der Sar"],
+      "correct_answer": "Antonis Nikopolidis",
+      "difficulty": 5
+    },
+    {
+      "id": 15,
+      "question": "Who was the first player to win Champions League,Super Cup,Europa League,Conference League and the Euros?",
+      "options": ["Emerson Palmieri", "Olivier Giroud", "Joao Moutinho", "Mikel Oyarzabal"],
+      "correct_answer": "Emerson Palmieri",
+      "difficulty": 5
+    },
+    {
+      "id": 16,
+      "question": "Who did Real Madrid defeat 7-3 in the 1960 European Cup final, widely considered one of the greatest matches ever?",
+      "options": ["Eintracht Frankfurt", "Stade de Reims", "Fiorentina", "AC Milan"],
+      "correct_answer": "Eintracht Frankfurt",
+      "difficulty": 5
+    },
+    {
+      "id": 17,
+      "question": "Which Soviet goalkeeper remains the only keeper to ever win the Ballon d'Or (1963)?",
+      "options": ["Lev Yashin", "Rinat Dasayev", "Dino Zoff", "Gordon Banks"],
+      "correct_answer": "Lev Yashin",
+      "difficulty": 5
+    },
+    {
+      "id": 18,
+      "question": "Which nation did Argentina beat in the 1978 World Cup final to win their first title?",
+      "options": ["Netherlands", "West Germany", "Brazil", "Italy"],
+      "correct_answer": "Netherlands",
+      "difficulty": 5
+    },
+    {
+      "id": 19,
+      "question": "Who was the top scorer of the 1966 World Cup?",
+      "options": ["Eusébio", "Geoff Hurst", "Franz Beckenbauer", "Bobby Charlton"],
+      "correct_answer": "Eusébio",
+      "difficulty": 5
+    },
+    {
+      "id": 20,
+      "question": "Which manager is associated with the famous 'Benfica curse'?",
+      "options": ["Bella Guttmann", "Helenio Herrera", "Rinus Michels", "Ernst Happel"],
+      "correct_answer": "Bella Guttmann",
+      "difficulty": 5
+    },
+    {
+      "id": 21,
+      "question": "Before 2022, when was the only World Cup final to end 0-0 after extra time and go to penalties?",
+      "options": ["1990", "1994", "2006", "1982"],
+      "correct_answer": "1994",
+      "difficulty": 5
+    },
+    {
+      "id": 22,
+      "question": "Who was the first manager to win the European Cup with two different clubs?",
+      "options": ["Ernst Happel", "Ottmar Hitzfeld", "José Mourinho", "Carlo Ancelotti"],
+      "correct_answer": "Ernst Happel",
+      "difficulty": 5
+    },
+    {
+      "id": 23,
+      "question": "Which team conceded only 7 goals, the year after they were promoted to the top division of their country in 1971?",
+      "options": ["Groningen", "Club Brugge", "Aek Athens", "Rosenborg"],
+      "correct_answer": "Groningen",
+      "difficulty": 5
+    },
+    {
+      "id": 24,
+      "question": "Which of these players has never received a red card while playing for his national team?",
+      "options": ["Pepe", "Sergio Ramos", "Leonardo Bonucci", "Nicolas Otamendi"],
+      "correct_answer": "Sergio Ramos",
+      "difficulty": 5
+    },
+    {
+      "id": 25,
+      "question": "Which was the only football club that Thierry Henry played against in the Premier League but failed to score?",
+      "options": ["Swansea City", "Portsmouth", "Aston Villa", "Reading"],
+      "correct_answer": "Swansea City",
+      "difficulty": 5
+    },
+    {
+      "id": 26,
+      "question": "Who scored the goal that won West Germany the 1974 World Cup final?",
+      "options": ["Gerd Müller", "Paul Breitner", "Franz Beckenbauer", "Uli Hoeneß"],
+      "correct_answer": "Gerd Müller",
+      "difficulty": 5
+    },
+    {
+      "id": 27,
+      "question": "Which club won the last-ever UEFA Cup Winners' Cup in 1999?",
+      "options": ["Lazio", "Mallorca", "Paris Saint-Germain", "Chelsea"],
+      "correct_answer": "Lazio",
+      "difficulty": 5
+    },
+    {
+      "id": 28,
+      "question": "Which of these teams has a 100% win record against Barcelona?",
+      "options": ["Dundee United", "Panionios", "Celtic", "Rubin Kazan"],
+      "correct_answer": "Dundee United",
+      "difficulty": 5
+    },
+    {
+      "id": 29,
+      "question": "Which team was the first from Great Britain to win the European Cup?",
+      "options": ["Manchester United", "Celtic", "Liverpool", "Nottingham Forest"],
+      "correct_answer": "Celtic",
+      "difficulty": 5
+    },
+    {
+      "id": 30,
+      "question": "Who was the referee during the 2022 World Cup final?",
+      "options": ["Szymon Marciniak", "Clement Turpin", "Michael Oliver", "Daniel Orsato"],
+      "correct_answer": "Szymon Marciniak",
+      "difficulty": 5
+    }
+]

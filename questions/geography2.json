@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "In which city is the Stadio Olimpico, home to Lazio, located?",
+    "options": ["Milan", "Rome", "Naples", "Turin"],
+    "correct_answer": "Rome",
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "question": "Which country is the club Shakhtar Donetsk originally from?",
+    "options": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "correct_answer": "Ukraine",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question": "The world-famous 'Signal Iduna Park' (Westfalenstadion) is located in which city?",
+    "options": ["Leipzig", "Dortmund", "Frankfurt", "Cologne"],
+    "correct_answer": "Dortmund",
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "question": "In which city does the Portuguese club Benfica play its home matches?",
+    "options": ["Porto", "Braga", "Lisbon", "Faro"],
+    "correct_answer": "Lisbon",
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "question": "Which country is the home of the club 'Sporting CP'?",
+    "options": ["Spain", "Portugal", "Italy", "France"],
+    "correct_answer": "Portugal",
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "question": "The Johan Cruyff Arena is the home stadium of which country's most successful club?",
+    "options": ["Belgium", "Netherlands", "Germany", "Denmark"],
+    "correct_answer": "Netherlands",
+    "difficulty": 2
+  },
+  {
+    "id": 7,
+    "question": "Which city is home to the Turkish club 'Beşiktaş'?",
+    "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+    "correct_answer": "Istanbul",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question": "The club Feyenoord is based in which major port city?",
+    "options": ["Amsterdam", "Rotterdam", "Utrecht", "Eindhoven"],
+    "correct_answer": "Rotterdam",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question": "Carlo Ancelotti, one of the most decorated managers in history, is from which country?",
+    "options": ["Spain", "France", "Italy", "Portugal"],
+    "correct_answer": "Italy",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question": "Which country does the Bayern Munich winger Luis Díaz represent?",
+    "options": ["Chile", "Ecuador", "Colombia", "Peru"],
+    "correct_answer": "Colombia",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question": "In which city would you find the Ramón Sánchez Pizjuán Stadium?",
+    "options": ["Madrid", "Seville", "Barcelona", "Valencia"],
+    "correct_answer": "Seville",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "Which national team does the midfielder Son Heung-min captain?",
+    "options": ["Japan", "South Korea", "China", "Vietnam"],
+    "correct_answer": "South Korea",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "The club 'RB Salzburg' competes in the top flight of which country?",
+    "options": ["Germany", "Austria", "Switzerland", "Czech Republic"],
+    "correct_answer": "Austria",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question": "Pep Guardiola, known for his success with Barcelona, Bayern München and Man City, is from which country?",
+    "options": ["Spain", "Argentina", "Italy", "Mexico"],
+    "correct_answer": "Spain",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "Which country is the home of the club 'Dinamo Zagreb'?",
+    "options": ["Serbia", "Croatia", "Slovenia", "Hungary"],
+    "correct_answer": "Croatia",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question": "In which city are Panathinaikos and Aek located?",
+    "options": ["Stockholm", "Thessaloniki", "Athens", "Ankara"],
+    "correct_answer": "Athens",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question": "Which country hosted the 2014 Fifa World Cup?",
+    "options": ["Brazil", "Russia", "South Africa", "France"],
+    "correct_answer": "Brazil",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "Which nation does the Real Madrid defender David Alaba represent?",
+    "options": ["Germany", "Switzerland", "Austria", "Nigeria"],
+    "correct_answer": "Austria",
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "Which nation did Robin Van Persie represent?",
+    "options": ["Netherlands", "Austria", "Norway", "Denmark"],
+    "correct_answer": "Netherlands",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "Which country does the club 'Midtjylland' come from?",
+    "options": ["Denmark", "Switzerland", "Norway", "Sweden"],
+    "correct_answer": "Denmark",
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "Which country is the home of the historic club 'Fluminense'?",
+    "options": ["Brazil", "Chile", "Colombia", "Argentina"],
+    "correct_answer": "Brazil",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "The legendary manager Jürgen Klopp is a citizen of which country?",
+    "options": ["Austria", "Germany", "Switzerland", "Netherlands"],
+    "correct_answer": "Germany",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "In which city is the 'Anfield' located?",
+    "options": ["Manchester", "London", "Liverpool", "Munich"],
+    "correct_answer": "Liverpool",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "Which nation does the striker Victor Osimhen represent?",
+    "options": ["Ghana", "Senegal", "Nigeria", "Ivory Coast"],
+    "correct_answer": "Nigeria",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "The club 'Freiburg' is based in which country?",
+    "options": ["Poland", "Austria", "Switzerland", "Germany"],
+    "correct_answer": "Germany",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "Which country is the club 'Olympiacos' from?",
+    "options": ["Turkey", "Cyprus", "Greece", "Bulgaria"],
+    "correct_answer": "Greece",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "What is the nationality of the highly-rated manager Xabi Alonso?",
+    "options": ["Spanish", "Portuguese", "Italian", "French"],
+    "correct_answer": "Spanish",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "In which city does the Spanish club 'Real Sociedad' play?",
+    "options": ["Madrid", "Barcelona", "San Sebastián", "Bilbao"],
+    "correct_answer": "San Sebastián",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "Which nation does the midfielder Federico Valverde play for?",
+    "options": ["Spain", "Argentina", "Uruguay", "Chile"],
+    "correct_answer": "Uruguay",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "The 'Wanda Metropolitano' is the home of which Spanish club?",
+    "options": ["Athletic Bilbao", "Real Betis", "Atletico Madrid", "Barcelona"],
+    "correct_answer": "Atletico Madrid",
+    "difficulty": 2
+  }
+]

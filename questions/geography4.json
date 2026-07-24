@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "Which city hosted the 2013 UEFA Champions League final?",
+    "options": ["London", "Manchester", "Liverpool", "Birmingham"],
+    "correct_answer": "London",
+    "difficulty": 4
+  },
+  {
+    "id": 2,
+    "question": "Which country hosted the 2022 UEFA Champions League final?",
+    "options": ["France", "Hungary", "Spain", "Germany"],
+    "correct_answer": "France",
+    "difficulty": 4
+  },
+  {
+    "id": 3,
+    "question": "Which country is the club 'BATE Borisov' from?",
+    "options": ["Ukraine", "Belarus", "Lithuania", "Latvia"],
+    "correct_answer": "Belarus",
+    "difficulty": 4
+  },
+  {
+    "id": 4,
+    "question": "The club 'Boavista' plays in the 'Estádio do Bessa' in which city?",
+    "options": ["Porto", "Lisbon", "Braga", "Faro"],
+    "correct_answer": "Porto",
+    "difficulty": 4
+  },
+  {
+    "id": 5,
+    "question": "What is the most northern European club?",
+    "options": ["Bodo/Glimt", "Tromsø IL", "Rosenborg", "Hacken"],
+    "correct_answer": "Tromsø IL",
+    "difficulty": 4
+  },
+  {
+    "id": 6,
+    "question": "In which country is the 'Lerkendal Stadion' located?",
+    "options": ["Sweden", "Norway", "Denmark", "Finland"],
+    "correct_answer": "Norway",
+    "difficulty": 4
+  },
+  {
+    "id": 7,
+    "question": "The club 'Young Boys' is based in which Swiss city?",
+    "options": ["Zurich", "Geneva", "Bern", "Basel"],
+    "correct_answer": "Bern",
+    "difficulty": 4
+  },
+  {
+    "id": 8,
+    "question": "Which country conceded the most goals in the 2022 FIFA World Cup?",
+    "options": ["Costa Rica", "Switzerland", "Serbia", "both Costa Rica and Switzerland"],
+    "correct_answer": "Costa Rica",
+    "difficulty": 4
+  },
+  {
+    "id": 9,
+    "question": "In 2024, which nation became the 126th different country to be represented in the Premier League?",
+    "options": ["Uzbekistan", "Kazakhstan", "India", "Vietnam"],
+    "correct_answer": "Uzbekistan",
+    "difficulty": 4
+  },
+  {
+    "id": 10,
+    "question": "How many English clubs have reached a Champions League/European Cup final (including losses)?",
+    "options": ["13", "7", "11", "9"],
+    "correct_answer": "9",
+    "difficulty": 4
+  },
+  {
+    "id": 11,
+    "question": "Which city is home to the 'Craven Cottage' stadium?",
+    "options": ["London", "Manchester", "Leeds", "Leicester"],
+    "correct_answer": "London",
+    "difficulty": 4
+  },
+  {
+    "id": 12,
+    "question": "The 'Estadio Daniel Alcides Carrión', the highest professional football stadium in the world, is in which country?",
+    "options": ["Bolivia", "Peru", "Ecuador", "Colombia"],
+    "correct_answer": "Peru",
+    "difficulty": 4
+  },
+  {
+    "id": 13,
+    "question": "Which country is the club 'KÍ Klaksvík' from?",
+    "options": ["Iceland", "Gibraltar", "Faroe Islands", "Liechtenstein"],
+    "correct_answer": "Faroe Islands",
+    "difficulty": 4
+  },
+  {
+    "id": 14,
+    "question": "The 'Veltins-Arena', which features a retractable pitch, is located in which German city?",
+    "options": ["Dortmund", "Gelsenkirchen", "Hamburg", "Bremen"],
+    "correct_answer": "Gelsenkirchen",
+    "difficulty": 4
+  },
+  {
+    "id": 15,
+    "question": "Which is the smallest country by population to qualify for the FIFA World Cup?",
+    "options": ["San Marino", "Cape Verde", "Curaçao", "Iceland"],
+    "correct_answer": "Curaçao",
+    "difficulty": 4
+  },
+  {
+    "id": 16,
+    "question": "Suriname, located in South America, is a member of which football confederation?",
+    "options": ["CONMEBOL", "CONCACAF", "OFC", "AFC"],
+    "correct_answer": "CONCACAF",
+    "difficulty": 4
+  },
+  {
+    "id": 17,
+    "question": "In which city is the 'Stade de Suisse' located?",
+    "options": ["Bern", "Zurich", "Basel", "Lausanne"],
+    "correct_answer": "Bern",
+    "difficulty": 4
+  },
+  {
+    "id": 18,
+    "question": "The club 'Santa Clara' is the only team from which archipelago to play in the Portuguese top flight?",
+    "options": ["Madeira", "Azores", "Cape Verde", "Canary Islands"],
+    "correct_answer": "Azores",
+    "difficulty": 4
+  },
+  {
+    "id": 19,
+    "question": "Which of these pairs of professional football stadiums in England are geographically the closest to one another?",
+    "options": ["Liverpool and Everton", "Nottingham Forest and Notts County", "Arsenal and Tottenham", "Chelsea and Fulham"],
+    "correct_answer": "Nottingham Forest and Notts County",
+    "difficulty": 4
+  },
+  {
+    "id": 20,
+    "question": "How many different German clubs have won the European Cup/Champions League?",
+    "options": ["2", "3", "4", "5"],
+    "correct_answer": "3",
+    "difficulty": 4
+  },
+  {
+    "id": 21,
+    "question": "Which of the following teams has the most Turkish league titles?",
+    "options": ["Trabzonspor", "Beşiktaş", "Galatasaray", "Fenerbahçe"],
+    "correct_answer": "Fenerbahçe",
+    "difficulty": 4
+  },
+  {
+    "id": 22,
+    "question": "Which country is the home of the club 'HJK'?",
+    "options": ["Norway", "Sweden", "Finland", "Estonia"],
+    "correct_answer": "Finland",
+    "difficulty": 4
+  },
+  {
+    "id": 23,
+    "question": "The 'El Monumental' and 'La Bombonera' are both located in which city?",
+    "options": ["Buenos Aires", "Santiago", "Lima", "Medellin"],
+    "correct_answer": "Buenos Aires",
+    "difficulty": 4
+  },
+  {
+    "id": 24,
+    "question": "Which national team has the most appearances in the UEFA European Championship?",
+    "options": ["Germany", "Spain", "France", "Italy"],
+    "correct_answer": "Germany",
+    "difficulty": 4
+  },
+  {
+    "id": 25,
+    "question": "In which city is the 'Saint James' Park located?",
+    "options": ["Brentford", "Liverpool", "Brighton", "Newcastle"],
+    "correct_answer": "Newcastle",
+    "difficulty": 4
+  },
+  {
+    "id": 26,
+    "question": "Which city is home to the club 'APOEL', a frequent Champions League participant?",
+    "options": ["Limassol", "Larnaca", "Nicosia", "Paphos"],
+    "correct_answer": "Nicosia",
+    "difficulty": 4
+  },
+  {
+    "id": 27,
+    "question": "The 'Dnipro Arena' is located in which country?",
+    "options": ["Ukraine", "Poland", "Russia", "Romania"],
+    "correct_answer": "Ukraine",
+    "difficulty": 4
+  },
+  {
+    "id": 28,
+    "question": "The English club Portsmouth FC plays at Fratton Park. What unique geographical distinction does this stadium hold among all professional English clubs?",
+    "options": ["It is the northernmost stadium", "It is located on an island", "It is the only stadium below sea level", "It is the furthest from any other club"],
+    "correct_answer": "It is located on an island",
+    "difficulty": 4
+  },
+  {
+    "id": 29,
+    "question": "Which country is the home of the club 'Pyunik'?",
+    "options": ["Georgia", "Armenia", "Azerbaijan", "Moldova"],
+    "correct_answer": "Armenia",
+    "difficulty": 4
+  },
+  {
+    "id": 30,
+    "question": "How many European nations have been crowned FIFA World Cup champions?",
+    "options": ["4", "5", "6", "7"],
+    "correct_answer": "5",
+    "difficulty": 4
+  }
+]

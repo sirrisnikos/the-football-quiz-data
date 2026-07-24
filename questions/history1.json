@@ -1,0 +1,212 @@
+[
+    {
+      "id": 101,
+      "question": "Which team won the FIFA World Cup in 2018?",
+      "options": ["France", "Croatia", "Germany", "Argentina"],
+      "correct_answer": "France",
+      "difficulty": 1
+    },
+    {
+      "id": 102,
+      "question": "Who won the Ballon d'Or in 2021?",
+      "options": ["Lionel Messi", "Robert Lewandowski", "Cristiano Ronaldo", "Karim Benzema"],
+      "correct_answer": "Lionel Messi",
+      "difficulty": 1
+    },
+    {
+      "id": 103,
+      "question": "Which club won the UEFA Champions League in 2020?",
+      "options": ["Bayern Munich", "Paris Saint-Germain", "Liverpool", "Manchester City"],
+      "correct_answer": "Bayern Munich",
+      "difficulty": 1
+    },
+    {
+      "id": 104,
+      "question": "Who won the Ballon d'Or in 2018?",
+      "options": ["Luka Modrić", "Cristiano Ronaldo", "Antoine Griezmann", "Lionel Messi"],
+      "correct_answer": "Luka Modrić",
+      "difficulty": 1
+    },
+    {
+      "id": 105,
+      "question": "Which national team won UEFA Euro 2016?",
+      "options": ["France", "Portugal", "Germany", "Spain"],
+      "correct_answer": "Portugal",
+      "difficulty": 1
+    },
+    {
+      "id": 106,
+      "question": "Which club won the UEFA Champions League in 2019?",
+      "options": ["Liverpool", "Tottenham", "Barcelona", "Ajax"],
+      "correct_answer": "Liverpool",
+      "difficulty": 1
+    },
+    {
+      "id": 107,
+      "question": "Who won the Ballon d'Or in 2022?",
+      "options": ["Karim Benzema", "Kylian Mbappé", "Sadio Mané", "Kevin De Bruyne"],
+      "correct_answer": "Karim Benzema",
+      "difficulty": 1
+    },
+    {
+      "id": 108,
+      "question": "Which country won the FIFA World Cup in 2014?",
+      "options": ["Germany", "Argentina", "Brazil", "Spain"],
+      "correct_answer": "Germany",
+      "difficulty": 1
+    },
+    {
+      "id": 109,
+      "question": "Which club won the UEFA Champions League in 2018?",
+      "options": ["Real Madrid", "Liverpool", "Bayern Munich", "Roma"],
+      "correct_answer": "Real Madrid",
+      "difficulty": 1
+    },
+    {
+      "id": 110,
+      "question": "Which club has won the most Bundesliga titles?",
+      "options": ["Bayern Munich", "Borussia Dortmund", "Bayer Leverkusen", "Hamburger SV"],
+      "correct_answer": "Bayern Munich",
+      "difficulty": 1
+    },
+    {
+      "id": 111,
+      "question": "Which country won the FIFA World Cup in 2010?",
+      "options": ["Spain", "Netherlands", "Germany", "Brazil"],
+      "correct_answer": "Spain",
+      "difficulty": 1
+    },
+    {
+      "id": 112,
+      "question": "Which club won the UEFA Champions League in 2021?",
+      "options": ["Chelsea", "Manchester City", "Real Madrid", "PSG"],
+      "correct_answer": "Chelsea",
+      "difficulty": 1
+    },
+    {
+      "id": 113,
+      "question": "Which club has won the most UEFA Champions League titles?",
+      "options": ["Real Madrid", "Liverpool", "Barcelona", "Bayern Munich"],
+      "correct_answer": "Real Madrid",
+      "difficulty": 1
+    },
+    {
+      "id": 114,
+      "question": "Who has won the most Ballon d'Or awards?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Pelé", "Diego Maradona"],
+      "correct_answer": "Lionel Messi",
+      "difficulty": 1
+    },
+    {
+      "id": 115,
+      "question": "Which club won the UEFA Champions League in 2017?",
+      "options": ["Real Madrid", "Juventus", "Barcelona", "Bayern Munich"],
+      "correct_answer": "Real Madrid",
+      "difficulty": 1
+    },
+    {
+      "id": 116,
+      "question": "Who won the Ballon d'Or in 2019?",
+      "options": ["Lionel Messi", "Virgil van Dijk", "Cristiano Ronaldo", "Sadio Mané"],
+      "correct_answer": "Lionel Messi",
+      "difficulty": 1
+    },
+    {
+      "id": 117,
+      "question": "Which country won the FIFA World Cup in 2006?",
+      "options": ["Italy", "France", "Germany", "Brazil"],
+      "correct_answer": "Italy",
+      "difficulty": 1
+    },
+    {
+      "id": 118,
+      "question": "Which club won the UEFA Champions League in 2016?",
+      "options": ["Real Madrid", "Atlético Madrid", "Barcelona", "Bayern Munich"],
+      "correct_answer": "Real Madrid",
+      "difficulty": 1
+    },
+    {
+      "id": 119,
+      "question": "Who won the Ballon d'Or in 2014?",
+      "options": ["Cristiano Ronaldo", "Lionel Messi", "Manuel Neuer", "Arjen Robben"],
+      "correct_answer": "Cristiano Ronaldo",
+      "difficulty": 1
+    },
+    {
+      "id": 120,
+      "question": "Which country won UEFA Euro 2008?",
+      "options": ["Spain", "Germany", "Italy", "France"],
+      "correct_answer": "Spain",
+      "difficulty": 1
+    },
+    {
+      "id": 121,
+      "question": "Which club won the UEFA Champions League in 2015?",
+      "options": ["Barcelona", "Juventus", "Bayern Munich", "Chelsea"],
+      "correct_answer": "Barcelona",
+      "difficulty": 1
+    },
+    {
+      "id": 122,
+      "question": "Who is the all time top scorer in the UEFA Champions League?",
+      "options": ["Cristiano Ronaldo", "Lionel Messi", "Karim Benzema", "Raúl González"],
+      "correct_answer": "Cristiano Ronaldo",
+      "difficulty": 1
+    },
+    {
+      "id": 123,
+      "question": "Who scored the famous 'Hand of God' goal in the 1986 FIFA World Cup?",
+      "options": ["Diego Maradona", "Pelé", "Gerd Müller", "Franz Beckenbauer"],
+      "correct_answer": "Diego Maradona",
+      "difficulty": 1
+    },
+    {
+      "id": 124,
+      "question": "Which club won the UEFA Champions League in 2013?",
+      "options": ["Bayern Munich", "Borussia Dortmund", "Barcelona", "Real Madrid"],
+      "correct_answer": "Bayern Munich",
+      "difficulty": 1
+    },
+    {
+      "id": 125,
+      "question": "Which club won the 2025 UEFA Champions League?",
+      "options": ["Inter Milan", "Paris Saint-Germain", "Barcelona", "Real Madrid"],
+      "correct_answer": "Paris Saint-Germain",
+      "difficulty": 1
+    },
+    {
+      "id": 126,
+      "question": "Which country won UEFA Euro 2020?",
+      "options": ["Italy", "England", "Spain", "France"],
+      "correct_answer": "Italy",
+      "difficulty": 1
+    },
+    {
+      "id": 127,
+      "question": "Which player won the 2024 Ballon d'Or?",
+      "options": ["Lionel Messi", "Rodri", "Vinicius Jr.", "Mohamed Salah"],
+      "correct_answer": "Rodri",
+      "difficulty": 1
+    },
+    {
+      "id": 128,
+      "question": "Who won the Ballon d'Or in 2012?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Andrés Iniesta", "Radamel Falcao"],
+      "correct_answer": "Lionel Messi",
+      "difficulty": 1
+    },
+    {
+      "id": 129,
+      "question": "Which club did Lionel Messi join in 2021?",
+      "options": ["Paris Saint-Germain", "Barcelona", "Inter Miami", "Juventus"],
+      "correct_answer": "Paris Saint-Germain",
+      "difficulty": 1
+    },
+    {
+      "id": 130,
+      "question": "Which club did Cristiano Ronaldo join in 2018?",
+      "options": ["Al-Nassr", "Manchester United", "Real Madrid", "Juventus"],
+      "correct_answer": "Juventus",
+      "difficulty": 1
+    }
+]

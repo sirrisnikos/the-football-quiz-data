@@ -1,0 +1,318 @@
+[
+  {
+    "id": 1,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/grasshopper.png",
+    "options": ["Grasshopper Club Zürich", "St. Gallen", "FC Aarau", "FC Winterthur"],
+    "correct_answer": "Grasshopper Club Zürich"
+  },
+  {
+    "id": 2,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/st_pauli.png",
+    "options": ["St. Pauli", "Hansa Rostock", "Greuther Fürth", "Kaiserslautern"],
+    "correct_answer": "St. Pauli"
+  },
+  {
+    "id": 3,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/hjk_helsinki.png",
+    "options": ["HJK Helsinki", "KuPS Kuopio", "SJK Seinäjoki", "FC Lahti"],
+    "correct_answer": "HJK Helsinki"
+  },
+  {
+    "id": 4,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/kr_reykjavik.png",
+    "options": ["KR Reykjavík", "Valur", "FH Hafnarfjörður", "KA Akureyri"],
+    "correct_answer": "KR Reykjavík"
+  },
+  {
+    "id": 5,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/flora_tallinn.png",
+    "options": ["Flora Tallinn", "Levadia Tallinn", "Paide Linnameeskond", "Nõmme Kalju"],
+    "correct_answer": "Flora Tallinn"
+  },
+  {
+    "id": 6,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/fk_riga.png",
+    "options": ["FK Riga", "FK Liepaja", "Valmiera FC", "Daugavpils"],
+    "correct_answer": "FK Riga"
+  },
+  {
+    "id": 7,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/bate_borisov.png",
+    "options": ["BATE Borisov", "Shakhtyor Soligorsk", "Dinamo Minsk", "Torpedo Zhodino"],
+    "correct_answer": "BATE Borisov"
+  },
+  {
+    "id": 8,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/astana.png",
+    "options": ["Astana", "Tobol Kostanay", "Ordabasy", "Kairat Almaty"],
+    "correct_answer": "Astana"
+  },
+  {
+    "id": 9,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/pyunik.png",
+    "options": ["Pyunik Yerevan", "Alashkert", "Ararat Yerevan", "Shirak Gyumri"],
+    "correct_answer": "Pyunik Yerevan"
+  },
+  {
+    "id": 10,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/qarabag.png",
+    "options": ["Qarabağ FK", "Neftçi Baku", "Sabah FC", "Gabala FK"],
+    "correct_answer": "Qarabağ FK"
+  },
+  {
+    "id": 11,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/dinamo_tbilisi.png",
+    "options": ["Dinamo Tbilisi", "Torpedo Kutaisi", "Saburtalo", "Dila Gori"],
+    "correct_answer": "Dinamo Tbilisi"
+  },
+  {
+    "id": 12,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/pakhtakor.png",
+    "options": ["Pakhtakor Tashkent", "Bunyodkor", "Navbahor Namangan", "Nasaf Qarshi"],
+    "correct_answer": "Pakhtakor Tashkent"
+  },
+  {
+    "id": 13,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/persepolis.png",
+    "options": ["Persepolis FC", "Esteghlal", "Tractor S.C.", "Sepahan"],
+    "correct_answer": "Persepolis FC"
+  },
+  {
+    "id": 14,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/urawa_red_diamonds.png",
+    "options": ["Urawa Red Diamonds", "Kashima Antlers", "Kashiwa Reysol", "Cerezo Osaka"],
+    "correct_answer": "Urawa Red Diamonds"
+  },
+  {
+    "id": 15,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/jeonbuk.png",
+    "options": ["Jeonbuk Hyundai Motors", "Ulsan Hyundai", "Pohang Steelers", "Incheon United"],
+    "correct_answer": "Jeonbuk Hyundai Motors"
+  },
+  {
+    "id": 16,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/buriram.png",
+    "options": ["Buriram United", "BG Pathum United", "Muangthong United", "Chiangrai United"],
+    "correct_answer": "Buriram United"
+  },
+  {
+    "id": 17,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/shanghai_port.png",
+    "options": ["Shanghai Port FC", "Beijing Guoan", "Guangzhou FC", "Shandong Taishan"],
+    "correct_answer": "Shanghai Port FC"
+  },
+  {
+    "id": 18,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/persija.png",
+    "options": ["Persija Jakarta", "Arema FC", "Bali United", "PSM Makassar"],
+    "correct_answer": "Persija Jakarta"
+  },
+  {
+    "id": 19,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/mohun_bagan.png",
+    "options": ["Mohun Bagan Super Giant", "East Bengal", "Churchill Brothers", "Gokulam Kerala"],
+    "correct_answer": "Mohun Bagan Super Giant"
+  },
+  {
+    "id": 20,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/zamalek.png",
+    "options": ["Zamalek SC", "Al Ahly", "Ismaily SC", "Smouha SC"],
+    "correct_answer": "Zamalek SC"
+  },
+  {
+    "id": 21,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/esperance.png",
+    "options": ["Espérance de Tunis", "Club Africain", "Étoile du Sahel", "CS Sfaxien"],
+    "correct_answer": "Espérance de Tunis"
+  },
+  {
+    "id": 22,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/raja_casablanca.png",
+    "options": ["Raja Casablanca", "Wydad Casablanca", "FAR Rabat", "Maghreb Fez"],
+    "correct_answer": "Raja Casablanca"
+  },
+  {
+    "id": 23,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/js_kabylie.png",
+    "options": ["JS Kabylie", "MC Alger", "USM Alger", "ES Sétif"],
+    "correct_answer": "JS Kabylie"
+  },
+  {
+    "id": 24,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/enyimba.png",
+    "options": ["Enyimba FC", "Kano Pillars", "Enugu Rangers", "Plateau United"],
+    "correct_answer": "Enyimba FC"
+  },
+  {
+    "id": 25,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/asante_kotoko.png",
+    "options": ["Asante Kotoko", "Hearts of Oak", "Ashanti Gold SC", "Medeama SC"],
+    "correct_answer": "Asante Kotoko"
+  },
+  {
+    "id": 26,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/penarol.png",
+    "options": ["Peñarol", "Nacional", "Defensor Sporting", "Danubio"],
+    "correct_answer": "Peñarol"
+  },
+  {
+    "id": 27,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/colo_colo.png",
+    "options": ["Colo-Colo", "Universidad de Chile", "Audax Italiano", "Huachipato"],
+    "correct_answer": "Colo-Colo"
+  },
+  {
+    "id": 28,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/atletico_nacional.png",
+    "options": ["Atlético Nacional", "Independiente Medellín", "Deportes Tolima", "Once Caldas"],
+    "correct_answer": "Atlético Nacional"
+  },
+  {
+    "id": 29,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/pachuca.png",
+    "options": ["Pachuca CF", "Toluca", "Necaxa", "Club León"],
+    "correct_answer": "Pachuca CF"
+  },
+  {
+    "id": 30,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/saprissa.png",
+    "options": ["Deportivo Saprissa", "LD Alajuelense", "Cartaginés", "Santos de Guápiles"],
+    "correct_answer": "Deportivo Saprissa"
+  },
+  {
+    "id": 31,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/the_strongest.png",
+    "options": ["The Strongest", "Bolívar", "Oriente Petrolero", "Blooming"],
+    "correct_answer": "The Strongest"
+  },
+  {
+    "id": 32,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/olimpia.png",
+    "options": ["Club Olimpia", "Guaraní", "Cerro Porteño", "Libertad"],
+    "correct_answer": "Club Olimpia"
+  },
+  {
+    "id": 33,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/al_wahda.png",
+    "options": ["Al Wahda SC Damascus", "Al Shorta", "Tishreen SC", "Al Ittihad Aleppo"],
+    "correct_answer": "Al Wahda SC Damascus"
+  },
+  {
+    "id": 34,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/gor_mahia.png",
+    "options": ["Gor Mahia FC", "AFC Leopards", "Tusker FC", "Ulinzi Stars"],
+    "correct_answer": "Gor Mahia FC"
+  },
+  {
+    "id": 35,
+    "category": "guess_the_logo",
+    "level": 5,
+    "question": "Which team's logo is this?",
+    "image": "logos/asec_mimosas.png",
+    "options": ["ASEC Mimosas", "Africa Sports", "SOA d'Abidjan", "SC Gagnoa"],
+    "correct_answer": "ASEC Mimosas"
+  }
+]
+

@@ -1,0 +1,212 @@
+[
+    {
+      "id": 1,
+      "question": "Which nation pulled off a massive upset by winning Euro 2004?",
+      "options": ["Portugal", "Greece", "Czech Republic", "Denmark"],
+      "correct_answer": "Greece",
+      "difficulty": 3
+    },
+    {
+      "id": 2,
+      "question": "Who won the Ballon d'Or in 2003, beating Thierry Henry and Paolo Maldini?",
+      "options": ["Zinedine Zidane", "Pavel Nedvěd", "Ronaldo Nazário", "Andriy Shevchenko"],
+      "correct_answer": "Pavel Nedvěd",
+      "difficulty": 3
+    },
+    {
+      "id": 3,
+      "question": "How many UEFA Champions League titles had Barcelona won in their history by the end of 2015?",
+      "options": ["3", "4", "5", "6"],
+      "correct_answer": "5",
+      "difficulty": 3
+    },
+    {
+      "id": 4,
+      "question": "Which team did AC Milan defeat in the 2007 Champions League final to avenge their 2005 loss?",
+      "options": ["Liverpool", "Manchester United", "Arsenal", "Juventus"],
+      "correct_answer": "Liverpool",
+      "difficulty": 3
+    },
+    {
+      "id": 5,
+      "question": "Who was the top scorer (Golden Boot) of the 2002 FIFA World Cup?",
+      "options": ["Miroslav Klose", "Rivaldo", "Ronaldo Nazário", "Ronaldinho"],
+      "correct_answer": "Ronaldo Nazário",
+      "difficulty": 3
+    },
+    {
+      "id": 6,
+      "question": "In the 2006 World Cup Final, which Italian player was famously headbutted by Zinedine Zidane?",
+      "options": ["Fabio Cannavaro", "Marco Materazzi", "Gennaro Gattuso", "Gianluca Zambrotta"],
+      "correct_answer": "Marco Materazzi",
+      "difficulty": 3
+    },
+    {
+      "id": 7,
+      "question": "Which club won the 'Treble' (League, Cup, and Champions League) in the 1998-1999 season?",
+      "options": ["Bayern Munich", "Real Madrid", "Manchester United", "Juventus"],
+      "correct_answer": "Manchester United",
+      "difficulty": 3
+    },
+    {
+      "id": 8,
+      "question": "When did Cristiano Ronaldo win his first Ballon d'Or award?",
+      "options": ["2008", "2009", "2010", "2011"],
+      "correct_answer": "2008",
+      "difficulty": 3
+    },
+    {
+      "id": 9,
+      "question": "Which player won the Ballon d'Or in 2007, the last person to do so before the Messi-Ronaldo era began?",
+      "options": ["Kaká", "Ronaldinho", "Fernando Torres", "Xavi"],
+      "correct_answer": "Kaká",
+      "difficulty": 3
+    },
+    {
+      "id": 10,
+      "question": "Which team did France defeat in the final to win the 1998 FIFA World Cup?",
+      "options": ["Italy", "Germany", "Brazil", "Croatia"],
+      "correct_answer": "Brazil",
+      "difficulty": 3
+    },
+    {
+      "id": 11,
+      "question": "Who was the top scorer of the Premier League for three consecutive seasons between 2003 and 2006?",
+      "options": ["Ruud van Nistelrooy", "Thierry Henry", "Alan Shearer", "Wayne Rooney"],
+      "correct_answer": "Thierry Henry",
+      "difficulty": 3
+    },
+    {
+      "id": 12,
+      "question": "In 2004, which manager led FC Porto to a shock Champions League title?",
+      "options": ["Louis van Gaal", "José Mourinho", "Rafa Benítez", "Carlo Ancelotti"],
+      "correct_answer": "José Mourinho",
+      "difficulty": 3
+    },
+    {
+      "id": 13,
+      "question": "Which country hosted the first-ever World Cup held in Asia (2002)?",
+      "options": ["Japan & South Korea", "China", "Qatar", "Japan only"],
+      "correct_answer": "Japan & South Korea",
+      "difficulty": 3
+    },
+    {
+      "id": 14,
+      "question": "Which club did David Beckham join when he left Real Madrid in 2007?",
+      "options": ["AC Milan", "LA Galaxy", "Manchester United", "Paris Saint-Germain"],
+      "correct_answer": "LA Galaxy",
+      "difficulty": 3
+    },
+    {
+      "id": 15,
+      "question": "Who scored the 'Golden Goal' for France in the Euro 2000 final against Italy?",
+      "options": ["Zinedine Zidane", "David Trezeguet", "Thierry Henry", "Robert Pires"],
+      "correct_answer": "David Trezeguet",
+      "difficulty": 3
+    },
+    {
+      "id": 16,
+      "question": "Which German club lost the 2002 Champions League final to Real Madrid after a famous Zidane volley?",
+      "options": ["Bayern Munich", "Bayer Leverkusen", "Borussia Dortmund", "Hamburg SV"],
+      "correct_answer": "Bayer Leverkusen",
+      "difficulty": 3
+    },
+    {
+      "id": 17,
+      "question": "Who was the captain of the England national team during the 2002 and 2006 World Cups?",
+      "options": ["Steven Gerrard", "John Terry", "David Beckham", "Rio Ferdinand"],
+      "correct_answer": "David Beckham",
+      "difficulty": 3
+    },
+    {
+      "id": 18,
+      "question": "Which player won the FIFA World Player of the Year award in both 2004 and 2005?",
+      "options": ["Ronaldo Nazário", "Ronaldinho", "Zinedine Zidane", "Luis Figo"],
+      "correct_answer": "Ronaldinho",
+      "difficulty": 3
+    },
+    {
+      "id": 19,
+      "question": "In what year did Chelsea win their first-ever Premier League title?",
+      "options": ["2003-04", "2004-05", "2005-06", "2009-10"],
+      "correct_answer": "2004-05",
+      "difficulty": 3
+    },
+    {
+      "id": 20,
+      "question": "Which nation won the 1996 UEFA European Championship?",
+      "options": ["France", "Germany", "England", "Netherlands"],
+      "correct_answer": "Germany",
+      "difficulty": 3
+    },
+    {
+      "id": 21,
+      "question": "Who won the Champions League final in 2003, which was played between two Italian teams?",
+      "options": ["AC Milan", "Juventus", "Inter Milan", "Lazio"],
+      "correct_answer": "AC Milan",
+      "difficulty": 3
+    },
+    {
+      "id": 22,
+      "question": "Which striker was known as 'The flying Dutch-man'?",
+      "options": ["Robin Van Persie", "Robben", "Ruud Van Nistelroy", "Klaas Jan Huntelaar"],
+      "correct_answer": "Robin Van Persie",
+      "difficulty": 3
+    },
+    {
+      "id": 23,
+      "question": "Which team won the FA Cup in 2001, 2003, and 2005 during a dominant domestic period?",
+      "options": ["Manchester United", "Chelsea", "Arsenal", "Liverpool"],
+      "correct_answer": "Arsenal",
+      "difficulty": 3
+    },
+    {
+      "id": 24,
+      "question": "Who was the top scorer of the 1998 World Cup held in France?",
+      "options": ["Davor Šuker", "Gabriel Batistuta", "Ronaldo Nazário", "Thierry Henry"],
+      "correct_answer": "Davor Šuker",
+      "difficulty": 3
+    },
+    {
+      "id": 25,
+      "question": "Which club did Ronaldinho play for before joining Barcelona in 2003?",
+      "options": ["Gremio", "Paris Saint-Germain", "AC Milan", "Flamengo"],
+      "correct_answer": "Paris Saint-Germain",
+      "difficulty": 3
+    },
+    {
+      "id": 26,
+      "question": "Who scored the winning penalty for Italy in the 2006 World Cup final shootout?",
+      "options": ["Andrea Pirlo", "Fabio Grosso", "Alessandro Del Piero", "Francesco Totti"],
+      "correct_answer": "Fabio Grosso",
+      "difficulty": 3
+    },
+    {
+      "id": 27,
+      "question": "Which team won the UEFA Cup (now Europa League) back-to-back in 2006 and 2007?",
+      "options": ["Sevilla", "Porto", "Valencia", "Atletico Madrid"],
+      "correct_answer": "Sevilla",
+      "difficulty": 3
+    },
+    {
+      "id": 28,
+      "question": "Which player holds the record for most goals in a single Premier League season (34) before it was broken by Haaland?",
+      "options": ["Alan Shearer", "Thierry Henry", "Andy Cole", "Both Shearer and Cole"],
+      "correct_answer": "Both Shearer and Cole",
+      "difficulty": 3
+    },
+    {
+      "id": 29,
+      "question": "Who was the manager of the Brazil team that won the 2002 World Cup?",
+      "options": ["Luiz Felipe Scolari", "Carlos Alberto Parreira", "Mario Zagallo", "Dunga"],
+      "correct_answer": "Luiz Felipe Scolari",
+      "difficulty": 3
+    },
+    {
+      "id": 30,
+      "question": "In which stadium was the 'Miracle of Istanbul' (2005 UCL Final) played?",
+      "options": ["Atatürk Olympic Stadium", "Şükrü Saracoğlu Stadium", "Türk Telekom Arena", "Vodafone Park"],
+      "correct_answer": "Atatürk Olympic Stadium",
+      "difficulty": 3
+    }
+]

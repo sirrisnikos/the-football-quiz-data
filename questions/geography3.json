@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "In which city is the stadium 'De Kuip' located?",
+    "options": ["Amsterdam", "Rotterdam", "Eindhoven", "Utrecht"],
+    "correct_answer": "Rotterdam",
+    "difficulty": 3
+  },
+  {
+    "id": 2,
+    "question": "The club 'Ferencváros' comes from which country?",
+    "options": ["Hungary", "Romania", "Serbia", "Slovakia"],
+    "correct_answer": "Hungary",
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "question": "Which city is home to the 'Vodafone Park' stadium (home ground of Beşiktaş)?",
+    "options": ["Ankara", "Istanbul", "Izmir", "Antalya"],
+    "correct_answer": "Istanbul",
+    "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question": "Which club plays their home games at the 'Volkswagen Arena'?",
+    "options": ["Leipzig", "Bayer Leverkusen", "Hoffenheim", "Wolfsburg"],
+    "correct_answer": "Wolfsburg",
+    "difficulty": 3
+  },
+  {
+    "id": 5,
+    "question": "In the 2024/25 Premier League season, which was the most common foreign nationality among players?",
+    "options": ["French", "Brazilian", "Spanish", "Portuguese"],
+    "correct_answer": "Brazilian",
+    "difficulty": 3
+  },
+  {
+    "id": 6,
+    "question": "In the 2025-2026 La Liga season, which was the most common foreign nationality among players?",
+    "options": ["French", "Brazilian", "Portuguese", "Argentinian"],
+    "correct_answer": "Argentinian",
+    "difficulty": 3
+  },
+  {
+    "id": 7,
+    "question": "The 'Philips Stadion' is the home ground of which Dutch club?",
+    "options": ["Ajax", "Feyenoord", "PSV Eindhoven", "AZ Alkmaar"],
+    "correct_answer": "PSV Eindhoven",
+    "difficulty": 3
+  },
+  {
+    "id": 8,
+    "question": "The club 'Flamengo', one of the most supported teams in the world, is based in which city?",
+    "options": ["São Paulo", "Rio de Janeiro", "Belo Horizonte", "Porto Alegre"],
+    "correct_answer": "Rio de Janeiro",
+    "difficulty": 3
+  },
+  {
+    "id": 9,
+    "question": "How many different Dutch clubs have won the European Cup or Champions League?",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": "3",
+    "difficulty": 3
+  },
+  {
+    "id": 10,
+    "question": "Which city is the club 'PAOK' based in?",
+    "options": ["Athens", "Thessaloniki", "Patras", "Heraklion"],
+    "correct_answer": "Thessaloniki",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question": "The club 'Atalanta', winners of the 2024 Europa League, is based in which Italian city?",
+    "options": ["Verona", "Bergamo", "Bologna", "Parma"],
+    "correct_answer": "Bergamo",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question": "Which country hosted the 2004 Euro?",
+    "options": ["Ukraine", "Greece", "Portugal", "England"],
+    "correct_answer": "Portugal",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question": "In which city would you find the stadium 'La Mestalla'?",
+    "options": ["Seville", "Valencia", "Bilbao", "Barcelona"],
+    "correct_answer": "Valencia",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question": "Which country is the club 'Rijeka' from?",
+    "options": ["Croatia", "Slovakia", "Slovenia", "Serbia"],
+    "correct_answer": "Croatia",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question": "Which city is home to the club 'RCD Espanyol'?",
+    "options": ["Madrid", "Barcelona", "Seville", "Valencia"],
+    "correct_answer": "Barcelona",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question": "Which country is the home of the club 'Atletico Nacional'?",
+    "options": ["Spain", "Uruguay", "Argentina", "Colombia"],
+    "correct_answer": "Colombia",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question": "How many French clubs have won the UEFA Champions League (since 1992)?",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": "2",
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "question": "In the 2025-2026 Serie A season, which was the most common foreign nationality among players?",
+    "options": ["French", "Brazilian", "Argentinian", "Spanish"],
+    "correct_answer": "French",
+    "difficulty": 3
+  },
+  {
+    "id": 19,
+    "question": "In which city would you find the 'Ibrox Stadium'?",
+    "options": ["Edinburgh", "Glasgow", "Dundee", "Aberdeen"],
+    "correct_answer": "Glasgow",
+    "difficulty": 3
+  },
+  {
+    "id": 20,
+    "question": "Which nation has won the most AFC Asian Cups (Asia's continental championship)?",
+    "options": ["South Korea", "Japan", "Saudi Arabia", "Iran"],
+    "correct_answer": "Japan",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question": "Which country has won the Africa Cup of Nations 7 times, more than any other nation?",
+    "options": ["Nigeria", "Senegal", "Egypt", "Morocco"],
+    "correct_answer": "Egypt",
+    "difficulty": 3
+  },
+  {
+    "id": 22,
+    "question": "Which country's top league is known as the 'Jupiler Pro League'?",
+    "options": ["Finland", "Norway", "Belgium", "Switzerland"],
+    "correct_answer": "Belgium",
+    "difficulty": 3
+  },
+  {
+    "id": 23,
+    "question": "The 'San Mamés' stadium is the home ground of which club?",
+    "options": ["Real Sociedad", "Athletic Bilbao", "Osasuna", "Alavés"],
+    "correct_answer": "Athletic Bilbao",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "question": "In which country is the club 'Paderborn' based?",
+    "options": ["Germany", "Poland", "Czech Republic", "Austria"],
+    "correct_answer": "Germany",
+    "difficulty": 3
+  },
+  {
+    "id": 25,
+    "question": "Which country is the home of the club 'Aalborg'?",
+    "options": ["Netherlands", "Finland", "Switzerland", "Denmark"],
+    "correct_answer": "Denmark",
+    "difficulty": 3
+  },
+  {
+    "id": 26,
+    "question": "Which country does Tomas Soucek represent?",
+    "options": ["Czech Republic", "Slovakia", "Slovenia", "Serbia"],
+    "correct_answer": "Czech Republic",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question": "Which country does Pierre-Emerick Aubameyang represent?",
+    "options": ["Gabon", "Ghana", "Nigeria", "Guatemala"],
+    "correct_answer": "Gabon",
+    "difficulty": 3
+  },
+  {
+    "id": 28,
+    "question": "The 'Georgios Karaiskakis' stadium is located in which city?",
+    "options": ["Piraeus", "Athens", "Thessaloniki", "Patras"],
+    "correct_answer": "Piraeus",
+    "difficulty": 3
+  },
+  {
+    "id": 29,
+    "question": "Which country is the home of the historic club 'Peñarol'?",
+    "options": ["Argentina", "Chile", "Uruguay", "Colombia"],
+    "correct_answer": "Uruguay",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question": "The 'Stade Vélodrome' is the home of which French club?",
+    "options": ["PSG", "Lyon", "Marseille", "Lille"],
+    "correct_answer": "Marseille",
+    "difficulty": 3
+  }
+]

@@ -1,0 +1,212 @@
+[
+    {
+      "id": 1,
+      "question": "Which player scored both of Manchester United's injury-time goals in the 1999 Champions League final?",
+      "options": ["Sheringham & Solskjær", "Yorke & Cole", "Solskjær & Giggs", "Sheringham & Beckham"],
+      "correct_answer": "Sheringham & Solskjær",
+      "difficulty": 4
+    },
+    {
+      "id": 2,
+      "question": "Which club won the European Cup (UCL) in 1987, defeating Bayern Munich in the final?",
+      "options": ["FC Porto", "Steaua București", "PSV Eindhoven", "Benfica"],
+      "correct_answer": "FC Porto",
+      "difficulty": 4
+    },
+    {
+      "id": 3,
+      "question": "Who was the losing finalist against Brazil in the 1994 FIFA World Cup?",
+      "options": ["Germany", "Italy", "The Netherlands", "Sweden"],
+      "correct_answer": "Italy",
+      "difficulty": 4
+    },
+    {
+      "id": 4,
+      "question": "Who won the Ballon d'Or in 1995, the first year the award was opened to non-European players?",
+      "options": ["Ronaldo Nazário", "George Weah", "Romário", "Jürgen Klinsmann"],
+      "correct_answer": "George Weah",
+      "difficulty": 4
+    },
+    {
+      "id": 5,
+      "question": "Which team did Denmark replace in Euro 1992 before going on to win the entire tournament?",
+      "options": ["Soviet Union", "Yugoslavia", "Czechoslovakia", "East Germany"],
+      "correct_answer": "Yugoslavia",
+      "difficulty": 4
+    },
+    {
+      "id": 6,
+      "question": "Who was the manager of the Netherlands team that reached the 2010 World Cup Final?",
+      "options": ["Louis van Gaal", "Bert van Marwijk", "Dick Advocaat", "Marco van Basten"],
+      "correct_answer": "Bert van Marwijk",
+      "difficulty": 4
+    },
+    {
+      "id": 7,
+      "question": "In the 1986 'Hand of God' match, who scored England's only goal in their 2-1 loss to Argentina?",
+      "options": ["Bryan Robson", "Gary Lineker", "Peter Beardsley", "Glenn Hoddle"],
+      "correct_answer": "Gary Lineker",
+      "difficulty": 4
+    },
+    {
+      "id": 8,
+      "question": "When did Barcelona win their first European Cup?",
+      "options": ["1992", "1994", "1989", "1990"],
+      "correct_answer": "1992",
+      "difficulty": 4
+    },
+    {
+      "id": 9,
+      "question": "Who was the top scorer of the 1990 World Cup in Italy?",
+      "options": ["Salvatore Schillaci", "Lothar Matthäus", "Diego Maradona", "Tomas Skuhravy"],
+      "correct_answer": "Salvatore Schillaci",
+      "difficulty": 4
+    },
+    {
+      "id": 10,
+      "question": "Which club won three consecutive European Cups between 1974 and 1976?",
+      "options": ["Ajax", "Bayern Munich", "Liverpool", "Real Madrid"],
+      "correct_answer": "Bayern Munich",
+      "difficulty": 4
+    },
+    {
+      "id": 11,
+      "question": "Marco van Basten won three Ballon d'Or awards. In which year did he win his first?",
+      "options": ["1987", "1988", "1989", "1992"],
+      "correct_answer": "1988",
+      "difficulty": 4
+    },
+    {
+      "id": 12,
+      "question": "Which stadium hosted the final of the 1998 FIFA World Cup?",
+      "options": ["Parc des Princes", "Stade de France", "Stade Vélodrome", "Stade de Gerland"],
+      "correct_answer": "Stade de France",
+      "difficulty": 4
+    },
+    {
+      "id": 13,
+      "question": "Who did West Germany defeat in the final to win the 1990 World Cup?",
+      "options": ["Argentina", "England", "Italy", "Yugoslavia"],
+      "correct_answer": "Argentina",
+      "difficulty": 4
+    },
+    {
+      "id": 14,
+      "question": "Which English club was banned from European competition for the longest period following the Heysel Disaster?",
+      "options": ["Everton", "Liverpool", "Manchester United", "Arsenal"],
+      "correct_answer": "Liverpool",
+      "difficulty": 4
+    },
+    {
+      "id": 15,
+      "question": "Who was the only goalscorer of the 2004 UEFA Euro final between Greece and Portugal?",
+      "options": ["Luis Figo", "Georgios Karagounis", "Angelos Charisteas", "Cristiano Ronaldo"],
+      "correct_answer": "Angelos Charisteas",
+      "difficulty": 4
+    },
+    {
+      "id": 16,
+      "question": "Which Italian side won the 1993 UEFA Cup, defeating Borussia Dortmund in the final?",
+      "options": ["AC Milan", "Juventus", "Inter Milan", "Parma"],
+      "correct_answer": "Juventus",
+      "difficulty": 4
+    },
+    {
+      "id": 17,
+      "question": "Who was the captain of the 'Dream Team' Barcelona that won the 1992 European Cup?",
+      "options": ["Pep Guardiola", "José Mari Bakero", "Andoni Zubizarreta", "Ronald Koeman"],
+      "correct_answer": "Andoni Zubizarreta",
+      "difficulty": 4
+    },
+    {
+      "id": 18,
+      "question": "In 1994, which player missed the final penalty for Italy in the World Cup shootout?",
+      "options": ["Franco Baresi", "Roberto Baggio", "Daniele Massaro", "Paolo Maldini"],
+      "correct_answer": "Roberto Baggio",
+      "difficulty": 4
+    },
+    {
+      "id": 19,
+      "question": "Which player holds the record for the most goals scored in a single World Cup tournament (13)?",
+      "options": ["Just Fontaine", "Gerd Müller", "Pelé", "Eusébio"],
+      "correct_answer": "Just Fontaine",
+      "difficulty": 4
+    },
+    {
+      "id": 20,
+      "question": "Which team won the first-ever UEFA European Championship in 1960?",
+      "options": ["Yugoslavia", "Soviet Union", "Spain", "France"],
+      "correct_answer": "Soviet Union",
+      "difficulty": 4
+    },
+    {
+      "id": 21,
+      "question": "Who was the manager of the England team during the 'Gazza's tears' 1990 World Cup?",
+      "options": ["Bobby Robson", "Graham Taylor", "Terry Venables", "Glenn Hoddle"],
+      "correct_answer": "Bobby Robson",
+      "difficulty": 4
+    },
+    {
+      "id": 22,
+      "question": "Which year did Xavi retire from professional football?",
+      "options": ["2018", "2019", "2017", "2020"],
+      "correct_answer": "2019",
+      "difficulty": 4
+    },
+    {
+      "id": 23,
+      "question": "Which club won the 1982 European Cup (last before the rebrand to UEFA Champions League)?",
+      "options": ["Bayern Munich", "Aston Villa", "Juventus", "FCSB"],
+      "correct_answer": "Aston Villa",
+      "difficulty": 4
+    },
+    {
+      "id": 24,
+      "question": "Who won the Golden Ball (Best Player) at the 1998 FIFA World Cup?",
+      "options": ["Zinedine Zidane", "Ronaldo Nazário", "Davor Šuker", "Lilian Thuram"],
+      "correct_answer": "Ronaldo Nazário",
+      "difficulty": 4
+    },
+    {
+      "id": 25,
+      "question": "Which year did Xabi Alonso retire from professional football?",
+      "options": ["2018", "2019", "2017", "2020"],
+      "correct_answer": "2017",
+      "difficulty": 4
+    },
+    {
+      "id": 26,
+      "question": "How many times did Pelé win the FIFA World Cup as a player?",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": "3",
+      "difficulty": 4
+    },
+    {
+      "id": 27,
+      "question": "Which Balkan country finished 3rd in their debut World Cup appearance in 1998?",
+      "options": ["Serbia", "Croatia", "Slovenia", "Bulgaria"],
+      "correct_answer": "Croatia",
+      "difficulty": 4
+    },
+    {
+      "id": 28,
+      "question": "Who was the first British player to win the European Cup with a non-British club?",
+      "options": ["Steve McManaman", "Paul Lambert", "Laurie Cunningham", "Owen Hargreaves"],
+      "correct_answer": "Paul Lambert",
+      "difficulty": 4
+    },
+    {
+      "id": 29,
+      "question": "Which team lost to Manchester United in the 1991 European Cup Winners' Cup final?",
+      "options": ["Barcelona", "Real Madrid", "Juventus", "Bayern Munich"],
+      "correct_answer": "Barcelona",
+      "difficulty": 4
+    },
+    {
+      "id": 30,
+      "question": "Which club won the 2025 UEFA Women's Champions League?",
+      "options": ["Arsenal", "Barcelona", "Chelsea", "Paris Saint-Germain"],
+      "correct_answer": "Arsenal",
+      "difficulty": 4
+    }
+]
