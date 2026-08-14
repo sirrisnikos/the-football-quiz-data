@@ -7190,7 +7190,6 @@
       "Q1543"
     ]
   },
-  
   {
     "qid": "Q2848785",
     "name": "André Vilas Boas",
@@ -60003,7 +60002,6 @@
       "Q9617"
     ]
   },
-  
   {
     "qid": "Q16627042",
     "name": "Joris Johannes Blankert",
@@ -66822,7 +66820,6 @@
       "Q18741"
     ]
   },
- 
   {
     "qid": "Q21621995",
     "name": "Kylian Mbappé",
@@ -71705,7 +71702,6 @@
       "Q1130849"
     ]
   },
- 
   {
     "qid": "Q2399765",
     "name": "Luis Tevenet",
@@ -94239,7 +94235,6 @@
       "Q128446"
     ]
   },
-  
   {
     "qid": "Q503365",
     "name": "Ricardo Rocha",
@@ -104899,7 +104894,6 @@
       "Q128446"
     ]
   },
-  
   {
     "qid": "Q2522957",
     "name": "Sígfrid Gràcia",
@@ -106850,44 +106844,32 @@
   {
     "qid": "Q84086",
     "name": "Aleksandar Mitrović",
-    "clubs": [
-      
-    ]
+    "clubs": []
   },
   {
     "qid": "Q137128",
     "name": "Wissam Ben Yedder",
-    "clubs": [
-      
-    ]
+    "clubs": []
   },
   {
     "qid": "Q15943423",
     "name": "Joachim Andersen",
-    "clubs": [
-      
-    ]
+    "clubs": []
   },
   {
     "qid": "Q14778629",
     "name": "Nabil Fekir",
-    "clubs": [
-      
-    ]
+    "clubs": []
   },
   {
     "qid": "Q15673000",
     "name": "Sergej Milinković-Savić",
-    "clubs": [
-      
-    ]
+    "clubs": []
   },
-   {
+  {
     "qid": "Q26262219",
     "name": "Youssef En-Nesyri",
-    "clubs": [
-      
-    ]
+    "clubs": []
   },
   {
     "qid": "Q7816125",
@@ -115318,5 +115300,90 @@
     "clubs": [
       "Q1130849"
     ]
+  },
+  {
+    "qid": "QLOCAL0001",
+    "name": "Alexis Mac Allister",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0002",
+    "name": "Manuel Lanzini",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0003",
+    "name": "Leonardo Ulloa",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0004",
+    "name": "Luis Eduardo",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0005",
+    "name": "Charles",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0006",
+    "name": "João Moutinho",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0007",
+    "name": "Hans Hateboer",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0008",
+    "name": "Bram Nuytinck",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0009",
+    "name": "Denzel Dumfries",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0010",
+    "name": "Florian Thauvin",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0011",
+    "name": "Dimitri Payet",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0012",
+    "name": "Gaëtan Laborde",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0013",
+    "name": "Andy Delort",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0014",
+    "name": "Andrej Kramarić",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0015",
+    "name": "Ermedin Demirović",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0016",
+    "name": "Vincenzo Grifo",
+    "clubs": []
+  },
+  {
+    "qid": "QLOCAL0017",
+    "name": "Jonathan Burkardt",
+    "clubs": []
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "players.json": "3",
+  "players.json": "4",
   "clubs.json": "1",
-  "clubs_guess.json": "2",
+  "clubs_guess.json": "3",
   "questions/geography1.json": "1",
   "questions/geography2.json": "1",
   "questions/geography3.json": "1",

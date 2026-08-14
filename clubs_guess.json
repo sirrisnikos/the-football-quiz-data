@@ -18,7 +18,6 @@
   "Q131499": "Benfica",
   "Q15789": "Bayern Munich",
   "Q41420": "Borussia Dortmund",
-
   "Q18711": "Aston Villa",
   "Q18716": "Newcastle United",
   "Q5794": "Everton",
@@ -61,7 +60,6 @@
   "Q55570": "Millwall",
   "Q56196": "Rotherham United",
   "Q18728": "Blackpool",
-
   "Q201993": "Sevilla",
   "Q201994": "Valencia",
   "Q202183": "Real Betis",
@@ -85,7 +83,6 @@
   "Q202314": "Real Zaragoza",
   "Q202315": "Real Oviedo",
   "Q202316": "Sporting Gijon",
-
   "Q2643": "Lazio",
   "Q2645": "Fiorentina",
   "Q2647": "Atalanta",
@@ -111,7 +108,6 @@
   "Q2685": "Pisa",
   "Q2687": "Como",
   "Q2689": "Spezia",
-
   "Q168246": "Olympique Lyonnais",
   "Q168247": "Olympique de Marseille",
   "Q168248": "AS Monaco",
@@ -136,7 +132,6 @@
   "Q168266": "Nimes",
   "Q168267": "Ajaccio",
   "Q168268": "Valenciennes",
-
   "Q18020": "Ajax",
   "Q83367": "PSV Eindhoven",
   "Q132541": "Feyenoord",
@@ -149,7 +144,6 @@
   "Q56272": "Sparta Rotterdam",
   "Q56273": "NEC Nijmegen",
   "Q56274": "Go Ahead Eagles",
-
   "Q43419": "Bayer Leverkusen",
   "Q81198": "RB Leipzig",
   "Q82641": "Schalke 04",
@@ -172,7 +166,6 @@
   "Q56289": "Heidenheim",
   "Q56290": "Bochum",
   "Q56291": "Kaiserslautern",
-
   "Q131500": "Sporting CP",
   "Q131501": "Braga",
   "Q131502": "Vitoria Guimaraes",
@@ -181,7 +174,6 @@
   "Q131505": "Rio Ave",
   "Q131506": "Estoril",
   "Q131507": "Marítimo",
-
   "Q222278": "Galatasaray",
   "Q222279": "Fenerbahce",
   "Q222280": "Besiktas",
@@ -191,7 +183,6 @@
   "Q222284": "Sivasspor",
   "Q222285": "Kayserispor",
   "Q222286": "Konyaspor",
-
   "Q182497": "Celtic",
   "Q182498": "Rangers",
   "Q182499": "Heart of Midlothian",
@@ -199,39 +190,32 @@
   "Q182501": "Aberdeen",
   "Q182502": "Dundee United",
   "Q182503": "Motherwell",
-
   "Q45019": "Anderlecht",
   "Q45020": "Club Brugge",
   "Q45021": "Standard Liege",
   "Q45022": "KAA Gent",
   "Q45023": "Genk",
   "Q45024": "Royal Antwerp",
-
   "Q205764": "Red Star Belgrade",
   "Q205765": "Partizan",
   "Q205766": "Dinamo Zagreb",
   "Q205767": "Hajduk Split",
-
   "Q205768": "Shakhtar Donetsk",
   "Q205769": "Dynamo Kyiv",
-
   "Q205770": "Olympiacos",
   "Q205771": "Panathinaikos",
   "Q205772": "PAOK",
   "Q205773": "AEK Athens",
   "Q205809": "Aris Thessaloniki",
-
   "Q205774": "Rapid Vienna",
   "Q205775": "Red Bull Salzburg",
   "Q205776": "Austria Vienna",
   "Q205777": "Sturm Graz",
   "Q205778": "LASK",
-
   "Q205779": "Young Boys",
   "Q205780": "Basel",
   "Q205781": "FC Zurich",
   "Q205782": "Grasshopper Club",
-
   "Q205783": "Rosenborg",
   "Q205784": "Brondby",
   "Q205785": "FC Copenhagen",
@@ -239,15 +223,12 @@
   "Q205787": "AIK",
   "Q205788": "IFK Gothenburg",
   "Q205789": "Hammarby",
-
   "Q205790": "Legia Warsaw",
   "Q205791": "Lech Poznan",
   "Q205792": "Wisla Krakow",
-
   "Q205793": "Slavia Prague",
   "Q205794": "Sparta Prague",
   "Q205795": "Viktoria Plzen",
-
   "Q205796": "Ferencvaros",
   "Q205797": "Sheriff Tiraspol",
   "Q205798": "Maccabi Tel Aviv",
@@ -260,7 +241,6 @@
   "Q205805": "CSKA Moscow",
   "Q205806": "Spartak Moscow",
   "Q205807": "Lokomotiv Moscow",
-
   "Q207521": "Flamengo",
   "Q207522": "Fluminense",
   "Q207523": "Vasco da Gama",
@@ -307,7 +287,6 @@
   "Q207564": "Leon",
   "Q207565": "Club Necaxa",
   "Q207566": "Talleres",
-
   "Q174769": "LA Galaxy",
   "Q174770": "Inter Miami",
   "Q174771": "Seattle Sounders",
@@ -336,7 +315,6 @@
   "Q174794": "LAFC",
   "Q174795": "Charlotte FC",
   "Q174796": "St Louis City SC",
-
   "Q207601": "Al-Hilal",
   "Q207602": "Al-Nassr",
   "Q207603": "Al-Ittihad",
@@ -361,5 +339,6 @@
   "Q207622": "Western Sydney Wanderers",
   "Q207623": "Perth Glory",
   "Q207624": "Wellington Phoenix",
-  "Q604589": "Olimpia"
+  "Q604589": "Olimpia",
+  "QLOCAL0001": "Reggiana"
 }
