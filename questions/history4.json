@@ -1,212 +1,1166 @@
 [
-    {
-      "id": 1,
-      "question": "Which player scored both of Manchester United's injury-time goals in the 1999 Champions League final?",
-      "options": ["Sheringham & Solskjær", "Yorke & Cole", "Solskjær & Giggs", "Sheringham & Beckham"],
-      "correct_answer": "Sheringham & Solskjær",
-      "difficulty": 4
-    },
-    {
-      "id": 2,
-      "question": "Which club won the European Cup (UCL) in 1987, defeating Bayern Munich in the final?",
-      "options": ["FC Porto", "Steaua București", "PSV Eindhoven", "Benfica"],
-      "correct_answer": "FC Porto",
-      "difficulty": 4
-    },
-    {
-      "id": 3,
-      "question": "Who was the losing finalist against Brazil in the 1994 FIFA World Cup?",
-      "options": ["Germany", "Italy", "The Netherlands", "Sweden"],
-      "correct_answer": "Italy",
-      "difficulty": 4
-    },
-    {
-      "id": 4,
-      "question": "Who won the Ballon d'Or in 1995, the first year the award was opened to non-European players?",
-      "options": ["Ronaldo Nazário", "George Weah", "Romário", "Jürgen Klinsmann"],
-      "correct_answer": "George Weah",
-      "difficulty": 4
-    },
-    {
-      "id": 5,
-      "question": "Which team did Denmark replace in Euro 1992 before going on to win the entire tournament?",
-      "options": ["Soviet Union", "Yugoslavia", "Czechoslovakia", "East Germany"],
-      "correct_answer": "Yugoslavia",
-      "difficulty": 4
-    },
-    {
-      "id": 6,
-      "question": "Who was the manager of the Netherlands team that reached the 2010 World Cup Final?",
-      "options": ["Louis van Gaal", "Bert van Marwijk", "Dick Advocaat", "Marco van Basten"],
-      "correct_answer": "Bert van Marwijk",
-      "difficulty": 4
-    },
-    {
-      "id": 7,
-      "question": "In the 1986 'Hand of God' match, who scored England's only goal in their 2-1 loss to Argentina?",
-      "options": ["Bryan Robson", "Gary Lineker", "Peter Beardsley", "Glenn Hoddle"],
-      "correct_answer": "Gary Lineker",
-      "difficulty": 4
-    },
-    {
-      "id": 8,
-      "question": "When did Barcelona win their first European Cup?",
-      "options": ["1992", "1994", "1989", "1990"],
-      "correct_answer": "1992",
-      "difficulty": 4
-    },
-    {
-      "id": 9,
-      "question": "Who was the top scorer of the 1990 World Cup in Italy?",
-      "options": ["Salvatore Schillaci", "Lothar Matthäus", "Diego Maradona", "Tomas Skuhravy"],
-      "correct_answer": "Salvatore Schillaci",
-      "difficulty": 4
-    },
-    {
-      "id": 10,
-      "question": "Which club won three consecutive European Cups between 1974 and 1976?",
-      "options": ["Ajax", "Bayern Munich", "Liverpool", "Real Madrid"],
-      "correct_answer": "Bayern Munich",
-      "difficulty": 4
-    },
-    {
-      "id": 11,
-      "question": "Marco van Basten won three Ballon d'Or awards. In which year did he win his first?",
-      "options": ["1987", "1988", "1989", "1992"],
-      "correct_answer": "1988",
-      "difficulty": 4
-    },
-    {
-      "id": 12,
-      "question": "Which stadium hosted the final of the 1998 FIFA World Cup?",
-      "options": ["Parc des Princes", "Stade de France", "Stade Vélodrome", "Stade de Gerland"],
-      "correct_answer": "Stade de France",
-      "difficulty": 4
-    },
-    {
-      "id": 13,
-      "question": "Who did West Germany defeat in the final to win the 1990 World Cup?",
-      "options": ["Argentina", "England", "Italy", "Yugoslavia"],
-      "correct_answer": "Argentina",
-      "difficulty": 4
-    },
-    {
-      "id": 14,
-      "question": "Which English club was banned from European competition for the longest period following the Heysel Disaster?",
-      "options": ["Everton", "Liverpool", "Manchester United", "Arsenal"],
-      "correct_answer": "Liverpool",
-      "difficulty": 4
-    },
-    {
-      "id": 15,
-      "question": "Who was the only goalscorer of the 2004 UEFA Euro final between Greece and Portugal?",
-      "options": ["Luis Figo", "Georgios Karagounis", "Angelos Charisteas", "Cristiano Ronaldo"],
-      "correct_answer": "Angelos Charisteas",
-      "difficulty": 4
-    },
-    {
-      "id": 16,
-      "question": "Which Italian side won the 1993 UEFA Cup, defeating Borussia Dortmund in the final?",
-      "options": ["AC Milan", "Juventus", "Inter Milan", "Parma"],
-      "correct_answer": "Juventus",
-      "difficulty": 4
-    },
-    {
-      "id": 17,
-      "question": "Who was the captain of the 'Dream Team' Barcelona that won the 1992 European Cup?",
-      "options": ["Pep Guardiola", "José Mari Bakero", "Andoni Zubizarreta", "Ronald Koeman"],
-      "correct_answer": "Andoni Zubizarreta",
-      "difficulty": 4
-    },
-    {
-      "id": 18,
-      "question": "In 1994, which player missed the final penalty for Italy in the World Cup shootout?",
-      "options": ["Franco Baresi", "Roberto Baggio", "Daniele Massaro", "Paolo Maldini"],
-      "correct_answer": "Roberto Baggio",
-      "difficulty": 4
-    },
-    {
-      "id": 19,
-      "question": "Which player holds the record for the most goals scored in a single World Cup tournament (13)?",
-      "options": ["Just Fontaine", "Gerd Müller", "Pelé", "Eusébio"],
-      "correct_answer": "Just Fontaine",
-      "difficulty": 4
-    },
-    {
-      "id": 20,
-      "question": "Which team won the first-ever UEFA European Championship in 1960?",
-      "options": ["Yugoslavia", "Soviet Union", "Spain", "France"],
-      "correct_answer": "Soviet Union",
-      "difficulty": 4
-    },
-    {
-      "id": 21,
-      "question": "Who was the manager of the England team during the 'Gazza's tears' 1990 World Cup?",
-      "options": ["Bobby Robson", "Graham Taylor", "Terry Venables", "Glenn Hoddle"],
-      "correct_answer": "Bobby Robson",
-      "difficulty": 4
-    },
-    {
-      "id": 22,
-      "question": "Which year did Xavi retire from professional football?",
-      "options": ["2018", "2019", "2017", "2020"],
-      "correct_answer": "2019",
-      "difficulty": 4
-    },
-    {
-      "id": 23,
-      "question": "Which club won the 1982 European Cup (last before the rebrand to UEFA Champions League)?",
-      "options": ["Bayern Munich", "Aston Villa", "Juventus", "FCSB"],
-      "correct_answer": "Aston Villa",
-      "difficulty": 4
-    },
-    {
-      "id": 24,
-      "question": "Who won the Golden Ball (Best Player) at the 1998 FIFA World Cup?",
-      "options": ["Zinedine Zidane", "Ronaldo Nazário", "Davor Šuker", "Lilian Thuram"],
-      "correct_answer": "Ronaldo Nazário",
-      "difficulty": 4
-    },
-    {
-      "id": 25,
-      "question": "Which year did Xabi Alonso retire from professional football?",
-      "options": ["2018", "2019", "2017", "2020"],
-      "correct_answer": "2017",
-      "difficulty": 4
-    },
-    {
-      "id": 26,
-      "question": "How many times did Pelé win the FIFA World Cup as a player?",
-      "options": ["1", "2", "3", "4"],
-      "correct_answer": "3",
-      "difficulty": 4
-    },
-    {
-      "id": 27,
-      "question": "Which Balkan country finished 3rd in their debut World Cup appearance in 1998?",
-      "options": ["Serbia", "Croatia", "Slovenia", "Bulgaria"],
-      "correct_answer": "Croatia",
-      "difficulty": 4
-    },
-    {
-      "id": 28,
-      "question": "Who was the first British player to win the European Cup with a non-British club?",
-      "options": ["Steve McManaman", "Paul Lambert", "Laurie Cunningham", "Owen Hargreaves"],
-      "correct_answer": "Paul Lambert",
-      "difficulty": 4
-    },
-    {
-      "id": 29,
-      "question": "Which team lost to Manchester United in the 1991 European Cup Winners' Cup final?",
-      "options": ["Barcelona", "Real Madrid", "Juventus", "Bayern Munich"],
-      "correct_answer": "Barcelona",
-      "difficulty": 4
-    },
-    {
-      "id": 30,
-      "question": "Which club won the 2025 UEFA Women's Champions League?",
-      "options": ["Arsenal", "Barcelona", "Chelsea", "Paris Saint-Germain"],
-      "correct_answer": "Arsenal",
-      "difficulty": 4
-    }
+  {
+    "id": 1,
+    "question": "Which player scored both of Manchester United's injury-time goals in the 1999 Champions League final?",
+    "options": [
+      "Sheringham & Solskjær",
+      "Yorke & Cole",
+      "Solskjær & Giggs",
+      "Sheringham & Beckham"
+    ],
+    "correct_answer": "Sheringham & Solskjær",
+    "difficulty": 4
+  },
+  {
+    "id": 3,
+    "question": "Who was the losing finalist against Brazil in the 1994 FIFA World Cup?",
+    "options": [
+      "Germany",
+      "Italy",
+      "Netherlands",
+      "Sweden"
+    ],
+    "correct_answer": "Italy",
+    "difficulty": 4
+  },
+  {
+    "id": 4,
+    "question": "Who won the Ballon d'Or in 1995, the first year the award was opened to non-European players?",
+    "options": [
+      "Ronaldo Nazário",
+      "George Weah",
+      "Romário",
+      "Jürgen Klinsmann"
+    ],
+    "correct_answer": "George Weah",
+    "difficulty": 4
+  },
+  {
+    "id": 8,
+    "question": "When did Barcelona win their first European Cup?",
+    "options": [
+      "1992",
+      "1994",
+      "1989",
+      "1990"
+    ],
+    "correct_answer": "1992",
+    "difficulty": 4
+  },
+  {
+    "id": 11,
+    "question": "Marco van Basten won three Ballon d'Or awards. In which year did he win his first?",
+    "options": [
+      "1987",
+      "1988",
+      "1989",
+      "1992"
+    ],
+    "correct_answer": "1988",
+    "difficulty": 4
+  },
+  {
+    "id": 12,
+    "question": "Which stadium hosted the final of the 1998 FIFA World Cup?",
+    "options": [
+      "Parc des Princes",
+      "Stade de France",
+      "Stade Vélodrome",
+      "Stade de Gerland"
+    ],
+    "correct_answer": "Stade de France",
+    "difficulty": 4
+  },
+  {
+    "id": 13,
+    "question": "Who did West Germany defeat in the final to win the 1990 World Cup?",
+    "options": [
+      "Argentina",
+      "England",
+      "Italy",
+      "Yugoslavia"
+    ],
+    "correct_answer": "Argentina",
+    "difficulty": 4
+  },
+  {
+    "id": 14,
+    "question": "Which English club was banned from European competition for the longest period following the Heysel Disaster?",
+    "options": [
+      "Everton",
+      "Liverpool",
+      "Manchester United",
+      "Arsenal"
+    ],
+    "correct_answer": "Liverpool",
+    "difficulty": 4
+  },
+  {
+    "id": 15,
+    "question": "Who was the only goalscorer of the 2004 UEFA Euro final between Greece and Portugal?",
+    "options": [
+      "Luis Figo",
+      "Georgios Karagounis",
+      "Angelos Charisteas",
+      "Cristiano Ronaldo"
+    ],
+    "correct_answer": "Angelos Charisteas",
+    "difficulty": 4
+  },
+  {
+    "id": 17,
+    "question": "Who was the captain of the 'Dream Team' Barcelona that won the 1992 European Cup?",
+    "options": [
+      "Pep Guardiola",
+      "José Mari Bakero",
+      "Andoni Zubizarreta",
+      "Ronald Koeman"
+    ],
+    "correct_answer": "Andoni Zubizarreta",
+    "difficulty": 4
+  },
+  {
+    "id": 18,
+    "question": "In 1994, which player missed the final penalty for Italy in the World Cup shootout?",
+    "options": [
+      "Franco Baresi",
+      "Roberto Baggio",
+      "Daniele Massaro",
+      "Paolo Maldini"
+    ],
+    "correct_answer": "Roberto Baggio",
+    "difficulty": 4
+  },
+  {
+    "id": 19,
+    "question": "Which player holds the record for the most goals scored in a single World Cup tournament (13)?",
+    "options": [
+      "Just Fontaine",
+      "Gerd Müller",
+      "Pelé",
+      "Eusébio"
+    ],
+    "correct_answer": "Just Fontaine",
+    "difficulty": 4
+  },
+  {
+    "id": 20,
+    "question": "Which team won the first-ever UEFA European Championship in 1960?",
+    "options": [
+      "Yugoslavia",
+      "Soviet Union",
+      "Spain",
+      "France"
+    ],
+    "correct_answer": "Soviet Union",
+    "difficulty": 4
+  },
+  {
+    "id": 24,
+    "question": "Who won the Golden Ball (Best Player) at the 1998 FIFA World Cup?",
+    "options": [
+      "Zinedine Zidane",
+      "Ronaldo Nazário",
+      "Davor Šuker",
+      "Lilian Thuram"
+    ],
+    "correct_answer": "Ronaldo Nazário",
+    "difficulty": 4
+  },
+  {
+    "id": 26,
+    "question": "How many times did Pelé win the FIFA World Cup as a player?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "3",
+    "difficulty": 4
+  },
+  {
+    "id": 27,
+    "question": "Which Balkan country finished 3rd in their debut World Cup appearance in 1998?",
+    "options": [
+      "Serbia",
+      "Croatia",
+      "Slovenia",
+      "Bulgaria"
+    ],
+    "correct_answer": "Croatia",
+    "difficulty": 4
+  },
+  {
+    "id": 30,
+    "question": "Which club won the 2025 UEFA Women's Champions League?",
+    "options": [
+      "Arsenal",
+      "Barcelona",
+      "Chelsea",
+      "Paris Saint-Germain"
+    ],
+    "correct_answer": "Arsenal",
+    "difficulty": 4
+  },
+  {
+    "id": 31,
+    "question": "Who scored the 'Golden Goal' for France in the Euro 2000 final against Italy?",
+    "options": [
+      "Zinedine Zidane",
+      "David Trezeguet",
+      "Thierry Henry",
+      "Robert Pires"
+    ],
+    "correct_answer": "David Trezeguet",
+    "difficulty": 4
+  },
+  {
+    "id": 32,
+    "question": "Who scored the fastest goal in UEFA Champions League history?",
+    "options": [
+      "Roy Makaay",
+      "Alessandro Del Piero",
+      "Jonas",
+      "Clarence Seedorf"
+    ],
+    "correct_answer": "Roy Makaay",
+    "difficulty": 4
+  },
+  {
+    "id": 33,
+    "question": "Which of the following managers is not a former Barcelona player but has managed Barcelona?",
+    "options": [
+      "Pep Guardiola",
+      "Luis Enrique",
+      "Frank Rijkaard",
+      "Ronald Koeman"
+    ],
+    "correct_answer": "Frank Rijkaard",
+    "difficulty": 4
+  },
+  {
+    "id": 34,
+    "question": "Which of the following Greek players has made the most appearances for AS Roma?",
+    "options": [
+      "Kostas Manolas",
+      "Vasilis Torosidis",
+      "Traianos Dellas",
+      "Kostas Tsimikas"
+    ],
+    "correct_answer": "Kostas Manolas",
+    "difficulty": 4
+  },
+  {
+    "id": 35,
+    "question": "Who was the top scorer at the 2002 FIFA World Cup?",
+    "options": [
+      "Ronaldo",
+      "Miroslav Klose",
+      "Rivaldo",
+      "David Trezeguet"
+    ],
+    "correct_answer": "Ronaldo",
+    "difficulty": 4
+  },
+  {
+    "id": 36,
+    "question": "Who was the top scorer at the 2006 FIFA World Cup?",
+    "options": [
+      "Miroslav Klose",
+      "Hernán Crespo",
+      "Ronaldo",
+      "Thierry Henry"
+    ],
+    "correct_answer": "Miroslav Klose",
+    "difficulty": 4
+  },
+  {
+    "id": 37,
+    "question": "Who was the top scorer at the 2010 FIFA World Cup?",
+    "options": [
+      "David Villa",
+      "Diego Forlán",
+      "Thomas Müller",
+      "Wesley Sneijder"
+    ],
+    "correct_answer": "Thomas Müller",
+    "difficulty": 4
+  },
+  {
+    "id": 38,
+    "question": "Which country won UEFA Euro 1992?",
+    "options": [
+      "Germany",
+      "Sweden",
+      "Denmark",
+      "Netherlands"
+    ],
+    "correct_answer": "Denmark",
+    "difficulty": 4
+  },
+  {
+    "id": 39,
+    "question": "Which country won UEFA Euro 1996?",
+    "options": [
+      "Germany",
+      "Czech Republic",
+      "France",
+      "England"
+    ],
+    "correct_answer": "Germany",
+    "difficulty": 4
+  },
+  {
+    "id": 40,
+    "question": "Which country won UEFA Euro 2000?",
+    "options": [
+      "Italy",
+      "France",
+      "Netherlands",
+      "Portugal"
+    ],
+    "correct_answer": "France",
+    "difficulty": 4
+  },
+  {
+    "id": 41,
+    "question": "Who was Chelsea's manager when they won the UEFA Champions League in 2012?",
+    "options": [
+      "André Villas-Boas",
+      "Roberto Di Matteo",
+      "Rafael Benítez",
+      "José Mourinho"
+    ],
+    "correct_answer": "Roberto Di Matteo",
+    "difficulty": 4
+  },
+  {
+    "id": 42,
+    "question": "Who was Bayern Munich's manager when they won the UEFA Champions League in 2013?",
+    "options": [
+      "Jupp Heynckes",
+      "Pep Guardiola",
+      "Louis van Gaal",
+      "Carlo Ancelotti"
+    ],
+    "correct_answer": "Jupp Heynckes",
+    "difficulty": 4
+  },
+  {
+    "id": 43,
+    "question": "Who is the only Portugal international to play for AC Milan and also play in the Bundesliga?",
+    "options": [
+      "André Silva",
+      "Rui Costa",
+      "Rafael Leao",
+      "Ricardo Quaresma"
+    ],
+    "correct_answer": "André Silva",
+    "difficulty": 4
+  },
+  {
+    "id": 44,
+    "question": "How many first-division titles has Napoli won?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4",
+    "difficulty": 4
+  },
+  {
+    "id": 45,
+    "question": "Which team is the only one to have won the Coppa Italia seven times?",
+    "options": [
+      "Lazio",
+      "Roma",
+      "Juventus",
+      "Napoli"
+    ],
+    "correct_answer": "Lazio",
+    "difficulty": 4
+  },
+  {
+    "id": 46,
+    "question": "Which team has won the most League Cup titles?",
+    "options": [
+      "Manchester United",
+      "Liverpool",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "correct_answer": "Liverpool",
+    "difficulty": 4
+  },
+  {
+    "id": 47,
+    "question": "For which Spanish teams did Diego Maradona play?",
+    "options": [
+      "Barcelona and Sevilla",
+      "Real Madrid and Barcelona",
+      "Sevilla and Real Madrid",
+      "Valencia and Barcelona"
+    ],
+    "correct_answer": "Barcelona and Sevilla",
+    "difficulty": 4
+  },
+  {
+    "id": 48,
+    "question": "Against which team did Lionel Messi score his first hat-trick for Barcelona in Spain?",
+    "options": [
+      "Real Madrid",
+      "Athletic Bilbao",
+      "Valencia",
+      "Villarreal"
+    ],
+    "correct_answer": "Real Madrid",
+    "difficulty": 4
+  },
+  {
+    "id": 49,
+    "question": "Which of the following teams was founded first?",
+    "options": [
+      "Getafe",
+      "Barcelona",
+      "Real Madrid",
+      "Sevilla"
+    ],
+    "correct_answer": "Sevilla",
+    "difficulty": 4
+  },
+  {
+    "id": 50,
+    "question": "How many times did Johan Cruyff win the Ballon d'Or?",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "correct_answer": "3",
+    "difficulty": 4
+  },
+  {
+    "id": 51,
+    "question": "Which national team won the Copa América in 2011?",
+    "options": [
+      "Argentina",
+      "Peru",
+      "Uruguay",
+      "Brazil"
+    ],
+    "correct_answer": "Uruguay",
+    "difficulty": 4
+  },
+  {
+    "id": 52,
+    "question": "How many consecutive Bundesliga titles had Bayern Munich won by 2023?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct_answer": "11",
+    "difficulty": 4
+  },
+  {
+    "id": 53,
+    "question": "When was the last time Borussia Dortmund won the Bundesliga?",
+    "options": [
+      "2011-2012",
+      "2013-2014",
+      "2014-2015",
+      "2012-2013"
+    ],
+    "correct_answer": "2011-2012",
+    "difficulty": 4
+  },
+  {
+    "id": 54,
+    "question": "Which of the following countries has never had a team win the Europa League?",
+    "options": [
+      "Belgium",
+      "Turkey",
+      "France",
+      "Ukraine"
+    ],
+    "correct_answer": "France",
+    "difficulty": 4
+  },
+  {
+    "id": 55,
+    "question": "How many league titles had Chelsea won before Roman Abramovich became the club's owner?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": "1",
+    "difficulty": 4
+  },
+  {
+    "id": 56,
+    "question": "In which season did Schalke achieve their best-ever Champions League performance by reaching the semi-finals?",
+    "options": [
+      "2009-10",
+      "2010-11",
+      "2011-12",
+      "2013-14"
+    ],
+    "correct_answer": "2010-11",
+    "difficulty": 4
+  },
+  {
+    "id": 57,
+    "question": "In which year did Wales reach the European Championship semi-finals?",
+    "options": [
+      "2012",
+      "2016",
+      "2021",
+      "2024"
+    ],
+    "correct_answer": "2016",
+    "difficulty": 4
+  },
+  {
+    "id": 58,
+    "question": "When was the last time Santos won the Copa Libertadores?",
+    "options": [
+      "1963",
+      "1989",
+      "2003",
+      "2011"
+    ],
+    "correct_answer": "2011",
+    "difficulty": 4
+  },
+  {
+    "id": 59,
+    "question": "Which national team participated in the FIFA World Cup for the first time in 2018?",
+    "options": [
+      "Egypt",
+      "Senegal",
+      "Morocco",
+      "Panama"
+    ],
+    "correct_answer": "Panama",
+    "difficulty": 4
+  },
+  {
+    "id": 60,
+    "question": "Which African country was the first to reach the FIFA World Cup quarter-finals?",
+    "options": [
+      "Algeria in 1982",
+      "Cameroon in 1990",
+      "Senegal in 2002",
+      "Ghana in 2010"
+    ],
+    "correct_answer": "Cameroon in 1990",
+    "difficulty": 4
+  },
+  {
+    "id": 61,
+    "question": "Who scored the first goal of the 2022 FIFA World Cup?",
+    "options": [
+      "Enner Valencia",
+      "Moisés Caicedo",
+      "Pervis Estupiñán",
+      "Akram Afif"
+    ],
+    "correct_answer": "Enner Valencia",
+    "difficulty": 4
+  },
+  {
+    "id": 110,
+    "question": "Which stopper, who is England's youngest ever goalkeeper, joined Hull City in 2026?",
+    "options": [
+      "Jack Butland",
+      "Aaron Ramsdale",
+      "Dean henderson",
+      "James Trafford"
+    ],
+    "correct_answer": "Jack Butland",
+    "difficulty": 4
+  },
+  {
+    "id": 62,
+    "question": "The 2020/21 season ended with Leicester winning the FA Cup. Which club did they beat in the final?",
+    "options": [
+      "Chelsea",
+      "Manchester City",
+      "Tottenham Hotspur",
+      "Aston Villa"
+    ],
+    "correct_answer": "Chelsea",
+    "difficulty": 4
+  },
+  {
+    "id": 63,
+    "question": "Which Italian has managed four different Premier League clubs?",
+    "options": [
+      "Claudio Ranieri",
+      "Antonio Conte",
+      "Roberto De Zerbi",
+      "Roberto Mancini"
+    ],
+    "correct_answer": "Claudio Ranieri",
+    "difficulty": 4
+  },
+  {
+    "id": 64,
+    "question": "Which team has won the most second-tier titles in English football?",
+    "options": [
+      "Leicester City",
+      "Manchester City",
+      "Norwich City",
+      "Leeds United"
+    ],
+    "correct_answer": "Leicester City",
+    "difficulty": 4
+  },
+  {
+    "id": 65,
+    "question": "In which year did Kaká move from AC Milan to Real Madrid?",
+    "options": [
+      "2007",
+      "2008",
+      "2009",
+      "2010"
+    ],
+    "correct_answer": "2009",
+    "difficulty": 4
+  },
+  {
+    "id": 66,
+    "question": "Which of the following clubs did David Silva never play for?",
+    "options": [
+      "Sevilla",
+      "Valencia",
+      "Real Sociedad",
+      "Celta Vigo"
+    ],
+    "correct_answer": "Sevilla",
+    "difficulty": 4
+  },
+  {
+    "id": 67,
+    "question": "Against which team did Gareth Bale score a hat-trick in one half of a Champions League match during the 2010-11 season?",
+    "options": [
+      "Inter Milan",
+      "AC Milan",
+      "Real Madrid",
+      "Borussia Dortmund"
+    ],
+    "correct_answer": "Inter Milan",
+    "difficulty": 4
+  },
+  {
+    "id": 68,
+    "question": "Which club did Barcelona sign Dani Alves from?",
+    "options": [
+      "Sevilla",
+      "Real Zaragoza",
+      "Flamengo",
+      "Mallorca"
+    ],
+    "correct_answer": "Sevilla",
+    "difficulty": 4
+  },
+  {
+    "id": 69,
+    "question": "Who is the oldest player to score in a FIFA World Cup?",
+    "options": [
+      "Roger Milla",
+      "Cristiano Ronaldo",
+      "Essam El Hadary",
+      "Faryd Mondragón"
+    ],
+    "correct_answer": "Roger Milla",
+    "difficulty": 4
+  },
+  {
+    "id": 70,
+    "question": "Who was the oldest player to participate in the 2026 FIFA World Cup?",
+    "options": [
+      "Craig Gordon",
+      "Cristiano Ronaldo",
+      "Guillermo Ochoa",
+      "Luka Modrić"
+    ],
+    "correct_answer": "Craig Gordon",
+    "difficulty": 4
+  },
+  {
+    "id": 71,
+    "question": "Who is the oldest Spanish player to have played at a European Championship?",
+    "options": [
+      "Jesús Navas",
+      "Joselu",
+      "Dani Carvajal",
+      "Xavi"
+    ],
+    "correct_answer": "Jesús Navas",
+    "difficulty": 4
+  },
+  {
+    "id": 72,
+    "question": "Which player was named the best player of the 2010 FIFA World Cup?",
+    "options": [
+      "Diego Forlán",
+      "Xavi",
+      "Andrés Iniesta",
+      "Wesley Sneijder"
+    ],
+    "correct_answer": "Diego Forlán",
+    "difficulty": 4
+  },
+  {
+    "id": 73,
+    "question": "When was the last time VfL Wolfsburg won the Bundesliga?",
+    "options": [
+      "2007-08",
+      "2008-09",
+      "2009-10",
+      "2010-11"
+    ],
+    "correct_answer": "2008-09",
+    "difficulty": 4
+  },
+  {
+    "id": 74,
+    "question": "Which of the following clubs has Marko Arnautović never played for?",
+    "options": [
+      "West Ham United",
+      "Stoke City",
+      "Bologna",
+      "Torino"
+    ],
+    "correct_answer": "Torino",
+    "difficulty": 4
+  },
+  {
+    "id": 75,
+    "question": "Which club has won the most Kazakhstan Premier League titles?",
+    "options": [
+      "Astana",
+      "Kairat",
+      "Irtysh Pavlodar",
+      "Aktobe"
+    ],
+    "correct_answer": "Astana",
+    "difficulty": 4
+  },
+  {
+    "id": 76,
+    "question": "Which of the following clubs is the oldest?",
+    "options": [
+      "Barcelona",
+      "AC Milan",
+      "Ajax",
+      "Liverpool"
+    ],
+    "correct_answer": "Liverpool",
+    "difficulty": 4
+  },
+  {
+    "id": 77,
+    "question": "Which of the following clubs is the oldest?",
+    "options": [
+      "Real Madrid",
+      "Napoli",
+      "Inter Milan",
+      "VfB Stuttgart"
+    ],
+    "correct_answer": "Inter Milan",
+    "difficulty": 4
+  },
+  {
+    "id": 78,
+    "question": "Which is the only Belgian club to have won a major European trophy?",
+    "options": [
+      "Anderlecht",
+      "Club Brugge",
+      "Genk",
+      "Standard Liège"
+    ],
+    "correct_answer": "Anderlecht",
+    "difficulty": 4
+  },
+  {
+    "id": 79,
+    "question": "Which manager has won the most La Liga titles as Barcelona manager?",
+    "options": [
+      "Johan Cruyff",
+      "Pep Guardiola",
+      "Luis Enrique",
+      "Frank Rijkaard"
+    ],
+    "correct_answer": "Johan Cruyff",
+    "difficulty": 4
+  },
+  {
+    "id": 80,
+    "question": "Who has made the most Premier League appearances for Tottenham Hotspur?",
+    "options": [
+      "Harry Kane",
+      "Steve Perryman",
+      "Ledley King",
+      "Gary Mabbutt"
+    ],
+    "correct_answer": "Harry Kane",
+    "difficulty": 4
+  },
+  {
+    "id": 81,
+    "question": "Which club did Wayne Rooney make his Premier League debut for?",
+    "options": [
+      "Everton",
+      "Derby County",
+      "Manchester United",
+      "Blackburn Rovers"
+    ],
+    "correct_answer": "Everton",
+    "difficulty": 4
+  },
+  {
+    "id": 82,
+    "question": "Which of the following players made the most appearances for the Netherlands national team?",
+    "options": [
+      "Wesley Sneijder",
+      "Edwin van der Sar",
+      "Frank de Boer",
+      "Rafael van der Vaart"
+    ],
+    "correct_answer": "Wesley Sneijder",
+    "difficulty": 4
+  },
+  {
+    "id": 83,
+    "question": "Which club did Thierry Henry begin his professional career with?",
+    "options": [
+      "Monaco",
+      "Lyon",
+      "Juventus",
+      "Arsenal"
+    ],
+    "correct_answer": "Monaco",
+    "difficulty": 4
+  },
+  {
+    "id": 84,
+    "question": "Which of the following players did NOT come through the Manchester United academy?",
+    "options": [
+      "Marcus Rashford",
+      "Mason Greenwood",
+      "Phil Jones",
+      "Jonny Evans"
+    ],
+    "correct_answer": "Phil Jones",
+    "difficulty": 4
+  },
+  {
+    "id": 85,
+    "question": "For which of the following clubs did Mario Balotelli score the most goals?",
+    "options": [
+      "AC Milan",
+      "Manchester City",
+      "Inter Milan",
+      "Nice"
+    ],
+    "correct_answer": "Nice",
+    "difficulty": 4
+  },
+  {
+    "id": 86,
+    "question": "Which of the following players has scored the most goals for Real Madrid?",
+    "options": [
+      "Fernando Morientes",
+      "Álvaro Morata",
+      "Gonzalo Higuaín",
+      "Guti"
+    ],
+    "correct_answer": "Gonzalo Higuaín",
+    "difficulty": 4
+  },
+  {
+    "id": 87,
+    "question": "Which club did Zinedine Zidane begin his professional career with?",
+    "options": [
+      "Cannes",
+      "Bordeaux",
+      "Marseille",
+      "Monaco"
+    ],
+    "correct_answer": "Cannes",
+    "difficulty": 4
+  },
+  {
+    "id": 88,
+    "question": "Which goalkeeper has kept the most clean sheets for the Brazil national team?",
+    "options": [
+      "Cláudio Taffarel",
+      "Alisson",
+      "Dida",
+      "Ederson"
+    ],
+    "correct_answer": "Alisson",
+    "difficulty": 4
+  },
+  {
+    "id": 89,
+    "question": "Which goalkeeper has kept the most clean sheets for the Portugal national team?",
+    "options": [
+      "Rui Patrício",
+      "Vítor Baía",
+      "Ricardo",
+      "Diogo Costa"
+    ],
+    "correct_answer": "Rui Patrício",
+    "difficulty": 4
+  },
+  {
+    "id": 90,
+    "question": "How many UEFA Champions League titles have Portuguese clubs won in total?",
+    "options": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4",
+    "difficulty": 4
+  },
+  {
+    "id": 91,
+    "question": "How many UEFA Champions League titles have French clubs won in total?",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "3",
+    "difficulty": 4
+  },
+  {
+    "id": 92,
+    "question": "How many UEFA Champions League titles have German clubs won in total?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correct_answer": "8",
+    "difficulty": 4
+  },
+  {
+    "id": 93,
+    "question": "How many UEFA Champions League titles have English clubs won in total?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correct_answer": "15",
+    "difficulty": 4
+  },
+  {
+    "id": 94,
+    "question": "How many UEFA Champions League titles have Italian clubs won in total?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct_answer": "12",
+    "difficulty": 4
+  },
+  {
+    "id": 95,
+    "question": "How many UEFA Champions League titles have Spanish clubs won in total?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "correct_answer": "20",
+    "difficulty": 4
+  },
+  {
+    "id": 96,
+    "question": "Which club has lost the most Champions League finals?",
+    "options": [
+      "Juventus",
+      "Bayern Munich",
+      "Benfica",
+      "AC Milan"
+    ],
+    "correct_answer": "Juventus",
+    "difficulty": 4
+  },
+  {
+    "id": 97,
+    "question": "When was the inaugural Premier League season?",
+    "options": [
+      "1990–91",
+      "1991–92",
+      "1992–93",
+      "1993–94"
+    ],
+    "correct_answer": "1992–93",
+    "difficulty": 4
+  },
+  {
+    "id": 98,
+    "question": "Which team won the first Premier League title?",
+    "options": [
+      "Liverpool",
+      "Manchester United",
+      "Arsenal",
+      "Blackburn Rovers"
+    ],
+    "correct_answer": "Manchester United",
+    "difficulty": 4
+  },
+  {
+    "id": 99,
+    "question": "How many clubs competed in the inaugural Premier League season?",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "correct_answer": "22",
+    "difficulty": 4
+  },
+  {
+    "id": 100,
+    "question": "Which country has appeared in three World Cup finals, but never won the competition?",
+    "options": [
+      "Netherlands",
+      "Hungary",
+      "Croatia",
+      "Sweden"
+    ],
+    "correct_answer": "Netherlands",
+    "difficulty": 4
+  },
+  {
+    "id": 101,
+    "question": "Cristiano Ronaldo is synonymous with the No. 7, but which other number did he wear at Real Madrid?",
+    "options": [
+      "No. 9",
+      "No. 10",
+      "No. 11",
+      "No. 17"
+    ],
+    "correct_answer": "No. 9",
+    "difficulty": 4
+  },
+  {
+    "id": 102,
+    "question": "Who is the only player to win the Champions League with three different clubs?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Clarence Seedorf",
+      "Samuel Eto'o",
+      "Toni Kroos"
+    ],
+    "correct_answer": "Clarence Seedorf",
+    "difficulty": 4
+  },
+  {
+    "id": 103,
+    "question": "In which season was the European Cup rebranded as the Champions League?",
+    "options": [
+      "1990–91",
+      "1991–92",
+      "1992–93",
+      "1993–94"
+    ],
+    "correct_answer": "1992–93",
+    "difficulty": 4
+  },
+  {
+    "id": 104,
+    "question": "Which outfield player appeared in the Champions League final in three different decades?",
+    "options": [
+      "Paolo Maldini",
+      "Cafu",
+      "Ryan Giggs",
+      "Xavi"
+    ],
+    "correct_answer": "Ryan Giggs",
+    "difficulty": 4
+  },
+  {
+    "id": 105,
+    "question": "Which one of the following teams has not won the European Championship?",
+    "options": [
+      "Greece",
+      "Denmark",
+      "Portugal",
+      "Hungary"
+    ],
+    "correct_answer": "Hungary",
+    "difficulty": 4
+  },
+  {
+    "id": 106,
+    "question": "With 365 goals, who holds the record for the most Bundesliga goals of all time?",
+    "options": [
+      "Robert Lewandowski",
+      "Gerd Müller",
+      "Klaus Fischer",
+      "Karl-Heinz Rummenigge"
+    ],
+    "correct_answer": "Gerd Müller",
+    "difficulty": 4
+  },
+  {
+    "id": 107,
+    "question": "Who is the most capped Germany international of all time?",
+    "options": [
+      "Miroslav Klose",
+      "Lothar Matthäus",
+      "Thomas Müller",
+      "Philipp Lahm"
+    ],
+    "correct_answer": "Lothar Matthäus",
+    "difficulty": 4
+  },
+  {
+    "id": 108,
+    "question": "Germany have won the World Cup four times, but how many times have they done so as a unified country?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "1",
+    "difficulty": 4
+  },
+  {
+    "id": 109,
+    "question": "Which outfield player played every single minute of the Premier League 2025/26 season?",
+    "options": [
+      "Jarrod Bowen",
+      "Kristoffer Ajer",
+      "Virgil van Dijk",
+      "Declan Rice"
+    ],
+    "correct_answer": "Virgil van Dijk",
+    "difficulty": 4
+  }
 ]

@@ -5,21 +5,66 @@
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Auxerre", "years": "1998-2004" },
-      { "team": "Liverpool", "years": "2004-2007" },
-      { "team": "Marseille", "years": "2006-2007 (loan)" },
-      { "team": "Marseille", "years": "2007-2009" },
-      { "team": "Sunderland", "years": "2008-2009 (loan)" },
-      { "team": "Panathinaikos", "years": "2009-2011" },
-      { "team": "Lazio", "years": "2011-2012" },
-      { "team": "Queens Park Rangers", "years": "2012-2013" },
-      { "team": "Al-Gharafa", "years": "2013 (loan)" },
-      { "team": "Kuban Krasnodar", "years": "2013" },
-      { "team": "Bastia", "years": "2014-2015" },
-      { "team": "Saint-Pierroise", "years": "2015" },
-      { "team": "Yverdon", "years": "2017-2018" },
-      { "team": "AC Vicenza 1902", "years": "2018-2019" },
-      { "team": "Panathinaikos Chicago", "years": "2021" }
+      {
+        "team": "Auxerre",
+        "years": "1998-2004"
+      },
+      {
+        "team": "Liverpool",
+        "years": "2004-2007"
+      },
+      {
+        "team": "Marseille",
+        "years": "2006-2007 (loan)"
+      },
+      {
+        "team": "Marseille",
+        "years": "2007-2009"
+      },
+      {
+        "team": "Sunderland",
+        "years": "2008-2009 (loan)"
+      },
+      {
+        "team": "Panathinaikos",
+        "years": "2009-2011"
+      },
+      {
+        "team": "Lazio",
+        "years": "2011-2012"
+      },
+      {
+        "team": "Queens Park Rangers",
+        "years": "2012-2013"
+      },
+      {
+        "team": "Al-Gharafa",
+        "years": "2013 (loan)"
+      },
+      {
+        "team": "Kuban Krasnodar",
+        "years": "2013"
+      },
+      {
+        "team": "Bastia",
+        "years": "2014-2015"
+      },
+      {
+        "team": "Saint-Pierroise",
+        "years": "2015"
+      },
+      {
+        "team": "Yverdon",
+        "years": "2017-2018"
+      },
+      {
+        "team": "AC Vicenza 1902",
+        "years": "2018-2019"
+      },
+      {
+        "team": "Panathinaikos Chicago",
+        "years": "2021"
+      }
     ],
     "correct_answer": "Djibril Cisse",
     "options": [
@@ -30,36 +75,66 @@
     ]
   },
   {
-  "id": 502,
-  "category": "guess_the_player_by_career",
-  "level": 5,
-  "question": "Which player had this career path?",
-  "career": [
-    { "team": "Panachaiki", "years": "2007-2010" },
-    { "team": "Panionios", "years": "2010-2012" },
-    { "team": "Olympiacos", "years": "2012-2014" },
-    { "team": "Panionios", "years": "2012-2013 (loan)" },
-    { "team": "Benfica", "years": "2014-2021" },
-    { "team": "Fortuna Sittard", "years": "2021-2022" },
-    { "team": "Rio Ave", "years": "2022-2023" },
-    { "team": "Coritiba", "years": "2023" }
-  ],
-  "correct_answer": "Andreas Samaris",
-  "options": [
-    "Andreas Samaris",
-    "Sokratis Papastathopoulos",
-    "Konstantinos Mitroglou",
-    "Kostas Manolas"
-  ]
-},
-{
+    "id": 502,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Panachaiki",
+        "years": "2007-2010"
+      },
+      {
+        "team": "Panionios",
+        "years": "2010-2012"
+      },
+      {
+        "team": "Olympiacos",
+        "years": "2012-2014"
+      },
+      {
+        "team": "Panionios",
+        "years": "2012-2013 (loan)"
+      },
+      {
+        "team": "Benfica",
+        "years": "2014-2021"
+      },
+      {
+        "team": "Fortuna Sittard",
+        "years": "2021-2022"
+      },
+      {
+        "team": "Rio Ave",
+        "years": "2022-2023"
+      },
+      {
+        "team": "Coritiba",
+        "years": "2023"
+      }
+    ],
+    "correct_answer": "Andreas Samaris",
+    "options": [
+      "Andreas Samaris",
+      "Sokratis Papastathopoulos",
+      "Konstantinos Mitroglou",
+      "Kostas Manolas"
+    ]
+  },
+  {
     "id": 503,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Kartaispor", "years": "2000-2002" },
-      { "team": "Fenerbahçe", "years": "2002-2019" }
+      {
+        "team": "Kartaispor",
+        "years": "2000-2002"
+      },
+      {
+        "team": "Fenerbahçe",
+        "years": "2002-2019"
+      }
     ],
     "correct_answer": "Volkan Demirel",
     "options": [
@@ -75,18 +150,54 @@
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Baník Ostrava", "years": "1998-2001" },
-      { "team": "Liverpool", "years": "2001-2005" },
-      { "team": "Aston Villa", "years": "2005-2007" },
-      { "team": "Lyon", "years": "2007-2008" },
-      { "team": "Portsmouth", "years": "2008 (loan)" },
-      { "team": "Galatasaray", "years": "2008-2013" },
-      { "team": "Baník Ostrava", "years": "2013" },
-      { "team": "Antalyaspor", "years": "2013-2014" },
-      { "team": "Baník Ostrava", "years": "2014-2015" },
-      { "team": "Mladá Boleslav", "years": "2015-2016" },
-      { "team": "Slovan Liberec", "years": "2016" },
-      { "team": "Baník Ostrava", "years": "2017-2020" }
+      {
+        "team": "Baník Ostrava",
+        "years": "1998-2001"
+      },
+      {
+        "team": "Liverpool",
+        "years": "2001-2005"
+      },
+      {
+        "team": "Aston Villa",
+        "years": "2005-2007"
+      },
+      {
+        "team": "Lyon",
+        "years": "2007-2008"
+      },
+      {
+        "team": "Portsmouth",
+        "years": "2008 (loan)"
+      },
+      {
+        "team": "Galatasaray",
+        "years": "2008-2013"
+      },
+      {
+        "team": "Baník Ostrava",
+        "years": "2013"
+      },
+      {
+        "team": "Antalyaspor",
+        "years": "2013-2014"
+      },
+      {
+        "team": "Baník Ostrava",
+        "years": "2014-2015"
+      },
+      {
+        "team": "Mladá Boleslav",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Slovan Liberec",
+        "years": "2016"
+      },
+      {
+        "team": "Baník Ostrava",
+        "years": "2017-2020"
+      }
     ],
     "correct_answer": "Milan Baros",
     "options": [
@@ -102,39 +213,46 @@
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Buriram PEA", "years": "2011-2013" },
-      { "team": "Anderlecht", "years": "2013 (loan)" },
-      { "team": "Anderlecht", "years": "2013-2017" },
-      { "team": "Tianjin TEDA", "years": "2017 (loan)" },
-      { "team": "Tianjin TEDA", "years": "2018-2020" },
-      { "team": "Shenzhen FC", "years": "2021-2023" },
-      { "team": "Henan FC", "years": "2024-2025" },
-      { "team": "Dalian Yingbo", "years": "2026–Present" }
-    ],
-    "correct_answer": "Frank Acheampong",
-    "options": [
-      "Frank Acheampong",
-      "Kwadwo Asamoah",
-      "Dimitrios Siovas",
-      "Jonathan Mensah"
-    ]
-  },
-  {
-    "id": 506,
-    "category": "guess_the_player_by_career",
-    "level": 5,
-    "question": "Which player had this career path?",
-    "career": [
-      { "team": "Ajax Cape Town", "years": "1999-2001" },
-      { "team": "Ajax", "years": "2001-2006" },
-      { "team": "Borussia Dortmund", "years": "2006-2008" },
-      { "team": "Everton", "years": "2007-2008 (loan)" },
-      { "team": "Everton", "years": "2008-2011" },
-      { "team": "Tottenham Hotspur", "years": "2011-2012" },
-      { "team": "Everton", "years": "2012 (loan)" },
-      { "team": "Everton", "years": "2012-2016" },
-      { "team": "Sunderland", "years": "2016-2017" },
-      { "team": "Bidvest Wits", "years": "2017-2018" }
+      {
+        "team": "Ajax Cape Town",
+        "years": "1999-2001"
+      },
+      {
+        "team": "Ajax",
+        "years": "2001-2006"
+      },
+      {
+        "team": "Borussia Dortmund",
+        "years": "2006-2008"
+      },
+      {
+        "team": "Everton",
+        "years": "2007-2008 (loan)"
+      },
+      {
+        "team": "Everton",
+        "years": "2008-2011"
+      },
+      {
+        "team": "Tottenham Hotspur",
+        "years": "2011-2012"
+      },
+      {
+        "team": "Everton",
+        "years": "2012 (loan)"
+      },
+      {
+        "team": "Everton",
+        "years": "2012-2016"
+      },
+      {
+        "team": "Sunderland",
+        "years": "2016-2017"
+      },
+      {
+        "team": "Bidvest Wits",
+        "years": "2017-2018"
+      }
     ],
     "correct_answer": "Steven Pienaar",
     "options": [
@@ -145,20 +263,47 @@
     ]
   },
   {
-    "id": 507,
+    "id": 506,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Wiener Neustadt", "years": "2002-2003" },
-      { "team": "SV Mattersburg", "years": "2003-2008" },
-      { "team": "VfL Bochum", "years": "2008-2011" },
-      { "team": "Mainz 05", "years": "2010-2011 (loan)" },
-      { "team": "Schalke 04", "years": "2011-2015" },
-      { "team": "Leicester City", "years": "2015-2021" },
-      { "team": "Charlotte FC", "years": "2021-2022" },
-      { "team": "Charlotte Independence", "years": "2021 (loan)" },
-      { "team": "FSA Pro", "years": "2023" }
+      {
+        "team": "Wiener Neustadt",
+        "years": "2002-2003"
+      },
+      {
+        "team": "SV Mattersburg",
+        "years": "2003-2008"
+      },
+      {
+        "team": "VfL Bochum",
+        "years": "2008-2011"
+      },
+      {
+        "team": "Mainz 05",
+        "years": "2010-2011 (loan)"
+      },
+      {
+        "team": "Schalke 04",
+        "years": "2011-2015"
+      },
+      {
+        "team": "Leicester City",
+        "years": "2015-2021"
+      },
+      {
+        "team": "Charlotte FC",
+        "years": "2021-2022"
+      },
+      {
+        "team": "Charlotte Independence",
+        "years": "2021 (loan)"
+      },
+      {
+        "team": "FSA Pro",
+        "years": "2023"
+      }
     ],
     "correct_answer": "Christian Fuchs",
     "options": [
@@ -169,19 +314,43 @@
     ]
   },
   {
-    "id": 508,
+    "id": 507,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Dnipro-2 Dnipropetrovsk", "years": "2006-2008" },
-      { "team": "Dnipro Dnipropetrovsk", "years": "2007-2015" },
-      { "team": "Sevilla", "years": "2015-2017" },
-      { "team": "Schalke 04", "years": "2016-2017 (loan)" },
-      { "team": "Schalke 04", "years": "2017-2019" },
-      { "team": "Shakhtar Donetsk", "years": "2019-2021" },
-      { "team": "Cracovia", "years": "2022-2023" },
-      { "team": "CFR Cluj", "years": "2023" }
+      {
+        "team": "Dnipro-2 Dnipropetrovsk",
+        "years": "2006-2008"
+      },
+      {
+        "team": "Dnipro Dnipropetrovsk",
+        "years": "2007-2015"
+      },
+      {
+        "team": "Sevilla",
+        "years": "2015-2017"
+      },
+      {
+        "team": "Schalke 04",
+        "years": "2016-2017 (loan)"
+      },
+      {
+        "team": "Schalke 04",
+        "years": "2017-2019"
+      },
+      {
+        "team": "Shakhtar Donetsk",
+        "years": "2019-2021"
+      },
+      {
+        "team": "Cracovia",
+        "years": "2022-2023"
+      },
+      {
+        "team": "CFR Cluj",
+        "years": "2023"
+      }
     ],
     "correct_answer": "Yevhen Konoplyanka",
     "options": [
@@ -192,14 +361,23 @@
     ]
   },
   {
-    "id": 509,
+    "id": 508,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Manchester United", "years": "2002-2015" },
-      { "team": "West Bromwich Albion", "years": "2015-2017" },
-      { "team": "Stoke City", "years": "2017-2019" }
+      {
+        "team": "Manchester United",
+        "years": "2002-2015"
+      },
+      {
+        "team": "West Bromwich Albion",
+        "years": "2015-2017"
+      },
+      {
+        "team": "Stoke City",
+        "years": "2017-2019"
+      }
     ],
     "correct_answer": "Darren Fletcher",
     "options": [
@@ -210,16 +388,31 @@
     ]
   },
   {
-    "id": 510,
+    "id": 509,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Hertha BSC", "years": "2004-2010" },
-      { "team": "Zagłębie Lubin", "years": "2004-2007 (loan)" },
-      { "team": "Borussia Dortmund", "years": "2010-2021" },
-      { "team": "Goczałkowice-Zdrój", "years": "2021-2024" },
-      { "team": "Goczałkowice-Zdrój", "years": "2025" }
+      {
+        "team": "Hertha BSC",
+        "years": "2004-2010"
+      },
+      {
+        "team": "Zagłębie Lubin",
+        "years": "2004-2007 (loan)"
+      },
+      {
+        "team": "Borussia Dortmund",
+        "years": "2010-2021"
+      },
+      {
+        "team": "Goczałkowice-Zdrój",
+        "years": "2021-2024"
+      },
+      {
+        "team": "Goczałkowice-Zdrój",
+        "years": "2025"
+      }
     ],
     "correct_answer": "Łukasz Piszczek",
     "options": [
@@ -230,14 +423,23 @@
     ]
   },
   {
-    "id": 511,
+    "id": 510,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Auxerre", "years": "1999-2004" },
-      { "team": "Roma", "years": "2004-2011" },
-      { "team": "AC Milan", "years": "2011-2016" }
+      {
+        "team": "Auxerre",
+        "years": "1999-2004"
+      },
+      {
+        "team": "Roma",
+        "years": "2004-2011"
+      },
+      {
+        "team": "AC Milan",
+        "years": "2011-2016"
+      }
     ],
     "correct_answer": "Philippe Mexès",
     "options": [
@@ -248,18 +450,39 @@
     ]
   },
   {
-    "id": 512,
+    "id": 511,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Real Madrid B", "years": "1996-1998" },
-      { "team": "Independiente", "years": "1998-2001" },
-      { "team": "River Plate", "years": "2001-2002" },
-      { "team": "Real Madrid", "years": "2002-2004" },
-      { "team": "Inter Milan", "years": "2004-2014" },
-      { "team": "Leicester City", "years": "2014-2015" },
-      { "team": "Olympiacos", "years": "2015-2017" }
+      {
+        "team": "Real Madrid B",
+        "years": "1996-1998"
+      },
+      {
+        "team": "Independiente",
+        "years": "1998-2001"
+      },
+      {
+        "team": "River Plate",
+        "years": "2001-2002"
+      },
+      {
+        "team": "Real Madrid",
+        "years": "2002-2004"
+      },
+      {
+        "team": "Inter Milan",
+        "years": "2004-2014"
+      },
+      {
+        "team": "Leicester City",
+        "years": "2014-2015"
+      },
+      {
+        "team": "Olympiacos",
+        "years": "2015-2017"
+      }
     ],
     "correct_answer": "Esteban Cambiasso",
     "options": [
@@ -270,22 +493,55 @@
     ]
   },
   {
-    "id": 513,
+    "id": 512,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Bastia", "years": "2004-2006" },
-      { "team": "Arsenal", "years": "2005-2006 (loan)" },
-      { "team": "Arsenal", "years": "2006-2012" },
-      { "team": "Charlton Athletic", "years": "2007 (loan)" },
-      { "team": "Barcelona", "years": "2012-2016" },
-      { "team": "West Ham United", "years": "2014-2015 (loan)" },
-      { "team": "West Ham United", "years": "2015-2016 (loan)" },
-      { "team": "Rubin Kazan", "years": "2016-2018" },
-      { "team": "Sion", "years": "2018-2020" },
-      { "team": "Sion II", "years": "2018-2019" },
-      { "team": "Arta/Solar7", "years": "2020-2023" }
+      {
+        "team": "Bastia",
+        "years": "2004-2006"
+      },
+      {
+        "team": "Arsenal",
+        "years": "2005-2006 (loan)"
+      },
+      {
+        "team": "Arsenal",
+        "years": "2006-2012"
+      },
+      {
+        "team": "Charlton Athletic",
+        "years": "2007 (loan)"
+      },
+      {
+        "team": "Barcelona",
+        "years": "2012-2016"
+      },
+      {
+        "team": "West Ham United",
+        "years": "2014-2015 (loan)"
+      },
+      {
+        "team": "West Ham United",
+        "years": "2015-2016 (loan)"
+      },
+      {
+        "team": "Rubin Kazan",
+        "years": "2016-2018"
+      },
+      {
+        "team": "Sion",
+        "years": "2018-2020"
+      },
+      {
+        "team": "Sion II",
+        "years": "2018-2019"
+      },
+      {
+        "team": "Arta/Solar7",
+        "years": "2020-2023"
+      }
     ],
     "correct_answer": "Alex Song",
     "options": [
@@ -296,21 +552,51 @@
     ]
   },
   {
-    "id": 514,
+    "id": 513,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Le Havre", "years": "2004-2005" },
-      { "team": "Chelsea", "years": "2005-2007" },
-      { "team": "Arsenal", "years": "2007-2008" },
-      { "team": "Portsmouth", "years": "2008-2009" },
-      { "team": "Real Madrid", "years": "2009-2012" },
-      { "team": "Anzhi Makhachkala", "years": "2012-2013" },
-      { "team": "Lokomotiv Moscow", "years": "2013-2014" },
-      { "team": "Marseille", "years": "2015-2017" },
-      { "team": "Al Jazira", "years": "2017" },
-      { "team": "Paris Saint-Germain", "years": "2018-2019" }
+      {
+        "team": "Le Havre",
+        "years": "2004-2005"
+      },
+      {
+        "team": "Chelsea",
+        "years": "2005-2007"
+      },
+      {
+        "team": "Arsenal",
+        "years": "2007-2008"
+      },
+      {
+        "team": "Portsmouth",
+        "years": "2008-2009"
+      },
+      {
+        "team": "Real Madrid",
+        "years": "2009-2012"
+      },
+      {
+        "team": "Anzhi Makhachkala",
+        "years": "2012-2013"
+      },
+      {
+        "team": "Lokomotiv Moscow",
+        "years": "2013-2014"
+      },
+      {
+        "team": "Marseille",
+        "years": "2015-2017"
+      },
+      {
+        "team": "Al Jazira",
+        "years": "2017"
+      },
+      {
+        "team": "Paris Saint-Germain",
+        "years": "2018-2019"
+      }
     ],
     "correct_answer": "Lassana Diarra",
     "options": [
@@ -321,19 +607,43 @@
     ]
   },
   {
-    "id": 515,
+    "id": 514,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Porto", "years": "1997-2004" },
-      { "team": "Leça", "years": "1998-1999 (loan)" },
-      { "team": "Vitória Setúbal", "years": "1999-2000 (loan)" },
-      { "team": "Alverca", "years": "2000-2001 (loan)" },
-      { "team": "Chelsea", "years": "2004-2010" },
-      { "team": "Real Madrid", "years": "2010-2013" },
-      { "team": "Monaco", "years": "2013-2016" },
-      { "team": "Shanghai SIPG", "years": "2017" }
+      {
+        "team": "Porto",
+        "years": "1997-2004"
+      },
+      {
+        "team": "Leça",
+        "years": "1998-1999 (loan)"
+      },
+      {
+        "team": "Vitória Setúbal",
+        "years": "1999-2000 (loan)"
+      },
+      {
+        "team": "Alverca",
+        "years": "2000-2001 (loan)"
+      },
+      {
+        "team": "Chelsea",
+        "years": "2004-2010"
+      },
+      {
+        "team": "Real Madrid",
+        "years": "2010-2013"
+      },
+      {
+        "team": "Monaco",
+        "years": "2013-2016"
+      },
+      {
+        "team": "Shanghai SIPG",
+        "years": "2017"
+      }
     ],
     "correct_answer": "Ricardo Carvalho",
     "options": [
@@ -344,25 +654,67 @@
     ]
   },
   {
-    "id": 516,
+    "id": 515,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Chelsea", "years": "2009-2011" },
-      { "team": "Swansea City", "years": "2011 (loan)" },
-      { "team": "Parma", "years": "2011-2012" },
-      { "team": "Roma", "years": "2011-2012 (loan)" },
-      { "team": "Roma", "years": "2012" },
-      { "team": "Liverpool", "years": "2012-2015" },
-      { "team": "Sunderland", "years": "2013-2014 (loan)" },
-      { "team": "Sunderland", "years": "2015-2018" },
-      { "team": "AC Milan", "years": "2017-2018 (loan)" },
-      { "team": "AC Milan", "years": "2018-2020" },
-      { "team": "Hellas Verona", "years": "2020" },
-      { "team": "Fatih Karagümrük", "years": "2021-2023" },
-      { "team": "Sampdoria", "years": "2023-2025" },
-      { "team": "Salford City", "years": "2025-Present" }
+      {
+        "team": "Chelsea",
+        "years": "2009-2011"
+      },
+      {
+        "team": "Swansea City",
+        "years": "2011 (loan)"
+      },
+      {
+        "team": "Parma",
+        "years": "2011-2012"
+      },
+      {
+        "team": "Roma",
+        "years": "2011-2012 (loan)"
+      },
+      {
+        "team": "Roma",
+        "years": "2012"
+      },
+      {
+        "team": "Liverpool",
+        "years": "2012-2015"
+      },
+      {
+        "team": "Sunderland",
+        "years": "2013-2014 (loan)"
+      },
+      {
+        "team": "Sunderland",
+        "years": "2015-2018"
+      },
+      {
+        "team": "AC Milan",
+        "years": "2017-2018 (loan)"
+      },
+      {
+        "team": "AC Milan",
+        "years": "2018-2020"
+      },
+      {
+        "team": "Hellas Verona",
+        "years": "2020"
+      },
+      {
+        "team": "Fatih Karagümrük",
+        "years": "2021-2023"
+      },
+      {
+        "team": "Sampdoria",
+        "years": "2023-2025"
+      },
+      {
+        "team": "Salford City",
+        "years": "2025-Present"
+      }
     ],
     "correct_answer": "Fabio Borini",
     "options": [
@@ -373,26 +725,71 @@
     ]
   },
   {
-    "id": 517,
+    "id": 516,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Porto B", "years": "2002-2005" },
-      { "team": "Porto", "years": "2003-2007" },
-      { "team": "União Leiria", "years": "2003 (loan)" },
-      { "team": "União Leiria", "years": "2004 (loan)" },
-      { "team": "Boavista", "years": "2005 (loan)" },
-      { "team": "Werder Bremen", "years": "2006-2007 (loan)" },
-      { "team": "Werder Bremen", "years": "2007-2010" },
-      { "team": "Beşiktaş", "years": "2011-2014" },
-      { "team": "Cesena", "years": "2014-2015" },
-      { "team": "Kuban Krasnodar", "years": "2015" },
-      { "team": "Anzhi", "years": "2015-2016" },
-      { "team": "Hannover 96", "years": "2016" },
-      { "team": "AEK Athens", "years": "2016-2017" },
-      { "team": "Hajduk Split", "years": "2017-2018" },
-      { "team": "Académica", "years": "2018-2020" }
+      {
+        "team": "Porto B",
+        "years": "2002-2005"
+      },
+      {
+        "team": "Porto",
+        "years": "2003-2007"
+      },
+      {
+        "team": "União Leiria",
+        "years": "2003 (loan)"
+      },
+      {
+        "team": "União Leiria",
+        "years": "2004 (loan)"
+      },
+      {
+        "team": "Boavista",
+        "years": "2005 (loan)"
+      },
+      {
+        "team": "Werder Bremen",
+        "years": "2006-2007 (loan)"
+      },
+      {
+        "team": "Werder Bremen",
+        "years": "2007-2010"
+      },
+      {
+        "team": "Beşiktaş",
+        "years": "2011-2014"
+      },
+      {
+        "team": "Cesena",
+        "years": "2014-2015"
+      },
+      {
+        "team": "Kuban Krasnodar",
+        "years": "2015"
+      },
+      {
+        "team": "Anzhi",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Hannover 96",
+        "years": "2016"
+      },
+      {
+        "team": "AEK Athens",
+        "years": "2016-2017"
+      },
+      {
+        "team": "Hajduk Split",
+        "years": "2017-2018"
+      },
+      {
+        "team": "Académica",
+        "years": "2018-2020"
+      }
     ],
     "correct_answer": "Hugo Almeida",
     "options": [
@@ -403,20 +800,47 @@
     ]
   },
   {
-    "id": 518,
+    "id": 517,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "CSKA Sofia", "years": "1998-2001" },
-      { "team": "Bayer Leverkusen II", "years": "2001" },
-      { "team": "Bayer Leverkusen", "years": "2001-2006" },
-      { "team": "Tottenham Hotspur", "years": "2006-2008" },
-      { "team": "Manchester United", "years": "2008-2012" },
-      { "team": "Fulham", "years": "2012-2014" },
-      { "team": "Monaco", "years": "2014-2015" },
-      { "team": "PAOK", "years": "2015-2016" },
-      { "team": "Kerala Blasters", "years": "2017-2018" }
+      {
+        "team": "CSKA Sofia",
+        "years": "1998-2001"
+      },
+      {
+        "team": "Bayer Leverkusen II",
+        "years": "2001"
+      },
+      {
+        "team": "Bayer Leverkusen",
+        "years": "2001-2006"
+      },
+      {
+        "team": "Tottenham Hotspur",
+        "years": "2006-2008"
+      },
+      {
+        "team": "Manchester United",
+        "years": "2008-2012"
+      },
+      {
+        "team": "Fulham",
+        "years": "2012-2014"
+      },
+      {
+        "team": "Monaco",
+        "years": "2014-2015"
+      },
+      {
+        "team": "PAOK",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Kerala Blasters",
+        "years": "2017-2018"
+      }
     ],
     "correct_answer": "Dimitar Berbatov",
     "options": [
@@ -427,21 +851,51 @@
     ]
   },
   {
-    "id": 519,
+    "id": 518,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Oliveira Hospital", "years": "2006" },
-      { "team": "Tourizense", "years": "2006-2008" },
-      { "team": "Académica", "years": "2008-2012" },
-      { "team": "Braga", "years": "2012-2015" },
-      { "team": "Swansea City", "years": "2015-2016" },
-      { "team": "Lille", "years": "2016 (loan)" },
-      { "team": "Lille", "years": "2016-2018" },
-      { "team": "Lokomotiv Moscow", "years": "2017-2018 (loan)" },
-      { "team": "Lokomotiv Moscow", "years": "2018-2021" },
-      { "team": "Al Raed", "years": "2021-2022" }
+      {
+        "team": "Oliveira Hospital",
+        "years": "2006"
+      },
+      {
+        "team": "Tourizense",
+        "years": "2006-2008"
+      },
+      {
+        "team": "Académica",
+        "years": "2008-2012"
+      },
+      {
+        "team": "Braga",
+        "years": "2012-2015"
+      },
+      {
+        "team": "Swansea City",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Lille",
+        "years": "2016 (loan)"
+      },
+      {
+        "team": "Lille",
+        "years": "2016-2018"
+      },
+      {
+        "team": "Lokomotiv Moscow",
+        "years": "2017-2018 (loan)"
+      },
+      {
+        "team": "Lokomotiv Moscow",
+        "years": "2018-2021"
+      },
+      {
+        "team": "Al Raed",
+        "years": "2021-2022"
+      }
     ],
     "correct_answer": "Eder",
     "options": [
@@ -452,22 +906,55 @@
     ]
   },
   {
-    "id": 520,
+    "id": 519,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Lyon", "years": "2004-2008" },
-      { "team": "Marseille", "years": "2008-2011" },
-      { "team": "Newcastle United", "years": "2010-2011 (loan)" },
-      { "team": "Newcastle United", "years": "2011-2015" },
-      { "team": "Hull City", "years": "2014-2015 (loan)" },
-      { "team": "Nice", "years": "2015-2016" },
-      { "team": "Paris Saint-Germain", "years": "2016-2018" },
-      { "team": "Rennes", "years": "2016-2020" },
-      { "team": "Valladolid", "years": "2020" },
-      { "team": "Bordeaux", "years": "2020-2021" },
-      { "team": "Lille", "years": "2022" }
+      {
+        "team": "Lyon",
+        "years": "2004-2008"
+      },
+      {
+        "team": "Marseille",
+        "years": "2008-2011"
+      },
+      {
+        "team": "Newcastle United",
+        "years": "2010-2011 (loan)"
+      },
+      {
+        "team": "Newcastle United",
+        "years": "2011-2015"
+      },
+      {
+        "team": "Hull City",
+        "years": "2014-2015 (loan)"
+      },
+      {
+        "team": "Nice",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Paris Saint-Germain",
+        "years": "2016-2018"
+      },
+      {
+        "team": "Rennes",
+        "years": "2016-2020"
+      },
+      {
+        "team": "Valladolid",
+        "years": "2020"
+      },
+      {
+        "team": "Bordeaux",
+        "years": "2020-2021"
+      },
+      {
+        "team": "Lille",
+        "years": "2022"
+      }
     ],
     "correct_answer": "Hatem Ben Arfa",
     "options": [
@@ -478,23 +965,59 @@
     ]
   },
   {
-    "id": 521,
+    "id": 520,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Issia Wazy", "years": "2006-2008" },
-      { "team": "Sparta Prague B", "years": "2007-2008 (loan)" },
-      { "team": "Sparta Prague", "years": "2008-2011" },
-      { "team": "Vitesse Arnhem", "years": "2011-2013" },
-      { "team": "Swansea City", "years": "2013-2015" },
-      { "team": "Manchester City", "years": "2015-2017" },
-      { "team": "Stoke City", "years": "2016-2017 (loan)" },
-      { "team": "Swansea City", "years": "2017-2019" },
-      { "team": "Al-Arabi", "years": "2019 (loan)" },
-      { "team": "Al-Ittihad", "years": "2020" },
-      { "team": "NEC Nijmegen", "years": "2022" },
-      { "team": "Always Ready", "years": "2023" }
+      {
+        "team": "Issia Wazy",
+        "years": "2006-2008"
+      },
+      {
+        "team": "Sparta Prague B",
+        "years": "2007-2008 (loan)"
+      },
+      {
+        "team": "Sparta Prague",
+        "years": "2008-2011"
+      },
+      {
+        "team": "Vitesse Arnhem",
+        "years": "2011-2013"
+      },
+      {
+        "team": "Swansea City",
+        "years": "2013-2015"
+      },
+      {
+        "team": "Manchester City",
+        "years": "2015-2017"
+      },
+      {
+        "team": "Stoke City",
+        "years": "2016-2017 (loan)"
+      },
+      {
+        "team": "Swansea City",
+        "years": "2017-2019"
+      },
+      {
+        "team": "Al-Arabi",
+        "years": "2019 (loan)"
+      },
+      {
+        "team": "Al-Ittihad",
+        "years": "2020"
+      },
+      {
+        "team": "NEC Nijmegen",
+        "years": "2022"
+      },
+      {
+        "team": "Always Ready",
+        "years": "2023"
+      }
     ],
     "correct_answer": "Wilfried Bony",
     "options": [
@@ -505,19 +1028,43 @@
     ]
   },
   {
-    "id": 522,
+    "id": 521,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Zaragoza", "years": "2014-2015" },
-      { "team": "Real Madrid", "years": "2015-2025" },
-      { "team": "Zaragoza", "years": "2015-2016 (loan)" },
-      { "team": "Eintracht Frankfurt", "years": "2016-2017 (loan)" },
-      { "team": "Wolverhampton Wanderers", "years": "2019-2020 (loan)" },
-      { "team": "Granada", "years": "2020-2021 (loan)" },
-      { "team": "Granada", "years": "2023-2024 (loan)" },
-      { "team": "Albacete", "years": "2025-" }
+      {
+        "team": "Zaragoza",
+        "years": "2014-2015"
+      },
+      {
+        "team": "Real Madrid",
+        "years": "2015-2025"
+      },
+      {
+        "team": "Zaragoza",
+        "years": "2015-2016 (loan)"
+      },
+      {
+        "team": "Eintracht Frankfurt",
+        "years": "2016-2017 (loan)"
+      },
+      {
+        "team": "Wolverhampton Wanderers",
+        "years": "2019-2020 (loan)"
+      },
+      {
+        "team": "Granada",
+        "years": "2020-2021 (loan)"
+      },
+      {
+        "team": "Granada",
+        "years": "2023-2024 (loan)"
+      },
+      {
+        "team": "Albacete",
+        "years": "2025-Present"
+      }
     ],
     "correct_answer": "Jesús Vallejo",
     "options": [
@@ -528,19 +1075,43 @@
     ]
   },
   {
-    "id": 523,
+    "id": 522,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Borussia Neunkirchen", "years": "1990-1992" },
-      { "team": "Eintracht Frankfurt", "years": "1992-1996" },
-      { "team": "Fenerbahçe", "years": "1996-1998" },
-      { "team": "Paris Saint-Germain", "years": "1998-2002" },
-      { "team": "Bolton Wanderers", "years": "2002-2006" },
-      { "team": "Qatar SC", "years": "2006-2007" },
-      { "team": "Hull City", "years": "2007-2008" },
-      { "team": "Durgapur Vox Champions", "years": "2012" }
+      {
+        "team": "Borussia Neunkirchen",
+        "years": "1990-1992"
+      },
+      {
+        "team": "Eintracht Frankfurt",
+        "years": "1992-1996"
+      },
+      {
+        "team": "Fenerbahçe",
+        "years": "1996-1998"
+      },
+      {
+        "team": "Paris Saint-Germain",
+        "years": "1998-2002"
+      },
+      {
+        "team": "Bolton Wanderers",
+        "years": "2002-2006"
+      },
+      {
+        "team": "Qatar SC",
+        "years": "2006-2007"
+      },
+      {
+        "team": "Hull City",
+        "years": "2007-2008"
+      },
+      {
+        "team": "Durgapur Vox Champions",
+        "years": "2012"
+      }
     ],
     "correct_answer": "Jay-Jay Okocha",
     "options": [
@@ -551,76 +1122,66 @@
     ]
   },
   {
-    "id": 524,
+    "id": 523,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Nantes", "years": "1991-1997" },
-      { "team": "Marseille", "years": "1997-1998" },
-      { "team": "Celta Vigo", "years": "1998-2000" },
-      { "team": "Real Madrid", "years": "2000-2003" },
-      { "team": "Chelsea", "years": "2003-2008" },
-      { "team": "Paris Saint-Germain", "years": "2008-2011" }
-    ],
-    "correct_answer": "Claude Makélélé",
-    "options": [
-      "Claude Makélélé",
-      "Patrick Vieira",
-      "Roy Keane",
-      "Vieira Rijkaard"
-    ]
-  },
-  {
-    "id": 525,
-    "category": "guess_the_player_by_career",
-    "level": 5,
-    "question": "Which player had this career path?",
-    "career": [
-      { "team": "Basconia", "years": "2014-2016" },
-      { "team": "Athletic Bilbao B", "years": "2016-2018" },
-      { "team": "Athletic Bilbao", "years": "2018-Present" }
+      {
+        "team": "Basconia",
+        "years": "2014-2016"
+      },
+      {
+        "team": "Athletic Bilbao B",
+        "years": "2016-2018"
+      },
+      {
+        "team": "Athletic Bilbao",
+        "years": "2018-Present"
+      }
     ],
     "correct_answer": "Unai Simón",
     "options": [
       "Unai Simón",
       "Iker Muguruza",
-      "Agustín Marchesín",
+      "Iñaki Williams",
       "Gorka Iraizoz"
     ]
   },
   {
-    "id": 526,
-    "category": "guess_the_player_by_career",
-    "level": 4,
-    "question": "Which player had this career path?",
-    "career": [
-      { "team": "Club Brugge", "years": "2019-2022" },
-      { "team": "AC Milan", "years": "2022-2024" },
-      { "team": "Atalanta", "years": "2023-2024 (loan)" },
-      { "team": "Atalanta", "years": "2024-Present" }
-    ],
-    "correct_answer": "Charles De Ketelaere",
-    "options": [
-      "Charles De Ketelaere",
-      "Youri Tielemans",
-      "Jérémy Doku",
-      "Alexis Saelemaekers"
-    ]
-  },
-  {
-    "id": 527,
+    "id": 524,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "3 de Febrero", "years": "2003-2004" },
-      { "team": "Nacional Asunción", "years": "2004-2006" },
-      { "team": "Newell's Old Boys", "years": "2006-2007" },
-      { "team": "Benfica", "years": "2007-2014" },
-      { "team": "Trabzonspor", "years": "2014-2016" },
-      { "team": "Olympiacos", "years": "2016-2017" },
-      { "team": "Libertad", "years": "2017-2025" }
+      {
+        "team": "3 de Febrero",
+        "years": "2003-2004"
+      },
+      {
+        "team": "Nacional Asunción",
+        "years": "2004-2006"
+      },
+      {
+        "team": "Newell's Old Boys",
+        "years": "2006-2007"
+      },
+      {
+        "team": "Benfica",
+        "years": "2007-2014"
+      },
+      {
+        "team": "Trabzonspor",
+        "years": "2014-2016"
+      },
+      {
+        "team": "Olympiacos",
+        "years": "2016-2017"
+      },
+      {
+        "team": "Libertad",
+        "years": "2017-2025"
+      }
     ],
     "correct_answer": "Óscar Cardozo",
     "options": [
@@ -631,40 +1192,27 @@
     ]
   },
   {
-    "id": 528,
+    "id": 525,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Midtjylland", "years": "2007-2008" },
-      { "team": "Palermo", "years": "2008-2010" },
-      { "team": "VfL Wolfsburg", "years": "2010-2013" },
-      { "team": "Roma", "years": "2011-2012 (loan)" },
-      { "team": "Lille", "years": "2013-2015" },
-      { "team": "Fenerbahçe", "years": "2015-2017" },
-      { "team": "Sevilla", "years": "2017-2020" },
-      { "team": "Atalanta", "years": "2019-2020 (loan)" },
-      { "team": "AC Milan", "years": "2020 (loan)" },
-      { "team": "AC Milan", "years": "2020-2024" }
-    ],
-    "correct_answer": "Simon Kjær",
-    "options": [
-      "Simon Kjær",
-      "Daniel Agger",
-      "Cristian Chivu",
-      "Jan Vertonghen"
-    ]
-  },
-  {
-    "id": 529,
-    "category": "guess_the_player_by_career",
-    "level": 5,
-    "question": "Which player had this career path?",
-    "career": [
-      { "team": "Saint-Étienne II", "years": "2018-2019" },
-      { "team": "Saint-Étienne", "years": "2019-2020" },
-      { "team": "Leicester City", "years": "2020-2022" },
-      { "team": "Chelsea", "years": "2022-" }
+      {
+        "team": "Saint-Étienne II",
+        "years": "2018-2019"
+      },
+      {
+        "team": "Saint-Étienne",
+        "years": "2019-2020"
+      },
+      {
+        "team": "Leicester City",
+        "years": "2020-2022"
+      },
+      {
+        "team": "Chelsea",
+        "years": "2022-Present"
+      }
     ],
     "correct_answer": "Wesley Fofana",
     "options": [
@@ -675,18 +1223,39 @@
     ]
   },
   {
-    "id": 530,
+    "id": 526,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Vitória", "years": "2010-2013" },
-      { "team": "Villarreal", "years": "2013-2015" },
-      { "team": "Arsenal", "years": "2015-2017" },
-      { "team": "Valencia", "years": "2017-2024" },
-      { "team": "Atlético Madrid", "years": "2024" },
-      { "team": "Beşiktaş", "years": "2024-2025" },
-      { "team": "Corinthians", "years": "2026-" }
+      {
+        "team": "Vitória",
+        "years": "2010-2013"
+      },
+      {
+        "team": "Villarreal",
+        "years": "2013-2015"
+      },
+      {
+        "team": "Arsenal",
+        "years": "2015-2017"
+      },
+      {
+        "team": "Valencia",
+        "years": "2017-2024"
+      },
+      {
+        "team": "Atlético Madrid",
+        "years": "2024"
+      },
+      {
+        "team": "Beşiktaş",
+        "years": "2024-2025"
+      },
+      {
+        "team": "Corinthians",
+        "years": "2026-Present"
+      }
     ],
     "correct_answer": "Gabriel Paulista",
     "options": [
@@ -697,18 +1266,39 @@
     ]
   },
   {
-    "id": 531,
+    "id": 527,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Talleres", "years": "2007-2008" },
-      { "team": "Huracán", "years": "2008-2009" },
-      { "team": "Palermo", "years": "2009-2011" },
-      { "team": "Paris Saint-Germain", "years": "2011-2018" },
-      { "team": "Roma", "years": "2018-2021" },
-      { "team": "Elche", "years": "2021-2023" },
-      { "team": "Qatar SC", "years": "2023" }
+      {
+        "team": "Talleres",
+        "years": "2007-2008"
+      },
+      {
+        "team": "Huracán",
+        "years": "2008-2009"
+      },
+      {
+        "team": "Palermo",
+        "years": "2009-2011"
+      },
+      {
+        "team": "Paris Saint-Germain",
+        "years": "2011-2018"
+      },
+      {
+        "team": "Roma",
+        "years": "2018-2021"
+      },
+      {
+        "team": "Elche",
+        "years": "2021-2023"
+      },
+      {
+        "team": "Qatar SC",
+        "years": "2023"
+      }
     ],
     "correct_answer": "Javier Pastore",
     "options": [
@@ -719,35 +1309,62 @@
     ]
   },
   {
-    "id": 532,
+    "id": 528,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Barcelona B", "years": "2009-2012" },
-      { "team": "Barcelona", "years": "2010-2016" },
-      { "team": "Borussia Dortmund", "years": "2016-2018" },
-      { "team": "Betis", "years": "2018-2022" },
-      { "team": "Trabzonspor", "years": "2022-2023" },
-      { "team": "Betis", "years": "2023-" }
+      {
+        "team": "Barcelona B",
+        "years": "2009-2012"
+      },
+      {
+        "team": "Barcelona",
+        "years": "2010-2016"
+      },
+      {
+        "team": "Borussia Dortmund",
+        "years": "2016-2018"
+      },
+      {
+        "team": "Betis",
+        "years": "2018-2022"
+      },
+      {
+        "team": "Trabzonspor",
+        "years": "2022-2023"
+      },
+      {
+        "team": "Betis",
+        "years": "2023-Present"
+      }
     ],
     "correct_answer": "Marc Bartra",
     "options": [
       "Marc Bartra",
-      "Adriano Correia",
-      "Sergio Completez",
+      "Christian Tello",
+      "Junior Firpo",
       "Sergi Gómez"
     ]
   },
   {
-    "id": 533,
+    "id": 529,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Red Star Belgrade", "years": "1995-1998" },
-      { "team": "Lazio", "years": "1998-2004" },
-      { "team": "Inter Milan", "years": "2004-2013" }
+      {
+        "team": "Red Star Belgrade",
+        "years": "1995-1998"
+      },
+      {
+        "team": "Lazio",
+        "years": "1998-2004"
+      },
+      {
+        "team": "Inter Milan",
+        "years": "2004-2013"
+      }
     ],
     "correct_answer": "Dejan Stanković",
     "options": [
@@ -758,40 +1375,82 @@
     ]
   },
   {
-    "id": 534,
+    "id": 530,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Benfica", "years": "1990-1994" },
-      { "team": "Fafe", "years": "1990-1991 (loan)" },
-      { "team": "Fiorentina", "years": "1994-2001" },
-      { "team": "AC Milan", "years": "2001-2006" },
-      { "team": "Benfica", "years": "2006-2008" }
+      {
+        "team": "Benfica",
+        "years": "1990-1994"
+      },
+      {
+        "team": "Fafe",
+        "years": "1990-1991 (loan)"
+      },
+      {
+        "team": "Fiorentina",
+        "years": "1994-2001"
+      },
+      {
+        "team": "AC Milan",
+        "years": "2001-2006"
+      },
+      {
+        "team": "Benfica",
+        "years": "2006-2008"
+      }
     ],
     "correct_answer": "Rui Costa",
     "options": [
       "Rui Costa",
       "Pauleta",
-      "Paulo Futre",
+      "Maniche",
       "Paulo Sousa"
     ]
   },
   {
-    "id": 535,
+    "id": 531,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Stuttgarter Kickers", "years": "1981-1984" },
-      { "team": "VfB Stuttgart", "years": "1984-1989" },
-      { "team": "Inter Milan", "years": "1989-1992" },
-      { "team": "Monaco", "years": "1992-1994" },
-      { "team": "Tottenham Hotspur", "years": "1994-1995" },
-      { "team": "Bayern Munich", "years": "1995-1997" },
-      { "team": "Sampdoria", "years": "1997-1998" },
-      { "team": "Tottenham Hotspur", "years": "1997-1998 (loan)" },
-      { "team": "Orange County Blue Star", "years": "2003" }
+      {
+        "team": "Stuttgarter Kickers",
+        "years": "1981-1984"
+      },
+      {
+        "team": "VfB Stuttgart",
+        "years": "1984-1989"
+      },
+      {
+        "team": "Inter Milan",
+        "years": "1989-1992"
+      },
+      {
+        "team": "Monaco",
+        "years": "1992-1994"
+      },
+      {
+        "team": "Tottenham Hotspur",
+        "years": "1994-1995"
+      },
+      {
+        "team": "Bayern Munich",
+        "years": "1995-1997"
+      },
+      {
+        "team": "Sampdoria",
+        "years": "1997-1998"
+      },
+      {
+        "team": "Tottenham Hotspur",
+        "years": "1997-1998 (loan)"
+      },
+      {
+        "team": "Orange County Blue Star",
+        "years": "2003"
+      }
     ],
     "correct_answer": "Jürgen Klinsmann",
     "options": [
@@ -802,70 +1461,157 @@
     ]
   },
   {
-    "id": 536,
+    "id": 532,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "FC Constanța", "years": "1982-1983" },
-      { "team": "Sportul Studențesc", "years": "1983-1986" },
-      { "team": "Steaua București", "years": "1986-1990" },
-      { "team": "Real Madrid", "years": "1990-1992" },
-      { "team": "Brescia", "years": "1992-1994" },
-      { "team": "Barcelona", "years": "1994-1996" },
-      { "team": "Galatasaray", "years": "1996-2001" }
+      {
+        "team": "FC Constanța",
+        "years": "1982-1983"
+      },
+      {
+        "team": "Sportul Studențesc",
+        "years": "1983-1986"
+      },
+      {
+        "team": "Steaua București",
+        "years": "1986-1990"
+      },
+      {
+        "team": "Real Madrid",
+        "years": "1990-1992"
+      },
+      {
+        "team": "Brescia",
+        "years": "1992-1994"
+      },
+      {
+        "team": "Barcelona",
+        "years": "1994-1996"
+      },
+      {
+        "team": "Galatasaray",
+        "years": "1996-2001"
+      }
     ],
     "correct_answer": "Gheorghe Hagi",
     "options": [
       "Gheorghe Hagi",
       "Gica Popescu",
-      "Dan Petrescu",
-      "Dorinel Munteanu"
+      "Hristo Stoichkov",
+      "Trifon Ivanov"
     ]
   },
   {
-    "id": 537,
+    "id": 533,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Barcelona C", "years": "1988-1989" },
-      { "team": "Barcelona B", "years": "1990-1992" },
-      { "team": "Barcelona", "years": "1990-2001" },
-      { "team": "Brescia", "years": "2001-2002" },
-      { "team": "Roma", "years": "2002-2003" },
-      { "team": "Brescia", "years": "2003" },
-      { "team": "Al-Ahli", "years": "2003-2005" },
-      { "team": "Dorados", "years": "2005-2006" }
+      {
+        "team": "Barcelona C",
+        "years": "1988-1989"
+      },
+      {
+        "team": "Barcelona B",
+        "years": "1990-1992"
+      },
+      {
+        "team": "Barcelona",
+        "years": "1990-2001"
+      },
+      {
+        "team": "Brescia",
+        "years": "2001-2002"
+      },
+      {
+        "team": "Roma",
+        "years": "2002-2003"
+      },
+      {
+        "team": "Brescia",
+        "years": "2003"
+      },
+      {
+        "team": "Al-Ahli",
+        "years": "2003-2005"
+      },
+      {
+        "team": "Dorados",
+        "years": "2005-2006"
+      }
     ],
     "correct_answer": "Pep Guardiola",
     "options": [
       "Pep Guardiola",
       "Luis Enrique",
-      "Sergi Barjuán",
+      "Emilio Butragueño",
       "Albert Ferrer"
     ]
   },
   {
-    "id": 538,
+    "id": 534,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Reipas", "years": "1987-1990" },
-      { "team": "HJK", "years": "1991" },
-      { "team": "MyPa", "years": "1992" },
-      { "team": "Ajax", "years": "1992-1999" },
-      { "team": "Barcelona", "years": "1999-2001" },
-      { "team": "Liverpool", "years": "2001-2002" },
-      { "team": "Ajax", "years": "2002-2004" },
-      { "team": "Lahti", "years": "2004" },
-      { "team": "Hansa Rostock", "years": "2005" },
-      { "team": "Malmö FF", "years": "2005-2007" },
-      { "team": "Fulham", "years": "2006" },
-      { "team": "Lahti", "years": "2008-2010" },
-      { "team": "HJK", "years": "2011" },
-      { "team": "Tallinna Kalev Junioori", "years": "2025-" }
+      {
+        "team": "Reipas",
+        "years": "1987-1990"
+      },
+      {
+        "team": "HJK",
+        "years": "1991"
+      },
+      {
+        "team": "MyPa",
+        "years": "1992"
+      },
+      {
+        "team": "Ajax",
+        "years": "1992-1999"
+      },
+      {
+        "team": "Barcelona",
+        "years": "1999-2001"
+      },
+      {
+        "team": "Liverpool",
+        "years": "2001-2002"
+      },
+      {
+        "team": "Ajax",
+        "years": "2002-2004"
+      },
+      {
+        "team": "Lahti",
+        "years": "2004"
+      },
+      {
+        "team": "Hansa Rostock",
+        "years": "2005"
+      },
+      {
+        "team": "Malmö FF",
+        "years": "2005-2007"
+      },
+      {
+        "team": "Fulham",
+        "years": "2006"
+      },
+      {
+        "team": "Lahti",
+        "years": "2008-2010"
+      },
+      {
+        "team": "HJK",
+        "years": "2011"
+      },
+      {
+        "team": "Tallinna Kalev Junioori",
+        "years": "2025-Present"
+      }
     ],
     "correct_answer": "Jari Litmanen",
     "options": [
@@ -876,18 +1622,39 @@
     ]
   },
   {
-    "id": 539,
+    "id": 535,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Osijek", "years": "1984-1989" },
-      { "team": "Dinamo Zagreb", "years": "1989-1991" },
-      { "team": "Sevilla", "years": "1991-1996" },
-      { "team": "Real Madrid", "years": "1996-1999" },
-      { "team": "Arsenal", "years": "1999-2000" },
-      { "team": "West Ham United", "years": "2000-2001" },
-      { "team": "1860 Munich", "years": "2001-2003" }
+      {
+        "team": "Osijek",
+        "years": "1984-1989"
+      },
+      {
+        "team": "Dinamo Zagreb",
+        "years": "1989-1991"
+      },
+      {
+        "team": "Sevilla",
+        "years": "1991-1996"
+      },
+      {
+        "team": "Real Madrid",
+        "years": "1996-1999"
+      },
+      {
+        "team": "Arsenal",
+        "years": "1999-2000"
+      },
+      {
+        "team": "West Ham United",
+        "years": "2000-2001"
+      },
+      {
+        "team": "1860 Munich",
+        "years": "2001-2003"
+      }
     ],
     "correct_answer": "Davor Šuker",
     "options": [
@@ -898,23 +1665,2948 @@
     ]
   },
   {
-    "id": 540,
+    "id": 536,
     "category": "guess_the_player_by_career",
     "level": 5,
     "question": "Which player had this career path?",
     "career": [
-      { "team": "Valladolid B", "years": "1986-1987" },
-      { "team": "Valladolid", "years": "1987-1989" },
-      { "team": "Real Madrid", "years": "1989-2003" },
-      { "team": "Al-Rayyan", "years": "2003-2004" },
-      { "team": "Bolton Wanderers", "years": "2004-2005" }
+      {
+        "team": "Valladolid B",
+        "years": "1986-1987"
+      },
+      {
+        "team": "Valladolid",
+        "years": "1987-1989"
+      },
+      {
+        "team": "Real Madrid",
+        "years": "1989-2003"
+      },
+      {
+        "team": "Al-Rayyan",
+        "years": "2003-2004"
+      },
+      {
+        "team": "Bolton Wanderers",
+        "years": "2004-2005"
+      }
     ],
     "correct_answer": "Fernando Hierro",
     "options": [
       "Fernando Hierro",
       "Iván Helguera",
       "Michel Salgado",
-      "Guti"
+      "Emilio Butragueño"
+    ]
+  },
+  {
+    "id": 537,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Genk U18",
+        "years": "2015-2020"
+      },
+      {
+        "team": "Anderlecht Youth",
+        "years": "2020-2023"
+      },
+      {
+        "team": "Jong Genk",
+        "years": "2023-2024"
+      },
+      {
+        "team": "Genk",
+        "years": "2024-2026"
+      },
+      {
+        "team": "Borussia Dortmund",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Konstantinos Karetsas",
+    "options": [
+      "Konstantinos Karetsas",
+      "Julien Duranville",
+      "Gadou Joane",
+      "Giannis Konstantelias"
+    ]
+  },
+  {
+    "id": 538,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Deportivo Cali",
+        "years": "2013"
+      },
+      {
+        "team": "Rayo Vallecano",
+        "years": "2013-2016"
+      },
+      {
+        "team": "Real Valladolid",
+        "years": "2014-2016"
+      },
+      {
+        "team": "Girona",
+        "years": "2017-2018"
+      },
+      {
+        "team": "Atalanta",
+        "years": "2020-2021"
+      },
+      {
+        "team": "Elche",
+        "years": "2021-2022"
+      },
+      {
+        "team": "Villarreal",
+        "years": "2022-2024"
+      },
+      {
+        "team": "Osasuna",
+        "years": "2023-2024"
+      },
+      {
+        "team": "Mallorca",
+        "years": "2024-2026"
+      },
+      {
+        "team": "Getafe",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Johan Mojica",
+    "options": [
+      "Johan Mojica",
+      "Johan Carbonero",
+      "Yerry Mina",
+      "Duvan Zapata"
+    ]
+  },
+  {
+    "id": 539,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "NK Osijek",
+        "years": "2006-2010"
+      },
+      {
+        "team": "Bayer Leverkusen",
+        "years": "2010-2011"
+      },
+      {
+        "team": "Dinamo Zagreb",
+        "years": "2011-2013"
+      },
+      {
+        "team": "Dynamo Kyiv",
+        "years": "2013-2017"
+      },
+      {
+        "team": "Beşiktaş",
+        "years": "2017-2022"
+      },
+      {
+        "team": "AEK Athens",
+        "years": "2022-Present"
+      }
+    ],
+    "correct_answer": "Domagoj Vida",
+    "options": [
+      "Domagoj Vida",
+      "Dejan Lovren",
+      "Vedran Ćorluka",
+      "Šime Vrsaljko"
+    ]
+  },
+  {
+    "id": 540,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Borussia Dortmund",
+        "years": "2019-2025"
+      },
+      {
+        "team": "Nottingham Forest (loan)",
+        "years": "2024"
+      },
+      {
+        "team": "Borussia Mönchengladbach",
+        "years": "2025-2026"
+      },
+      {
+        "team": "RC Strasbourg",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Giovanni Reyna",
+    "options": [
+      "Giovanni Reyna",
+      "Albert Mathis",
+      "Brenden Aaronson",
+      "Weston McKennie"
+    ]
+  },
+  {
+    "id": 541,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Trikala",
+        "years": "2008-2010"
+      },
+      {
+        "team": "Asteras Tripolis",
+        "years": "2010-2011"
+      },
+      {
+        "team": "1. FC Kaiserslautern",
+        "years": "2011-2014"
+      },
+      {
+        "team": "Olympiacos",
+        "years": "2014-2024"
+      },
+      {
+        "team": "Al-Khaleej",
+        "years": "2024-2026"
+      },
+      {
+        "team": "Olympiacos",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Kostas Fortounis",
+    "options": [
+      "Kostas Fortounis",
+      "Andreas Samaris",
+      "Dimitrios Siovas",
+      "Kostas Tsimikas"
+    ]
+  },
+  {
+    "id": 542,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "América Mineiro",
+        "years": "1997-2000"
+      },
+      {
+        "team": "Atlético Mineiro",
+        "years": "2000-2002"
+      },
+      {
+        "team": "Arsenal",
+        "years": "2002-2008"
+      },
+      {
+        "team": "Panathinaikos",
+        "years": "2008-2011"
+      },
+      {
+        "team": "Grêmio",
+        "years": "2011-2013"
+      },
+      {
+        "team": "Atlético Mineiro",
+        "years": "2013-2014"
+      }
+    ],
+    "correct_answer": "Gilberto Silva",
+    "options": [
+      "Gilberto Silva",
+      "Emerson",
+      "Juninho Pernambucano",
+      "Felipe Melo"
+    ]
+  },
+  {
+    "id": 543,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Manchester United",
+        "years": "2015-2023"
+      },
+      {
+        "team": "Stockport County (loan)",
+        "years": "2016"
+      },
+      {
+        "team": "Grimsby Town (loan)",
+        "years": "2016-2017"
+      },
+      {
+        "team": "Shrewsbury Town (loan)",
+        "years": "2017-2018"
+      },
+      {
+        "team": "Sheffield United (loan)",
+        "years": "2018-2020"
+      },
+      {
+        "team": "Nottingham Forest (loan)",
+        "years": "2022-2023"
+      },
+      {
+        "team": "Crystal Palace",
+        "years": "2023-Present"
+      }
+    ],
+    "correct_answer": "Dean Henderson",
+    "options": [
+      "Dean Henderson",
+      "Aaron Ramsdale",
+      "Robin Roefs",
+      "Nick Pope"
+    ]
+  },
+  {
+    "id": 544,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Lille",
+        "years": "2022-2023"
+      },
+      {
+        "team": "Brighton & Hove Albion",
+        "years": "2023-2026"
+      },
+      {
+        "team": "Manchester United",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Carlos Baleba",
+    "options": [
+      "Carlos Baleba",
+      "Moisés Caicedo",
+      "Yves Bissouma",
+      "Yankuba Minteh"
+    ]
+  },
+  {
+    "id": 545,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Liverpool",
+        "years": "2019-2025"
+      },
+      {
+        "team": "Brentford",
+        "years": "2025-Present"
+      }
+    ],
+    "correct_answer": "Caoimhín Kelleher",
+    "options": [
+      "Caoimhín Kelleher",
+      "Jordan Hendeson",
+      "Kristofer Ajer",
+      "Keane Lewis-Potter"
+    ]
+  },
+  {
+    "id": 546,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Oldham Athletic",
+        "years": "2011-2014"
+      },
+      {
+        "team": "Brentford",
+        "years": "2014-2016"
+      },
+      {
+        "team": "Burnley",
+        "years": "2016-2022"
+      },
+      {
+        "team": "Everton",
+        "years": "2022-Present"
+      }
+    ],
+    "correct_answer": "James Tarkowski",
+    "options": [
+      "James Tarkowski",
+      "Michael Keane",
+      "Ben Mee",
+      "Conor Coady"
+    ]
+  },
+  {
+    "id": 547,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Manchester City",
+        "years": "2023-2026"
+      },
+      {
+        "team": "Fulham",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Oscar Bobb",
+    "options": [
+      "Oscar Bobb",
+      "Antonio Nusa",
+      "Sander Berge",
+      "Andreas Schjelderup"
+    ]
+  },
+  {
+    "id": 548,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Monaco",
+        "years": "2018-2022"
+      },
+      {
+        "team": "Laval (loan)",
+        "years": "2019-2020"
+      },
+      {
+        "team": "Bastia-Borgo (loan)",
+        "years": "2020-2021"
+      },
+      {
+        "team": "Lokomotiv Moscow",
+        "years": "2022-2024"
+      },
+      {
+        "team": "Zenit Saint Petersburg (loan)",
+        "years": "2023-2024"
+      },
+      {
+        "team": "Zenit Saint Petersburg",
+        "years": "2024-2025"
+      },
+      {
+        "team": "Sunderland (loan)",
+        "years": "2024-2025"
+      },
+      {
+        "team": "Sunderland",
+        "years": "2025-Present"
+      }
+    ],
+    "correct_answer": "Wilson Isidor",
+    "options": [
+      "Wilson Isidor",
+      "Noah Sadiki",
+      "Enzo Le Fee",
+      "Thomas Meunier"
+    ]
+  },
+  {
+    "id": 549,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Leeds United",
+        "years": "2018-2026"
+      },
+      {
+        "team": "Brighton & Hove Albion",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Pascal Struijk",
+    "options": [
+      "Pascal Struijk",
+      "Jan Paul van Hecke",
+      "Micky van de Ven",
+      "Bart Verbruggen"
+    ]
+  },
+  {
+    "id": 550,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Juventus",
+        "years": "2020-2024"
+      },
+      {
+        "team": "Sampdoria (loan)",
+        "years": "2021"
+      },
+      {
+        "team": "Salernitana (loan)",
+        "years": "2022"
+      },
+      {
+        "team": "Genoa (loan)",
+        "years": "2022-2023"
+      },
+      {
+        "team": "Genoa",
+        "years": "2023-2024"
+      },
+      {
+        "team": "Tottenham Hotspur",
+        "years": "2024-Present"
+      },
+      {
+        "team": "Fiorentina (loan)",
+        "years": "2026-2027"
+      }
+    ],
+    "correct_answer": "Radu Drăgușin",
+    "options": [
+      "Radu Drăgușin",
+      "Cristian Romero",
+      "Luka Vuskovic",
+      "Yves Bissouma"
+    ]
+  },
+  {
+    "id": 551,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "River Plate",
+        "years": "2013-2015"
+      },
+      {
+        "team": "Banfield (loan)",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Genoa",
+        "years": "2016-2017"
+      },
+      {
+        "team": "Fiorentina",
+        "years": "2017-2019"
+      },
+      {
+        "team": "Cagliari",
+        "years": "2019-2021"
+      },
+      {
+        "team": "Hellas Verona",
+        "years": "2021-2022"
+      },
+      {
+        "team": "Napoli (loan)",
+        "years": "2022-2023"
+      },
+      {
+        "team": "Napoli",
+        "years": "2023-2025"
+      },
+      {
+        "team": "Torino (loan)",
+        "years": "2025-2026"
+      },
+      {
+        "team": "Torino",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Giovanni Simeone",
+    "options": [
+      "Giovanni Simeone",
+      "Gianluca Scamacca",
+      "Andrea Belotti",
+      "Duvan Zapata"
+    ]
+  },
+  {
+    "id": 552,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Casarano",
+        "years": "1996-1998"
+      },
+      {
+        "team": "Ternana",
+        "years": "1998-2002"
+      },
+      {
+        "team": "Juventus",
+        "years": "2002-2004"
+      },
+      {
+        "team": "Perugia (loan)",
+        "years": "2002-2003"
+      },
+      {
+        "team": "Fiorentina",
+        "years": "2004-2005"
+      },
+      {
+        "team": "Juventus",
+        "years": "2005-2007"
+      },
+      {
+        "team": "Benfica (loan)",
+        "years": "2005-2007"
+      },
+      {
+        "team": "Palermo",
+        "years": "2007-2013"
+      },
+      {
+        "team": "Lecce",
+        "years": "2013-2015"
+      },
+      {
+        "team": "Birkirkara",
+        "years": "2015"
+      }
+    ],
+    "correct_answer": "Fabrizio Miccoli",
+    "options": [
+      "Fabrizio Miccoli",
+      "Antonio Cassano",
+      "Sebastian Giovinco",
+      "Fabio Quagliarella"
+    ]
+  },
+  {
+    "id": 553,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Lommel United",
+        "years": "2010-2013"
+      },
+      {
+        "team": "Lokeren",
+        "years": "2013-2015"
+      },
+      {
+        "team": "Club Brugge",
+        "years": "2015-Present"
+      }
+    ],
+    "correct_answer": "Hans Vanaken",
+    "options": [
+      "Hans Vanaken",
+      "Ruud Vormer",
+      "Thorgan Hazard",
+      "Leander Dendoncker"
+    ]
+  },
+  {
+    "id": 554,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Aalesund",
+        "years": "1997-1998"
+      },
+      {
+        "team": "Monaco",
+        "years": "1998-2001"
+      },
+      {
+        "team": "Liverpool",
+        "years": "2001-2008"
+      },
+      {
+        "team": "Roma",
+        "years": "2008-2011"
+      },
+      {
+        "team": "Fulham",
+        "years": "2011-2014"
+      },
+      {
+        "team": "APOEL",
+        "years": "2014-2015"
+      },
+      {
+        "team": "Delhi Dynamos",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Aalesund",
+        "years": "2016"
+      },
+      {
+        "team": "Chennaiyin",
+        "years": "2016-2017"
+      },
+      {
+        "team": "Rollon",
+        "years": "2017"
+      }
+    ],
+    "correct_answer": "John Arne Riise",
+    "options": [
+      "John Arne Riise",
+      "Sami Hyypiä",
+      "Morten Gamst Pedersen",
+      "Brede Hangeland"
+    ]
+  },
+  {
+    "id": 555,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "CSM Reșița",
+        "years": "1997-1998"
+      },
+      {
+        "team": "Universitatea Craiova",
+        "years": "1998-1999"
+      },
+      {
+        "team": "Ajax",
+        "years": "1999-2003"
+      },
+      {
+        "team": "Roma",
+        "years": "2003-2007"
+      },
+      {
+        "team": "Inter Milan",
+        "years": "2007-2014"
+      }
+    ],
+    "correct_answer": "Cristian Chivu",
+    "options": [
+      "Cristian Chivu",
+      "Adrian Mutu",
+      "Cosmin Contra",
+      "Razvan Rat"
+    ]
+  },
+  {
+    "id": 556,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Manchester United",
+        "years": "2013-2017"
+      },
+      {
+        "team": "Borussia Dortmund (loan)",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Sunderland (loan)",
+        "years": "2016-2017"
+      },
+      {
+        "team": "Real Sociedad",
+        "years": "2017-2022"
+      },
+      {
+        "team": "Sevilla",
+        "years": "2022-2026"
+      },
+      {
+        "team": "İstanbul Başakşehir (loan)",
+        "years": "2023"
+      },
+      {
+        "team": "Las Palmas (loan)",
+        "years": "2024-2025"
+      }
+    ],
+    "correct_answer": "Adnan Januzaj",
+    "options": [
+      "Adnan Januzaj",
+      "Ander Herrera",
+      "Nemanja Gudelj",
+      "Odysseas Vlachodimos"
+    ]
+  },
+  {
+    "id": 557,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "NAC Breda",
+        "years": "2009-2013"
+      },
+      {
+        "team": "AZ Alkmaar",
+        "years": "2013-2015"
+      },
+      {
+        "team": "Ajax",
+        "years": "2015-2017"
+      },
+      {
+        "team": "Tianjin TEDA",
+        "years": "2017"
+      },
+      {
+        "team": "Guangzhou Evergrande",
+        "years": "2018-2019"
+      },
+      {
+        "team": "Sporting CP (loan)",
+        "years": "2018-2019"
+      },
+      {
+        "team": "Sevilla",
+        "years": "2019-2026"
+      },
+      {
+        "team": "Getafe",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Nemanja Gudelj",
+    "options": [
+      "Nemanja Gudelj",
+      "Lucien Agoume",
+      "Lucas Ocampos",
+      "Arouna Sangante"
+    ]
+  },
+  {
+    "id": 558,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Winterthur",
+        "years": "2009-2010"
+      },
+      {
+        "team": "Grasshoppers",
+        "years": "2010-2011"
+      },
+      {
+        "team": "Winterthur",
+        "years": "2011-2014"
+      },
+      {
+        "team": "Luzern",
+        "years": "2014-2016"
+      },
+      {
+        "team": "Atalanta",
+        "years": "2016-2022"
+      },
+      {
+        "team": "Nottingham Forest",
+        "years": "2022-2024"
+      },
+      {
+        "team": "Bologna (loan)",
+        "years": "2023-2024"
+      },
+      {
+        "team": "Bologna",
+        "years": "2024-2026"
+      },
+      {
+        "team": "Olympiacos Piraeus",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Remo Freuler",
+    "options": [
+      "Remo Freuler",
+      "Pajtim Kasami",
+      "Denis Zakaria",
+      "Taulant Xhaka"
+    ]
+  },
+  {
+    "id": 559,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Valur",
+        "years": "1994"
+      },
+      {
+        "team": "PSV Eindhoven",
+        "years": "1995-1997"
+      },
+      {
+        "team": "KR Reykjavík",
+        "years": "1998"
+      },
+      {
+        "team": "Bolton Wanderers",
+        "years": "1998-2000"
+      },
+      {
+        "team": "Chelsea",
+        "years": "2000-2006"
+      },
+      {
+        "team": "Barcelona",
+        "years": "2006-2009"
+      },
+      {
+        "team": "Monaco",
+        "years": "2009-2010"
+      },
+      {
+        "team": "Tottenham Hotspur (loan)",
+        "years": "2010"
+      },
+      {
+        "team": "Stoke City",
+        "years": "2010-2011"
+      },
+      {
+        "team": "Fulham (loan)",
+        "years": "2011"
+      },
+      {
+        "team": "AEK Athens",
+        "years": "2011-2012"
+      },
+      {
+        "team": "Cercle Brugge",
+        "years": "2012-2013"
+      },
+      {
+        "team": "Club Brugge",
+        "years": "2013-2014"
+      },
+      {
+        "team": "Bolton Wanderers",
+        "years": "2014-2015"
+      },
+      {
+        "team": "Shijiazhuang Ever Bright",
+        "years": "2015"
+      },
+      {
+        "team": "Molde",
+        "years": "2016"
+      },
+      {
+        "team": "Pune City",
+        "years": "2016"
+      }
+    ],
+    "correct_answer": "Eiður Guðjohnsen",
+    "options": [
+      "Eiður Guðjohnsen",
+      "Gylfi Sigurðsson",
+      "Alfreð Finnbogason",
+      "Kolbeinn Sigþórsson"
+    ]
+  },
+  {
+    "id": 560,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Manchester City",
+        "years": "2005-2015"
+      },
+      {
+        "team": "Fiorentina (loan)",
+        "years": "2014-2015"
+      },
+      {
+        "team": "Aston Villa",
+        "years": "2015-2019"
+      }
+    ],
+    "correct_answer": "Micah Richards",
+    "options": [
+      "Micah Richards",
+      "Eliaquim Mangala",
+      "Nathaniel Clyne",
+      "Joleon Lescott"
+    ]
+  },
+  {
+    "id": 561,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Torsby IF",
+        "years": "2000-2003"
+      },
+      {
+        "team": "IFK Göteborg",
+        "years": "2005-2007"
+      },
+      {
+        "team": "FC Groningen",
+        "years": "2007-2009"
+      },
+      {
+        "team": "Hamburger SV",
+        "years": "2009-2013"
+      },
+      {
+        "team": "PSV Eindhoven (loan)",
+        "years": "2010-2011"
+      },
+      {
+        "team": "Panathinaikos",
+        "years": "2013-2017"
+      },
+      {
+        "team": "Al Ain",
+        "years": "2017-2019"
+      },
+      {
+        "team": "Krasnodar",
+        "years": "2019-2021"
+      },
+      {
+        "team": "IFK Göteborg",
+        "years": "2021-2023"
+      }
+    ],
+    "correct_answer": "Marcus Berg",
+    "options": [
+      "Marcus Berg",
+      "Ola Toivonen",
+      "Andreas Granqvist",
+      "John Guidetti"
+    ]
+  },
+  {
+    "id": 562,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Grêmio",
+        "years": "2005-2007"
+      },
+      {
+        "team": "Liverpool",
+        "years": "2007-2017"
+      },
+      {
+        "team": "Lazio",
+        "years": "2017-2022"
+      },
+      {
+        "team": "Grêmio",
+        "years": "2022-2023"
+      }
+    ],
+    "correct_answer": "Lucas Leiva",
+    "options": [
+      "Lucas Leiva",
+      "Fernandinho",
+      "Jonny Otto",
+      "Felipe Anderson"
+    ]
+  },
+  {
+    "id": 563,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Concordia Knurów",
+        "years": "1991-1995"
+      },
+      {
+        "team": "Sokół Tychy",
+        "years": "1995-1996"
+      },
+      {
+        "team": "Feyenoord",
+        "years": "1996-2001"
+      },
+      {
+        "team": "Liverpool",
+        "years": "2001-2007"
+      },
+      {
+        "team": "Real Madrid",
+        "years": "2007-2011"
+      }
+    ],
+    "correct_answer": "Jerzy Dudek",
+    "options": [
+      "Jerzy Dudek",
+      "Artur Boruc",
+      "Tomasz Kuszczak",
+      "Łukasz Fabiański"
+    ]
+  },
+  {
+    "id": 564,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Toulouse",
+        "years": "2007-2013"
+      },
+      {
+        "team": "Newcastle United",
+        "years": "2013-2016"
+      },
+      {
+        "team": "Tottenham Hotspur",
+        "years": "2016-2021"
+      },
+      {
+        "team": "Watford",
+        "years": "2021-2022"
+      },
+      {
+        "team": "Nantes",
+        "years": "2022-2024"
+      },
+      {
+        "team": "Watford",
+        "years": "2024-2026"
+      },
+      {
+        "team": "Panathinaikos",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Moussa Sissoko",
+    "options": [
+      "Moussa Sissoko",
+      "Moussa Dembele",
+      "Yohan Cabaye",
+      "Abdoulaye Doucouré"
+    ]
+  },
+  {
+    "id": 565,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Lens",
+        "years": "2009-2012"
+      },
+      {
+        "team": "Toulouse",
+        "years": "2012-2015"
+      },
+      {
+        "team": "Paris Saint-Germain (loan)",
+        "years": "2014-2015"
+      },
+      {
+        "team": "Paris Saint-Germain",
+        "years": "2015-2017"
+      },
+      {
+        "team": "Tottenham Hotspur",
+        "years": "2017-2021"
+      },
+      {
+        "team": "Villarreal",
+        "years": "2021-2022"
+      },
+      {
+        "team": "Nottingham Forest",
+        "years": "2022-2024"
+      },
+      {
+        "team": "Galatasaray",
+        "years": "2024"
+      },
+      {
+        "team": "Persepolis",
+        "years": "2025-2026"
+      }
+    ],
+    "correct_answer": "Serge Aurier",
+    "options": [
+      "Serge Aurier",
+      "Colin Dagba",
+      "Layvin Kurzawa",
+      "Juan Foyth"
+    ]
+  },
+  {
+    "id": 566,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Caldense",
+        "years": "2016-2017"
+      },
+      {
+        "team": "Grêmio Anápolis",
+        "years": "2017-2018"
+      },
+      {
+        "team": "Real Massamá (loan)",
+        "years": "2017-2018"
+      },
+      {
+        "team": "Napoli",
+        "years": "2018-2019"
+      },
+      {
+        "team": "Rio Ave (loan)",
+        "years": "2018-2019"
+      },
+      {
+        "team": "Monaco (loan)",
+        "years": "2019"
+      },
+      {
+        "team": "Benfica",
+        "years": "2019-2022"
+      },
+      {
+        "team": "Tottenham Hotspur (loan)",
+        "years": "2020-2021"
+      },
+      {
+        "team": "PSV Eindhoven (loan)",
+        "years": "2021-2022"
+      },
+      {
+        "team": "Fulham",
+        "years": "2022-2025"
+      },
+      {
+        "team": "Galatasaray (loan)",
+        "years": "2024"
+      },
+      {
+        "team": "Grêmio",
+        "years": "2025-Present"
+      }
+    ],
+    "correct_answer": "Carlos Vinícius",
+    "options": [
+      "Carlos Vinícius",
+      "Everton Soares",
+      "Matheus Cunha",
+      "Evanilson"
+    ]
+  },
+  {
+    "id": 567,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Grasshopper",
+        "years": "2009-2010"
+      },
+      {
+        "team": "Fiorentina",
+        "years": "2010-2013"
+      },
+      {
+        "team": "Neuchâtel Xamax (loan)",
+        "years": "2011-2012"
+      },
+      {
+        "team": "Lecce (loan)",
+        "years": "2012"
+      },
+      {
+        "team": "Novara (loan)",
+        "years": "2013"
+      },
+      {
+        "team": "Real Sociedad",
+        "years": "2013-2014"
+      },
+      {
+        "team": "Eintracht Frankfurt",
+        "years": "2014-2017"
+      },
+      {
+        "team": "Benfica",
+        "years": "2017-2023"
+      },
+      {
+        "team": "Galatasaray (loan)",
+        "years": "2022-2023"
+      },
+      {
+        "team": "Celta Vigo (loan)",
+        "years": "2023"
+      },
+      {
+        "team": "Al Wasl",
+        "years": "2023-2025"
+      },
+      {
+        "team": "Al-Nasr",
+        "years": "2025"
+      },
+      {
+        "team": "Dubai United",
+        "years": "2025-Present"
+      }
+    ],
+    "correct_answer": "Haris Seferovic",
+    "options": [
+      "Haris Seferovic",
+      "Mario Gavranović",
+      "Josip Drmić",
+      "Admir Mehmedi"
+    ]
+  },
+  {
+    "id": 568,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Silkeborg",
+        "years": "2014-2015"
+      },
+      {
+        "team": "Ajax",
+        "years": "2015-2019"
+      },
+      {
+        "team": "Nice",
+        "years": "2019-2023"
+      },
+      {
+        "team": "Sevilla (loan)",
+        "years": "2022"
+      },
+      {
+        "team": "TSG Hoffenheim (loan)",
+        "years": "2023"
+      },
+      {
+        "team": "Anderlecht",
+        "years": "2023-2025"
+      },
+      {
+        "team": "Ajax",
+        "years": "2025-Present"
+      }
+    ],
+    "correct_answer": "Kasper Dolberg",
+    "options": [
+      "Kasper Dolberg",
+      "Lasse Schöne",
+      "Yussuf Poulsen",
+      "Andreas Cornelius"
+    ]
+  },
+  {
+    "id": 569,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Leeds United",
+        "years": "2003-2005"
+      },
+      {
+        "team": "Tottenham Hotspur",
+        "years": "2005-2015"
+      },
+      {
+        "team": "Everton (loan)",
+        "years": "2015"
+      },
+      {
+        "team": "Everton",
+        "years": "2015-2018"
+      },
+      {
+        "team": "Burnley",
+        "years": "2018-2020"
+      },
+      {
+        "team": "Kayserispor",
+        "years": "2020-2021"
+      },
+      {
+        "team": "Burnley",
+        "years": "2021-2022"
+      }
+    ],
+    "correct_answer": "Aaron Lennon",
+    "options": [
+      "Aaron Lennon",
+      "Theo Walcott",
+      "Stewart Downing",
+      "Adam Johnson"
+    ]
+  },
+  {
+    "id": 570,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Manchester City",
+        "years": "2010-2012"
+      },
+      {
+        "team": "Leicester City (loan)",
+        "years": "2011"
+      },
+      {
+        "team": "Burnley (loan)",
+        "years": "2011-2012"
+      },
+      {
+        "team": "Burnley",
+        "years": "2012-2022"
+      },
+      {
+        "team": "Brentford",
+        "years": "2022-2025"
+      },
+      {
+        "team": "Sheffield United",
+        "years": "2025-2026"
+      }
+    ],
+    "correct_answer": "Ben Mee",
+    "options": [
+      "Ben Mee",
+      "Sam Vokes",
+      "James Tarkowski",
+      "Michael Keane"
+    ]
+  },
+  {
+    "id": 571,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Barcelona B",
+        "years": "2011-2013"
+      },
+      {
+        "team": "Barcelona",
+        "years": "2011-2020"
+      },
+      {
+        "team": "Celta (loan)",
+        "years": "2013-2014"
+      },
+      {
+        "team": "Inter Milan (loan)",
+        "years": "2018"
+      },
+      {
+        "team": "Celta (loan)",
+        "years": "2019-2020"
+      },
+      {
+        "team": "Paris Saint-Germain",
+        "years": "2020-2022"
+      },
+      {
+        "team": "Real Sociedad (loan)",
+        "years": "2022"
+      },
+      {
+        "team": "Al-Arabi",
+        "years": "2022-2025"
+      }
+    ],
+    "correct_answer": "Rafinha",
+    "options": [
+      "Rafinha",
+      "Christian Tello",
+      "Marc Bartra",
+      "Aleix Vidal"
+    ]
+  },
+  {
+    "id": 572,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Liria Prizren",
+        "years": "2010-2013"
+      },
+      {
+        "team": "Teuta",
+        "years": "2013-2014"
+      },
+      {
+        "team": "Besa Kavajë (loan)",
+        "years": "2014"
+      },
+      {
+        "team": "Giresunspor",
+        "years": "2014-2016"
+      },
+      {
+        "team": "Gençlerbirliği",
+        "years": "2016-2018"
+      },
+      {
+        "team": "Çaykur Rizespor",
+        "years": "2018-2019"
+      },
+      {
+        "team": "Fenerbahçe",
+        "years": "2019-2020"
+      },
+      {
+        "team": "Lazio",
+        "years": "2020-2022"
+      },
+      {
+        "team": "Mallorca (loan)",
+        "years": "2022"
+      },
+      {
+        "team": "Mallorca",
+        "years": "2022-2026"
+      },
+      {
+        "team": "Fenerbahçe",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Vedat Muriqi",
+    "options": [
+      "Vedat Muriqi",
+      "Cenk Tosun",
+      "Enes Ünal",
+      "Burak Yilmaz"
+    ]
+  },
+  {
+    "id": 573,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Young Survivors",
+        "years": "1981-1984"
+      },
+      {
+        "team": "Bong Range United",
+        "years": "1984-1985"
+      },
+      {
+        "team": "Mighty Barrolle",
+        "years": "1985-1986"
+      },
+      {
+        "team": "Invincible Eleven",
+        "years": "1986-1987"
+      },
+      {
+        "team": "Africa Sports",
+        "years": "1987"
+      },
+      {
+        "team": "Tonnerre Yaoundé",
+        "years": "1987-1988"
+      },
+      {
+        "team": "Monaco",
+        "years": "1988-1992"
+      },
+      {
+        "team": "Paris Saint-Germain",
+        "years": "1992-1995"
+      },
+      {
+        "team": "AC Milan",
+        "years": "1995-2000"
+      },
+      {
+        "team": "Chelsea (loan)",
+        "years": "2000"
+      },
+      {
+        "team": "Manchester City",
+        "years": "2000"
+      },
+      {
+        "team": "Marseille",
+        "years": "2000-2001"
+      },
+      {
+        "team": "Al Jazira",
+        "years": "2001-2003"
+      }
+    ],
+    "correct_answer": "George Weah",
+    "options": [
+      "George Weah",
+      "Jay-Jay Okocha",
+      "Ronaldinho",
+      "Roger Milla"
+    ]
+  },
+  {
+    "id": 574,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Dynamo Dresden",
+        "years": "1985-1990"
+      },
+      {
+        "team": "VfB Stuttgart",
+        "years": "1990-1992"
+      },
+      {
+        "team": "Inter Milan",
+        "years": "1992-1993"
+      },
+      {
+        "team": "Borussia Dortmund",
+        "years": "1993-1998"
+      }
+    ],
+    "correct_answer": "Matthias Sammer",
+    "options": [
+      "Matthias Sammer",
+      "Jürgen Kohler",
+      "Lothar Matthäus",
+      "Thomas Hässler"
+    ]
+  },
+  {
+    "id": 575,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Cruzeiro",
+        "years": "2000-2001"
+      },
+      {
+        "team": "Ajax",
+        "years": "2001-2006"
+      },
+      {
+        "team": "Inter Milan",
+        "years": "2006-2009"
+      },
+      {
+        "team": "Barcelona",
+        "years": "2009-2012"
+      },
+      {
+        "team": "Paris Saint-Germain",
+        "years": "2012-2017"
+      }
+    ],
+    "correct_answer": "Maxwell",
+    "options": [
+      "Maxwell",
+      "Adriano",
+      "Sylvinho",
+      "Van Der Wiel"
+    ]
+  },
+  {
+    "id": 576,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Fluminense",
+        "years": "2018-2019"
+      },
+      {
+        "team": "Šamorín (loan)",
+        "years": "2018"
+      },
+      {
+        "team": "Tombense",
+        "years": "2020"
+      },
+      {
+        "team": "Fluminense (loan)",
+        "years": "2020"
+      },
+      {
+        "team": "Porto",
+        "years": "2020-2024"
+      },
+      {
+        "team": "Bournemouth",
+        "years": "2024-Present"
+      }
+    ],
+    "correct_answer": "Evanilson",
+    "options": [
+      "Evanilson",
+      "Rayan",
+      "Justin KLuivert",
+      "Junior Kroupi"
+    ]
+  },
+  {
+    "id": 577,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Lyon B",
+        "years": "2016-2020"
+      },
+      {
+        "team": "Lyon",
+        "years": "2017-2020"
+      },
+      {
+        "team": "Nice",
+        "years": "2020-2022"
+      },
+      {
+        "team": "Rennes",
+        "years": "2022-2025"
+      },
+      {
+        "team": "Marseille",
+        "years": "2025-Present"
+      }
+    ],
+    "correct_answer": "Amine Gouiri",
+    "options": [
+      "Amine Gouiri",
+      "Neal Maupay",
+      "Said Benrahma",
+      "Himmad Abdelli"
+    ]
+  },
+  {
+    "id": 578,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Rennes B",
+        "years": "2010-2013"
+      },
+      {
+        "team": "Rennes",
+        "years": "2012-2016"
+      },
+      {
+        "team": "Watford",
+        "years": "2016-2020"
+      },
+      {
+        "team": "Granada (loan)",
+        "years": "2016"
+      },
+      {
+        "team": "Everton",
+        "years": "2020-2025"
+      },
+      {
+        "team": "Neom",
+        "years": "2025-2026"
+      }
+    ],
+    "correct_answer": "Abdoulaye Doucouré",
+    "options": [
+      "Abdoulaye Doucouré",
+      "Idrissa Gueye",
+      "Beto",
+      "Thierno Barry"
+    ]
+  },
+  {
+    "id": 579,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Real Madrid B",
+        "years": "2011-2013"
+      },
+      {
+        "team": "Real Madrid",
+        "years": "2011-2016"
+      },
+      {
+        "team": "Paris Saint-Germain",
+        "years": "2016-2020"
+      },
+      {
+        "team": "Las Palmas (loan)",
+        "years": "2017"
+      },
+      {
+        "team": "Stoke City (loan)",
+        "years": "2017-2018"
+      },
+      {
+        "team": "Real Betis (loan)",
+        "years": "2019"
+      },
+      {
+        "team": "Sporting CP (loan)",
+        "years": "2019-2020"
+      },
+      {
+        "team": "Las Palmas",
+        "years": "2021-2022"
+      },
+      {
+        "team": "Ankaragücü",
+        "years": "2022-2023"
+      },
+      {
+        "team": "Sampdoria",
+        "years": "2023"
+      },
+      {
+        "team": "Coritiba",
+        "years": "2023"
+      },
+      {
+        "team": "Johor Darul Ta'zim",
+        "years": "2024-2025"
+      },
+      {
+        "team": "Las Palmas",
+        "years": "2025-Present"
+      }
+    ],
+    "correct_answer": "Jesé",
+    "options": [
+      "Jesé",
+      "Lassana Diarra",
+      "Cristian Tello",
+      "Gerard Deulofeu"
+    ]
+  },
+  {
+    "id": 580,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Estudiantes",
+        "years": "2012-2014"
+      },
+      {
+        "team": "Sampdoria",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Sevilla",
+        "years": "2016-2018"
+      },
+      {
+        "team": "Lazio",
+        "years": "2018-2022"
+      },
+      {
+        "team": "Inter Milan (loan)",
+        "years": "2021-2022"
+      },
+      {
+        "team": "Inter Milan",
+        "years": "2022-2025"
+      },
+      {
+        "team": "Marseille (loan)",
+        "years": "2023-2024"
+      },
+      {
+        "team": "Botafogo",
+        "years": "2025-2026"
+      },
+      {
+        "team": "Club Estudiantes de La Plata",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Joaquín Correa",
+    "options": [
+      "Joaquín Correa",
+      "Tomás Palacios",
+      "Ever Banega",
+      "Alexis Sanchez"
+    ]
+  },
+  {
+    "id": 581,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Borussia Mönchengladbach II",
+        "years": "2006-2007"
+      },
+      {
+        "team": "Olympiacos",
+        "years": "2007-2014"
+      },
+      {
+        "team": "Panionios (loan)",
+        "years": "2007-2008"
+      },
+      {
+        "team": "Atromitos (loan)",
+        "years": "2010-2011"
+      },
+      {
+        "team": "Fulham",
+        "years": "2014-2016"
+      },
+      {
+        "team": "Benfica (loan)",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Benfica",
+        "years": "2016-2017"
+      },
+      {
+        "team": "Marseille",
+        "years": "2017-2021"
+      },
+      {
+        "team": "Galatasaray (loan)",
+        "years": "2019"
+      },
+      {
+        "team": "PSV (loan)",
+        "years": "2020"
+      },
+      {
+        "team": "Aris",
+        "years": "2021-2022"
+      },
+      {
+        "team": "Rheurdt-Schaephuysen",
+        "years": "2023"
+      },
+      {
+        "team": "Scherpenberg",
+        "years": "2023"
+      }
+    ],
+    "correct_answer": "Kostas Mitroglou",
+    "options": [
+      "Andreas Samaris",
+      "Kostas Mitroglou",
+      "Ljubomir Fejsa",
+      "Javier Saviola"
+    ]
+  },
+  {
+    "id": 582,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Rubin Kazan",
+        "years": "2013-2016"
+      },
+      {
+        "team": "Rostov (loan)",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Rostov",
+        "years": "2016-2017"
+      },
+      {
+        "team": "Rubin Kazan",
+        "years": "2017-2019"
+      },
+      {
+        "team": "Zenit Saint Petersburg",
+        "years": "2019-2022"
+      },
+      {
+        "team": "Bayer Leverkusen",
+        "years": "2022-2024"
+      },
+      {
+        "team": "Roma (loan)",
+        "years": "2023-2024"
+      },
+      {
+        "team": "Shabab Al Ahli",
+        "years": "2024-Present"
+      }
+    ],
+    "correct_answer": "Sardar Azmoun",
+    "options": [
+      "Patrick Schick",
+      "Sardar Azmoun",
+      "Moussa Diaby",
+      "Andrey Lunyov"
+    ]
+  },
+  {
+    "id": 583,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Galatasaray",
+        "years": "2018-2019"
+      },
+      {
+        "team": "VfB Stuttgart",
+        "years": "2019"
+      },
+      {
+        "team": "Schalke 04",
+        "years": "2019-2022"
+      },
+      {
+        "team": "Liverpool (loan)",
+        "years": "2021"
+      },
+      {
+        "team": "Norwich City (loan)",
+        "years": "2021-2022"
+      },
+      {
+        "team": "TSG Hoffenheim",
+        "years": "2022-Present"
+      }
+    ],
+    "correct_answer": "Ozan Kabak",
+    "options": [
+      "Ozan Kabak",
+      "Joel Matip",
+      "Teemu Pukki",
+      "Sebastien Rudy"
+    ]
+  },
+  {
+    "id": 584,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Osijek",
+        "years": "2006-2010"
+      },
+      {
+        "team": "Bayer Leverkusen",
+        "years": "2010-2011"
+      },
+      {
+        "team": "Dinamo Zagreb",
+        "years": "2011-2013"
+      },
+      {
+        "team": "Dynamo Kyiv",
+        "years": "2013-2018"
+      },
+      {
+        "team": "Beşiktaş",
+        "years": "2018-2022"
+      },
+      {
+        "team": "AEK Athens",
+        "years": "2022-Present"
+      }
+    ],
+    "correct_answer": "Domagoj Vida",
+    "options": [
+      "Joao Mario",
+      "Tin Jedvaj",
+      "Domagoj Vida",
+      "Cican Stankovic"
+    ]
+  },
+  {
+    "id": 585,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "FC Yuri Gagarin",
+        "years": "1981-1982"
+      },
+      {
+        "team": "Hebros Harmanli",
+        "years": "1982-1983"
+      },
+      {
+        "team": "CSKA Sofia",
+        "years": "1984-1990"
+      },
+      {
+        "team": "Barcelona",
+        "years": "1990-1995"
+      },
+      {
+        "team": "Parma",
+        "years": "1995-1996"
+      },
+      {
+        "team": "Barcelona",
+        "years": "1996-1998"
+      },
+      {
+        "team": "CSKA Sofia (loan)",
+        "years": "1997-1998"
+      },
+      {
+        "team": "Al-Nassr",
+        "years": "1998"
+      },
+      {
+        "team": "Kashiwa Reysol",
+        "years": "1998-1999"
+      },
+      {
+        "team": "Chicago Fire",
+        "years": "2000-2002"
+      },
+      {
+        "team": "D.C. United",
+        "years": "2003"
+      }
+    ],
+    "correct_answer": "Hristo Stoichkov",
+    "options": [
+      "Hristo Stoichkov",
+      "Gheorghe Hagi",
+      "Giovanni",
+      "Dragan Ciric"
+    ]
+  },
+  {
+    "id": 586,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Strasbourg",
+        "years": "2005-2008"
+      },
+      {
+        "team": "Lorient",
+        "years": "2008-2011"
+      },
+      {
+        "team": "Paris Saint-Germain",
+        "years": "2011-2013"
+      },
+      {
+        "team": "Sevilla",
+        "years": "2013-2016"
+      },
+      {
+        "team": "Atlético Madrid",
+        "years": "2016-2018"
+      },
+      {
+        "team": "Valencia",
+        "years": "2018-2021"
+      },
+      {
+        "team": "Strasbourg",
+        "years": "2021-2024"
+      }
+    ],
+    "correct_answer": "Kevin Gameiro",
+    "options": [
+      "Carlos Bacca",
+      "Roberto Soldado",
+      "Kevin Gameiro",
+      "Ever Banega"
+    ]
+  },
+  {
+    "id": 587,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Santos",
+        "years": "2002-2004"
+      },
+      {
+        "team": "Chelsea",
+        "years": "2004-2012"
+      },
+      {
+        "team": "PSV (loan)",
+        "years": "2004-2007"
+      },
+      {
+        "team": "Paris Saint-Germain",
+        "years": "2012-2014"
+      },
+      {
+        "team": "AC Milan",
+        "years": "2014-2016"
+      }
+    ],
+    "correct_answer": "Alex",
+    "options": [
+      "Alex",
+      "Ramires",
+      "Juliano Belletti",
+      "Alexandre Pato"
+    ]
+  },
+  {
+    "id": 588,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Barcelona B",
+        "years": "2008-2011"
+      },
+      {
+        "team": "Barcelona",
+        "years": "2010-2011"
+      },
+      {
+        "team": "Chelsea",
+        "years": "2011-2015"
+      },
+      {
+        "team": "Valencia (loan)",
+        "years": "2013-2014"
+      },
+      {
+        "team": "VfB Stuttgart (loan)",
+        "years": "2014-2015"
+      },
+      {
+        "team": "Southampton",
+        "years": "2015-2022"
+      },
+      {
+        "team": "Girona",
+        "years": "2022-2023"
+      },
+      {
+        "team": "Barcelona",
+        "years": "2023-2025"
+      },
+      {
+        "team": "Girona (loan)",
+        "years": "2024-2025"
+      },
+      {
+        "team": "Southampton",
+        "years": "2025-2026"
+      },
+      {
+        "team": "Avispa Fukuoka",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Oriol Romeu",
+    "options": [
+      "Paulinho",
+      "Oriol Romeu",
+      "Andre Gomes",
+      "Ryan Bertrand"
+    ]
+  },
+  {
+    "id": 589,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Strasbourg B",
+        "years": "2005-2008"
+      },
+      {
+        "team": "Strasbourg",
+        "years": "2006-2008"
+      },
+      {
+        "team": "Southampton",
+        "years": "2008-2015"
+      },
+      {
+        "team": "Manchester United",
+        "years": "2015-2017"
+      },
+      {
+        "team": "Everton",
+        "years": "2017-2020"
+      },
+      {
+        "team": "Nice",
+        "years": "2020-2023"
+      },
+      {
+        "team": "Western Sydney Wanderers (loan)",
+        "years": "2023"
+      },
+      {
+        "team": "Konyaspor",
+        "years": "2023"
+      },
+      {
+        "team": "A.E. Kifisia",
+        "years": "2023-2024"
+      }
+    ],
+    "correct_answer": "Morgan Schneiderlin",
+    "options": [
+      "Marouane Fellaini",
+      "Morgan Schneiderlin",
+      "Tom Cleverley",
+      "Michael Keane"
+    ]
+  },
+  {
+    "id": 590,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Boavista",
+        "years": "2001-2004"
+      },
+      {
+        "team": "Aves (loan)",
+        "years": "2001-2003"
+      },
+      {
+        "team": "Porto",
+        "years": "2004-2010"
+      },
+      {
+        "team": "Liverpool",
+        "years": "2010-2011"
+      },
+      {
+        "team": "Chelsea",
+        "years": "2011-2012"
+      },
+      {
+        "team": "Fenerbahçe",
+        "years": "2012-2016"
+      }
+    ],
+    "correct_answer": "Raul Meireles",
+    "options": [
+      "Raul Meireles",
+      "Yossi Benayoun",
+      "Joe Cole",
+      "Victor Moses"
+    ]
+  },
+  {
+    "id": 591,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Kafue Celtic",
+        "years": "2014-2017"
+      },
+      {
+        "team": "Nchanga Rangers (loan)",
+        "years": "2014-2015"
+      },
+      {
+        "team": "Power Dynamos (loan)",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Liefering (loan)",
+        "years": "2016-2017"
+      },
+      {
+        "team": "Red Bull Salzburg",
+        "years": "2017-2021"
+      },
+      {
+        "team": "Leicester City",
+        "years": "2021-2026"
+      },
+      {
+        "team": "Hamburger SV",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Patson Daka",
+    "options": [
+      "Patson Daka",
+      "Kelechi Iheanacho",
+      "Wilfred Ndidi",
+      "Hamza Choudhury"
+    ]
+  },
+  {
+    "id": 592,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Tottenham Hotspur",
+        "years": "2014-2023"
+      },
+      {
+        "team": "Sampdoria (loan)",
+        "years": "2022-2023"
+      },
+      {
+        "team": "Leicester City",
+        "years": "2023-2026"
+      },
+      {
+        "team": "Cagliari",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Harry Winks",
+    "options": [
+      "Harry Winks",
+      "Oliver Skipp",
+      "James Madisson",
+      "Dennis Praet"
+    ]
+  },
+  {
+    "id": 593,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Urawa Red Diamonds",
+        "years": "2021-2023"
+      },
+      {
+        "team": "Sint-Truiden (loan)",
+        "years": "2023-2024"
+      },
+      {
+        "team": "Parma",
+        "years": "2024-2026"
+      },
+      {
+        "team": "Aston Villa",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Zion Suzuki",
+    "options": [
+      "Zion Suzuki",
+      "Matteo Ruggeri",
+      "Johan Manzambi",
+      "Brian Madjo"
+    ]
+  },
+  {
+    "id": 594,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Genoa",
+        "years": "2017-2022"
+      },
+      {
+        "team": "Albissola (loan)",
+        "years": "2017-2018"
+      },
+      {
+        "team": "Savona (loan)",
+        "years": "2018-2019"
+      },
+      {
+        "team": "Alessandria (loan)",
+        "years": "2019-2020"
+      },
+      {
+        "team": "Empoli (loan)",
+        "years": "2020-2021"
+      },
+      {
+        "team": "Juventus",
+        "years": "2022-Present"
+      },
+      {
+        "team": "Bologna (loan)",
+        "years": "2022-2023"
+      }
+    ],
+    "correct_answer": "Andrea Cambiaso",
+    "options": [
+      "Andrea Cambiaso",
+      "Nicolo Fagioli",
+      "Fabio Miretti",
+      "Federico Gatti"
+    ]
+  },
+  {
+    "id": 595,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Barcelona B",
+        "years": "2018-2021"
+      },
+      {
+        "team": "Barcelona",
+        "years": "2020-2022"
+      },
+      {
+        "team": "Celta Vigo",
+        "years": "2022-2026"
+      },
+      {
+        "team": "Crystal Palace",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Óscar Mingueza",
+    "options": [
+      "Óscar Mingueza",
+      "Chadi Riad",
+      "Riqui Puig",
+      "Iñaki Peña"
+    ]
+  },
+  {
+    "id": 596,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Porto B",
+        "years": "2019-2021"
+      },
+      {
+        "team": "Porto",
+        "years": "2020-2022"
+      },
+      {
+        "team": "Arsenal",
+        "years": "2022-2026"
+      },
+      {
+        "team": "Porto (loan)",
+        "years": "2024-2025"
+      },
+      {
+        "team": "Hamburger SV (loan)",
+        "years": "2025-2026"
+      },
+      {
+        "team": "Hamburger SV",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Fábio Vieira",
+    "options": [
+      "Fábio Vieira",
+      "Nuno Tavares",
+      "Jakub Kiwior",
+      "Cedric Soares"
+    ]
+  },
+  {
+    "id": 597,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Southampton",
+        "years": "2006-2014"
+      },
+      {
+        "team": "Bournemouth (loan)",
+        "years": "2007"
+      },
+      {
+        "team": "Liverpool",
+        "years": "2014-2020"
+      },
+      {
+        "team": "Brighton & Hove Albion",
+        "years": "2020-2024"
+      },
+      {
+        "team": "Southampton",
+        "years": "2024-2025"
+      }
+    ],
+    "correct_answer": "Adam Lallana",
+    "options": [
+      "Adam Lallana",
+      "Rickie Lambert",
+      "Danny Ings",
+      "Nathaniel Clyne"
+    ]
+  },
+  {
+    "id": 598,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Shahin Bushehr",
+        "years": "2010-2012"
+      },
+      {
+        "team": "Iranjavan",
+        "years": "2012-2014"
+      },
+      {
+        "team": "Persepolis",
+        "years": "2014-2018"
+      },
+      {
+        "team": "Al-Gharafa",
+        "years": "2018-2019"
+      },
+      {
+        "team": "Rio Ave",
+        "years": "2019-2020"
+      },
+      {
+        "team": "Porto",
+        "years": "2020-2024"
+      },
+      {
+        "team": "Inter Milan",
+        "years": "2024-2025"
+      },
+      {
+        "team": "Olympiacos",
+        "years": "2025-2026"
+      },
+      {
+        "team": "Al-Wasl",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Mehdi Taremi",
+    "options": [
+      "Mehdi Taremi",
+      "Alex Telles",
+      "Joao Mario",
+      "Sardar Azmoun"
+    ]
+  },
+  {
+    "id": 599,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Vitória",
+        "years": "2004-2006"
+      },
+      {
+        "team": "Kawasaki Frontale (loan)",
+        "years": "2005-2006"
+      },
+      {
+        "team": "Kawasaki Frontale",
+        "years": "2006-2008"
+      },
+      {
+        "team": "Consadole Sapporo (loan)",
+        "years": "2006-2007"
+      },
+      {
+        "team": "Tokyo Verdy (loan)",
+        "years": "2007"
+      },
+      {
+        "team": "Tokyo Verdy",
+        "years": "2007-2008"
+      },
+      {
+        "team": "Porto",
+        "years": "2008-2012"
+      },
+      {
+        "team": "Zenit Saint Petersburg",
+        "years": "2012-2016"
+      },
+      {
+        "team": "Shanghai Port",
+        "years": "2016-2020"
+      },
+      {
+        "team": "Atlético Mineiro",
+        "years": "2021-2026"
+      },
+      {
+        "team": "Fluminense",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Hulk",
+    "options": [
+      "Hulk",
+      "Malcom",
+      "Bruno Alves",
+      "Wendel"
+    ]
+  },
+  {
+    "id": 600,
+    "category": "guess_the_player_by_career",
+    "level": 4,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Tottenham Hotspur",
+        "years": "2019-2024"
+      },
+      {
+        "team": "Millwall (loan)",
+        "years": "2020-2021"
+      },
+      {
+        "team": "Ipswich Town (loan)",
+        "years": "2021"
+      },
+      {
+        "team": "Milton Keynes Dons (loan)",
+        "years": "2021-2022"
+      },
+      {
+        "team": "Preston North End (loan)",
+        "years": "2022-2023"
+      },
+      {
+        "team": "Excelsior (loan)",
+        "years": "2023-2024"
+      },
+      {
+        "team": "AZ Alkmaar",
+        "years": "2024-2026"
+      },
+      {
+        "team": "Real Betis",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Troy Parrott",
+    "options": [
+      "Troy Parrott",
+      "Lo Celso",
+      "Oliver Skipp",
+      "Facundo Bernal"
+    ]
+  },
+  {
+    "id": 601,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Lorient II",
+        "years": "2010-2013"
+      },
+      {
+        "team": "Lorient",
+        "years": "2012-2013"
+      },
+      {
+        "team": "Marseille II",
+        "years": "2013-2015"
+      },
+      {
+        "team": "Marseille",
+        "years": "2013-2015"
+      },
+      {
+        "team": "Juventus (loan)",
+        "years": "2015-2016"
+      },
+      {
+        "team": "Juventus",
+        "years": "2016-2017"
+      },
+      {
+        "team": "Southampton",
+        "years": "2017-2021"
+      },
+      {
+        "team": "Galatasaray (loan)",
+        "years": "2019-2020"
+      },
+      {
+        "team": "Fulham (loan)",
+        "years": "2020-2021"
+      },
+      {
+        "team": "Nice",
+        "years": "2021-2023"
+      },
+      {
+        "team": "Wolverhampton Wanderers",
+        "years": "2023-2025"
+      },
+      {
+        "team": "Galatasaray",
+        "years": "2025-Present"
+      }
+    ],
+    "correct_answer": "Mario Lemina",
+    "options": [
+      "Mario Lemina",
+      "Fabio Silva",
+      "Emerson Palmieri",
+      "Wilfried Singo"
+    ]
+  },
+  {
+    "id": 602,
+    "category": "guess_the_player_by_career",
+    "level": 5,
+    "question": "Which player had this career path?",
+    "career": [
+      {
+        "team": "Anderlecht",
+        "years": "2013-2019"
+      },
+      {
+        "team": "Wolverhampton Wanderers (loan)",
+        "years": "2018-2019"
+      },
+      {
+        "team": "Wolverhampton Wanderers",
+        "years": "2019-2022"
+      },
+      {
+        "team": "Aston Villa",
+        "years": "2022-2025"
+      },
+      {
+        "team": "Napoli (loan)",
+        "years": "2024"
+      },
+      {
+        "team": "Anderlecht (loan)",
+        "years": "2024-2025"
+      },
+      {
+        "team": "Oviedo",
+        "years": "2025-2026"
+      },
+      {
+        "team": "Hajduk Split",
+        "years": "2026-Present"
+      }
+    ],
+    "correct_answer": "Leander Dendoncker",
+    "options": [
+      "Leander Dendoncker",
+      "Dennis Praet",
+      "Adama Traore",
+      "Axel Tuanzebe"
     ]
   }
 ]

@@ -2,225 +2,913 @@
   {
     "id": 1,
     "question": "In Paris, the 'Parc des Princes' (PSG) and the 'Stade Jean-Bouin' (Paris FC) are famous for what geographical oddity?",
-    "options": ["They are separated only by a narrow street", "They share the same pitch on alternating weeks", "They are both built underground", "They are the only stadiums in the city"],
+    "options": [
+      "They are separated only by a narrow street",
+      "They share the same pitch on alternating weeks",
+      "They are both built underground",
+      "They are the only stadiums in the city"
+    ],
     "correct_answer": "They are separated only by a narrow street",
     "difficulty": 5
   },
   {
     "id": 2,
     "question": "Which of these clubs is the first team from inside the Arctic Circle to win a top-flight European league title?",
-    "options": ["Tromsø IL", "FK Bodø/Glimt", "Kiruna FF", "Rovaniemen Palloseura"],
+    "options": [
+      "Tromsø IL",
+      "FK Bodø/Glimt",
+      "Kiruna FF",
+      "Rovaniemen Palloseura"
+    ],
     "correct_answer": "FK Bodø/Glimt",
     "difficulty": 5
   },
   {
     "id": 3,
     "question": "Didier Drogba is famously credited with helping to pause a Civil War in his home country after qualifying for the 2006 World Cup. In which city was the crucial appeal made?",
-    "options": ["Abidjan", "Bouaké", "Yamoussoukro", "San Pédro"],
+    "options": [
+      "Abidjan",
+      "Bouaké",
+      "Yamoussoukro",
+      "San Pédro"
+    ],
     "correct_answer": "Bouaké",
-    "difficulty": 5
-  },
-  {
-    "id": 4,
-    "question": "Which city is home to the Greek club 'OFI', the most successful team from the island of Crete?",
-    "options": ["Heraklion", "Rethymno", "Chania", "Agios Nikolaos"],
-    "correct_answer": "Heraklion",
     "difficulty": 5
   },
   {
     "id": 5,
     "question": "The club 'UD Las Palmas' plays in the Spanish La Liga, but geographically, which continent is their home stadium located on?",
-    "options": ["Europe", "Africa", "South America", "Oceania"],
+    "options": [
+      "Europe",
+      "Africa",
+      "South America",
+      "Oceania"
+    ],
     "correct_answer": "Africa",
     "difficulty": 5
   },
   {
     "id": 6,
     "question": "Which is the only nation to have won the FIFA World Cup despite not having a fully professional domestic league at the time of their victory?",
-    "options": ["Uruguay", "West Germany", "Italy", "Argentina"],
+    "options": [
+      "Uruguay",
+      "West Germany",
+      "Italy",
+      "Argentina"
+    ],
     "correct_answer": "Uruguay",
     "difficulty": 5
   },
   {
     "id": 7,
-    "question": "The 'Estádio Hernando Siles', feared by visiting teams due to its extreme 3,600m altitude, is located in which city?",
-    "options": ["Quito", "Bogotá", "La Paz", "Cusco"],
-    "correct_answer": "La Paz",
-    "difficulty": 5
-  },
-  {
-    "id": 8,
-    "question": "Which manager is the only one to have won the top division league title in four different European countries?",
-    "options": ["Pep Guardiola", "José Mourinho", "Carlo Ancelotti", "Giovanni Trapattoni"],
-    "correct_answer": "Carlo Ancelotti",
-    "difficulty": 5
-  },
-  {
-    "id": 9,
-    "question": "The club 'Lumezzane' famously gave a debut to which future superstar, despite being located in a tiny mountain town in Northern Italy?",
-    "options": ["Roberto Baggio", "Mario Balotelli", "Andrea Pirlo", "Gianluigi Buffon"],
-    "correct_answer": "Mario Balotelli",
-    "difficulty": 5
-  },
-  {
-    "id": 10,
-    "question": "How many different London-based clubs have won the UEFA Champions League?",
-    "options": ["1", "2", "3", "4"],
-    "correct_answer": "1",
-    "difficulty": 5
-  },
-  {
-    "id": 11,
     "question": "Which city hosted the highest-scoring match in World Cup history (Austria 7-5 Switzerland)?",
-    "options": ["Lausanne", "Bern", "Zurich", "Basel"],
+    "options": [
+      "Lausanne",
+      "Bern",
+      "Zurich",
+      "Basel"
+    ],
     "correct_answer": "Lausanne",
     "difficulty": 5
   },
   {
-    "id": 12,
+    "id": 8,
     "question": "The club 'AS Monaco' plays in the French league system. What is the approximate capacity of their stadium, Stade Louis II, relative to the country's population?",
-    "options": ["5%", "15%", "50%", "100%"],
+    "options": [
+      "5%",
+      "15%",
+      "50%",
+      "100%"
+    ],
     "correct_answer": "50%",
     "difficulty": 5
   },
   {
-    "id": 13,
+    "id": 9,
     "question": "Which country is home to the 'Svangaskarð' stadium, famous for its view of the North Atlantic Ocean and the surrounding hills?",
-    "options": ["Iceland", "Faroe Islands", "Greenland", "Scotland"],
+    "options": [
+      "Iceland",
+      "Faroe Islands",
+      "Greenland",
+      "Scotland"
+    ],
     "correct_answer": "Faroe Islands",
     "difficulty": 5
   },
   {
-    "id": 14,
-    "question": "Which team beat Italy to disqualify them from the 2022 World Cup?",
-    "options": ["North Macedonia", "Portugal", "Bosnia and Herzegovina", "Sweden"],
-    "correct_answer": "North Macedonia",
-    "difficulty": 5
-  },
-  {
-    "id": 15,
+    "id": 10,
     "question": "In which city is the 'Rungrado 1st of May Stadium', the largest football stadium in the world by capacity, located?",
-    "options": ["Seoul", "Pyongyang", "Beijing", "Tokyo"],
+    "options": [
+      "Seoul",
+      "Pyongyang",
+      "Beijing",
+      "Tokyo"
+    ],
     "correct_answer": "Pyongyang",
     "difficulty": 5
   },
   {
-    "id": 16,
+    "id": 11,
     "question": "The 'Dundee Derby' (Dundee FC vs Dundee United) is famous because their stadiums are located where?",
-    "options": ["On the same street", "In different cities", "On opposite sides of a river", "They share one stadium"],
+    "options": [
+      "On the same street",
+      "In different cities",
+      "On opposite sides of a river",
+      "They share one stadium"
+    ],
     "correct_answer": "On the same street",
     "difficulty": 5
   },
   {
-    "id": 17,
-    "question": "Which nation was the first from the African confederation (CAF) to reach a World Cup semi-final?",
-    "options": ["Cameroon", "Senegal", "Ghana", "Morocco"],
-    "correct_answer": "Morocco",
-    "difficulty": 5
-  },
-  {
-    "id": 18,
+    "id": 12,
     "question": "Which country is the home of the club 'Aqvital FC Csákvár', which plays in a town with a population of only 5,000?",
-    "options": ["Hungary", "Slovakia", "Slovenia", "Czech Republic"],
+    "options": [
+      "Hungary",
+      "Slovakia",
+      "Slovenia",
+      "Czech Republic"
+    ],
     "correct_answer": "Hungary",
     "difficulty": 5
   },
   {
-    "id": 19,
-    "question": "In 2013, which nation became the first to represent the Oceania confederation (OFC) in a Confederations Cup?",
-    "options": ["New Zealand", "Tahiti", "Fiji", "Solomon Islands"],
-    "correct_answer": "New Zealand",
-    "difficulty": 5
-  },
-  {
-    "id": 20,
+    "id": 13,
     "question": "Which European capital city has the most professional football clubs in its country's top two divisions?",
-    "options": ["Athens", "London", "Istanbul", "Buenos Aires"],
+    "options": [
+      "Athens",
+      "London",
+      "Istanbul",
+      "Buenos Aires"
+    ],
     "correct_answer": "London",
     "difficulty": 5
   },
   {
-    "id": 21,
+    "id": 14,
     "question": "Which city hosted the 2024 Euro final?",
-    "options": ["Berlin", "Munich", "London", "Liverpool"],
+    "options": [
+      "Berlin",
+      "Munich",
+      "Leipzig",
+      "Leverkusen"
+    ],
     "correct_answer": "Berlin",
     "difficulty": 5
   },
   {
-    "id": 22,
+    "id": 15,
     "question": "Which country does the scorer of the 2024 UEFA Conference league final Ayoub El Kaabi come from?",
-    "options": ["Morocco", "Iran", "Portugal", "Spain"],
+    "options": [
+      "Morocco",
+      "Iran",
+      "Algeria",
+      "Tunisia"
+    ],
     "correct_answer": "Morocco",
     "difficulty": 5
   },
   {
-    "id": 23,
-    "question": "How many Spanish managers have won the Premier League title as of 2024?",
-    "options": ["1", "2", "3", "4"],
-    "correct_answer": "1",
-    "difficulty": 5
-  },
-  {
-    "id": 24,
-    "question": "The 'Nivelles' stadium was famously used as a neutral venue for which major European event due to security concerns in the 1970s?",
-    "options": ["European Cup Final", "Cup Winners' Cup Final", "Euro Semi-final", "Intercontinental Cup"],
-    "correct_answer": "Euro Semi-final",
-    "difficulty": 5
-  },
-  {
-    "id": 25,
+    "id": 16,
     "question": "Which country hosted the 1998 FIFA World Cup?",
-    "options": ["Russia", "Germany", "Denmark", "France"],
+    "options": [
+      "Russia",
+      "Germany",
+      "Denmark",
+      "France"
+    ],
     "correct_answer": "France",
     "difficulty": 5
   },
   {
-    "id": 26,
+    "id": 17,
     "question": "In which city was the legendary 1950 World Cup 'final' (Maracanazo) played?",
-    "options": ["São Paulo", "Brasília", "Rio de Janeiro", "Montevideo"],
+    "options": [
+      "São Paulo",
+      "Brasília",
+      "Rio de Janeiro",
+      "Montevideo"
+    ],
     "correct_answer": "Rio de Janeiro",
     "difficulty": 5
   },
   {
-    "id": 27,
+    "id": 18,
     "question": "Which nation is the only one to play in the South American confederation (CONMEBOL) despite being located in the Northern Hemisphere?",
-    "options": ["Colombia", "Venezuela", "Ecuador", "None of the above"],
+    "options": [
+      "Colombia",
+      "Venezuela",
+      "Ecuador",
+      "None of the above"
+    ],
     "correct_answer": "Venezuela",
     "difficulty": 5
   },
   {
-    "id": 28,
-    "question": "Which city is the club 'FC Santa Coloma' from?",
-    "options": ["Andorra la Vella", "Gibraltar", "San Marino", "Vaduz"],
-    "correct_answer": "Andorra la Vella",
-    "difficulty": 5
-  },
-  {
-    "id": 29,
+    "id": 19,
     "question": "Which country's national team is known as the 'Azkals'?",
-    "options": ["Indonesia", "Philippines", "Malaysia", "Thailand"],
+    "options": [
+      "Indonesia",
+      "Philippines",
+      "Malaysia",
+      "Thailand"
+    ],
     "correct_answer": "Philippines",
     "difficulty": 5
   },
   {
-    "id": 30,
+    "id": 20,
     "question": "Which Brazilian team performed a famous Europe tour in 1959 playing 22 matches in just 44 days with some of the best teams in Europe at the time?",
-    "options": ["Santos", "Vasco da Gama", "Palmeiras", "Corinthians FC"],
+    "options": [
+      "Santos",
+      "Vasco da Gama",
+      "Palmeiras",
+      "Corinthians FC"
+    ],
     "correct_answer": "Santos",
     "difficulty": 5
   },
   {
-    "id": 31,
+    "id": 21,
     "question": "Which city hosted the 2016 UEFA Europa League final?",
-    "options": ["Basel", "Stockholm", "Budapest", "Istanbul"],
+    "options": [
+      "Basel",
+      "Stockholm",
+      "Budapest",
+      "Istanbul"
+    ],
     "correct_answer": "Basel",
     "difficulty": 5
   },
   {
+    "id": 22,
+    "question": "The club 'Santa Clara' is the only team from which archipelago to play in the Portuguese top flight?",
+    "options": [
+      "Madeira",
+      "Azores",
+      "Cape Verde",
+      "Canary Islands"
+    ],
+    "correct_answer": "Azores",
+    "difficulty": 5
+  },
+  {
+    "id": 23,
+    "question": "In which city is the 'Stade de Suisse' located?",
+    "options": [
+      "Bern",
+      "Zurich",
+      "Basel",
+      "Lausanne"
+    ],
+    "correct_answer": "Bern",
+    "difficulty": 5
+  },
+  {
+    "id": 24,
+    "question": "The 'Estadio Daniel Alcides Carrión', the highest professional football stadium in the world, is in which country?",
+    "options": [
+      "Bolivia",
+      "Peru",
+      "Ecuador",
+      "Colombia"
+    ],
+    "correct_answer": "Peru",
+    "difficulty": 5
+  },
+  {
+    "id": 25,
+    "question": "What is Alejandro Balde's ancestry?",
+    "options": [
+      "Dominican and Bissau-Guinean",
+      "Senegalese and Portuguese",
+      "Ghanaian and Spanish",
+      "Moroccan and French"
+    ],
+    "correct_answer": "Dominican and Bissau-Guinean",
+    "difficulty": 5
+  },
+  {
+    "id": 26,
+    "question": "What is Antoine Griezmann's ancestry?",
+    "options": [
+      "German and Portuguese",
+      "Spanish and Italian",
+      "French and Belgian",
+      "Portuguese and Moroccan"
+    ],
+    "correct_answer": "German and Portuguese",
+    "difficulty": 5
+  },
+  {
+    "id": 27,
+    "question": "What is Ibrahima Konaté's ancestry?",
+    "options": [
+      "Malian",
+      "Senegalese",
+      "Ivorian",
+      "Guinean"
+    ],
+    "correct_answer": "Malian",
+    "difficulty": 5
+  },
+  {
+    "id": 28,
+    "question": "What is Mike Maignan's ancestry?",
+    "options": [
+      "Haitian and Guadeloupean",
+      "Martinican and Senegalese",
+      "Guyanese and Haitian",
+      "Guadeloupean and Ivorian"
+    ],
+    "correct_answer": "Haitian and Guadeloupean",
+    "difficulty": 5
+  },
+  {
+    "id": 29,
+    "question": "In which city did the Heysel Stadium disaster take place during the 1985 European Cup final?",
+    "options": [
+      "Brussels",
+      "London",
+      "Paris",
+      "Turin"
+    ],
+    "correct_answer": "Brussels",
+    "difficulty": 5
+  },
+  {
+    "id": 30,
+    "question": "Which country hosted the 1982 FIFA World Cup?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Argentina",
+      "France"
+    ],
+    "correct_answer": "Spain",
+    "difficulty": 5
+  },
+  {
+    "id": 31,
+    "question": "Which country hosted the 1978 FIFA World Cup?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Uruguay",
+      "Chile"
+    ],
+    "correct_answer": "Argentina",
+    "difficulty": 5
+  },
+  {
     "id": 32,
-    "question": "Which of the following countries was not represented by a player in the 2024-25 Premier League?",
-    "options": ["Burkina Faso", "Montserrat", "Barbados", "Eswatini"],
-    "correct_answer": "Eswatini",
+    "question": "Which country hosted UEFA Euro 1996?",
+    "options": [
+      "England",
+      "Scotland",
+      "France",
+      "Germany"
+    ],
+    "correct_answer": "England",
+    "difficulty": 5
+  },
+  {
+    "id": 33,
+    "question": "Which country hosted UEFA Euro 1992?",
+    "options": [
+      "Sweden",
+      "Denmark",
+      "Norway",
+      "Finland"
+    ],
+    "correct_answer": "Sweden",
+    "difficulty": 5
+  },
+  {
+    "id": 34,
+    "question": "Which country is Bohemians FC from?",
+    "options": [
+      "Ireland",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "correct_answer": "Ireland",
+    "difficulty": 5
+  },
+  {
+    "id": 35,
+    "question": "Which country is FC Volendam from?",
+    "options": [
+      "Belgium",
+      "Netherlands",
+      "Denmark",
+      "Germany"
+    ],
+    "correct_answer": "Netherlands",
+    "difficulty": 5
+  },
+  {
+    "id": 36,
+    "question": "Which country is Asteras Tripolis from?",
+    "options": [
+      "Greece",
+      "Cyprus",
+      "Serbia",
+      "Albania"
+    ],
+    "correct_answer": "Greece",
+    "difficulty": 5
+  },
+  {
+    "id": 37,
+    "question": "Which country is Inter Turku from?",
+    "options": [
+      "Finland",
+      "Sweden",
+      "Estonia",
+      "Latvia"
+    ],
+    "correct_answer": "Finland",
+    "difficulty": 5
+  },
+  {
+    "id": 38,
+    "question": "Which country is F91 Dudelange from?",
+    "options": [
+      "Luxembourg",
+      "Belgium",
+      "Switzerland",
+      "France"
+    ],
+    "correct_answer": "Luxembourg",
+    "difficulty": 5
+  },
+  {
+    "id": 39,
+    "question": "Which country is Araz-Nakhchivan from?",
+    "options": [
+      "Armenia",
+      "Georgia",
+      "Azerbaijan",
+      "Moldova"
+    ],
+    "correct_answer": "Azerbaijan",
+    "difficulty": 5
+  },
+  {
+    "id": 40,
+    "question": "Which country is Arsenal Tula from?",
+    "options": [
+      "Russia",
+      "Ukraine",
+      "Belarus",
+      "Kazakhstan"
+    ],
+    "correct_answer": "Russia",
+    "difficulty": 5
+  },
+  {
+    "id": 41,
+    "question": "Which country is FC Ballkani from?",
+    "options": [
+      "Kosovo",
+      "Albania",
+      "North Macedonia",
+      "Montenegro"
+    ],
+    "correct_answer": "Kosovo",
+    "difficulty": 5
+  },
+  {
+    "id": 42,
+    "question": "Which country is Skënderbeu Korçë from?",
+    "options": [
+      "Albania",
+      "Kosovo",
+      "Serbia",
+      "North Macedonia"
+    ],
+    "correct_answer": "Albania",
+    "difficulty": 5
+  },
+  {
+    "id": 43,
+    "question": "Which country is La Fiorita from?",
+    "options": [
+      "Andorra",
+      "San Marino",
+      "Gibraltar",
+      "Liechtenstein"
+    ],
+    "correct_answer": "San Marino",
+    "difficulty": 5
+  },
+  {
+    "id": 44,
+    "question": "Which country is Anorthosis Famagusta from?",
+    "options": [
+      "Cyprus",
+      "Greece",
+      "Malta",
+      "Israel"
+    ],
+    "correct_answer": "Cyprus",
+    "difficulty": 5
+  },
+  {
+    "id": 45,
+    "question": "Which country is Zamalek SC from?",
+    "options": [
+      "Egypt",
+      "Morocco",
+      "Tunisia",
+      "Algeria"
+    ],
+    "correct_answer": "Egypt",
+    "difficulty": 5
+  },
+  {
+    "id": 46,
+    "question": "Which country is Always Ready from?",
+    "options": [
+      "Bolivia",
+      "Peru",
+      "Ecuador",
+      "Colombia"
+    ],
+    "correct_answer": "Bolivia",
+    "difficulty": 5
+  },
+  {
+    "id": 47,
+    "question": "Which country is The Strongest from?",
+    "options": [
+      "Bolivia",
+      "Paraguay",
+      "Peru",
+      "Ecuador"
+    ],
+    "correct_answer": "Bolivia",
+    "difficulty": 5
+  },
+  {
+    "id": 48,
+    "question": "In which city did Germany defeat Brazil 7–1 in the 2014 FIFA World Cup semi-final?",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Belo Horizonte",
+      "Brasília"
+    ],
+    "correct_answer": "Belo Horizonte",
+    "difficulty": 5
+  },
+  {
+    "id": 49,
+    "question": "In which city did Spain win its first FIFA World Cup in 2010 with Andrés Iniesta's goal?",
+    "options": [
+      "Johannesburg",
+      "Cape Town",
+      "Durban",
+      "Port Elizabeth"
+    ],
+    "correct_answer": "Johannesburg",
+    "difficulty": 5
+  },
+  {
+    "id": 50,
+    "question": "In which city did Greece win UEFA Euro 2004?",
+    "options": [
+      "Lisbon",
+      "Porto",
+      "Athens",
+      "Faro"
+    ],
+    "correct_answer": "Lisbon",
+    "difficulty": 5
+  },
+  {
+    "id": 51,
+    "question": "In which city was the 2022 FIFA World Cup final played?",
+    "options": [
+      "Doha",
+      "Lusail",
+      "Al Rayyan",
+      "Al Wakrah"
+    ],
+    "correct_answer": "Lusail",
+    "difficulty": 5
+  },
+  {
+    "id": 52,
+    "question": "In which city did Manchester United complete their famous comeback against Bayern Munich in the 1999 UEFA Champions League final, scoring twice in stoppage time?",
+    "options": [
+      "London",
+      "Barcelona",
+      "Madrid",
+      "Rome"
+    ],
+    "correct_answer": "Barcelona",
+    "difficulty": 5
+  },
+  {
+    "id": 53,
+    "question": "Which club from Liechtenstein plays in the Swiss football league system?",
+    "options": [
+      "FC Vaduz",
+      "FC Balzers",
+      "FC Triesen",
+      "FC Schaan"
+    ],
+    "correct_answer": "FC Vaduz",
+    "difficulty": 5
+  },
+  {
+    "id": 54,
+    "question": "Which Welsh club plays in the English football league system?",
+    "options": [
+      "Swansea City",
+      "Aberystwyth Town",
+      "The New Saints",
+      "Bala Town"
+    ],
+    "correct_answer": "Swansea City",
+    "difficulty": 5
+  },
+  {
+    "id": 55,
+    "question": "Which club from Northern Ireland plays in the Republic of Ireland's football league system?",
+    "options": [
+      "Derry City",
+      "Linfield",
+      "Sligo Rovers",
+      "Bohemians FC"
+    ],
+    "correct_answer": "Derry City",
+    "difficulty": 5
+  },
+  {
+    "id": 56,
+    "question": "Which country does former Manchester United player Dwight Yorke originate from?",
+    "options": [
+      "Trinidad and Tobago",
+      "Jamaica",
+      "Guyana",
+      "Suriname"
+    ],
+    "correct_answer": "Trinidad and Tobago",
+    "difficulty": 5
+  },
+  {
+    "id": 65,
+    "question": "Which country does Hamza Choudhury originate from?",
+    "options": [
+      "England",
+      "Bangladesh",
+      "Pakistan",
+      "India"
+    ],
+    "correct_answer": "Bangladesh",
+    "difficulty": 5
+  },
+  {
+    "id": 66,
+    "question": "Which country does former Arsenal player Aleksandr Hleb originate from?",
+    "options": [
+      "Belarus",
+      "Russia",
+      "Ukraine",
+      "Lithuania"
+    ],
+    "correct_answer": "Belarus",
+    "difficulty": 5
+  },
+  {
+    "id": 67,
+    "question": "Which country does former Tottenham Hotspur palyer Victor Wanyama originate from?",
+    "options": [
+      "Kenya",
+      "Uganda",
+      "Tanzania",
+      "Ghana"
+    ],
+    "correct_answer": "Kenya",
+    "difficulty": 5
+  },
+  {
+    "id": 68,
+    "question": "Which country does Vedat Muriqi originate from?",
+    "options": [
+      "Kosovo",
+      "Albania",
+      "North Macedonia",
+      "Montenegro"
+    ],
+    "correct_answer": "Kosovo",
+    "difficulty": 5
+  },
+  {
+    "id": 69,
+    "question": "Which country does Reinildo Mandava originate from?",
+    "options": [
+      "Mozambique",
+      "Angola",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "correct_answer": "Mozambique",
+    "difficulty": 5
+  },
+  {
+    "id": 70,
+    "question": "Which country does Gerson Rodrigues originate from?",
+    "options": [
+      "Luxembourg",
+      "Liechtenstein",
+      "Cape Verde",
+      "Curacao"
+    ],
+    "correct_answer": "Luxembourg",
+    "difficulty": 5
+  },
+  {
+    "id": 71,
+    "question": "Which country did the legendary Eusébio originate from?",
+    "options": [
+      "Portugal",
+      "Mozambique",
+      "Angola",
+      "Cape Verde"
+    ],
+    "correct_answer": "Mozambique",
+    "difficulty": 5
+  },
+  {
+    "id": 72,
+    "question": "In which country was the 1986 FIFA World Cup held?",
+    "options": [
+      "Mexico",
+      "Argentina",
+      "Spain",
+      "Brazil"
+    ],
+    "correct_answer": "Mexico",
+    "difficulty": 5
+  },
+  {
+    "id": 73,
+    "question": "Which continent's football federation does New Caledonia belong to?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Oceania",
+      "North America"
+    ],
+    "correct_answer": "Oceania",
+    "difficulty": 5
+  },
+  {
+    "id": 74,
+    "question": "In what Asian country is the Rungrado 1st of May Stadium, one of the largest stadiums in the world?",
+    "options": [
+      "South Korea",
+      "China",
+      "Japan",
+      "North Korea"
+    ],
+    "correct_answer": "North Korea",
+    "difficulty": 5
+  },
+  {
+    "id": 75,
+    "question": "In which territory do all top-division clubs share a single ground, the Victoria Stadium?",
+    "options": [
+      "Gibraltar",
+      "San Marino",
+      "Andorra",
+      "Faroe Islands"
+    ],
+    "correct_answer": "Gibraltar",
+    "difficulty": 5
+  },
+  {
+    "id": 76,
+    "question": "Which Istanbul club plays its home matches on the Asian side of the Bosphorus?",
+    "options": [
+      "Galatasaray",
+      "Beşiktaş",
+      "Fenerbahçe",
+      "Başakşehir"
+    ],
+    "correct_answer": "Fenerbahçe",
+    "difficulty": 5
+  },
+  {
+    "id": 77,
+    "question": "Guyana and Suriname are located in South America, but which confederation do their national teams compete in?",
+    "options": [
+      "CONMEBOL",
+      "CONCACAF",
+      "OFC",
+      "CAF"
+    ],
+    "correct_answer": "CONCACAF",
+    "difficulty": 5
+  },
+  {
+    "id": 78,
+    "question": "Marítimo and Nacional both come from which Portuguese archipelago?",
+    "options": [
+      "Azores",
+      "Madeira",
+      "Cape Verde",
+      "Berlengas"
+    ],
+    "correct_answer": "Madeira",
+    "difficulty": 5
+  },
+  {
+    "id": 79,
+    "question": "'The Float' at Marina Bay, a floating football pitch on water, is located in which country?",
+    "options": [
+      "Malaysia",
+      "Singapore",
+      "Thailand",
+      "Indonesia"
+    ],
+    "correct_answer": "Singapore",
+    "difficulty": 5
+  },
+  {
+    "id": 80,
+    "question": "Which city is home to the Estadio Azteca, the first stadium to host two World Cup finals?",
+    "options": [
+      "Guadalajara",
+      "Mexico City",
+      "Monterrey",
+      "Puebla"
+    ],
+    "correct_answer": "Mexico City",
+    "difficulty": 5
+  },
+  {
+    "id": 81,
+    "question": "The 'Derby della Lanterna' is contested by two clubs from which Italian city?",
+    "options": [
+      "Turin",
+      "Genoa",
+      "Verona",
+      "Milan"
+    ],
+    "correct_answer": "Genoa",
+    "difficulty": 5
+  },
+  {
+    "id": 82,
+    "question": "Which country is the club HŠK Zrinjski Mostar from?",
+    "options": [
+      "Croatia",
+      "Bosnia and Herzegovina",
+      "Serbia",
+      "Montenegro"
+    ],
+    "correct_answer": "Bosnia and Herzegovina",
+    "difficulty": 5
+  },
+  {
+    "id": 83,
+    "question": "The second leg of the 2018 Copa Libertadores final between River Plate and Boca Juniors was moved from Buenos Aires to which European city?",
+    "options": [
+      "Lisbon",
+      "Madrid",
+      "Milan",
+      "Barcelona"
+    ],
+    "correct_answer": "Madrid",
+    "difficulty": 5
+  },
+  {
+    "id": 84,
+    "question": "FC Andorra compete in which country's league system?",
+    "options": [
+      "Spain",
+      "France",
+      "Portugal",
+      "Andorra"
+    ],
+    "correct_answer": "Spain",
+    "difficulty": 5
+  },
+  {
+    "id": 85,
+    "question": "Gibraltar's national team played its home qualifiers for years at the Estádio Algarve, located in which country?",
+    "options": [
+      "Spain",
+      "Portugal",
+      "Morocco",
+      "Malta"
+    ],
+    "correct_answer": "Portugal",
     "difficulty": 5
   }
 ]

@@ -20,43 +20,11 @@
     "category": "guess_the_logo",
     "level": 3,
     "question": "Which team's logo is this?",
-    "image": "logos/celta_vigo.png",
-    "correct_answer": "Celta Vigo"
-  },
-  {
-    "id": 4,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/bologna.png",
-    "correct_answer": "Bologna"
-  },
-  {
-    "id": 5,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/sassuolo.png",
-    "correct_answer": "Sassuolo"
-  },
-  {
-    "id": 6,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/udinese.png",
-    "correct_answer": "Udinese"
-  },
-  {
-    "id": 7,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
     "image": "logos/mainz_05.png",
     "correct_answer": "Mainz 05"
   },
   {
-    "id": 8,
+    "id": 4,
     "category": "guess_the_logo",
     "level": 3,
     "question": "Which team's logo is this?",
@@ -64,55 +32,15 @@
     "correct_answer": "Union Berlin"
   },
   {
-    "id": 9,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/stuttgart.png",
-    "correct_answer": "VfB Stuttgart"
-  },
-  {
-    "id": 10,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/crystal_palace.png",
-    "correct_answer": "Crystal Palace"
-  },
-  {
-    "id": 11,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/fulham.png",
-    "correct_answer": "Fulham"
-  },
-  {
-    "id": 12,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/nottingham_forest.png",
-    "correct_answer": "Nottingham Forest"
-  },
-  {
-    "id": 13,
+    "id": 5,
     "category": "guess_the_logo",
     "level": 3,
     "question": "Which team's logo is this?",
     "image": "logos/nice.png",
-    "correct_answer": "OGC Nice"
+    "correct_answer": "Nice"
   },
   {
-    "id": 14,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/rennes.png",
-    "correct_answer": "Stade Rennais"
-  },
-  {
-    "id": 15,
+    "id": 6,
     "category": "guess_the_logo",
     "level": 3,
     "question": "Which team's logo is this?",
@@ -120,15 +48,7 @@
     "correct_answer": "Rio Ave"
   },
   {
-    "id": 16,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/az_alkmaar.png",
-    "correct_answer": "AZ Alkmaar"
-  },
-  {
-    "id": 17,
+    "id": 7,
     "category": "guess_the_logo",
     "level": 3,
     "question": "Which team's logo is this?",
@@ -136,47 +56,15 @@
     "correct_answer": "FC Twente"
   },
   {
-    "id": 18,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/braga.png",
-    "correct_answer": "Braga"
-  },
-  {
-    "id": 19,
+    "id": 8,
     "category": "guess_the_logo",
     "level": 3,
     "question": "Which team's logo is this?",
     "image": "logos/aek.png",
-    "correct_answer": "AEK Athens"
+    "correct_answer": "Aek Athens"
   },
   {
-    "id": 20,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/anderlecht.png",
-    "correct_answer": "Anderlecht"
-  },
-  {
-    "id": 21,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/club_brugge.png",
-    "correct_answer": "Club Brugge"
-  },
-  {
-    "id": 22,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/besiktas.png",
-    "correct_answer": "Besiktas"
-  },
-  {
-    "id": 23,
+    "id": 9,
     "category": "guess_the_logo",
     "level": 3,
     "question": "Which team's logo is this?",
@@ -184,39 +72,15 @@
     "correct_answer": "Trabzonspor"
   },
   {
-    "id": 24,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/olympiacos.png",
-    "correct_answer": "Olympiacos"
-  },
-  {
-    "id": 25,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/corinthians.png",
-    "correct_answer": "Corinthians"
-  },
-  {
-    "id": 26,
-    "category": "guess_the_logo",
-    "level": 3,
-    "question": "Which team's logo is this?",
-    "image": "logos/palmeiras.png",
-    "correct_answer": "Palmeiras"
-  },
-  {
-    "id": 27,
+    "id": 10,
     "category": "guess_the_logo",
     "level": 3,
     "question": "Which team's logo is this?",
     "image": "logos/alaves.png",
-    "correct_answer": "Deportivo Alaves"
+    "correct_answer": "Alaves"
   },
   {
-    "id": 28,
+    "id": 11,
     "category": "guess_the_logo",
     "level": 3,
     "question": "Which team's logo is this?",
@@ -224,7 +88,7 @@
     "correct_answer": "Leeds United"
   },
   {
-    "id": 29,
+    "id": 12,
     "category": "guess_the_logo",
     "level": 3,
     "question": "Which team's logo is this?",
@@ -232,11 +96,867 @@
     "correct_answer": "Panathinaikos"
   },
   {
-    "id": 30,
+    "id": 13,
     "category": "guess_the_logo",
     "level": 3,
     "question": "Which team's logo is this?",
     "image": "logos/al_ittihad.png",
-    "correct_answer": "Al-Ittihad"
+    "correct_answer": "Al Ittihad"
+  },
+  {
+    "id": 14,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/fluminense.png",
+    "correct_answer": "Fluminense"
+  },
+  {
+    "id": 15,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/mallorca.png",
+    "correct_answer": "Mallorca"
+  },
+  {
+    "id": 16,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/basel.png",
+    "correct_answer": "Basel"
+  },
+  {
+    "id": 17,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/botafogo.png",
+    "correct_answer": "Botafogo"
+  },
+  {
+    "id": 18,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/bournemouth.png",
+    "correct_answer": "Bournemouth"
+  },
+  {
+    "id": 19,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/corinthians.png",
+    "correct_answer": "Corinthians"
+  },
+  {
+    "id": 20,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/dynamo_kyiv.png",
+    "correct_answer": "Dynamo Kyiv"
+  },
+  {
+    "id": 21,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/flamengo.png",
+    "correct_answer": "Flamengo"
+  },
+  {
+    "id": 22,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/freiburg.png",
+    "correct_answer": "Freiburg"
+  },
+  {
+    "id": 23,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/gent.png",
+    "correct_answer": "Gent"
+  },
+  {
+    "id": 24,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/hamburger.png",
+    "correct_answer": "Hamburger"
+  },
+  {
+    "id": 25,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/koln.png",
+    "correct_answer": "Köln"
+  },
+  {
+    "id": 26,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/legia_warszawa.png",
+    "correct_answer": "Legia Warszawa"
+  },
+  {
+    "id": 27,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/monterrey.png",
+    "correct_answer": "Monterrey"
+  },
+  {
+    "id": 28,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/parma.png",
+    "correct_answer": "Parma"
+  },
+  {
+    "id": 29,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/paok.png",
+    "correct_answer": "PAOK"
+  },
+  {
+    "id": 30,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/rapid_wien.png",
+    "correct_answer": "Rapid Wien"
+  },
+  {
+    "id": 31,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/red_star.png",
+    "correct_answer": "Red Star"
+  },
+  {
+    "id": 32,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/slavia_praha.png",
+    "correct_answer": "Slavia Praha"
+  },
+  {
+    "id": 33,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/sunderland.png",
+    "correct_answer": "Sunderland"
+  },
+  {
+    "id": 34,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/standard_liege.png",
+    "correct_answer": "Standard Liège"
+  },
+  {
+    "id": 35,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/viktoria_plzen.png",
+    "correct_answer": "Viktoria Plzeň"
+  },
+  {
+    "id": 36,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/wolfsberger.png",
+    "correct_answer": "Wolfsberger"
+  },
+  {
+    "id": 37,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/augsburg.png",
+    "correct_answer": "Augsburg"
+  },
+  {
+    "id": 38,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/cagliari.png",
+    "correct_answer": "Cagliari"
+  },
+  {
+    "id": 39,
+    "category": "guess_the_logo",
+    "level": 4,
+    "question": "Which team's logo is this?",
+    "image": "logos/reims.png",
+    "correct_answer": "Reims"
+  },
+  {
+    "id": 41,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/bodo_glimt.png",
+    "correct_answer": "Bodø/Glimt"
+  },
+  {
+    "id": 42,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/getafe.png",
+    "correct_answer": "Getafe"
+  },
+  {
+    "id": 43,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/hull.png",
+    "correct_answer": "Hull City"
+  },
+  {
+    "id": 44,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/malmo.png",
+    "correct_answer": "Malmö FF"
+  },
+  {
+    "id": 45,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/lech_poznan.png",
+    "correct_answer": "Lech Poznań"
+  },
+  {
+    "id": 46,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/ferencvaros.png",
+    "correct_answer": "Ferencváros"
+  },
+  {
+    "id": 47,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/deportivo.png",
+    "correct_answer": "Deportivo La Coruña"
+  },
+  {
+    "id": 48,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/sampdoria.png",
+    "correct_answer": "Sampdoria"
+  },
+  {
+    "id": 49,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/indepediente.png",
+    "correct_answer": "Independiente"
+  },
+  {
+    "id": 50,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/brest.png",
+    "correct_answer": "Brest"
+  },
+  {
+    "id": 51,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/heerenveen.png",
+    "correct_answer": "Heerenveen"
+  },
+  {
+    "id": 52,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/utrecht.png",
+    "correct_answer": "Utrecht"
+  },
+  {
+    "id": 53,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/blackburn.png",
+    "correct_answer": "Blackburn Rovers"
+  },
+  {
+    "id": 54,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/strasbourg.png",
+    "correct_answer": "Strasbourg"
+  },
+  {
+    "id": 55,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/toulouse.png",
+    "correct_answer": "Toulouse"
+  },
+  {
+    "id": 56,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/coventry_city.png",
+    "correct_answer": "Coventry City"
+  },
+  {
+    "id": 57,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/molde.png",
+    "correct_answer": "Molde"
+  },
+  {
+    "id": 58,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/rosenborg.png",
+    "correct_answer": "Rosenborg"
+  },
+  {
+    "id": 59,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/torino.png",
+    "correct_answer": "Torino"
+  },
+  {
+    "id": 60,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/az_alkmaar.png",
+    "correct_answer": "AZ Alkmaar"
+  },
+  {
+    "id": 61,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/austria.png",
+    "correct_answer": "Austria Wien"
+  },
+  {
+    "id": 62,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/basaksehir.png",
+    "correct_answer": "İstanbul Başakşehir"
+  },
+  {
+    "id": 63,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/bordeaux.png",
+    "correct_answer": "Bordeaux"
+  },
+  {
+    "id": 64,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/club_america.png",
+    "correct_answer": "Club América"
+  },
+  {
+    "id": 65,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/cluj.png",
+    "correct_answer": "CFR Cluj"
+  },
+  {
+    "id": 66,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/copenhagen.png",
+    "correct_answer": "FC Copenhagen"
+  },
+  {
+    "id": 67,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/elche.png",
+    "correct_answer": "Elche"
+  },
+  {
+    "id": 68,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/nantes.png",
+    "correct_answer": "Nantes"
+  },
+  {
+    "id": 69,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/fcsb.png",
+    "correct_answer": "FCSB"
+  },
+  {
+    "id": 70,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/granada.png",
+    "correct_answer": "Granada"
+  },
+  {
+    "id": 71,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/huddersfield.png",
+    "correct_answer": "Huddersfield Town"
+  },
+  {
+    "id": 72,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/ipswich.png",
+    "correct_answer": "Ipswich Town"
+  },
+  {
+    "id": 73,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/krasnodar.png",
+    "correct_answer": "Krasnodar"
+  },
+  {
+    "id": 74,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/lokomotiv.png",
+    "correct_answer": "Lokomotiv Moscow"
+  },
+  {
+    "id": 75,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/lorient.png",
+    "correct_answer": "Lorient"
+  },
+  {
+    "id": 76,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/los_angeles.png",
+    "correct_answer": "Los Angeles FC"
+  },
+  {
+    "id": 77,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/midtjylland.png",
+    "correct_answer": "FC Midtjylland"
+  },
+  {
+    "id": 78,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/montpellier.png",
+    "correct_answer": "Montpellier"
+  },
+  {
+    "id": 79,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/norwich.png",
+    "correct_answer": "Norwich City"
+  },
+  {
+    "id": 80,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/partizan.png",
+    "correct_answer": "Partizan"
+  },
+  {
+    "id": 81,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/rayo_vallecano.png",
+    "correct_answer": "Rayo Vallecano"
+  },
+  {
+    "id": 82,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/lens.png",
+    "correct_answer": "Lens"
+  },
+  {
+    "id": 83,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/saint_etienne.png",
+    "correct_answer": "Saint-Étienne"
+  },
+  {
+    "id": 84,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/salzburg.png",
+    "correct_answer": "Red Bull Salzburg"
+  },
+  {
+    "id": 85,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/servette.png",
+    "correct_answer": "Servette"
+  },
+  {
+    "id": 86,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/sparta_praha.png",
+    "correct_answer": "Sparta Praha"
+  },
+  {
+    "id": 87,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/tigres_uanl.png",
+    "correct_answer": "Tigres UANL"
+  },
+  {
+    "id": 88,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/union_saint_gilloise.png",
+    "correct_answer": "Union Saint-Gilloise"
+  },
+  {
+    "id": 89,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/vitesse.png",
+    "correct_answer": "Vitesse"
+  },
+  {
+    "id": 90,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/west_brom.png",
+    "correct_answer": "West Bromwich Albion"
+  },
+  {
+    "id": 91,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/shakhtar.png",
+    "correct_answer": "Shakhtar Donetsk"
+  },
+  {
+    "id": 92,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/young_boys.png",
+    "correct_answer": "Young Boys"
+  },
+  {
+    "id": 93,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/la_galaxy.png",
+    "correct_answer": "LA Galaxy"
+  },
+  {
+    "id": 94,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/lask.png",
+    "correct_answer": "LASK"
+  },
+  {
+    "id": 95,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/le_mans.png",
+    "correct_answer": "Le Mans FC"
+  },
+  {
+    "id": 96,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/paris_fc.png",
+    "correct_answer": "Paris FC"
+  },
+  {
+    "id": 97,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/espanyol.png",
+    "correct_answer": "Espanyol"
+  },
+  {
+    "id": 98,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/real_zaragoza.png",
+    "correct_answer": "Real Zaragoza"
+  },
+  {
+    "id": 99,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/al_ahli.png",
+    "correct_answer": "Al Ahly"
+  },
+  {
+    "id": 100,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/atletico_mineiro.png",
+    "correct_answer": "Atletico Mineiro"
+  },
+  {
+    "id": 101,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/birmingham_city.png",
+    "correct_answer": "Birmingham City"
+  },
+  {
+    "id": 102,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/burnley.png",
+    "correct_answer": "Burnley"
+  },
+  {
+    "id": 103,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/leganes.png",
+    "correct_answer": "Leganes"
+  },
+  {
+    "id": 104,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/cruzeiro.png",
+    "correct_answer": "Cruzeiro"
+  },
+  {
+    "id": 105,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/estudiantes.png",
+    "correct_answer": "Estudiantes"
+  },
+  {
+    "id": 106,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/groningen.png",
+    "correct_answer": "FC Groningen"
+  },
+  {
+    "id": 107,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/metz.png",
+    "correct_answer": "Metz"
+  },
+  {
+    "id": 108,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/genoa.png",
+    "correct_answer": "Genoa"
+  },
+  {
+    "id": 109,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/gremio.png",
+    "correct_answer": "Gremio"
+  },
+  {
+    "id": 110,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/hellas_verona.png",
+    "correct_answer": "Hellas Verona"
+  },
+  {
+    "id": 111,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/hertha_bsc.png",
+    "correct_answer": "Hertha BSC"
+  },
+  {
+    "id": 112,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/genk.png",
+    "correct_answer": "Genk"
+  },
+  {
+    "id": 113,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/vasco_da_gama.png",
+    "correct_answer": "Vasco da Gama"
+  },
+  {
+    "id": 114,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/watford.png",
+    "correct_answer": "Watford"
+  },
+  {
+    "id": 115,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/internacional.png",
+    "correct_answer": "Internacional"
+  },
+  {
+    "id": 116,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/eibar.png",
+    "correct_answer": "Eibar"
+  },
+  {
+    "id": 117,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/sturm_graz.png",
+    "correct_answer": "Sturm Graz"
+  },
+  {
+    "id": 118,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/caen.png",
+    "correct_answer": "Caen"
+  },
+  {
+    "id": 119,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/southampton.png",
+    "correct_answer": "Southampton"
+  },
+  {
+    "id": 120,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/swansea_city.png",
+    "correct_answer": "Swansea City"
+  },
+  {
+    "id": 121,
+    "category": "guess_the_logo",
+    "level": 3,
+    "question": "Which team's logo is this?",
+    "image": "logos/salernitana.png",
+    "correct_answer": "Salernitana"
   }
 ]

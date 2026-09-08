@@ -1,32 +1,373 @@
 [
-  {"id":46,"match":"Sevilla vs Inter","score":"3-2","level":3,"notes":"Europa League Final 2020"},
-  {"id":47,"match":"Villarreal vs Manchester United","score":"1-1","level":3,"notes":"Europa League Final 2021"},
-  {"id":48,"match":"Eintracht Frankfurt vs Rangers","score":"1-1","level":3,"notes":"Europa League Final 2022 (with extra time)"},
-  {"id":49,"match":"Sevilla vs Roma","score":"1-1","level":3,"notes":"Europa League Final 2023"},
-  {"id":50,"match":"Chelsea vs Arsenal","score":"4-1","level":3,"notes":"Europa League Final 2019"},
-  {"id":51,"match":"Marseille vs Atletico Madrid","score":"0-3","level":3,"notes":"Europa League Final 2018"},
-  {"id":52,"match":"Barcelona vs Inter","score":"3-3","level":3,"notes":"UCL Semi-final 2025 first leg"},
-  {"id":53,"match":"Atletico Madrid vs Athletic Bilbao","score":"3-0","level":3,"notes":"Europa League Final 2012"},
-  {"id":54,"match":"Manchester City vs Real Madrid","score":"4-3","level":3,"notes":"UCL Semi-final 2022 first leg"},
-  {"id":55,"match":"Olympiacos vs Fiorentina","score":"1-0","level":3,"notes":"UEFA Conference League Final 2023 (with extra time)"},
-  {"id":56,"match":"Bayern Munich vs Barcelona","score":"4-0","level":3,"notes":"UCL Semi-final 2013 first leg"},
-  {"id":57,"match":"Barcelona vs Bayern Munich","score":"3-0","level":3,"notes":"UCL Semi-final 2015 first leg"},
-  {"id":58,"match":"Juventus vs Barcelona","score":"3-0","level":3,"notes":"UCL Quarter-final 2017 first leg"},
-  {"id":59,"match":"Roma vs Barcelona","score":"3-0","level":3,"notes":"UCL Quarter-final 2018 second leg"},
-  {"id":60,"match":"Manchester City vs QPR","score":"3-2","level":3,"notes":"Premier League 2012"},
-  {"id":61,"match":"France vs Argentina","score":"4-3","level":3,"notes":"World Cup Round of 16 2018"},
-  {"id":62,"match":"Real Betis vs Chelsea","score":"1-4","level":3,"notes":"UEFA Conference League Final 2025"},
-  {"id":63,"match":"Croatia vs England","score":"2-1","level":3,"notes":"World Cup Semi-final 2018 (with extra time)"},
-  {"id":64,"match":"France vs Belgium","score":"1-0","level":3,"notes":"World Cup Semi-final 2018"},
-  {"id":65,"match":"Argentina vs Croatia","score":"3-0","level":3,"notes":"World Cup Semi-final 2022"},
-  {"id":66,"match":"France vs Morocco","score":"2-0","level":3,"notes":"World Cup Semi-final 2022"},
-  {"id":67,"match":"Portugal vs Wales","score":"2-0","level":3,"notes":"EURO Semi-final 2016"},
-  {"id":68,"match":"Italy vs Spain","score":"1-1","level":3,"notes":"EURO Semi-final 2020 (with extra time)"},
-  {"id":69,"match":"Germany vs Italy","score":"1-2","level":3,"notes":"EURO Semi-final 2012"},
-  {"id":70,"match":"Spain vs Portugal","score":"3-3","level":3,"notes":"World Cup Group Stage 2018"},
-  {"id":71,"match":"Germany vs Brazil","score":"0-2","level":3,"notes":"World Cup Final 2002"},
-  {"id":72,"match":"Argentina vs Netherlands","score":"2-2","level":3,"notes":"World Cup Quarter-final 2022 (with extra time)"},
-  {"id":73,"match":"Brazil vs Colombia","score":"2-1","level":3,"notes":"World Cup Quarter-final 2014"},
-  {"id":74,"match":"Germany vs France","score":"1-0","level":3,"notes":"World Cup Quarter-final 2014"},
-  {"id":75,"match":"Spain vs Netherlands","score":"1-5","level":3,"notes":"World Cup Group Stage 2014"}
-  ]
+  {
+    "id": 38,
+    "match": "Spain vs Italy",
+    "score": "4-0",
+    "level": 3,
+    "notes": "EURO Final 2012(Last trophy for the Golden Era)"
+  },
+  {
+    "id": 39,
+    "match": "Netherlands vs Spain",
+    "score": "0-1",
+    "level": 3,
+    "notes": "World Cup Final 2010 (with extra time)(Iniesta's Moment of Immortality)"
+  },
+  {
+    "id": 40,
+    "match": "Sevilla vs Inter",
+    "score": "3-2",
+    "level": 3,
+    "notes": "Europa League Final 2020( Inter’s Nightmare Night in Cologne)"
+  },
+  {
+    "id": 41,
+    "match": "Chelsea vs Arsenal",
+    "score": "4-1",
+    "level": 3,
+    "notes": "Europa League Final 2019(Hazard’s Perfect Farewell)"
+  },
+  {
+    "id": 42,
+    "match": "Marseille vs Atletico Madrid",
+    "score": "0-3",
+    "level": 3,
+    "notes": "Europa League Final 2018(Griezmann’s Lyon Masterclass)"
+  },
+  {
+    "id": 43,
+    "match": "Barcelona vs Inter",
+    "score": "3-3",
+    "level": 3,
+    "notes": "UCL Semi-final 2025 first leg(Lamine Yamal Inspires Epic Barca Fightback)"
+  },
+  {
+    "id": 44,
+    "match": "Manchester City vs Real Madrid",
+    "score": "4-3",
+    "level": 3,
+    "notes": "UCL Semi-final 2022 first leg(De Bruyne's Brilliance vs Benzema's Ice-Cold Panenka)"
+  },
+  {
+    "id": 45,
+    "match": "Bayern Munich vs Barcelona",
+    "score": "4-0",
+    "level": 3,
+    "notes": "UCL Semi-final 2013 first leg(The Night Tiki-Taka Died)"
+  },
+  {
+    "id": 46,
+    "match": "Barcelona vs Bayern Munich",
+    "score": "3-0",
+    "level": 3,
+    "notes": "UCL Semi-final 2015 first leg(Messi Sent Boateng to the Floor)"
+  },
+  {
+    "id": 47,
+    "match": "Juventus vs Barcelona",
+    "score": "3-0",
+    "level": 3,
+    "notes": "UCL Quarter-final 2017 first leg(Dybala Outshone Messi)"
+  },
+  {
+    "id": 48,
+    "match": "Roma vs Barcelona",
+    "score": "3-0",
+    "level": 3,
+    "notes": "UCL Quarter-final 2018 second leg(The Greek God in Rome)"
+  },
+  {
+    "id": 49,
+    "match": "Manchester City vs QPR",
+    "score": "3-2",
+    "level": 3,
+    "notes": "Premier League 2012(AGUEROOOOO!)"
+  },
+  {
+    "id": 50,
+    "match": "France vs Argentina",
+    "score": "4-3",
+    "level": 3,
+    "notes": "World Cup Round of 16 2018(The Day 19-Year-Old Mbappé Destroyed Argentina)"
+  },
+  {
+    "id": 51,
+    "match": "Real Betis vs Chelsea",
+    "score": "1-4",
+    "level": 3,
+    "notes": "UEFA Conference League Final 2025(Chelsea Complete the European Clean Sweep)"
+  },
+  {
+    "id": 52,
+    "match": "Croatia vs England",
+    "score": "2-1",
+    "level": 3,
+    "notes": "World Cup Semi-final 2018 (with extra time)(Mandžukić Stuns Southgate)"
+  },
+  {
+    "id": 53,
+    "match": "France vs Belgium",
+    "score": "1-0",
+    "level": 3,
+    "notes": "World Cup Semi-final 2018(Belgium’s Last Chance...)"
+  },
+  {
+    "id": 54,
+    "match": "Argentina vs Croatia",
+    "score": "3-0",
+    "level": 3,
+    "notes": "World Cup Semi-final 2022(Álvarez’s Unstoppable Night)"
+  },
+  {
+    "id": 55,
+    "match": "France vs Morocco",
+    "score": "2-0",
+    "level": 3,
+    "notes": "World Cup Semi-final 2022(The End of the African Miracle)"
+  },
+  {
+    "id": 56,
+    "match": "Portugal vs Wales",
+    "score": "2-0",
+    "level": 3,
+    "notes": "EURO Semi-final 2016(Wales’ Dream Ends Here)"
+  },
+  {
+    "id": 57,
+    "match": "Italy vs Spain",
+    "score": "1-1",
+    "level": 3,
+    "notes": "EURO Semi-final 2020 (with extra time)(Morata’s Highs and Lows)"
+  },
+  {
+    "id": 58,
+    "match": "Germany vs Italy",
+    "score": "1-2",
+    "level": 3,
+    "notes": "EURO Semi-final 2012(The Balotelli Show!)"
+  },
+  {
+    "id": 59,
+    "match": "Spain vs Portugal",
+    "score": "3-3",
+    "level": 3,
+    "notes": "World Cup Group Stage 2018(Cristiano Ronaldo vs Spain)"
+  },
+  {
+    "id": 60,
+    "match": "Argentina vs Netherlands",
+    "score": "2-2",
+    "level": 3,
+    "notes": "World Cup Quarter-final 2022 (with extra time)( 'Qué Mirás, Bobo!')"
+  },
+  {
+    "id": 61,
+    "match": "Brazil vs Colombia",
+    "score": "2-1",
+    "level": 3,
+    "notes": "World Cup Quarter-final 2014(David Luiz's Unbelievable Free-Kick)"
+  },
+  {
+    "id": 62,
+    "match": "Germany vs France",
+    "score": "1-0",
+    "level": 3,
+    "notes": "World Cup Quarter-final 2014(The Brick Wall of Rio)"
+  },
+  {
+    "id": 63,
+    "match": "Spain vs Netherlands",
+    "score": "1-5",
+    "level": 3,
+    "notes": "World Cup Group Stage 2014(The Flying Dutchman)"
+  },
+  {
+    "id": 64,
+    "match": "Barcelona vs Arsenal",
+    "score": "2-1",
+    "level": 3,
+    "notes": "UCL Final 2006(The Red Card and the 4-Minute Collapse)"
+  },
+  {
+    "id": 65,
+    "match": "Milan vs Liverpool",
+    "score": "2-1",
+    "level": 3,
+    "notes": "UCL Final 2007(Ultimate Revenge)"
+  },
+  {
+    "id": 66,
+    "match": "Manchester United vs Chelsea",
+    "score": "1-1",
+    "level": 3,
+    "notes": "UCL Final 2008(with extra time)(The Most Dramatic Slip in Football History)"
+  },
+  {
+    "id": 67,
+    "match": "Barcelona vs Manchester United",
+    "score": "2-0",
+    "level": 3,
+    "notes": "UCL Final 2009(The Day the Ultimate Rivalry Began)"
+  },
+  {
+    "id": 68,
+    "match": "Italy vs France",
+    "score": "1-1",
+    "level": 3,
+    "notes": "FIFA World Cup Final 2006(with extra time)(The Headbutt That Shook the World)"
+  },
+  {
+    "id": 69,
+    "match": "Barcelona vs Real Madrid",
+    "score": "5-0",
+    "level": 3,
+    "notes": "La Liga 2010/11(The Night Tiki-Taka Humiliated Real Madrid)"
+  },
+  {
+    "id": 70,
+    "match": "Greece vs Portugal",
+    "score": "1-0",
+    "level": 3,
+    "notes": "EURO Final 2004(Ronaldo’s Tears, Greece’s Glory)"
+  },
+  {
+    "id": 71,
+    "match": "Olympiacos vs Fiorentina",
+    "score": "1-0",
+    "level": 3,
+    "notes": "UEFA Conference League Final 2024 (with extra time)(A Modern Greek Myth)"
+  },
+  {
+    "id": 72,
+    "match": "Real Madrid vs Barcelona",
+    "score": "2-0",
+    "level": 3,
+    "notes": "La Liga 2019-20(Vinicius Sparks the Bernabéu)"
+  },
+  {
+    "id": 73,
+    "match": "Germany vs Spain",
+    "score": "0-1",
+    "level": 3,
+    "notes": "EURO Final 2008(El Niño)"
+  },
+  {
+    "id": 74,
+    "match": "Liverpool vs Sevilla",
+    "score": "1-3",
+    "level": 3,
+    "notes": "Europa League Final 2016(Three in a Row)"
+  },
+  {
+    "id": 75,
+    "match": "Ajax vs Manchester United",
+    "score": "0-2",
+    "level": 3,
+    "notes": "Europa League Final 2017(Mourinho Completes the Set)"
+  },
+  {
+    "id": 76,
+    "match": "Roma vs Feyenoord",
+    "score": "1-0",
+    "level": 3,
+    "notes": "UEFA Conference League Final 2022(Mourinho's Trophy in Every Competition)"
+  },
+  {
+    "id": 77,
+    "match": "Fiorentina vs West Ham",
+    "score": "1-2",
+    "level": 3,
+    "notes": "UEFA Conference League Final 2023(Bowen's 90th-Minute Winner in Prague)"
+  },
+  {
+    "id": 78,
+    "match": "Chelsea vs Villarreal",
+    "score": "1-1",
+    "level": 3,
+    "notes": "UEFA Super Cup 2021(The Yellow Submarine That Refused to Sink)"
+  },
+  {
+    "id": 79,
+    "match": "Real Madrid vs Eintracht Frankfurt",
+    "score": "2-0",
+    "level": 3,
+    "notes": "UEFA Super Cup 2022(Βusiness as Usual in Helsinki)"
+  },
+  {
+    "id": 80,
+    "match": "Sevilla vs Manchester City",
+    "score": "1-1",
+    "level": 3,
+    "notes": "UEFA Super Cup 2023(City's First Ever Super Cup)"
+  },
+  {
+    "id": 81,
+    "match": "Real Madrid vs Atalanta",
+    "score": "2-0",
+    "level": 3,
+    "notes": "UEFA Super Cup 2024(Mbappe's First Trophy in White)"
+  },
+  {
+    "id": 82,
+    "match": "Paris Saint-Germain vs Tottenham",
+    "score": "2-2",
+    "level": 3,
+    "notes": "UEFA Super Cup 2025(Turned Upside Down in the Dying Minutes)"
+  },
+  {
+    "id": 83,
+    "match": "Chile vs Argentina",
+    "score": "0-0",
+    "level": 3,
+    "notes": "Copa America Final 2016 (with extra time)(Μessi Missed and Announced His Retirement)"
+  },
+  {
+    "id": 84,
+    "match": "Argentina vs Colombia",
+    "score": "1-0",
+    "level": 3,
+    "notes": "Copa America Final 2024 (with extra time(Messi's Tears))"
+  },
+  {
+    "id": 85,
+    "match": "Manchester City vs Aston Villa",
+    "score": "3-2",
+    "level": 3,
+    "notes": "Premier League 2021-22 Matchday 38(Τwo Goals Down With 15 Minutes Left)"
+  },
+  {
+    "id": 86,
+    "match": "Real Madrid vs Manchester City",
+    "score": "3-1",
+    "level": 3,
+    "notes": "UCL Semi-final 2022 second leg (with extra time)(Rodrygo Scored Twice in 90 Seconds)"
+  },
+  {
+    "id": 87,
+    "match": "Manchester City vs Real Madrid",
+    "score": "4-0",
+    "level": 3,
+    "notes": "UCL Semi-final 2023 second leg(Revenge Served Ice Cold at the Etihad)"
+  },
+  {
+    "id": 88,
+    "match": "Inter vs Barcelona",
+    "score": "4-3",
+    "level": 3,
+    "notes": "UCL Semi-final 2025 second leg (with extra time)(The Greatest Semi-Final Ever Played)"
+  },
+  {
+    "id": 89,
+    "match": "Ajax vs Tottenham",
+    "score": "2-3",
+    "level": 3,
+    "notes": "UCL Semi-final 2019 second leg(Lucas Moura’s Electric Second Half)"
+  },
+  {
+    "id": 90,
+    "match": "Brighton & Hove Albion vs Manchester City",
+    "score": "1-4",
+    "level": 3,
+    "notes": "Premier League 2018-19 final day(When Brighton Threatened to Shatter a Golden Season)"
+  }
+]

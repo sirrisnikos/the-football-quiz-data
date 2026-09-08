@@ -2,211 +2,1057 @@
   {
     "id": 1,
     "question": "Which city hosted the 2013 UEFA Champions League final?",
-    "options": ["London", "Manchester", "Liverpool", "Birmingham"],
+    "options": [
+      "London",
+      "Manchester",
+      "Liverpool",
+      "Birmingham"
+    ],
     "correct_answer": "London",
     "difficulty": 4
   },
   {
     "id": 2,
     "question": "Which country hosted the 2022 UEFA Champions League final?",
-    "options": ["France", "Hungary", "Spain", "Germany"],
+    "options": [
+      "France",
+      "Hungary",
+      "Spain",
+      "Germany"
+    ],
     "correct_answer": "France",
     "difficulty": 4
   },
   {
     "id": 3,
     "question": "Which country is the club 'BATE Borisov' from?",
-    "options": ["Ukraine", "Belarus", "Lithuania", "Latvia"],
+    "options": [
+      "Ukraine",
+      "Belarus",
+      "Lithuania",
+      "Latvia"
+    ],
     "correct_answer": "Belarus",
     "difficulty": 4
   },
   {
     "id": 4,
     "question": "The club 'Boavista' plays in the 'Estádio do Bessa' in which city?",
-    "options": ["Porto", "Lisbon", "Braga", "Faro"],
+    "options": [
+      "Porto",
+      "Lisbon",
+      "Braga",
+      "Faro"
+    ],
     "correct_answer": "Porto",
     "difficulty": 4
   },
   {
     "id": 5,
     "question": "What is the most northern European club?",
-    "options": ["Bodo/Glimt", "Tromsø IL", "Rosenborg", "Hacken"],
+    "options": [
+      "Bodo/Glimt",
+      "Tromsø IL",
+      "Rosenborg",
+      "Hacken"
+    ],
     "correct_answer": "Tromsø IL",
     "difficulty": 4
   },
   {
     "id": 6,
     "question": "In which country is the 'Lerkendal Stadion' located?",
-    "options": ["Sweden", "Norway", "Denmark", "Finland"],
+    "options": [
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland"
+    ],
     "correct_answer": "Norway",
     "difficulty": 4
   },
   {
     "id": 7,
     "question": "The club 'Young Boys' is based in which Swiss city?",
-    "options": ["Zurich", "Geneva", "Bern", "Basel"],
+    "options": [
+      "Zurich",
+      "Geneva",
+      "Bern",
+      "Basel"
+    ],
     "correct_answer": "Bern",
     "difficulty": 4
   },
   {
     "id": 8,
     "question": "Which country conceded the most goals in the 2022 FIFA World Cup?",
-    "options": ["Costa Rica", "Switzerland", "Serbia", "both Costa Rica and Switzerland"],
+    "options": [
+      "Costa Rica",
+      "Switzerland",
+      "Serbia",
+      "both Costa Rica and Switzerland"
+    ],
     "correct_answer": "Costa Rica",
     "difficulty": 4
   },
   {
     "id": 9,
-    "question": "In 2024, which nation became the 126th different country to be represented in the Premier League?",
-    "options": ["Uzbekistan", "Kazakhstan", "India", "Vietnam"],
+    "question": "Which country does Abdukodir Khusanov represent??",
+    "options": [
+      "Uzbekistan",
+      "Kazakhstan",
+      "India",
+      "Vietnam"
+    ],
     "correct_answer": "Uzbekistan",
     "difficulty": 4
   },
   {
     "id": 10,
     "question": "How many English clubs have reached a Champions League/European Cup final (including losses)?",
-    "options": ["13", "7", "11", "9"],
+    "options": [
+      "13",
+      "7",
+      "11",
+      "9"
+    ],
     "correct_answer": "9",
     "difficulty": 4
   },
   {
     "id": 11,
     "question": "Which city is home to the 'Craven Cottage' stadium?",
-    "options": ["London", "Manchester", "Leeds", "Leicester"],
+    "options": [
+      "London",
+      "Manchester",
+      "Leeds",
+      "Leicester"
+    ],
     "correct_answer": "London",
     "difficulty": 4
   },
   {
     "id": 12,
-    "question": "The 'Estadio Daniel Alcides Carrión', the highest professional football stadium in the world, is in which country?",
-    "options": ["Bolivia", "Peru", "Ecuador", "Colombia"],
-    "correct_answer": "Peru",
-    "difficulty": 4
-  },
-  {
-    "id": 13,
     "question": "Which country is the club 'KÍ Klaksvík' from?",
-    "options": ["Iceland", "Gibraltar", "Faroe Islands", "Liechtenstein"],
+    "options": [
+      "Iceland",
+      "Gibraltar",
+      "Faroe Islands",
+      "Liechtenstein"
+    ],
     "correct_answer": "Faroe Islands",
     "difficulty": 4
   },
   {
-    "id": 14,
+    "id": 13,
     "question": "The 'Veltins-Arena', which features a retractable pitch, is located in which German city?",
-    "options": ["Dortmund", "Gelsenkirchen", "Hamburg", "Bremen"],
+    "options": [
+      "Dortmund",
+      "Gelsenkirchen",
+      "Hamburg",
+      "Bremen"
+    ],
     "correct_answer": "Gelsenkirchen",
     "difficulty": 4
   },
   {
-    "id": 15,
+    "id": 14,
     "question": "Which is the smallest country by population to qualify for the FIFA World Cup?",
-    "options": ["San Marino", "Cape Verde", "Curaçao", "Iceland"],
+    "options": [
+      "San Marino",
+      "Cape Verde",
+      "Curaçao",
+      "Iceland"
+    ],
     "correct_answer": "Curaçao",
     "difficulty": 4
   },
   {
-    "id": 16,
+    "id": 15,
     "question": "Suriname, located in South America, is a member of which football confederation?",
-    "options": ["CONMEBOL", "CONCACAF", "OFC", "AFC"],
+    "options": [
+      "CONMEBOL",
+      "CONCACAF",
+      "OFC",
+      "AFC"
+    ],
     "correct_answer": "CONCACAF",
     "difficulty": 4
   },
   {
-    "id": 17,
-    "question": "In which city is the 'Stade de Suisse' located?",
-    "options": ["Bern", "Zurich", "Basel", "Lausanne"],
-    "correct_answer": "Bern",
-    "difficulty": 4
-  },
-  {
-    "id": 18,
-    "question": "The club 'Santa Clara' is the only team from which archipelago to play in the Portuguese top flight?",
-    "options": ["Madeira", "Azores", "Cape Verde", "Canary Islands"],
-    "correct_answer": "Azores",
-    "difficulty": 4
-  },
-  {
-    "id": 19,
+    "id": 16,
     "question": "Which of these pairs of professional football stadiums in England are geographically the closest to one another?",
-    "options": ["Liverpool and Everton", "Nottingham Forest and Notts County", "Arsenal and Tottenham", "Chelsea and Fulham"],
+    "options": [
+      "Liverpool and Everton",
+      "Nottingham Forest and Notts County",
+      "Arsenal and Tottenham",
+      "Chelsea and Fulham"
+    ],
     "correct_answer": "Nottingham Forest and Notts County",
     "difficulty": 4
   },
   {
-    "id": 20,
+    "id": 17,
     "question": "How many different German clubs have won the European Cup/Champions League?",
-    "options": ["2", "3", "4", "5"],
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
     "correct_answer": "3",
     "difficulty": 4
   },
   {
-    "id": 21,
-    "question": "Which of the following teams has the most Turkish league titles?",
-    "options": ["Trabzonspor", "Beşiktaş", "Galatasaray", "Fenerbahçe"],
-    "correct_answer": "Fenerbahçe",
-    "difficulty": 4
-  },
-  {
-    "id": 22,
+    "id": 18,
     "question": "Which country is the home of the club 'HJK'?",
-    "options": ["Norway", "Sweden", "Finland", "Estonia"],
+    "options": [
+      "Norway",
+      "Sweden",
+      "Finland",
+      "Estonia"
+    ],
     "correct_answer": "Finland",
     "difficulty": 4
   },
   {
-    "id": 23,
+    "id": 19,
     "question": "The 'El Monumental' and 'La Bombonera' are both located in which city?",
-    "options": ["Buenos Aires", "Santiago", "Lima", "Medellin"],
+    "options": [
+      "Buenos Aires",
+      "Santiago",
+      "Lima",
+      "Medellin"
+    ],
     "correct_answer": "Buenos Aires",
     "difficulty": 4
   },
   {
-    "id": 24,
+    "id": 20,
     "question": "Which national team has the most appearances in the UEFA European Championship?",
-    "options": ["Germany", "Spain", "France", "Italy"],
+    "options": [
+      "Germany",
+      "Spain",
+      "France",
+      "Italy"
+    ],
     "correct_answer": "Germany",
     "difficulty": 4
   },
   {
-    "id": 25,
+    "id": 21,
     "question": "In which city is the 'Saint James' Park located?",
-    "options": ["Brentford", "Liverpool", "Brighton", "Newcastle"],
+    "options": [
+      "Brentford",
+      "Liverpool",
+      "Brighton",
+      "Newcastle"
+    ],
     "correct_answer": "Newcastle",
     "difficulty": 4
   },
   {
-    "id": 26,
+    "id": 22,
     "question": "Which city is home to the club 'APOEL', a frequent Champions League participant?",
-    "options": ["Limassol", "Larnaca", "Nicosia", "Paphos"],
+    "options": [
+      "Limassol",
+      "Larnaca",
+      "Nicosia",
+      "Paphos"
+    ],
     "correct_answer": "Nicosia",
     "difficulty": 4
   },
   {
-    "id": 27,
+    "id": 23,
     "question": "The 'Dnipro Arena' is located in which country?",
-    "options": ["Ukraine", "Poland", "Russia", "Romania"],
+    "options": [
+      "Ukraine",
+      "Poland",
+      "Russia",
+      "Romania"
+    ],
     "correct_answer": "Ukraine",
     "difficulty": 4
   },
   {
-    "id": 28,
+    "id": 24,
     "question": "The English club Portsmouth FC plays at Fratton Park. What unique geographical distinction does this stadium hold among all professional English clubs?",
-    "options": ["It is the northernmost stadium", "It is located on an island", "It is the only stadium below sea level", "It is the furthest from any other club"],
+    "options": [
+      "It is the northernmost stadium",
+      "It is located on an island",
+      "It is the only stadium below sea level",
+      "It is the furthest from any other club"
+    ],
     "correct_answer": "It is located on an island",
     "difficulty": 4
   },
   {
-    "id": 29,
-    "question": "Which country is the home of the club 'Pyunik'?",
-    "options": ["Georgia", "Armenia", "Azerbaijan", "Moldova"],
+    "id": 25,
+    "question": "Which country is the home of the club 'Noah'?",
+    "options": [
+      "Georgia",
+      "Armenia",
+      "Azerbaijan",
+      "Moldova"
+    ],
     "correct_answer": "Armenia",
     "difficulty": 4
   },
   {
-    "id": 30,
+    "id": 26,
     "question": "How many European nations have been crowned FIFA World Cup champions?",
-    "options": ["4", "5", "6", "7"],
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
     "correct_answer": "5",
+    "difficulty": 4
+  },
+  {
+    "id": 27,
+    "question": "Which of the following footballers represents the Iran national team?",
+    "options": [
+      "Mehdi Taremi",
+      "Houssem Aouar",
+      "Hannibal Mejbri",
+      "Oğuz Aydın"
+    ],
+    "correct_answer": "Mehdi Taremi",
+    "difficulty": 4
+  },
+  {
+    "id": 28,
+    "question": "Which of the following footballers does not represent the Hungary national team?",
+    "options": [
+      "Barnabás Varga",
+      "Roland Sallai",
+      "Dominik Szoboszlai",
+      "Sebastian Szymański"
+    ],
+    "correct_answer": "Sebastian Szymański",
+    "difficulty": 4
+  },
+  {
+    "id": 29,
+    "question": "Which of the following footballers does not represent the Armenia national team?",
+    "options": [
+      "Henrikh Mkhitaryan",
+      "Arsen Zakharyan",
+      "Eduard Spertsyan",
+      "Nair Tiknizyan"
+    ],
+    "correct_answer": "Arsen Zakharyan",
+    "difficulty": 4
+  },
+  {
+    "id": 30,
+    "question": "Which of the following footballers does not represent the Georgia national team?",
+    "options": [
+      "Khvicha Kvaratskhelia",
+      "Georgi Melkadze",
+      "Georges Mikautadze",
+      "Otar Kakabadze"
+    ],
+    "correct_answer": "Georgi Melkadze",
+    "difficulty": 4
+  },
+  {
+    "id": 31,
+    "question": "Which of the following footballers represent the Israel national team?",
+    "options": [
+      "Manor Solomon",
+      "Nir Bitton",
+      "Mu'nas Dabbur",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "difficulty": 4
+  },
+  {
+    "id": 32,
+    "question": "Which of the following footballers does not represent the Egypt national team?",
+    "options": [
+      "Mohamed Salah",
+      "Hannibal Mejbri",
+      "Hamza Abdelkarim",
+      "Omar Marmoush"
+    ],
+    "correct_answer": "Hannibal Mejbri",
+    "difficulty": 4
+  },
+  {
+    "id": 33,
+    "question": "Which of the following footballers represents the Canada national team?",
+    "options": [
+      "Jonathan David",
+      "Stephen Eustaquio",
+      "Tajon Buchanan",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "difficulty": 4
+  },
+  {
+    "id": 34,
+    "question": "Which of the following footballers represents the Paraguay national team?",
+    "options": [
+      "Miguel Almirón",
+      "Facundo Pellistri",
+      "Johan Mojica",
+      "Julián Quiñones"
+    ],
+    "correct_answer": "Miguel Almirón",
+    "difficulty": 4
+  },
+  {
+    "id": 35,
+    "question": "Which of the following footballers represents the Republic of Ireland national team?",
+    "options": [
+      "Evan Ferguson",
+      "Kiernan Dewsbury-Hall",
+      "Hayden Hackney",
+      "All of the above"
+    ],
+    "correct_answer": "Evan Ferguson",
+    "difficulty": 4
+  },
+  {
+    "id": 36,
+    "question": "Which of the following footballers represents the Slovakia national team?",
+    "options": [
+      "Milan Škriniar",
+      "David Hancko",
+      "Stanislav Lobotka",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "difficulty": 4
+  },
+  {
+    "id": 37,
+    "question": "What is Kylian Mbappé's ancestry?",
+    "options": [
+      "Cameroonian and Algerian",
+      "Senegalese and Moroccan",
+      "Ghanaian and Algerian",
+      "Nigerian and French"
+    ],
+    "correct_answer": "Cameroonian and Algerian",
+    "difficulty": 4
+  },
+  {
+    "id": 38,
+    "question": "What is Declan Rice's ancestry?",
+    "options": [
+      "Irish",
+      "Scottish",
+      "Welsh",
+      "English"
+    ],
+    "correct_answer": "Irish",
+    "difficulty": 4
+  },
+  {
+    "id": 39,
+    "question": "What is Jack Grealish's ancestry?",
+    "options": [
+      "Irish",
+      "Scottish",
+      "Welsh",
+      "French"
+    ],
+    "correct_answer": "Irish",
+    "difficulty": 4
+  },
+  {
+    "id": 40,
+    "question": "What is Pepe ancestry?",
+    "options": [
+      "Ivorian",
+      "Ghanaian",
+      "Brazilian",
+      "Spanish"
+    ],
+    "correct_answer": "Brazilian",
+    "difficulty": 4
+  },
+  {
+    "id": 41,
+    "question": "What is Diego Costa's ancestry?",
+    "options": [
+      "Brazilian",
+      "Portuguese",
+      "Colombian",
+      "Argentine"
+    ],
+    "correct_answer": "Brazilian",
+    "difficulty": 4
+  },
+  {
+    "id": 42,
+    "question": "What is Zinedine Zidane's ancestry?",
+    "options": [
+      "Algerian",
+      "Moroccan",
+      "Tunisian",
+      "Egyptian"
+    ],
+    "correct_answer": "Algerian",
+    "difficulty": 4
+  },
+  {
+    "id": 43,
+    "question": "What is Romelu Lukaku's ancestry?",
+    "options": [
+      "Congolese",
+      "Ghanaian",
+      "Nigerian",
+      "Cameroonian"
+    ],
+    "correct_answer": "Congolese",
+    "difficulty": 4
+  },
+  {
+    "id": 44,
+    "question": "What is Raheem Sterling's ancestry?",
+    "options": [
+      "Jamaican",
+      "Barbadian",
+      "Nigerian",
+      "Ghanaian"
+    ],
+    "correct_answer": "Jamaican",
+    "difficulty": 4
+  },
+  {
+    "id": 45,
+    "question": "What is Jamal Musiala's ancestry?",
+    "options": [
+      "Nigerian and German",
+      "Ghanaian and English",
+      "Cameroonian and German",
+      "Nigerian and English"
+    ],
+    "correct_answer": "Nigerian and German",
+    "difficulty": 4
+  },
+  {
+    "id": 46,
+    "question": "What is Granit Xhaka's ancestry?",
+    "options": [
+      "Kosovar Albanian",
+      "North Macedonian",
+      "Serbian",
+      "Bosnian"
+    ],
+    "correct_answer": "Kosovar Albanian",
+    "difficulty": 4
+  },
+  {
+    "id": 47,
+    "question": "Which country is Dinamo Tbilisi from?",
+    "options": [
+      "Georgia",
+      "Armenia",
+      "Azerbaijan",
+      "Moldova"
+    ],
+    "correct_answer": "Georgia",
+    "difficulty": 4
+  },
+  {
+    "id": 48,
+    "question": "Which country is Linfield FC from?",
+    "options": [
+      "Ireland",
+      "Northern Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "correct_answer": "Northern Ireland",
+    "difficulty": 4
+  },
+  {
+    "id": 49,
+    "question": "Which country is Metalist Kharkiv from?",
+    "options": [
+      "Ukraine",
+      "Russia",
+      "Belarus",
+      "Poland"
+    ],
+    "correct_answer": "Ukraine",
+    "difficulty": 4
+  },
+  {
+    "id": 50,
+    "question": "Which country is Motherwell FC from?",
+    "options": [
+      "Scotland",
+      "England",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "correct_answer": "Scotland",
+    "difficulty": 4
+  },
+  {
+    "id": 51,
+    "question": "Which country is FC St. Gallen from?",
+    "options": [
+      "Austria",
+      "Switzerland",
+      "Germany",
+      "Liechtenstein"
+    ],
+    "correct_answer": "Switzerland",
+    "difficulty": 4
+  },
+  {
+    "id": 52,
+    "question": "Which country is Lanús from?",
+    "options": [
+      "Argentina",
+      "Uruguay",
+      "Chile",
+      "Paraguay"
+    ],
+    "correct_answer": "Argentina",
+    "difficulty": 4
+  },
+  {
+    "id": 53,
+    "question": "Which country is Pumas UNAM from?",
+    "options": [
+      "Mexico",
+      "United States",
+      "Colombia",
+      "Costa Rica"
+    ],
+    "correct_answer": "Mexico",
+    "difficulty": 4
+  },
+  {
+    "id": 54,
+    "question": "Which country is KV Kortrijk from?",
+    "options": [
+      "Belgium",
+      "Netherlands",
+      "Luxembourg",
+      "France"
+    ],
+    "correct_answer": "Belgium",
+    "difficulty": 4
+  },
+  {
+    "id": 55,
+    "question": "Which country is Dinamo Minsk from?",
+    "options": [
+      "Belarus",
+      "Ukraine",
+      "Lithuania",
+      "Latvia"
+    ],
+    "correct_answer": "Belarus",
+    "difficulty": 4
+  },
+  {
+    "id": 56,
+    "question": "Which country is RoPS Rovaniemi from?",
+    "options": [
+      "Finland",
+      "Sweden",
+      "Norway",
+      "Estonia"
+    ],
+    "correct_answer": "Finland",
+    "difficulty": 4
+  },
+  {
+    "id": 57,
+    "question": "Which country is PEC Zwolle from?",
+    "options": [
+      "Belgium",
+      "Netherlands",
+      "Denmark",
+      "Germany"
+    ],
+    "correct_answer": "Netherlands",
+    "difficulty": 4
+  },
+  {
+    "id": 58,
+    "question": "Which country is Aris FC from?",
+    "options": [
+      "Greece",
+      "Cyprus",
+      "Turkey",
+      "Bulgaria"
+    ],
+    "correct_answer": "Greece",
+    "difficulty": 4
+  },
+  {
+    "id": 59,
+    "question": "Which country is Jagiellonia Białystok from?",
+    "options": [
+      "Poland",
+      "Czech Republic",
+      "Slovakia",
+      "Hungary"
+    ],
+    "correct_answer": "Poland",
+    "difficulty": 4
+  },
+  {
+    "id": 61,
+    "question": "Which country's top division is called Ekstraklasa?",
+    "options": [
+      "Poland",
+      "Czech Republic",
+      "Slovakia",
+      "Hungary"
+    ],
+    "correct_answer": "Poland",
+    "difficulty": 4
+  },
+  {
+    "id": 62,
+    "question": "Which country's top division is called the Süper Lig?",
+    "options": [
+      "Turkey",
+      "Bulgaria",
+      "Serbia",
+      "Romania"
+    ],
+    "correct_answer": "Turkey",
+    "difficulty": 4
+  },
+  {
+    "id": 63,
+    "question": "Which country's top division is called the Premiership?",
+    "options": [
+      "Scotland",
+      "England",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "correct_answer": "Scotland",
+    "difficulty": 4
+  },
+  {
+    "id": 64,
+    "question": "How many different London-based clubs have won the UEFA Champions League?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "1",
+    "difficulty": 4
+  },
+  {
+    "id": 65,
+    "question": "Which country hosted UEFA Euro 2004?",
+    "options": [
+      "Spain",
+      "Greece",
+      "Portugal",
+      "Italy"
+    ],
+    "correct_answer": "Portugal",
+    "difficulty": 4
+  },
+  {
+    "id": 66,
+    "question": "Which countries co-hosted UEFA Euro 2008?",
+    "options": [
+      "Austria and Switzerland",
+      "Germany and Austria",
+      "Switzerland and France",
+      "Austria and Germany"
+    ],
+    "correct_answer": "Austria and Switzerland",
+    "difficulty": 4
+  },
+  {
+    "id": 67,
+    "question": "In which city did Chelsea win its first UEFA Champions League title in 2012?",
+    "options": [
+      "Munich",
+      "London",
+      "Madrid",
+      "Milan"
+    ],
+    "correct_answer": "Munich",
+    "difficulty": 4
+  },
+  {
+    "id": 68,
+    "question": "Which former country reached the FIFA World Cup final in 1934 and 1962?",
+    "options": [
+      "Czechoslovakia",
+      "Yugoslavia",
+      "Soviet Union",
+      "East Germany"
+    ],
+    "correct_answer": "Czechoslovakia",
+    "difficulty": 4
+  },
+  {
+    "id": 69,
+    "question": "Which country does Emmanuel Adebayor originate from?",
+    "options": [
+      "Togo",
+      "Ghana",
+      "Benin",
+      "Nigeria"
+    ],
+    "correct_answer": "Togo",
+    "difficulty": 4
+  },
+  {
+    "id": 70,
+    "question": "Which African country has made the most appearances at the FIFA World Cup?",
+    "options": [
+      "Cameroon",
+      "Morocco",
+      "Nigeria",
+      "Ghana"
+    ],
+    "correct_answer": "Cameroon",
+    "difficulty": 4
+  },
+  {
+    "id": 71,
+    "question": "In which country is the Estadio Azteca located?",
+    "options": [
+      "Mexico",
+      "Chile",
+      "Argentina",
+      "Paraguay"
+    ],
+    "correct_answer": "Mexico",
+    "difficulty": 4
+  },
+  {
+    "id": 72,
+    "question": "Which continent's football federation does Liechtenstein belong to?",
+    "options": [
+      "Europe",
+      "Asia",
+      "Oceania",
+      "North America"
+    ],
+    "correct_answer": "Europe",
+    "difficulty": 4
+  },
+  {
+    "id": 73,
+    "question": "What is Marko Arnautović's second nationality?",
+    "options": [
+      "Serbian",
+      "Croatian",
+      "Bosnian",
+      "Slovenian"
+    ],
+    "correct_answer": "Serbian",
+    "difficulty": 4
+  },
+  {
+    "id": 74,
+    "question": "What is Xherdan Shaqiri's family heritage?",
+    "options": [
+      "Kosovar",
+      "Albanian",
+      "Bosnian",
+      "Serbian"
+    ],
+    "correct_answer": "Kosovar",
+    "difficulty": 4
+  },
+  {
+    "id": 75,
+    "question": "What is Christian Pulisic's family heritage?",
+    "options": [
+      "Croatian",
+      "Serbian",
+      "Slovenian",
+      "Bosnian"
+    ],
+    "correct_answer": "Croatian",
+    "difficulty": 4
+  },
+  {
+    "id": 76,
+    "question": "Which countries will host UEFA Euro 2032?",
+    "options": [
+      "Italy and Turkey",
+      "Spain and Portugal",
+      "Germany and France",
+      "United Kingdom and Ireland"
+    ],
+    "correct_answer": "Italy and Turkey",
+    "difficulty": 4
+  },
+  {
+    "id": 77,
+    "question": "Which country will host the 2034 FIFA World Cup?",
+    "options": [
+      "Saudi Arabia",
+      "Australia",
+      "Qatar",
+      "United Arab Emirates"
+    ],
+    "correct_answer": "Saudi Arabia",
+    "difficulty": 4
+  },
+  {
+    "id": 78,
+    "question": "Which of these European cities boasts three football stadiums, all with a capacity of more than 50,000?",
+    "options": [
+      "Istanbul",
+      "Glasgow",
+      "Moscow",
+      "London"
+    ],
+    "correct_answer": "Glasgow",
+    "difficulty": 4
+  },
+  {
+    "id": 79,
+    "question": "Which Turkish club is not one of the three clubs involved in Istanbul's football rivalry?",
+    "options": [
+      "Beşiktaş",
+      "Trabzonspor",
+      "Galatasaray",
+      "Fenerbahçe"
+    ],
+    "correct_answer": "Trabzonspor",
+    "difficulty": 4
+  },
+  {
+    "id": 80,
+    "question": "The hosts of the 2002 World Cup have coastlines on which ocean?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_answer": "Pacific Ocean",
+    "difficulty": 4
+  },
+  {
+    "id": 81,
+    "question": "Which is the most western country in UEFA?",
+    "options": [
+      "Portugal",
+      "Ireland",
+      "Iceland",
+      "Faroe Islands"
+    ],
+    "correct_answer": "Iceland",
+    "difficulty": 4
+  },
+  {
+    "id": 82,
+    "question": "The J.League is the top football league of which country?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "China",
+      "Thailand"
+    ],
+    "correct_answer": "Japan",
+    "difficulty": 4
+  },
+  {
+    "id": 83,
+    "question": "Which Danish territory takes part in UEFA international football?",
+    "options": [
+      "Greenland",
+      "Faroe Islands",
+      "Gibraltar",
+      "Luxembourg"
+    ],
+    "correct_answer": "Faroe Islands",
+    "difficulty": 4
+  },
+  {
+    "id": 84,
+    "question": "Which Iberian UEFA international team has the lowest population?",
+    "options": [
+      "Portugal",
+      "Spain",
+      "Andorra",
+      "Gibraltar"
+    ],
+    "correct_answer": "Gibraltar",
+    "difficulty": 4
+  },
+  {
+    "id": 85,
+    "question": "The club FC Sheriff Tiraspol, based in the breakaway region of Transnistria, officially represents which country in international competitions?",
+    "options": [
+      "Ukraine",
+      "Romania",
+      "Moldova",
+      "Russia"
+    ],
+    "correct_answer": "Moldova",
+    "difficulty": 4
+  },
+  {
+    "id": 86,
+    "question": "Which country is the club Always Ready from?",
+    "options": [
+      "Peru",
+      "Ecuador",
+      "Bolivia",
+      "Chile"
+    ],
+    "correct_answer": "Bolivia",
+    "difficulty": 4
+  },
+  {
+    "id": 87,
+    "question": "Which country is the club Espérance de Tunis from?",
+    "options": [
+      "Algeria",
+      "Libya",
+      "Tunisia",
+      "Morocco"
+    ],
+    "correct_answer": "Tunisia",
+    "difficulty": 4
+  },
+  {
+    "id": 88,
+    "question": "Which country is the dominant club The New Saints from?",
+    "options": [
+      "Scotland",
+      "Northern Ireland",
+      "Wales",
+      "Republic of Ireland"
+    ],
+    "correct_answer": "Wales",
+    "difficulty": 4
+  },
+  {
+    "id": 89,
+    "question": "Liechtenstein has its own football association, but its clubs play in which country's domestic league system?",
+    "options": [
+      "Austria",
+      "Germany",
+      "Switzerland",
+      "Italy"
+    ],
+    "correct_answer": "Switzerland",
     "difficulty": 4
   }
 ]

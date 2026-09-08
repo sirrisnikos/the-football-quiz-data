@@ -13,7 +13,7 @@
     "level": 1,
     "question": "Which team's logo is this?",
     "image": "logos/barcelona.png",
-    "correct_answer": "Barcelona"
+    "correct_answer": "FC Barcelona"
   },
   {
     "id": 3,
@@ -157,7 +157,102 @@
     "level": 1,
     "question": "Which team's logo is this?",
     "image": "logos/al_nassr.png",
-    "correct_answer": "Al-Nassr"
+    "correct_answer": "Al Nassr"
+  },
+  {
+    "id": 21,
+    "category": "guess_the_logo",
+    "level": 1,
+    "question": "Which team's logo is this?",
+    "image": "logos/aston_villa.png",
+    "correct_answer": "Aston Villa"
+  },
+  {
+    "id": 22,
+    "category": "guess_the_logo",
+    "level": 1,
+    "question": "Which team's logo is this?",
+    "image": "logos/newcastle_united.png",
+    "correct_answer": "Newcastle United"
+  },
+  {
+    "id": 23,
+    "category": "guess_the_logo",
+    "level": 1,
+    "question": "Which team's logo is this?",
+    "image": "logos/bayer_leverkusen.png",
+    "correct_answer": "Bayer Leverkusen"
+  },
+  {
+    "id": 24,
+    "category": "guess_the_logo",
+    "level": 1,
+    "question": "Which team's logo is this?",
+    "image": "logos/athletic_bilbao.png",
+    "correct_answer": "Athletic Bilbao"
+  },
+  {
+    "id": 25,
+    "category": "guess_the_logo",
+    "level": 1,
+    "question": "Which team's logo is this?",
+    "image": "logos/lazio.png",
+    "correct_answer": "Lazio"
+  },
+  {
+    "id": 26,
+    "category": "guess_the_logo",
+    "level": 1,
+    "question": "Which team's logo is this?",
+    "image": "logos/porto.png",
+    "correct_answer": "Porto"
+  },
+  {
+    "id": 27,
+    "category": "guess_the_logo",
+    "level": 1,
+    "question": "Which team's logo is this?",
+    "image": "logos/benfica.png",
+    "correct_answer": "Benfica"
+  },
+  {
+    "id": 28,
+    "category": "guess_the_logo",
+    "level": 1,
+    "question": "Which team's logo is this?",
+    "image": "logos/villarreal.png",
+    "correct_answer": "Villarreal"
+  },
+  {
+    "id": 29,
+    "category": "guess_the_logo",
+    "level": 1,
+    "question": "Which team's logo is this?",
+    "image": "logos/real_sociedad.png",
+    "correct_answer": "Real Sociedad"
+  },
+  {
+    "id": 30,
+    "category": "guess_the_logo",
+    "level": 1,
+    "question": "Which team's logo is this?",
+    "image": "logos/real_betis.png",
+    "correct_answer": "Real Betis"
+  },
+  {
+    "id": 31,
+    "category": "guess_the_logo",
+    "level": 1,
+    "question": "Which team's logo is this?",
+    "image": "logos/everton.png",
+    "correct_answer": "Everton"
+  },
+  {
+    "id": 32,
+    "category": "guess_the_logo",
+    "level": 1,
+    "question": "Which team's logo is this?",
+    "image": "logos/rb_leipzig.png",
+    "correct_answer": "RB Leipzig"
   }
 ]
-

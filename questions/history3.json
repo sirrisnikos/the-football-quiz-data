@@ -1,212 +1,1346 @@
 [
-    {
-      "id": 1,
-      "question": "Which nation pulled off a massive upset by winning Euro 2004?",
-      "options": ["Portugal", "Greece", "Czech Republic", "Denmark"],
-      "correct_answer": "Greece",
-      "difficulty": 3
-    },
-    {
-      "id": 2,
-      "question": "Who won the Ballon d'Or in 2003, beating Thierry Henry and Paolo Maldini?",
-      "options": ["Zinedine Zidane", "Pavel Nedvěd", "Ronaldo Nazário", "Andriy Shevchenko"],
-      "correct_answer": "Pavel Nedvěd",
-      "difficulty": 3
-    },
-    {
-      "id": 3,
-      "question": "How many UEFA Champions League titles had Barcelona won in their history by the end of 2015?",
-      "options": ["3", "4", "5", "6"],
-      "correct_answer": "5",
-      "difficulty": 3
-    },
-    {
-      "id": 4,
-      "question": "Which team did AC Milan defeat in the 2007 Champions League final to avenge their 2005 loss?",
-      "options": ["Liverpool", "Manchester United", "Arsenal", "Juventus"],
-      "correct_answer": "Liverpool",
-      "difficulty": 3
-    },
-    {
-      "id": 5,
-      "question": "Who was the top scorer (Golden Boot) of the 2002 FIFA World Cup?",
-      "options": ["Miroslav Klose", "Rivaldo", "Ronaldo Nazário", "Ronaldinho"],
-      "correct_answer": "Ronaldo Nazário",
-      "difficulty": 3
-    },
-    {
-      "id": 6,
-      "question": "In the 2006 World Cup Final, which Italian player was famously headbutted by Zinedine Zidane?",
-      "options": ["Fabio Cannavaro", "Marco Materazzi", "Gennaro Gattuso", "Gianluca Zambrotta"],
-      "correct_answer": "Marco Materazzi",
-      "difficulty": 3
-    },
-    {
-      "id": 7,
-      "question": "Which club won the 'Treble' (League, Cup, and Champions League) in the 1998-1999 season?",
-      "options": ["Bayern Munich", "Real Madrid", "Manchester United", "Juventus"],
-      "correct_answer": "Manchester United",
-      "difficulty": 3
-    },
-    {
-      "id": 8,
-      "question": "When did Cristiano Ronaldo win his first Ballon d'Or award?",
-      "options": ["2008", "2009", "2010", "2011"],
-      "correct_answer": "2008",
-      "difficulty": 3
-    },
-    {
-      "id": 9,
-      "question": "Which player won the Ballon d'Or in 2007, the last person to do so before the Messi-Ronaldo era began?",
-      "options": ["Kaká", "Ronaldinho", "Fernando Torres", "Xavi"],
-      "correct_answer": "Kaká",
-      "difficulty": 3
-    },
-    {
-      "id": 10,
-      "question": "Which team did France defeat in the final to win the 1998 FIFA World Cup?",
-      "options": ["Italy", "Germany", "Brazil", "Croatia"],
-      "correct_answer": "Brazil",
-      "difficulty": 3
-    },
-    {
-      "id": 11,
-      "question": "Who was the top scorer of the Premier League for three consecutive seasons between 2003 and 2006?",
-      "options": ["Ruud van Nistelrooy", "Thierry Henry", "Alan Shearer", "Wayne Rooney"],
-      "correct_answer": "Thierry Henry",
-      "difficulty": 3
-    },
-    {
-      "id": 12,
-      "question": "In 2004, which manager led FC Porto to a shock Champions League title?",
-      "options": ["Louis van Gaal", "José Mourinho", "Rafa Benítez", "Carlo Ancelotti"],
-      "correct_answer": "José Mourinho",
-      "difficulty": 3
-    },
-    {
-      "id": 13,
-      "question": "Which country hosted the first-ever World Cup held in Asia (2002)?",
-      "options": ["Japan & South Korea", "China", "Qatar", "Japan only"],
-      "correct_answer": "Japan & South Korea",
-      "difficulty": 3
-    },
-    {
-      "id": 14,
-      "question": "Which club did David Beckham join when he left Real Madrid in 2007?",
-      "options": ["AC Milan", "LA Galaxy", "Manchester United", "Paris Saint-Germain"],
-      "correct_answer": "LA Galaxy",
-      "difficulty": 3
-    },
-    {
-      "id": 15,
-      "question": "Who scored the 'Golden Goal' for France in the Euro 2000 final against Italy?",
-      "options": ["Zinedine Zidane", "David Trezeguet", "Thierry Henry", "Robert Pires"],
-      "correct_answer": "David Trezeguet",
-      "difficulty": 3
-    },
-    {
-      "id": 16,
-      "question": "Which German club lost the 2002 Champions League final to Real Madrid after a famous Zidane volley?",
-      "options": ["Bayern Munich", "Bayer Leverkusen", "Borussia Dortmund", "Hamburg SV"],
-      "correct_answer": "Bayer Leverkusen",
-      "difficulty": 3
-    },
-    {
-      "id": 17,
-      "question": "Who was the captain of the England national team during the 2002 and 2006 World Cups?",
-      "options": ["Steven Gerrard", "John Terry", "David Beckham", "Rio Ferdinand"],
-      "correct_answer": "David Beckham",
-      "difficulty": 3
-    },
-    {
-      "id": 18,
-      "question": "Which player won the FIFA World Player of the Year award in both 2004 and 2005?",
-      "options": ["Ronaldo Nazário", "Ronaldinho", "Zinedine Zidane", "Luis Figo"],
-      "correct_answer": "Ronaldinho",
-      "difficulty": 3
-    },
-    {
-      "id": 19,
-      "question": "In what year did Chelsea win their first-ever Premier League title?",
-      "options": ["2003-04", "2004-05", "2005-06", "2009-10"],
-      "correct_answer": "2004-05",
-      "difficulty": 3
-    },
-    {
-      "id": 20,
-      "question": "Which nation won the 1996 UEFA European Championship?",
-      "options": ["France", "Germany", "England", "Netherlands"],
-      "correct_answer": "Germany",
-      "difficulty": 3
-    },
-    {
-      "id": 21,
-      "question": "Who won the Champions League final in 2003, which was played between two Italian teams?",
-      "options": ["AC Milan", "Juventus", "Inter Milan", "Lazio"],
-      "correct_answer": "AC Milan",
-      "difficulty": 3
-    },
-    {
-      "id": 22,
-      "question": "Which striker was known as 'The flying Dutch-man'?",
-      "options": ["Robin Van Persie", "Robben", "Ruud Van Nistelroy", "Klaas Jan Huntelaar"],
-      "correct_answer": "Robin Van Persie",
-      "difficulty": 3
-    },
-    {
-      "id": 23,
-      "question": "Which team won the FA Cup in 2001, 2003, and 2005 during a dominant domestic period?",
-      "options": ["Manchester United", "Chelsea", "Arsenal", "Liverpool"],
-      "correct_answer": "Arsenal",
-      "difficulty": 3
-    },
-    {
-      "id": 24,
-      "question": "Who was the top scorer of the 1998 World Cup held in France?",
-      "options": ["Davor Šuker", "Gabriel Batistuta", "Ronaldo Nazário", "Thierry Henry"],
-      "correct_answer": "Davor Šuker",
-      "difficulty": 3
-    },
-    {
-      "id": 25,
-      "question": "Which club did Ronaldinho play for before joining Barcelona in 2003?",
-      "options": ["Gremio", "Paris Saint-Germain", "AC Milan", "Flamengo"],
-      "correct_answer": "Paris Saint-Germain",
-      "difficulty": 3
-    },
-    {
-      "id": 26,
-      "question": "Who scored the winning penalty for Italy in the 2006 World Cup final shootout?",
-      "options": ["Andrea Pirlo", "Fabio Grosso", "Alessandro Del Piero", "Francesco Totti"],
-      "correct_answer": "Fabio Grosso",
-      "difficulty": 3
-    },
-    {
-      "id": 27,
-      "question": "Which team won the UEFA Cup (now Europa League) back-to-back in 2006 and 2007?",
-      "options": ["Sevilla", "Porto", "Valencia", "Atletico Madrid"],
-      "correct_answer": "Sevilla",
-      "difficulty": 3
-    },
-    {
-      "id": 28,
-      "question": "Which player holds the record for most goals in a single Premier League season (34) before it was broken by Haaland?",
-      "options": ["Alan Shearer", "Thierry Henry", "Andy Cole", "Both Shearer and Cole"],
-      "correct_answer": "Both Shearer and Cole",
-      "difficulty": 3
-    },
-    {
-      "id": 29,
-      "question": "Who was the manager of the Brazil team that won the 2002 World Cup?",
-      "options": ["Luiz Felipe Scolari", "Carlos Alberto Parreira", "Mario Zagallo", "Dunga"],
-      "correct_answer": "Luiz Felipe Scolari",
-      "difficulty": 3
-    },
-    {
-      "id": 30,
-      "question": "In which stadium was the 'Miracle of Istanbul' (2005 UCL Final) played?",
-      "options": ["Atatürk Olympic Stadium", "Şükrü Saracoğlu Stadium", "Türk Telekom Arena", "Vodafone Park"],
-      "correct_answer": "Atatürk Olympic Stadium",
-      "difficulty": 3
-    }
+  {
+    "id": 1,
+    "question": "Which nation pulled off a massive upset by winning Euro 2004?",
+    "options": [
+      "Portugal",
+      "Greece",
+      "Czech Republic",
+      "Denmark"
+    ],
+    "correct_answer": "Greece",
+    "difficulty": 3
+  },
+  {
+    "id": 2,
+    "question": "How many UEFA Champions League titles had Barcelona won in their history by the end of 2015?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer": "5",
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "question": "Which team did AC Milan defeat in the 2007 Champions League final to avenge their 2005 loss?",
+    "options": [
+      "Liverpool",
+      "Manchester United",
+      "Arsenal",
+      "Juventus"
+    ],
+    "correct_answer": "Liverpool",
+    "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question": "In the 2006 World Cup Final, which Italian player was famously headbutted by Zinedine Zidane?",
+    "options": [
+      "Fabio Cannavaro",
+      "Marco Materazzi",
+      "Gennaro Gattuso",
+      "Gianluca Zambrotta"
+    ],
+    "correct_answer": "Marco Materazzi",
+    "difficulty": 3
+  },
+  {
+    "id": 5,
+    "question": "When did Cristiano Ronaldo win his first Ballon d'Or award?",
+    "options": [
+      "2008",
+      "2009",
+      "2010",
+      "2011"
+    ],
+    "correct_answer": "2008",
+    "difficulty": 3
+  },
+  {
+    "id": 6,
+    "question": "Which player won the Ballon d'Or in 2007, the last person to do so before the Messi-Ronaldo era began?",
+    "options": [
+      "Kaká",
+      "Ronaldinho",
+      "Fernando Torres",
+      "Xavi"
+    ],
+    "correct_answer": "Kaká",
+    "difficulty": 3
+  },
+  {
+    "id": 7,
+    "question": "Which team did France defeat in the final to win the 1998 FIFA World Cup?",
+    "options": [
+      "Italy",
+      "Germany",
+      "Brazil",
+      "Croatia"
+    ],
+    "correct_answer": "Brazil",
+    "difficulty": 3
+  },
+  {
+    "id": 8,
+    "question": "Who was the top scorer of the Premier League for three consecutive seasons between 2003 and 2006?",
+    "options": [
+      "Ruud van Nistelrooy",
+      "Thierry Henry",
+      "Alan Shearer",
+      "Wayne Rooney"
+    ],
+    "correct_answer": "Thierry Henry",
+    "difficulty": 3
+  },
+  {
+    "id": 9,
+    "question": "In 2004, which manager led FC Porto to a shock Champions League title?",
+    "options": [
+      "Louis van Gaal",
+      "José Mourinho",
+      "Rafa Benítez",
+      "Carlo Ancelotti"
+    ],
+    "correct_answer": "José Mourinho",
+    "difficulty": 3
+  },
+  {
+    "id": 10,
+    "question": "Which German club lost the 2002 Champions League final to Real Madrid after a famous Zidane volley?",
+    "options": [
+      "Bayern Munich",
+      "Bayer Leverkusen",
+      "Borussia Dortmund",
+      "Hamburg SV"
+    ],
+    "correct_answer": "Bayer Leverkusen",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question": "Who was the captain of the England national team during the 2002 and 2006 World Cups?",
+    "options": [
+      "Steven Gerrard",
+      "John Terry",
+      "David Beckham",
+      "Rio Ferdinand"
+    ],
+    "correct_answer": "David Beckham",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question": "Which player won the FIFA World Player of the Year award in both 2004 and 2005?",
+    "options": [
+      "Ronaldo Nazário",
+      "Ronaldinho",
+      "Zinedine Zidane",
+      "Luis Figo"
+    ],
+    "correct_answer": "Ronaldinho",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question": "In what year did Chelsea win their first-ever Premier League title?",
+    "options": [
+      "2003-04",
+      "2004-05",
+      "2005-06",
+      "2009-10"
+    ],
+    "correct_answer": "2004-05",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question": "Who won the Champions League final in 2003, which was played between two Italian teams?",
+    "options": [
+      "AC Milan",
+      "Juventus",
+      "Inter Milan",
+      "Lazio"
+    ],
+    "correct_answer": "AC Milan",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question": "Which striker was known as 'The flying Dutch-man'?",
+    "options": [
+      "Robin Van Persie",
+      "Robben",
+      "Ruud Van Nistelroy",
+      "Klaas Jan Huntelaar"
+    ],
+    "correct_answer": "Robin Van Persie",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question": "Which team won the FA Cup in 2001, 2003, and 2005 during a dominant domestic period?",
+    "options": [
+      "Manchester United",
+      "Chelsea",
+      "Arsenal",
+      "Liverpool"
+    ],
+    "correct_answer": "Arsenal",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question": "Which club did Ronaldinho play for before joining Barcelona in 2003?",
+    "options": [
+      "Gremio",
+      "Paris Saint-Germain",
+      "AC Milan",
+      "Flamengo"
+    ],
+    "correct_answer": "Paris Saint-Germain",
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "question": "Who scored the winning penalty for Italy in the 2006 World Cup final shootout?",
+    "options": [
+      "Andrea Pirlo",
+      "Fabio Grosso",
+      "Alessandro Del Piero",
+      "Francesco Totti"
+    ],
+    "correct_answer": "Fabio Grosso",
+    "difficulty": 3
+  },
+  {
+    "id": 19,
+    "question": "Which team won the UEFA Cup (now Europa League) back-to-back in 2006 and 2007?",
+    "options": [
+      "Sevilla",
+      "Porto",
+      "Valencia",
+      "Atletico Madrid"
+    ],
+    "correct_answer": "Sevilla",
+    "difficulty": 3
+  },
+  {
+    "id": 28,
+    "question": "Which player holds the record for most goals in a single Premier League season (34) before it was broken by Haaland?",
+    "options": [
+      "Alan Shearer",
+      "Thierry Henry",
+      "Andy Cole",
+      "Both Shearer and Cole"
+    ],
+    "correct_answer": "Both Shearer and Cole",
+    "difficulty": 3
+  },
+  {
+    "id": 20,
+    "question": "Who was the manager of the Brazil team that won the 2002 World Cup?",
+    "options": [
+      "Luiz Felipe Scolari",
+      "Carlos Alberto Parreira",
+      "Mario Zagallo",
+      "Dunga"
+    ],
+    "correct_answer": "Luiz Felipe Scolari",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question": "In which stadium was the 'Miracle of Istanbul' (2005 UCL Final) played?",
+    "options": [
+      "Atatürk Olympic Stadium",
+      "Şükrü Saracoğlu Stadium",
+      "Türk Telekom Arena",
+      "Vodafone Park"
+    ],
+    "correct_answer": "Atatürk Olympic Stadium",
+    "difficulty": 3
+  },
+  {
+    "id": 22,
+    "question": "Which of the following clubs did Nicolas Anelka never play for?",
+    "options": [
+      "Arsenal",
+      "Juventus",
+      "Liverpool",
+      "Manchester United"
+    ],
+    "correct_answer": "Juventus",
+    "difficulty": 3
+  },
+  {
+    "id": 23,
+    "question": "Which of the following clubs did Emmanuel Adebayor never play for?",
+    "options": [
+      "Liverpool",
+      "Tottenham Hotspur",
+      "Manchester City",
+      "Arsenal"
+    ],
+    "correct_answer": "Liverpool",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "question": "Which of the following players never won the Premier League?",
+    "options": [
+      "Steven Gerrard",
+      "Frank Lampard",
+      "James Milner",
+      "Gareth Barry"
+    ],
+    "correct_answer": "Steven Gerrard",
+    "difficulty": 3
+  },
+  {
+    "id": 25,
+    "question": "Which club won the UEFA Europa Conference League in 2023?",
+    "options": [
+      "West Ham United",
+      "Fiorentina",
+      "Olympiacos",
+      "Roma"
+    ],
+    "correct_answer": "West Ham United",
+    "difficulty": 3
+  },
+  {
+    "id": 26,
+    "question": "Which club won the UEFA Europa Conference League in 2024?",
+    "options": [
+      "Olympiacos Piraeus",
+      "Fiorentina",
+      "West Ham United",
+      "Aston Villa"
+    ],
+    "correct_answer": "Olympiacos Piraeus",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question": "Which club won the UEFA Champions League in 2008?",
+    "options": [
+      "Manchester United",
+      "Chelsea",
+      "Barcelona",
+      "Liverpool"
+    ],
+    "correct_answer": "Manchester United",
+    "difficulty": 3
+  },
+  {
+    "id": 113,
+    "question": "With which club has Romelu Lukaku scored the most goals in his career?",
+    "options": [
+      "Manchester United",
+      "Inter Milan",
+      "Chelsea",
+      "Everton"
+    ],
+    "correct_answer": "Everton",
+    "difficulty": 3
+  },
+  {
+    "id": 29,
+    "question": "Who replaced Sir Alex Ferguson as Manchester United manager?",
+    "options": [
+      "David Moyes",
+      "Louis van Gaal",
+      "José Mourinho",
+      "Ryan Giggs"
+    ],
+    "correct_answer": "David Moyes",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question": "Which club has won the most Copa Libertadores titles?",
+    "options": [
+      "Independiente",
+      "Boca Juniors",
+      "River Plate",
+      "Peñarol"
+    ],
+    "correct_answer": "Independiente",
+    "difficulty": 3
+  },
+  {
+    "id": 31,
+    "question": "Which club has won the most Argentine league titles?",
+    "options": [
+      "River Plate",
+      "Boca Juniors",
+      "Independiente",
+      "Racing Club"
+    ],
+    "correct_answer": "River Plate",
+    "difficulty": 3
+  },
+  {
+    "id": 32,
+    "question": "Which club has won the most Belgian league titles?",
+    "options": [
+      "Anderlecht",
+      "Club Brugge",
+      "Standard Liège",
+      "Genk"
+    ],
+    "correct_answer": "Anderlecht",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question": "Against which team did Robert Lewandowski score 5 goals in 9 minutes?",
+    "options": [
+      "Wolfsburg",
+      "Borussia Dortmund",
+      "Bayern Munich",
+      "RB Leipzig"
+    ],
+    "correct_answer": "Wolfsburg",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "question": "Which club has won the most Greek league titles?",
+    "options": [
+      "Olympiacos Piraeus",
+      "Panathinaikos",
+      "AEK Athens",
+      "PAOK"
+    ],
+    "correct_answer": "Olympiacos Piraeus",
+    "difficulty": 3
+  },
+  {
+    "id": 35,
+    "question": "Which club has won the most Turkish league titles?",
+    "options": [
+      "Galatasaray",
+      "Fenerbahçe",
+      "Beşiktaş",
+      "Trabzonspor"
+    ],
+    "correct_answer": "Galatasaray",
+    "difficulty": 3
+  },
+  {
+    "id": 36,
+    "question": "Which club has won the most Czech league titles?",
+    "options": [
+      "Sparta Prague",
+      "Slavia Prague",
+      "Viktoria Plzeň",
+      "Baník Ostrava"
+    ],
+    "correct_answer": "Sparta Prague",
+    "difficulty": 3
+  },
+  {
+    "id": 37,
+    "question": "Which club has won the most Serbian league titles?",
+    "options": [
+      "Red Star Belgrade",
+      "Partizan Belgrade",
+      "Vojvodina",
+      "Radnički Niš"
+    ],
+    "correct_answer": "Red Star Belgrade",
+    "difficulty": 3
+  },
+  {
+    "id": 38,
+    "question": "Which club has won the most Swiss league titles?",
+    "options": [
+      "Grasshopper Club Zurich",
+      "FC Basel",
+      "Young Boys",
+      "FC Zürich"
+    ],
+    "correct_answer": "Grasshopper Club Zurich",
+    "difficulty": 3
+  },
+  {
+    "id": 39,
+    "question": "Which club has won the most Brazilian league titles?",
+    "options": [
+      "Palmeiras",
+      "Santos",
+      "Flamengo",
+      "Corinthians"
+    ],
+    "correct_answer": "Palmeiras",
+    "difficulty": 3
+  },
+  {
+    "id": 40,
+    "question": "Which Spanish player has made the most appearances for Chelsea?",
+    "options": [
+      "César Azpilicueta",
+      "Fernando Torres",
+      "Cesc Fabregas",
+      "Marcos Alonso"
+    ],
+    "correct_answer": "César Azpilicueta",
+    "difficulty": 3
+  },
+  {
+    "id": 41,
+    "question": "Which English player has made the most appearances for Real Madrid in La Liga?",
+    "options": [
+      "David Beckham",
+      "Steve McManaman",
+      "Jude Bellingham",
+      "Michael Owen"
+    ],
+    "correct_answer": "David Beckham",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question": "Which Swiss player has made the most appearances in Premier League history?",
+    "options": [
+      "Granit Xhaka",
+      "Xherdan Shaqiri",
+      "Alex Frei",
+      "Tranquillo Barnetta"
+    ],
+    "correct_answer": "Granit Xhaka",
+    "difficulty": 3
+  },
+  {
+    "id": 43,
+    "question": "Which French player has made the most appearances in La Liga history?",
+    "options": [
+      "Antoine Griezmann",
+      "Karim Benzema",
+      "Ousmane Dembélé",
+      "Zinedine Zidane"
+    ],
+    "correct_answer": "Antoine Griezmann",
+    "difficulty": 3
+  },
+  {
+    "id": 44,
+    "question": "How many UEFA Europa League titles has Sevilla won?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "correct_answer": "7",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "question": "Which club won the UEFA Champions League in 2006?",
+    "options": [
+      "Barcelona",
+      "Arsenal",
+      "AC Milan",
+      "Real Madrid"
+    ],
+    "correct_answer": "Barcelona",
+    "difficulty": 3
+  },
+  {
+    "id": 46,
+    "question": "How many UEFA Champions League titles has Manchester United won?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "3",
+    "difficulty": 3
+  },
+  {
+    "id": 47,
+    "question": "How many UEFA Champions League titles has Ajax won?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer": "4",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "question": "Which of the following players has never scored in a UEFA Champions League final?",
+    "options": [
+      "Divock Origi",
+      "Dani Carvajal",
+      "Vinícius Júnior",
+      "Robert Lewandowski"
+    ],
+    "correct_answer": "Robert Lewandowski",
+    "difficulty": 3
+  },
+  {
+    "id": 49,
+    "question": "Which of the following players has never scored in a FIFA World Cup final?",
+    "options": [
+      "Andrés Iniesta",
+      "Ángel Di María",
+      "Ivan Perišić",
+      "Raphaël Varane"
+    ],
+    "correct_answer": "Raphaël Varane",
+    "difficulty": 3
+  },
+  {
+    "id": 50,
+    "question": "Which goalkeeper holds the record for the most clean sheets in Premier League history?",
+    "options": [
+      "Petr Čech",
+      "David James",
+      "Edwin van der Sar",
+      "Peter Schmeichel"
+    ],
+    "correct_answer": "Petr Čech",
+    "difficulty": 3
+  },
+  {
+    "id": 51,
+    "question": "Which goalkeeper holds the record for the most clean sheets in La Liga history?",
+    "options": [
+      "Iker Casillas",
+      "Andoni Zubizarreta",
+      "Jan Oblak",
+      "Víctor Valdés"
+    ],
+    "correct_answer": "Andoni Zubizarreta",
+    "difficulty": 3
+  },
+  {
+    "id": 52,
+    "question": "Which goalkeeper has the most clean sheets in UEFA Champions League history?",
+    "options": [
+      "Iker Casillas",
+      "Gianluigi Buffon",
+      "Manuel Neuer",
+      "Petr Čech"
+    ],
+    "correct_answer": "Manuel Neuer",
+    "difficulty": 3
+  },
+  {
+    "id": 53,
+    "question": "Which goalkeeper holds the record for the most clean sheets in Serie A history?",
+    "options": [
+      "Gianluigi Buffon",
+      "Dino Zoff",
+      "Sebastiano Rossi",
+      "Walter Zenga"
+    ],
+    "correct_answer": "Gianluigi Buffon",
+    "difficulty": 3
+  },
+  {
+    "id": 54,
+    "question": "Which defender has the most clean sheets in Premier League history?",
+    "options": [
+      "John Terry",
+      "Rio Ferdinand",
+      "Ashley Cole",
+      "Nemanja Vidić"
+    ],
+    "correct_answer": "John Terry",
+    "difficulty": 3
+  },
+  {
+    "id": 55,
+    "question": "Which player has received the most red cards in UEFA Champions League history?",
+    "options": [
+      "Sergio Ramos",
+      "Zlatan Ibrahimović",
+      "Edgar Davids",
+      "Roy Keane"
+    ],
+    "correct_answer": "Sergio Ramos",
+    "difficulty": 3
+  },
+  {
+    "id": 56,
+    "question": "Which two Liverpool players scored twice each in the 4–0 comeback against Barcelona in 2019?",
+    "options": [
+      "Salah and Origi",
+      "Origi and Wijnaldum",
+      "Firmino and Salah",
+      "Mané and Wijnaldum"
+    ],
+    "correct_answer": "Origi and Wijnaldum",
+    "difficulty": 3
+  },
+  {
+    "id": 57,
+    "question": "Which Argentine player has made the most appearances for Napoli?",
+    "options": [
+      "Diego Maradona",
+      "Gonzalo Higuaín",
+      "Ezequiel Lavezzi",
+      "Roberto Ayala"
+    ],
+    "correct_answer": "Diego Maradona",
+    "difficulty": 3
+  },
+  {
+    "id": 58,
+    "question": "Which South American national team has won the most Copa América titles?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Uruguay",
+      "Chile"
+    ],
+    "correct_answer": "Argentina",
+    "difficulty": 3
+  },
+  {
+    "id": 59,
+    "question": "Which country has won the most CONCACAF Gold Cup titles?",
+    "options": [
+      "Mexico",
+      "United States",
+      "Costa Rica",
+      "Canada"
+    ],
+    "correct_answer": "Mexico",
+    "difficulty": 3
+  },
+  {
+    "id": 60,
+    "question": "Who was the top scorer at the 2014 FIFA World Cup?",
+    "options": [
+      "Thomas Müller",
+      "James Rodríguez",
+      "Neymar",
+      "Lionel Messi"
+    ],
+    "correct_answer": "James Rodríguez",
+    "difficulty": 3
+  },
+  {
+    "id": 61,
+    "question": "Who was the top scorer at the 2018 FIFA World Cup?",
+    "options": [
+      "Harry Kane",
+      "Romelu Lukaku",
+      "Antoine Griezmann",
+      "Kylian Mbappé"
+    ],
+    "correct_answer": "Harry Kane",
+    "difficulty": 3
+  },
+  {
+    "id": 62,
+    "question": "Who was Leicester City's manager when they won the Premier League in 2016?",
+    "options": [
+      "Claudio Ranieri",
+      "Nigel Pearson",
+      "Brendan Rodgers",
+      "Craig Shakespeare"
+    ],
+    "correct_answer": "Claudio Ranieri",
+    "difficulty": 3
+  },
+  {
+    "id": 63,
+    "question": "Against which European country did Gonçalo Ramos score a World Cup hat-trick?",
+    "options": [
+      "Austria",
+      "Switzerland",
+      "Serbia",
+      "Croatia"
+    ],
+    "correct_answer": "Switzerland",
+    "difficulty": 3
+  },
+  {
+    "id": 64,
+    "question": "Which Portuguese player, who once moved for €126m, joined Milan on loan in 2025?",
+    "options": [
+      "João Félix",
+      "Rafael Leão",
+      "Bruno Fernandes",
+      "Andre Silva"
+    ],
+    "correct_answer": "João Félix",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "question": "Which team has won the most Spanish Cups?",
+    "options": [
+      "Real Madrid",
+      "Barcelona",
+      "Atlético Madrid",
+      "Sevilla"
+    ],
+    "correct_answer": "Barcelona",
+    "difficulty": 3
+  },
+  {
+    "id": 67,
+    "question": "Which of the following teams has been relegated from the Premier League since the 1992-93 season?",
+    "options": [
+      "Everton",
+      "Arsenal",
+      "Liverpool",
+      "Manchester City"
+    ],
+    "correct_answer": "Manchester City",
+    "difficulty": 3
+  },
+  {
+    "id": 68,
+    "question": "Which manager has managed the most matches in Premier League history?",
+    "options": [
+      "Arsène Wenger",
+      "Sir Alex Ferguson",
+      "José Mourinho",
+      "Roy Hodgson"
+    ],
+    "correct_answer": "Arsène Wenger",
+    "difficulty": 3
+  },
+  {
+    "id": 69,
+    "question": "Which player has scored the most goals in a single Premier League season?",
+    "options": [
+      "Mohamed Salah",
+      "Erling Haaland",
+      "Harry Kane",
+      "Thierry Henry"
+    ],
+    "correct_answer": "Erling Haaland",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question": "When was the last time Arsenal won the Premier League title before 2026?",
+    "options": [
+      "2001-02",
+      "2002-03",
+      "2003-04",
+      "2004-05"
+    ],
+    "correct_answer": "2003-04",
+    "difficulty": 3
+  },
+  {
+    "id": 71,
+    "question": "Which of the following teams has played in every season of La Liga?",
+    "options": [
+      "Sevilla",
+      "Athletic Bilbao",
+      "Atlético Madrid",
+      "Real Betis"
+    ],
+    "correct_answer": "Athletic Bilbao",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question": "Which player scored the winning goal for Spain in the 2010 World Cup final?",
+    "options": [
+      "Fernando Torres",
+      "Andrés Iniesta",
+      "David Villa",
+      "Xavi"
+    ],
+    "correct_answer": "Andrés Iniesta",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question": "Who was Manchester United's manager when they won the Europa League in 2017?",
+    "options": [
+      "José Mourinho",
+      "Louis van Gaal",
+      "Ole Gunnar Solskjær",
+      "David Moyes"
+    ],
+    "correct_answer": "José Mourinho",
+    "difficulty": 3
+  },
+  {
+    "id": 74,
+    "question": "Which national team has won the most major international titles among the World Cup, Copa América, European Championship and FIFA Confederations Cup?",
+    "options": [
+      "Argentina",
+      "Brazil",
+      "Italy",
+      "Uruguay"
+    ],
+    "correct_answer": "Argentina",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question": "Which team has played the most seasons in Italy's top division?",
+    "options": [
+      "Inter Milan",
+      "AC Milan",
+      "Juventus",
+      "Roma"
+    ],
+    "correct_answer": "Inter Milan",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question": "Which player scored the only goal of the Euro 2008 final, giving Spain their second European Championship title?",
+    "options": [
+      "Fernando Torres",
+      "Andrés Iniesta",
+      "David Villa",
+      "Carles Puyol"
+    ],
+    "correct_answer": "Fernando Torres",
+    "difficulty": 3
+  },
+  {
+    "id": 77,
+    "question": "Which team has won the most Copa Libertadores titles?",
+    "options": [
+      "Boca Juniors",
+      "Flamengo",
+      "Independiente",
+      "Santos"
+    ],
+    "correct_answer": "Independiente",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question": "Which of the following clubs did José Mourinho NOT lead to a Europa League or UEFA Cup final?",
+    "options": [
+      "Inter Milan",
+      "Manchester United",
+      "Porto",
+      "Roma"
+    ],
+    "correct_answer": "Inter Milan",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question": "Which team has played the most seasons in the English top division?",
+    "options": [
+      "Liverpool",
+      "Everton",
+      "Arsenal",
+      "Manchester United"
+    ],
+    "correct_answer": "Everton",
+    "difficulty": 3
+  },
+  {
+    "id": 80,
+    "question": "Who has made the most appearances for Manchester United?",
+    "options": [
+      "Bobby Charlton",
+      "Ryan Giggs",
+      "Rio Ferdinand",
+      "George Best"
+    ],
+    "correct_answer": "Ryan Giggs",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question": "How many different English teams have won the European Cup or Champions League?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer": "6",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question": "Which of the following german clubs has won the Champions League?",
+    "options": [
+      "Hamburger SV",
+      "VfB Stuttgart",
+      "1. FC Köln",
+      "Bayer Leverkusen"
+    ],
+    "correct_answer": "Hamburger SV",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "question": "Which England goalkeeper conceded four goals against France at the 2026 World Cup?",
+    "options": [
+      "Jordan Pickford",
+      "Nick Pope",
+      "Dean Henderson",
+      "James Trafford"
+    ],
+    "correct_answer": "Dean Henderson",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question": "Who was the first Italian manager to win the Premier League?",
+    "options": [
+      "Carlo Ancelotti",
+      "Enzo Maresca",
+      "Antonio Conte",
+      "Mauricio Sarri"
+    ],
+    "correct_answer": "Carlo Ancelotti",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question": "Which was Antoine Griezmann's first club in Spain?",
+    "options": [
+      "Real Sociedad",
+      "Atlético Madrid",
+      "Real Betis",
+      "Barcelona"
+    ],
+    "correct_answer": "Real Sociedad",
+    "difficulty": 3
+  },
+  {
+    "id": 86,
+    "question": "How many major international titles did Sergio Ramos win with Spain?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "3",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question": "Who was Spain's manager when they won three consecutive major international tournaments?",
+    "options": [
+      "Luis Aragonés",
+      "Vicente del Bosque",
+      "Julen Lopetegui",
+      "Luis Enrique"
+    ],
+    "correct_answer": "Vicente del Bosque",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question": "Which club is known as 'The Rossoneri'?",
+    "options": [
+      "AC Milan",
+      "Inter Milan",
+      "Juventus",
+      "Napoli"
+    ],
+    "correct_answer": "AC Milan",
+    "difficulty": 3
+  },
+  {
+    "id": 89,
+    "question": "Which club is known as 'The Nerazzurri'?",
+    "options": [
+      "Inter Milan",
+      "AC Milan",
+      "Atalanta",
+      "Lazio"
+    ],
+    "correct_answer": "Inter Milan",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question": "Which club is known as 'La Vecchia Signora'?",
+    "options": [
+      "Juventus",
+      "Roma",
+      "Napoli",
+      "Lazio"
+    ],
+    "correct_answer": "Juventus",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "question": "Which club is known as 'The Toffees'?",
+    "options": [
+      "Everton",
+      "Brighton",
+      "Aston Villa",
+      "West Ham United"
+    ],
+    "correct_answer": "Everton",
+    "difficulty": 2
+  },
+  {
+    "id": 92,
+    "question": "Which club is known as 'The Seagulls'?",
+    "options": [
+      "Brighton & Hove Albion",
+      "Crystal Palace",
+      "Everton",
+      "Bournemouth"
+    ],
+    "correct_answer": "Brighton & Hove Albion",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question": "Which club is known as 'The Foxes'?",
+    "options": [
+      "Leicester City",
+      "Wolverhampton Wanderers",
+      "Hull City",
+      "Crystal Palace"
+    ],
+    "correct_answer": "Leicester City",
+    "difficulty": 3
+  },
+  {
+    "id": 94,
+    "question": "Who was the most recent Premier League top scorer to play for a club outside the traditional 'Big Six'?",
+    "options": [
+      "Jamie Vardy",
+      "Wayne Rooney",
+      "Darren Bent",
+      "Jermain Defoe"
+    ],
+    "correct_answer": "Jamie Vardy",
+    "difficulty": 3
+  },
+  {
+    "id": 95,
+    "question": "Who is Ukraine's all-time leading goalscorer?",
+    "options": [
+      "Andriy Shevchenko",
+      "Andriy Yarmolenko",
+      "Yevhen Konoplyanka",
+      "Serhiy Rebrov"
+    ],
+    "correct_answer": "Andriy Shevchenko",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question": "Who is Spain's all-time leading goalscorer?",
+    "options": [
+      "David Villa",
+      "Raúl",
+      "Fernando Torres",
+      "Álvaro Morata"
+    ],
+    "correct_answer": "David Villa",
+    "difficulty": 3
+  },
+  {
+    "id": 97,
+    "question": "Who is Germany's all-time leading goalscorer?",
+    "options": [
+      "Miroslav Klose",
+      "Gerd Müller",
+      "Thomas Müller",
+      "Lukas Podolski"
+    ],
+    "correct_answer": "Miroslav Klose",
+    "difficulty": 3
+  },
+  {
+    "id": 98,
+    "question": "Which of the following pairs are NOT brothers?",
+    "options": [
+      "Kevin-Prince Boateng and Jérôme Boateng",
+      "Thiago Alcântara and Rafinha Alcântara",
+      "Frenkie de Jong and Luuk de Jong",
+      "Kylian Mbappé and Ethan Mbappé"
+    ],
+    "correct_answer": "Frenkie de Jong and Luuk de Jong",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question": "Which player was the first to break the €100 million transfer barrier when he joined Real Madrid?",
+    "options": [
+      "Gareth Bale",
+      "Cristiano Ronaldo",
+      "Kaká",
+      "Luka Modrić"
+    ],
+    "correct_answer": "Gareth Bale",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question": "How many UEFA European Championship titles has England won?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": "0",
+    "difficulty": 3
+  },
+  {
+    "id": 101,
+    "question": "How many UEFA European Championship titles has the Netherlands won?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": "1",
+    "difficulty": 3
+  },
+  {
+    "id": 102,
+    "question": "How many times did Robin van Persie finish as the Premier League's top scorer?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "2",
+    "difficulty": 3
+  },
+  {
+    "id": 103,
+    "question": "How many Ballon d'Or awards has Thierry Henry won?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": "0",
+    "difficulty": 3
+  },
+  {
+    "id": 104,
+    "question": "Which Manchester United goalkeeper has kept the most clean sheets for the club?",
+    "options": [
+      "David de Gea",
+      "Peter Schmeichel",
+      "Edwin van der Sar",
+      "Fabien Barthez"
+    ],
+    "correct_answer": "David de Gea",
+    "difficulty": 3
+  },
+  {
+    "id": 105,
+    "question": "Who is the only Czech footballer to have won the Ballon d'Or?",
+    "options": [
+      "Pavel Nedvěd",
+      "Josef Masopust",
+      "Karel Poborský",
+      "Tomáš Rosický"
+    ],
+    "correct_answer": "Pavel Nedvěd",
+    "difficulty": 3
+  },
+  {
+    "id": 106,
+    "question": "How many FIFA World Cup titles have South American countries won in total?",
+    "options": [
+      "11",
+      "8",
+      "9",
+      "10"
+    ],
+    "correct_answer": "10",
+    "difficulty": 3
+  },
+  {
+    "id": 107,
+    "question": "How many FIFA World Cup titles have European countries won in total?",
+    "options": [
+      "14",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct_answer": "13",
+    "difficulty": 3
+  },
+  {
+    "id": 108,
+    "question": "Which player scored the fastest hat-trick in Premier League history?",
+    "options": [
+      "Sadio Mané",
+      "Robbie Fowler",
+      "Alan Shearer",
+      "Thierry Henry"
+    ],
+    "correct_answer": "Sadio Mané",
+    "difficulty": 3
+  },
+  {
+    "id": 109,
+    "question": "Two English players have won the World Cup Golden Boot. Gary Lineker and...?",
+    "options": [
+      "Harry Kane",
+      "Michael Owen",
+      "Alan Shearer",
+      "Wayne Rooney"
+    ],
+    "correct_answer": "Harry Kane",
+    "difficulty": 3
+  },
+  {
+    "id": 110,
+    "question": "Messi began his professional career at Barcelona, but what was his schoolboy team?",
+    "options": [
+      "Rosario Central",
+      "Newell's Old Boys",
+      "River Plate",
+      "Estudiantes"
+    ],
+    "correct_answer": "Newell's Old Boys",
+    "difficulty": 3
+  },
+  {
+    "id": 111,
+    "question": "Which Portuguese team did Cristiano Ronaldo play for before signing for Manchester United?",
+    "options": [
+      "Benfica",
+      "Porto",
+      "Sporting CP",
+      "Boavista"
+    ],
+    "correct_answer": "Sporting CP",
+    "difficulty": 3
+  },
+  {
+    "id": 112,
+    "question": "In which year did the European Championship expand from 16 teams to 24 teams?",
+    "options": [
+      "2012",
+      "2008",
+      "2016",
+      "2020"
+    ],
+    "correct_answer": "2016",
+    "difficulty": 4
+  }
 ]

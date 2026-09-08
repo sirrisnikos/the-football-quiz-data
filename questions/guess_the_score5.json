@@ -1,42 +1,1081 @@
 [
-  {"id":201,"match":"Liverpool vs Manchester City","score":"3-0","level":5,"notes":"UCL Quarter-final 2018 first leg","options":["1-0","2-0","3-1","3-0"]},
-  {"id":202,"match":"Barcelona vs Juventus","score":"0-0","level":5,"notes":"UCL Quarter-final 2017 second leg","options":["0-2","1-1","0-1","0-0"]},
-  {"id":203,"match":"Liverpool vs Villareal","score":"2-0","level":5,"notes":"UCL Semi-final 2022 first leg","options":["3-0","2-0","3-1","2-1"]},
-  {"id":204,"match":"Barcelona vs PSG","score":"2-0","level":5,"notes":"UCL Quarter-final 2015 second leg","options":["3-0","3-1","2-1","2-0"]},
-  {"id":205,"match":"Borussia Dortmund vs Malaga ","score":"3-2","level":5,"notes":"UCL Quarter-final 2013 second leg","options":["3-2","3-3","3-1","0-1"]},
-  {"id":206,"match":"Wolfsburg vs Real Madrid ","score":"2-0","level":5,"notes":"UCL Quarter-final 2016 first leg","options":["2-1","3-1","2-0","1-2"]},
-  {"id":207,"match":"Atletico Madrid vs Bayern Munich","score":"1-0","level":5,"notes":"UCL Quarter-final 2016 first leg","options":["1-0","0-1","1-1","2-0"]},
-  {"id":208,"match":"Real Madrid vs Manchester City","score":"1-0","level":5,"notes":"UCL Semi-final 2016 second leg","options":["1-3","2-2","1-2","1-0"]},
-  {"id":209,"match":"Real Madrid vs Barcelona","score":"0-2","level":5,"notes":"UCL Semi-final 2011 first leg","options":["3-0","2-0","0-1","0-2"]},
-  {"id":210,"match":"Borussia Dortmund vs Monaco","score":"2-3","level":5,"notes":"UCL Quarter-final 2017 first leg","options":["2-1","2-3","2-0","3-1"]},
-  {"id":211,"match":"Real Madrid vs PSG","score":"3-1","level":5,"notes":"UCL Round of 16 2018 first leg","options":["3-1","2-1","3-0","2-0"]},
-  {"id":212,"match":"PSG vs Real Madrid","score":"1-2","level":5,"notes":"UCL Round of 16 2018 second leg","options":["2-0","1-0","1-2","1-1"]},
-  {"id":213,"match":"Chelsea vs Atletico Madrid","score":"1-3","level":5,"notes":"UCL Semi-final 2014 second leg","options":["1-0","0-1","1-3","1-2"]},
-  {"id":214,"match":"Atletico Madrid vs Chelsea","score":"0-0","level":5,"notes":"UCL Semi-final 2014 first leg","options":["2-2","1-2","1-1","0-0"]},
-  {"id":215,"match":"Inter vs Liverpool","score":"0-2","level":5,"notes":"UCL Round of 16 2022 first leg","options":["0-2","1-2","0-1","1-1"]},
-  {"id":216,"match":"Liverpool vs Inter","score":"0-1","level":5,"notes":"UCL Round of 16 2022 second leg","options":["1-0","0-1","1-1","2-0"]},
-  {"id":217,"match":"AC Milan vs Napoli","score":"1-0","level":5,"notes":"UCL Quarter-final 2023 first leg","options":["1-0","0-1","1-1","2-0"]},
-  {"id":218,"match":"Napoli vs AC Milan","score":"1-1","level":5,"notes":"UCL Quarter-final 2023 second leg","options":["1-1","1-0","0-1","2-1"]},
-  {"id":219,"match":"Ajax vs Benfica","score":"0-1","level":5,"notes":"UCL Round of 16 2022 second leg","options":["0-1","1-0","2-1","1-1"]},
-  {"id":220,"match":"Benfica vs Ajax","score":"2-2","level":5,"notes":"UCL Round of 16 2022 first leg","options":["1-1","1-0","0-1","2-2"]},
-  {"id":221,"match":"Real Madrid vs Barcelona","score":"2-0","level":5,"notes":"La Liga 2019-20","options":["3-2","3-1","2-1","2-0"]},
-  {"id":222,"match":"Atletico Madrid vs Real Madrid","score":"1-0","level":5,"notes":"La Liga 2021-22","options":["1-0","1-2","2-2","3-1"]},
-  {"id":223,"match":"Napoli vs Juventus","score":"2-1","level":5,"notes":"Serie A 2021-22","options":["1-2","2-1","1-1","0-2"]},
-  {"id":224,"match":"Olympiacos vs Aston Villa","score":"2-0","level":5,"notes":"Conference League Semi-final 2024 second leg","options":["3-2","2-0","1-3","1-2"]},
-  {"id":225,"match":"Liverpool vs Atalanta","score":"0-3","level":5,"notes":"Europa League Quarter-final 2024 second leg","options":["2-1","1-2","2-2","0-3"]},
-  {"id":226,"match":"Barcelona vs Eintracht Frankfurt","score":"2-3","level":5,"notes":"Europa League Quarter-final 2022 second leg","options":["2-1","1-2","2-3","1-2"]},
-  {"id":227,"match":"Portugal vs Netherlands","score":"1-0","level":5,"notes":"UEFA Nations League Final 2019","options":["1-1","1-0","0-1","2-1"]},
-  {"id":228,"match":"Argentina vs Canada","score":"2-0","level":5,"notes":"Copa America Semi-final 2024","options":["2-1","1-2","2-0","3-2"]},
-  {"id":229,"match":"France vs Spain","score":"3-5","level":5,"notes":"2024 Summer Olympics final (with extra time)","options":["1-3","3-5","2-4","3-3"]},
-  {"id":230,"match":"Portugal vs Switzerland","score":"6-1","level":5,"notes":"World Cup 2022 Round of 16","options":["6-1","5-1","6-0","5-0"]},
-  {"id":231,"match":"Netherlands vs Turkey","score":"2-1","level":5,"notes":"EURO 2024 Quarter-final","options":["2-2","2-1","1-2","3-2"]},
-  {"id":232,"match":"Belgium vs Canada","score":"1-0","level":5,"notes":"World Cup 2022 group stage","options":["1-0","0-1","1-1","2-0"]},
-  {"id":233,"match":"Brazil vs Serbia","score":"2-0","level":5,"notes":"World Cup 2022 group stage","options":["1-1","2-0","0-1","2-1"]},
-  {"id":234,"match":"Belgium vs England","score":"2-0","level":5,"notes":"World Cup 2018 third-place match","options":["0-2","1-2","2-0","1-1"]},
-  {"id":235,"match":"Colombia vs Uruguay","score":"2-0","level":5,"notes":"World Cup 2014 Quarter-final","options":["1-0","2-1","1-1","2-0"]},
-  {"id":236,"match":"Germany vs Greece","score":"4-2","level":5,"notes":"EURO 2012 Quarter-final","options":["2-1","4-2","3-2","4-1"]},
-  {"id":237,"match":"Poland vs Argentina","score":"0-2","level":5,"notes":"World Cup 2022 group stage","options":["0-2","1-2","0-1","1-1"]},
-  {"id":238,"match":"Canada vs Morocco","score":"1-2","level":5,"notes":"World Cup 2022 group stage","options":["1-0","0-1","1-2","2-0"]},
-  {"id":239,"match":"Arsenal vs Atletico Madrid","score":"1-1","level":5,"notes":"Europa League Semi-final 2018 first leg","options":["1-1","1-0","0-1","2-1"]},
-  {"id":240,"match":"Marseille vs Salzburg","score":"2-0","level":5,"notes":"Europa League Semi-final 2018 first leg","options":["3-3","2-3","3-2","2-0"]}
+  {
+    "id": 181,
+    "match": "Borussia Dortmund vs Juventus",
+    "score": "3-1",
+    "level": 5,
+    "notes": "UCL Final 1997(Ricken’s Magic Touch)",
+    "options": [
+      "3-1",
+      "2-1",
+      "3-0",
+      "2-0"
+    ]
+  },
+  {
+    "id": 182,
+    "match": "AC Milan vs Barcelona",
+    "score": "4-0",
+    "level": 5,
+    "notes": "UCL Final 1994(Savicević’s Masterpiece in Athens)",
+    "options": [
+      "4-0",
+      "3-0",
+      "4-1",
+      "2-0"
+    ]
+  },
+  {
+    "id": 183,
+    "match": "Juventus vs Real Madrid",
+    "score": "0-1",
+    "level": 5,
+    "notes": "UCL Final 1998(32-Year European Curse Ends)",
+    "options": [
+      "0-1",
+      "1-0",
+      "1-1",
+      "0-2"
+    ]
+  },
+  {
+    "id": 184,
+    "match": "Olympiacos vs Aston Villa",
+    "score": "2-0",
+    "level": 5,
+    "notes": "Conference League Semi-final 2024 second leg(Historic Night in Piraeus)",
+    "options": [
+      "3-2",
+      "2-0",
+      "1-3",
+      "1-2"
+    ]
+  },
+  {
+    "id": 185,
+    "match": "Portugal vs Netherlands",
+    "score": "1-0",
+    "level": 5,
+    "notes": "UEFA Nations League Final 2019(The Iconic Ronaldo Smile)",
+    "options": [
+      "3-1",
+      "1-0",
+      "1-1",
+      "2-1"
+    ]
+  },
+  {
+    "id": 186,
+    "match": "Argentina vs Canada",
+    "score": "2-0",
+    "level": 5,
+    "notes": "Copa America Semi-final 2024(Back-to-Back Finals)",
+    "options": [
+      "2-1",
+      "1-0",
+      "2-0",
+      "3-2"
+    ]
+  },
+  {
+    "id": 187,
+    "match": "France vs Spain",
+    "score": "3-5",
+    "level": 5,
+    "notes": "2024 Summer Olympics final (with extra time)(Spain Wins Olympic Football Gold in Paris)",
+    "options": [
+      "1-3",
+      "3-5",
+      "2-4",
+      "3-3"
+    ]
+  },
+  {
+    "id": 188,
+    "match": "Italy vs West Germany",
+    "score": "3-1",
+    "level": 5,
+    "notes": "FIFA World Cup Final 1982(The Immortal Paolo Rossi)",
+    "options": [
+      "3-1",
+      "2-1",
+      "1-0",
+      "0-2"
+    ]
+  },
+  {
+    "id": 189,
+    "match": "Argentina vs Netherlands",
+    "score": "3-1",
+    "level": 5,
+    "notes": "FIFA World Cup Final 1978(with extra time)(Kempes Ready to Shoulder the Hopes of a Nation in the World Cup Final)",
+    "options": [
+      "3-1",
+      "2-1",
+      "2-0",
+      "0-1"
+    ]
+  },
+  {
+    "id": 190,
+    "match": "West Germany vs Netherlands",
+    "score": "2-1",
+    "level": 5,
+    "notes": "FIFA World Cup Final 1974(The Blueprint of Total Football Faces the Ultimate West German Test)",
+    "options": [
+      "3-1",
+      "2-1",
+      "2-0",
+      "1-0"
+    ]
+  },
+  {
+    "id": 191,
+    "match": "Brazil vs Italy",
+    "score": "4-1",
+    "level": 5,
+    "notes": "FIFA World Cup Final 1970(The King Awaits a Historic Third World Cup to Achieve Football Immortality)",
+    "options": [
+      "3-1",
+      "4-1",
+      "2-0",
+      "3-2"
+    ]
+  },
+  {
+    "id": 192,
+    "match": "England vs West Germany",
+    "score": "4-2",
+    "level": 5,
+    "notes": "FIFA World Cup Final 1966(with extra time)(The Three Lions Chase the Top of the World)",
+    "options": [
+      "4-2",
+      "4-1",
+      "3-0",
+      "4-3"
+    ]
+  },
+  {
+    "id": 193,
+    "match": "Real Madrid vs Sheriff Tiraspol",
+    "score": "1-2",
+    "level": 5,
+    "notes": "UEFA Champions League Group Stage 2021(The Heroic Moldovan Defiance)",
+    "options": [
+      "1-1",
+      "2-2",
+      "1-2",
+      "0-1"
+    ]
+  },
+  {
+    "id": 194,
+    "match": "Marseille vs AC Milan",
+    "score": "1-0",
+    "level": 5,
+    "notes": "UCL Final 1993(Whispers Of Scandal)",
+    "options": [
+      "1-0",
+      "2-0",
+      "2-2",
+      "0-1"
+    ]
+  },
+  {
+    "id": 195,
+    "match": "Barcelona vs Sampdoria",
+    "score": "1-0",
+    "level": 5,
+    "notes": "European Cup Final 1992 (with extra time)(Koeman Seals Glory)",
+    "options": [
+      "1-0",
+      "2-0",
+      "3-2",
+      "1-1"
+    ]
+  },
+  {
+    "id": 196,
+    "match": "AC Milan vs Benfica",
+    "score": "1-0",
+    "level": 5,
+    "notes": "European Cup Final 1990(Sacchi's Milan ruled Europe again)",
+    "options": [
+      "1-0",
+      "2-0",
+      "2-2",
+      "2-1"
+    ]
+  },
+  {
+    "id": 197,
+    "match": "Juventus vs Liverpool",
+    "score": "1-0",
+    "level": 5,
+    "notes": "European Cup Final 1985(The Heysel Shadow)",
+    "options": [
+      "1-0",
+      "2-0",
+      "2-2",
+      "1-1"
+    ]
+  },
+  {
+    "id": 198,
+    "match": "Steaua București vs Barcelona",
+    "score": "0-0",
+    "level": 5,
+    "notes": "European Cup Final 1986(The Hero of Seville)",
+    "options": [
+      "1-0",
+      "0-0",
+      "2-0",
+      "1-1"
+    ]
+  },
+  {
+    "id": 199,
+    "match": "Porto vs Bayern Munich",
+    "score": "2-1",
+    "level": 5,
+    "notes": "European Cup Final 1987(Madjer's backheel)",
+    "options": [
+      "1-1",
+      "2-1",
+      "1-2",
+      "1-0"
+    ]
+  },
+  {
+    "id": 200,
+    "match": "PSV Eindhoven vs Benfica",
+    "score": "0-0",
+    "level": 5,
+    "notes": "European Cup Final 1988(with extra time)(Van Breukelen's save)",
+    "options": [
+      "1-0",
+      "0-0",
+      "2-0",
+      "1-1"
+    ]
+  },
+  {
+    "id": 201,
+    "match": "AC Milan vs Steaua București",
+    "score": "4-0",
+    "level": 5,
+    "notes": "European Cup Final 1989(Gullit and Van Basten demolished Steaua)",
+    "options": [
+      "4-0",
+      "3-0",
+      "4-2",
+      "4-1"
+    ]
+  },
+  {
+    "id": 202,
+    "match": "Galatasaray vs Arsenal",
+    "score": "0-0",
+    "level": 5,
+    "notes": "UEFA Cup Final 2000 (with extra time)(The First Turkish European Trophy)",
+    "options": [
+      "1-0",
+      "2-1",
+      "1-1",
+      "0-0"
+    ]
+  },
+  {
+    "id": 203,
+    "match": "Liverpool vs Alaves",
+    "score": "5-4",
+    "level": 5,
+    "notes": "UEFA Cup Final 2001 (with extra time)(The Wildest Final)",
+    "options": [
+      "4-3",
+      "5-4",
+      "4-4",
+      "5-3"
+    ]
+  },
+  {
+    "id": 204,
+    "match": "Feyenoord vs Borussia Dortmund",
+    "score": "3-2",
+    "level": 5,
+    "notes": "UEFA Cup Final 2002(Van Hooijdonk Rules De Kuip)",
+    "options": [
+      "3-2",
+      "2-1",
+      "3-1",
+      "2-2"
+    ]
+  },
+  {
+    "id": 205,
+    "match": "Porto vs Celtic",
+    "score": "3-2",
+    "level": 5,
+    "notes": "UEFA Cup Final 2003 (with extra time)(Mourinho's First European Trophy)",
+    "options": [
+      "2-1",
+      "3-1",
+      "3-2",
+      "2-2"
+    ]
+  },
+  {
+    "id": 206,
+    "match": "Valencia vs Marseille",
+    "score": "2-0",
+    "level": 5,
+    "notes": "UEFA Cup Final 2004(Benitez Completes the Double)",
+    "options": [
+      "2-0",
+      "1-0",
+      "2-1",
+      "3-0"
+    ]
+  },
+  {
+    "id": 207,
+    "match": "Sporting CP vs CSKA Moscow",
+    "score": "1-3",
+    "level": 5,
+    "notes": "UEFA Cup Final 2005(Heartbreak at Home for Sporting)",
+    "options": [
+      "1-2",
+      "0-2",
+      "1-3",
+      "2-3"
+    ]
+  },
+  {
+    "id": 208,
+    "match": "Red Star Belgrade vs Marseille",
+    "score": "0-0",
+    "level": 5,
+    "notes": "European Cup Final 1991 (with extra time)(The Last Great Yugoslav Team)",
+    "options": [
+      "0-0",
+      "1-0",
+      "0-1",
+      "1-1"
+    ]
+  },
+  {
+    "id": 209,
+    "match": "Ajax vs AC Milan",
+    "score": "1-0",
+    "level": 5,
+    "notes": "UCL Final 1995(Kluivert's Teenage Winner in Vienna)",
+    "options": [
+      "1-0",
+      "2-1",
+      "2-0",
+      "1-1"
+    ]
+  },
+  {
+    "id": 210,
+    "match": "Juventus vs Ajax",
+    "score": "1-1",
+    "level": 5,
+    "notes": "UCL Final 1996 (with extra time)(Peruzzi Denies Ajax in Rome)",
+    "options": [
+      "1-1",
+      "2-1",
+      "1-0",
+      "2-2"
+    ]
+  },
+  {
+    "id": 211,
+    "match": "AC Milan vs Benfica",
+    "score": "2-1",
+    "level": 5,
+    "notes": "European Cup Final 1963(Altafini Ends Benfica's Reign at Wembley)",
+    "options": [
+      "2-1",
+      "1-0",
+      "3-1",
+      "2-2"
+    ]
+  },
+  {
+    "id": 212,
+    "match": "Inter vs Real Madrid",
+    "score": "3-1",
+    "level": 5,
+    "notes": "European Cup Final 1964(Mazzola Dethrones the Kings of Europe)",
+    "options": [
+      "3-1",
+      "2-1",
+      "2-0",
+      "3-2"
+    ]
+  },
+  {
+    "id": 213,
+    "match": "Inter vs Benfica",
+    "score": "1-0",
+    "level": 5,
+    "notes": "European Cup Final 1965(Back-to-Back at Their Own San Siro)",
+    "options": [
+      "1-0",
+      "2-0",
+      "2-1",
+      "0-0"
+    ]
+  },
+  {
+    "id": 214,
+    "match": "Real Madrid vs Partizan",
+    "score": "2-1",
+    "level": 5,
+    "notes": "European Cup Final 1966(La Sexta for the Ye-Ye Team)",
+    "options": [
+      "2-1",
+      "1-0",
+      "3-1",
+      "2-0"
+    ]
+  },
+  {
+    "id": 215,
+    "match": "Celtic vs Inter",
+    "score": "2-1",
+    "level": 5,
+    "notes": "European Cup Final 1967(The Lisbon Lions, All Born Within 30 Miles)",
+    "options": [
+      "2-1",
+      "1-1",
+      "2-0",
+      "3-1"
+    ]
+  },
+  {
+    "id": 216,
+    "match": "Manchester United vs Benfica",
+    "score": "4-1",
+    "level": 5,
+    "notes": "European Cup Final 1968 (with extra time)(Ten Years After Munich)",
+    "options": [
+      "4-1",
+      "3-1",
+      "2-1",
+      "4-2"
+    ]
+  },
+  {
+    "id": 217,
+    "match": "AC Milan vs Ajax",
+    "score": "4-1",
+    "level": 5,
+    "notes": "European Cup Final 1969(Prati Against a Young Cruyff)",
+    "options": [
+      "4-1",
+      "3-0",
+      "2-1",
+      "4-0"
+    ]
+  },
+  {
+    "id": 218,
+    "match": "Feyenoord vs Celtic",
+    "score": "2-1",
+    "level": 5,
+    "notes": "European Cup Final 1970 (with extra time)(The First Dutch European Cup))",
+    "options": [
+      "2-1",
+      "1-0",
+      "3-2",
+      "2-2"
+    ]
+  },
+  {
+    "id": 219,
+    "match": "Ajax vs Panathinaikos",
+    "score": "2-0",
+    "level": 5,
+    "notes": "European Cup Final 1971(Puskas Took Greece to Wembley)",
+    "options": [
+      "2-0",
+      "1-0",
+      "3-0",
+      "2-1"
+    ]
+  },
+  {
+    "id": 220,
+    "match": "Ajax vs Inter",
+    "score": "2-0",
+    "level": 5,
+    "notes": "European Cup Final 1972(Total Football vs Catenaccio)",
+    "options": [
+      "2-0",
+      "1-0",
+      "2-1",
+      "3-1"
+    ]
+  },
+  {
+    "id": 221,
+    "match": "Ajax vs Juventus",
+    "score": "1-0",
+    "level": 5,
+    "notes": "European Cup Final 1973(Rep's Header Seals the Three-Peat)",
+    "options": [
+      "1-0",
+      "2-0",
+      "2-1",
+      "1-1"
+    ]
+  },
+  {
+    "id": 222,
+    "match": "Bayern Munich vs Atletico Madrid",
+    "score": "4-0",
+    "level": 5,
+    "notes": "European Cup Final 1974 replay(The Only Replayed European Cup Final)",
+    "options": [
+      "4-0",
+      "3-0",
+      "2-0",
+      "4-1"
+    ]
+  },
+  {
+    "id": 223,
+    "match": "Bayern Munich vs Leeds United",
+    "score": "2-0",
+    "level": 5,
+    "notes": "European Cup Final 1975(Α Riot in Paris)",
+    "options": [
+      "2-0",
+      "1-0",
+      "2-1",
+      "3-1"
+    ]
+  },
+  {
+    "id": 224,
+    "match": "Bayern Munich vs Saint-Etienne",
+    "score": "1-0",
+    "level": 5,
+    "notes": "European Cup Final 1976(Τhe Square Posts of Hampden)",
+    "options": [
+      "1-0",
+      "2-0",
+      "2-1",
+      "0-0"
+    ]
+  },
+  {
+    "id": 225,
+    "match": "Liverpool vs Borussia Monchengladbach",
+    "score": "3-1",
+    "level": 5,
+    "notes": "European Cup Final 1977(Liverpool's First in Rome)",
+    "options": [
+      "3-1",
+      "2-1",
+      "3-0",
+      "2-0"
+    ]
+  },
+  {
+    "id": 226,
+    "match": "Liverpool vs Club Brugge",
+    "score": "1-0",
+    "level": 5,
+    "notes": "European Cup Final 1978(Dalglish's Chip at Wembley)",
+    "options": [
+      "1-0",
+      "2-0",
+      "2-1",
+      "1-1"
+    ]
+  },
+  {
+    "id": 227,
+    "match": "Nottingham Forest vs Malmo",
+    "score": "1-0",
+    "level": 5,
+    "notes": "European Cup Final 1979(Clough's Miracle)",
+    "options": [
+      "1-0",
+      "2-0",
+      "2-1",
+      "3-0"
+    ]
+  },
+  {
+    "id": 228,
+    "match": "Nottingham Forest vs Hamburg",
+    "score": "1-0",
+    "level": 5,
+    "notes": "European Cup Final 1980(Robertson Beats Keegan's Hamburg)",
+    "options": [
+      "1-0",
+      "2-1",
+      "2-0",
+      "1-1"
+    ]
+  },
+  {
+    "id": 229,
+    "match": "Liverpool vs Real Madrid",
+    "score": "1-0",
+    "level": 5,
+    "notes": "European Cup Final 1981(Alan Kennedy's Unlikely Winner in Paris)",
+    "options": [
+      "1-0",
+      "2-0",
+      "2-1",
+      "1-1"
+    ]
+  },
+  {
+    "id": 230,
+    "match": "Aston Villa vs Bayern Munich",
+    "score": "1-0",
+    "level": 5,
+    "notes": "European Cup Final 1982(Peter Withe and the Substitute Keeper)",
+    "options": [
+      "1-0",
+      "2-1",
+      "2-0",
+      "1-1"
+    ]
+  },
+  {
+    "id": 231,
+    "match": "Hamburg vs Juventus",
+    "score": "1-0",
+    "level": 5,
+    "notes": "European Cup Final 1983(Magath thunderbolt)",
+    "options": [
+      "1-0",
+      "2-1",
+      "1-1",
+      "2-0"
+    ]
+  },
+  {
+    "id": 232,
+    "match": "Roma vs Liverpool",
+    "score": "1-1",
+    "level": 5,
+    "notes": "European Cup Final 1984 (with extra time)(Grobbelaar's Wobbly Legs in Rome)",
+    "options": [
+      "1-1",
+      "1-0",
+      "0-0",
+      "2-2"
+    ]
+  },
+  {
+    "id": 233,
+    "match": "Uruguay vs Argentina",
+    "score": "4-2",
+    "level": 5,
+    "notes": "FIFA World Cup Final 1930(The Very First World Cup Final)",
+    "options": [
+      "4-2",
+      "3-2",
+      "4-1",
+      "3-1"
+    ]
+  },
+  {
+    "id": 234,
+    "match": "Italy vs Czechoslovakia",
+    "score": "2-1",
+    "level": 5,
+    "notes": "FIFA World Cup Final 1934 (with extra time)(Pozzo's Italy Win at Home)",
+    "options": [
+      "2-1",
+      "1-0",
+      "2-0",
+      "3-1"
+    ]
+  },
+  {
+    "id": 235,
+    "match": "Italy vs Hungary",
+    "score": "4-2",
+    "level": 5,
+    "notes": "FIFA World Cup Final 1938(Italy Retain the Trophy in Paris)",
+    "options": [
+      "4-2",
+      "3-1",
+      "4-1",
+      "3-2"
+    ]
+  },
+  {
+    "id": 236,
+    "match": "Uruguay vs Brazil",
+    "score": "2-1",
+    "level": 5,
+    "notes": "FIFA World Cup Final 1950(The Maracanazo Silenced 200,000)",
+    "options": [
+      "2-1",
+      "1-0",
+      "2-0",
+      "3-2"
+    ]
+  },
+  {
+    "id": 237,
+    "match": "West Germany vs Hungary",
+    "score": "3-2",
+    "level": 5,
+    "notes": "FIFA World Cup Final 1954(Τhe Miracle of Bern)",
+    "options": [
+      "3-2",
+      "2-1",
+      "3-1",
+      "4-2"
+    ]
+  },
+  {
+    "id": 238,
+    "match": "Brazil vs Sweden",
+    "score": "5-2",
+    "level": 5,
+    "notes": "FIFA World Cup Final 1958(A 17-Year-Old Named Pele)",
+    "options": [
+      "5-2",
+      "4-1",
+      "5-1",
+      "3-2"
+    ]
+  },
+  {
+    "id": 239,
+    "match": "Brazil vs Czechoslovakia",
+    "score": "3-1",
+    "level": 5,
+    "notes": "FIFA World Cup Final 1962(Garrincha's Brazil)",
+    "options": [
+      "3-1",
+      "2-1",
+      "3-2",
+      "2-0"
+    ]
+  },
+  {
+    "id": 240,
+    "match": "West Germany vs Belgium",
+    "score": "2-1",
+    "level": 5,
+    "notes": "EURO Final 1980(Hrubesch's Header Two Minutes From Time)",
+    "options": [
+      "2-1",
+      "1-0",
+      "2-0",
+      "3-1"
+    ]
+  },
+  {
+    "id": 241,
+    "match": "France vs Spain",
+    "score": "2-0",
+    "level": 5,
+    "notes": "EURO Final 1984(Platini's Ninth Goal and Arconada's Error)",
+    "options": [
+      "2-0",
+      "1-0",
+      "2-1",
+      "3-0"
+    ]
+  },
+  {
+    "id": 242,
+    "match": "Netherlands vs Soviet Union",
+    "score": "2-0",
+    "level": 5,
+    "notes": "EURO Final 1988(Van Basten's Impossible Volley)",
+    "options": [
+      "2-0",
+      "1-0",
+      "2-1",
+      "3-1"
+    ]
+  },
+  {
+    "id": 243,
+    "match": "Denmark vs Germany",
+    "score": "2-0",
+    "level": 5,
+    "notes": "EURO Final 1992(They Were on Holiday Two Weeks Earlier)",
+    "options": [
+      "2-0",
+      "1-0",
+      "2-1",
+      "3-1"
+    ]
+  },
+  {
+    "id": 244,
+    "match": "Inter vs Lazio",
+    "score": "3-0",
+    "level": 5,
+    "notes": "UEFA Cup Final 1998(Ronaldo's Solo Goal in Paris)",
+    "options": [
+      "3-0",
+      "2-0",
+      "2-1",
+      "3-1"
+    ]
+  },
+  {
+    "id": 245,
+    "match": "Parma vs Marseille",
+    "score": "3-0",
+    "level": 5,
+    "notes": "UEFA Cup Final 1999(Veron, Crespo and Buffon in Moscow)",
+    "options": [
+      "3-0",
+      "2-0",
+      "2-1",
+      "1-0"
+    ]
+  },
+  {
+    "id": 246,
+    "match": "Colombia vs Mexico",
+    "score": "1-0",
+    "level": 5,
+    "notes": "Copa America Final 2001(Colombia's Only Title)",
+    "options": [
+      "1-0",
+      "2-0",
+      "2-1",
+      "1-1"
+    ]
+  },
+  {
+    "id": 247,
+    "match": "Brazil vs Argentina",
+    "score": "2-2",
+    "level": 5,
+    "notes": "Copa America Final 2004(Adriano Equalised in the 93rd Minute)",
+    "options": [
+      "2-2",
+      "1-1",
+      "2-1",
+      "3-2"
+    ]
+  },
+  {
+    "id": 248,
+    "match": "Brazil vs Argentina",
+    "score": "3-0",
+    "level": 5,
+    "notes": "Copa America Final 2007(Dunga's Brazil Humbled the Favourites)",
+    "options": [
+      "3-0",
+      "2-0",
+      "2-1",
+      "3-1"
+    ]
+  },
+  {
+    "id": 249,
+    "match": "Brazil vs Argentina",
+    "score": "4-1",
+    "level": 5,
+    "notes": "Confederations Cup Final 2005(Adriano and Kaka Destroy Argentina)",
+    "options": [
+      "4-1",
+      "3-1",
+      "3-0",
+      "4-2"
+    ]
+  },
+  {
+    "id": 250,
+    "match": "Brazil vs United States",
+    "score": "3-2",
+    "level": 5,
+    "notes": "Confederations Cup Final 2009(Brazil rallies to beat US in Confed Cup final)",
+    "options": [
+      "3-2",
+      "2-1",
+      "3-1",
+      "2-2"
+    ]
+  },
+  {
+    "id": 251,
+    "match": "Brazil vs Spain",
+    "score": "3-0",
+    "level": 5,
+    "notes": "Confederations Cup Final 2013(he World Champions Were Blown Away at the Maracana)",
+    "options": [
+      "3-0",
+      "2-0",
+      "2-1",
+      "3-1"
+    ]
+  },
+  {
+    "id": 252,
+    "match": "Argentina vs England",
+    "score": "2-1",
+    "level": 5,
+    "notes": "World Cup Quarter-final 1986(The Hand of God and the Goal of the Century)",
+    "options": [
+      "2-1",
+      "1-1",
+      "2-0",
+      "3-1"
+    ]
+  },
+  {
+    "id": 253,
+    "match": "Italy vs Brazil",
+    "score": "3-2",
+    "level": 5,
+    "notes": "World Cup Second Round 1982(Paolo Rossi Ended the Greatest Team Never to Win)",
+    "options": [
+      "3-2",
+      "2-1",
+      "3-1",
+      "2-2"
+    ]
+  },
+  {
+    "id": 254,
+    "match": "France vs West Germany",
+    "score": "3-3",
+    "level": 5,
+    "notes": "World Cup Semi-final 1982 (with extra time)(Schumacher on Battiston, and No Card))",
+    "options": [
+      "3-3",
+      "2-2",
+      "3-2",
+      "4-3"
+    ]
+  },
+  {
+    "id": 255,
+    "match": "Cameroon vs Argentina",
+    "score": "1-0",
+    "level": 5,
+    "notes": "World Cup Group Stage 1990(Nine Men Beat the World Champions in the Opener)",
+    "options": [
+      "1-0",
+      "2-1",
+      "1-1",
+      "2-0"
+    ]
+  },
+  {
+    "id": 256,
+    "match": "Italy vs Argentina",
+    "score": "1-1",
+    "level": 5,
+    "notes": "World Cup Semi-final 1990 (with extra time)(Maradona Knocked Italy Out in Naples)",
+    "options": [
+      "1-1",
+      "0-0",
+      "0-1",
+      "1-2"
+    ]
+  },
+  {
+    "id": 257,
+    "match": "West Germany vs England",
+    "score": "1-1",
+    "level": 5,
+    "notes": "World Cup Semi-final 1990 (with extra time)(Gazza's Tears and Waddle Over the Bar)",
+    "options": [
+      "1-1",
+      "2-2",
+      "1-0",
+      "0-0"
+    ]
+  },
+  {
+    "id": 258,
+    "match": "Netherlands vs West Germany",
+    "score": "2-1",
+    "level": 5,
+    "notes": "EURO Semi-final 1988(Van Basten's 89th Minute Revenge for 1974)",
+    "options": [
+      "2-1",
+      "1-0",
+      "3-2",
+      "1-1"
+    ]
+  },
+  {
+    "id": 259,
+    "match": "AC Milan vs Real Madrid",
+    "score": "5-0",
+    "level": 5,
+    "notes": "European Cup Semi-final 1989 second leg(Sacchi's Milan at Their Absolute Peak)",
+    "options": [
+      "5-0",
+      "4-0",
+      "6-0",
+      "5-1"
+    ]
+  },
+  {
+    "id": 260,
+    "match": "Liverpool vs Arsenal",
+    "score": "0-2",
+    "level": 5,
+    "notes": "Division One 1988-89 final match(Title Won on Goals Scored)",
+    "options": [
+      "0-2",
+      "0-1",
+      "1-2",
+      "1-1"
+    ]
+  },
+  {
+    "id": 261,
+    "match": "Germany vs Czech Republic",
+    "score": "2-1",
+    "level": 5,
+    "notes": "EURO Final 1996 (with extra time)(Bierhoff and the First Golden Goal)",
+    "options": [
+      "2-1",
+      "1-0",
+      "3-2",
+      "3-1"
+    ]
+  },
+  {
+    "id": 262,
+    "match": "France vs Italy",
+    "score": "2-1",
+    "level": 5,
+    "notes": "EURO Final 2000 (with extra time)(Trezeguet's Golden Goal)",
+    "options": [
+      "2-1",
+      "1-0",
+      "3-2",
+      "4-3"
+    ]
+  },
+  {
+    "id": 263,
+    "match": "Lazio vs Inter",
+    "score": "4-2",
+    "level": 5,
+    "notes": "Serie A 2001-02 final day(Inter Lost the Scudetto in 45 Minutes)",
+    "options": [
+      "4-2",
+      "4-3",
+      "3-2",
+      "5-2"
+    ]
+  }
 ]

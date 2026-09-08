@@ -1,212 +1,962 @@
 [
-    {
-      "id": 1,
-      "question": "Which team did Liverpool defeat in the 2019 UEFA Champions League final?",
-      "options": ["Real Madrid", "Tottenham Hotspur", "Manchester City", "Bayern Munich"],
-      "correct_answer": "Tottenham Hotspur",
-      "difficulty": 2
-    },
-    {
-      "id": 2,
-      "question": "Who was the runner-up in the 2012 European Championship?",
-      "options": ["Germany", "England", "Italy", "France"],
-      "correct_answer": "Italy",
-      "difficulty": 2
-    },
-    {
-      "id": 3,
-      "question": "Which club lost to Chelsea in the 2021 UEFA Champions League final?",
-      "options": ["Manchester City", "Paris Saint-Germain", "Real Madrid", "Liverpool"],
-      "correct_answer": "Manchester City",
-      "difficulty": 2
-    },
-    {
-      "id": 4,
-      "question": "Who scored the winning goal for Germany in the 2014 World Cup Final against Argentina?",
-      "options": ["Thomas Müller", "Miroslav Klose", "Mario Götze", "Mesut Özil"],
-      "correct_answer": "Mario Götze",
-      "difficulty": 2
-    },
-    {
-      "id": 5,
-      "question": "Which team was the runner-up in the 2018 FIFA World Cup?",
-      "options": ["Belgium", "England", "Croatia", "France"],
-      "correct_answer": "Croatia",
-      "difficulty": 2
-    },
-    {
-      "id": 6,
-      "question": "In 2016, which underdog team famously won the English Premier League title?",
-      "options": ["West Ham United", "Leicester City", "Everton", "Southampton"],
-      "correct_answer": "Leicester City",
-      "difficulty": 2
-    },
-    {
-      "id": 7,
-      "question": "Who did Portugal defeat in the final to win Euro 2016?",
-      "options": ["Germany", "France", "Wales", "Spain"],
-      "correct_answer": "France",
-      "difficulty": 2
-    },
-    {
-      "id": 8,
-      "question": "Which club won the 2012 UEFA Champions League?",
-      "options": ["Barcelona", "Bayern Munich", "Chelsea", "Real Madrid"],
-      "correct_answer": "Chelsea",
-      "difficulty": 2
-    },
-    {
-      "id": 9,
-      "question": "Who was the manager of Leicester City when they won the Premier League in 2015-16?",
-      "options": ["Nigel Pearson", "Claudio Ranieri", "Craig Shakespeare", "Brendan Rodgers"],
-      "correct_answer": "Claudio Ranieri",
-      "difficulty": 2
-    },
-    {
-      "id": 10,
-      "question": "Which club won the 2011 UEFA Champions League?",
-      "options": ["Barcelona", "Inter Milan", "Chelsea", "Real Madrid"],
-      "correct_answer": "Barcelona",
-      "difficulty": 2
-    },
-    {
-      "id": 11,
-      "question": "Which nation did Italy beat on penalties to win the Euro 2020 (played in 2021) final?",
-      "options": ["Spain", "Denmark", "England", "Germany"],
-      "correct_answer": "England",
-      "difficulty": 2
-    },
-    {
-      "id": 12,
-      "question": "Which team won three consecutive UEFA Champions League titles between 2016 and 2018?",
-      "options": ["Barcelona", "Bayern Munich", "Real Madrid", "Manchester City"],
-      "correct_answer": "Real Madrid",
-      "difficulty": 2
-    },
-    {
-      "id": 13,
-      "question": "Who was the top scorer (Golden Boot winner) of the 2022 FIFA World Cup?",
-      "options": ["Lionel Messi", "Kylian Mbappé", "Julian Alvarez", "Olivier Giroud"],
-      "correct_answer": "Kylian Mbappé",
-      "difficulty": 2
-    },
-    {
-      "id": 14,
-      "question": "Which club did Erling Haaland play for immediately before joining Manchester City?",
-      "options": ["Red Bull Salzburg", "Borussia Dortmund", "RB Leipzig", "Molde FK"],
-      "correct_answer": "Borussia Dortmund",
-      "difficulty": 2
-    },
-    {
-      "id": 15,
-      "question": "Who was the manager of Manchester United when they won their last Premier League title in 2013?",
-      "options": ["David Moyes", "Louis van Gaal", "Sir Alex Ferguson", "José Mourinho"],
-      "correct_answer": "Sir Alex Ferguson",
-      "difficulty": 2
-    },
-    {
-      "id": 16,
-      "question": "Which team lost the 2015 UEFA Champions League final to Barcelona?",
-      "options": ["Juventus", "Real Madrid", "Bayern Munich", "Atletico Madrid"],
-      "correct_answer": "Juventus",
-      "difficulty": 2
-    },
-    {
-      "id": 17,
-      "question": "In which year did Spain win their second consecutive European Championship?",
-      "options": ["2008", "2010", "2012", "2014"],
-      "correct_answer": "2012",
-      "difficulty": 2
-    },
-    {
-      "id": 18,
-      "question": "Which player won the UEFA Men's Player of the Year award in 2018, breaking the Messi-Ronaldo streak?",
-      "options": ["Antoine Griezmann", "Luka Modrić", "Mohamed Salah", "Virgil van Dijk"],
-      "correct_answer": "Luka Modrić",
-      "difficulty": 2
-    },
-    {
-      "id": 19,
-      "question": "Which team defeated Arsenal in the 2019 UEFA Europa League final?",
-      "options": ["Chelsea", "Manchester United", "Villarreal", "Sevilla"],
-      "correct_answer": "Chelsea",
-      "difficulty": 2
-    },
-    {
-      "id": 20,
-      "question": "Who was the host nation of the 2010 FIFA World Cup?",
-      "options": ["Brazil", "South Africa", "Germany", "South Korea"],
-      "correct_answer": "South Africa",
-      "difficulty": 2
-    },
-    {
-      "id": 21,
-      "question": "Which club ended Juventus' streak of nine consecutive Serie A titles in 2021?",
-      "options": ["AC Milan", "Napoli", "Inter Milan", "Lazio"],
-      "correct_answer": "Inter Milan",
-      "difficulty": 2
-    },
-    {
-      "id": 22,
-      "question": "Which club reached the UEFA Champions League final in 2010 but lost to Inter Milan?",
-      "options": ["Porto", "Barcelona", "Bayern Munich", "Real Madrid"],
-      "correct_answer": "Bayern Munich",
-      "difficulty": 2
-    },
-    {
-      "id": 23,
-      "question": "Which goalkeeper won the Golden Glove at the 2018 FIFA World Cup?",
-      "options": ["Hugo Lloris", "Thibaut Courtois", "Jordan Pickford", "Danijel Subašić"],
-      "correct_answer": "Thibaut Courtois",
-      "difficulty": 2
-    },
-    {
-      "id": 24,
-      "question": "Which German club reached the Champions League final in 2013 only to lose to Bayern Munich?",
-      "options": ["Bayer Leverkusen", "Borussia Dortmund", "Schalke 04", "RB Leipzig"],
-      "correct_answer": "Borussia Dortmund",
-      "difficulty": 2
-    },
-    {
-      "id": 25,
-      "question": "In which year did the 'MSN' trio (Messi, Suárez, Neymar) win 5 trophies with Barcelona?",
-      "options": ["2013", "2014", "2015", "2016"],
-      "correct_answer": "2015",
-      "difficulty": 2
-    },
-    {
-      "id": 26,
-      "question": "Which team did Manchester City beat to win their first-ever Champions League title in 2023?",
-      "options": ["Real Madrid", "Inter Milan", "AC Milan", "Bayern Munich"],
-      "correct_answer": "Inter Milan",
-      "difficulty": 2
-    },
-    {
-      "id": 27,
-      "question": "Who was the manager of the French national team for their 2018 World Cup victory?",
-      "options": ["Zinedine Zidane", "Laurent Blanc", "Didier Deschamps", "Thierry Henry"],
-      "correct_answer": "Didier Deschamps",
-      "difficulty": 2
-    },
-    {
-      "id": 28,
-      "question": "With which club did Robert Lewandowski make his debut in the Bundesliga?",
-      "options": ["Bayern Munich", "Borussia Dortmund", "Bayer Leverkusen", "Schalke 04"],
-      "correct_answer": "Borussia Dortmund",
-      "difficulty": 2
-    },
-    {
-      "id": 29,
-      "question": "Which goalkeeper made a great last minute save in the 2022 World Cup Final?",
-      "options": ["Manuel Neuer", "Emiliano Martinez", "Ederson", "Hugo Lloris"],
-      "correct_answer": "Emiliano Martinez",
-      "difficulty": 2
-    },
-    {
-      "id": 30,
-      "question": "Who was the manager of Germany during their 2014 World Cup win?",
-      "options": ["Joachim Löw", "Jürgen Klinsmann", "Berti Vogts", "Ralf Rangnick"],
-      "correct_answer": "Joachim Löw",
-      "difficulty": 2
-    }
+  {
+    "id": 1,
+    "question": "Which team did Liverpool defeat in the 2019 UEFA Champions League final?",
+    "options": [
+      "Real Madrid",
+      "Tottenham Hotspur",
+      "Manchester City",
+      "Bayern Munich"
+    ],
+    "correct_answer": "Tottenham Hotspur",
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "question": "Who was the runner-up in the 2012 European Championship?",
+    "options": [
+      "Germany",
+      "England",
+      "Italy",
+      "France"
+    ],
+    "correct_answer": "Italy",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question": "Which club lost to Chelsea in the 2021 UEFA Champions League final?",
+    "options": [
+      "Manchester City",
+      "Paris Saint-Germain",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "correct_answer": "Manchester City",
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "question": "Who scored the winning goal for Germany in the 2014 World Cup Final against Argentina?",
+    "options": [
+      "Thomas Müller",
+      "Miroslav Klose",
+      "Mario Götze",
+      "Mesut Özil"
+    ],
+    "correct_answer": "Mario Götze",
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "question": "In 2016, which underdog team famously won the English Premier League title?",
+    "options": [
+      "West Ham United",
+      "Leicester City",
+      "Everton",
+      "Southampton"
+    ],
+    "correct_answer": "Leicester City",
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "question": "Who did Portugal defeat in the final to win Euro 2016?",
+    "options": [
+      "Germany",
+      "France",
+      "Wales",
+      "Spain"
+    ],
+    "correct_answer": "France",
+    "difficulty": 2
+  },
+  {
+    "id": 7,
+    "question": "Which club won the 2012 UEFA Champions League?",
+    "options": [
+      "Barcelona",
+      "Bayern Munich",
+      "Chelsea",
+      "Real Madrid"
+    ],
+    "correct_answer": "Chelsea",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question": "Which club won the 2011 UEFA Champions League?",
+    "options": [
+      "Barcelona",
+      "Inter Milan",
+      "Chelsea",
+      "Real Madrid"
+    ],
+    "correct_answer": "Barcelona",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question": "Which nation did Italy beat on penalties to win the Euro 2020 (played in 2021) final?",
+    "options": [
+      "Spain",
+      "Denmark",
+      "England",
+      "Germany"
+    ],
+    "correct_answer": "England",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question": "Who was the top scorer (Golden Boot winner) of the 2022 FIFA World Cup?",
+    "options": [
+      "Lionel Messi",
+      "Kylian Mbappé",
+      "Julian Alvarez",
+      "Olivier Giroud"
+    ],
+    "correct_answer": "Kylian Mbappé",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question": "Who was the manager of Manchester United when they won their last Premier League title in 2013?",
+    "options": [
+      "David Moyes",
+      "Louis van Gaal",
+      "Sir Alex Ferguson",
+      "José Mourinho"
+    ],
+    "correct_answer": "Sir Alex Ferguson",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "Which team lost the 2015 UEFA Champions League final to Barcelona?",
+    "options": [
+      "Juventus",
+      "Real Madrid",
+      "Bayern Munich",
+      "Atletico Madrid"
+    ],
+    "correct_answer": "Juventus",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "In which year did Spain win their second consecutive European Championship?",
+    "options": [
+      "2008",
+      "2010",
+      "2012",
+      "2014"
+    ],
+    "correct_answer": "2012",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question": "Which player won the UEFA Men's Player of the Year award in 2018, breaking the Messi-Ronaldo streak?",
+    "options": [
+      "Antoine Griezmann",
+      "Luka Modrić",
+      "Mohamed Salah",
+      "Virgil van Dijk"
+    ],
+    "correct_answer": "Luka Modrić",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "Which team defeated Arsenal in the 2019 UEFA Europa League final?",
+    "options": [
+      "Chelsea",
+      "Manchester United",
+      "Villarreal",
+      "Sevilla"
+    ],
+    "correct_answer": "Chelsea",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question": "Who was the host nation of the 2010 FIFA World Cup?",
+    "options": [
+      "Brazil",
+      "South Africa",
+      "Germany",
+      "South Korea"
+    ],
+    "correct_answer": "South Africa",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question": "Which club ended Juventus' streak of nine consecutive Serie A titles in 2021?",
+    "options": [
+      "AC Milan",
+      "Napoli",
+      "Inter Milan",
+      "Lazio"
+    ],
+    "correct_answer": "Inter Milan",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "Which club reached the UEFA Champions League final in 2010 but lost to Inter Milan?",
+    "options": [
+      "Porto",
+      "Barcelona",
+      "Bayern Munich",
+      "Real Madrid"
+    ],
+    "correct_answer": "Bayern Munich",
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "Which German club reached the Champions League final in 2013 only to lose to Bayern Munich?",
+    "options": [
+      "Bayer Leverkusen",
+      "Borussia Dortmund",
+      "Schalke 04",
+      "RB Leipzig"
+    ],
+    "correct_answer": "Borussia Dortmund",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "In which year did the 'MSN' trio (Messi, Suárez, Neymar) win 5 trophies with Barcelona?",
+    "options": [
+      "2013",
+      "2014",
+      "2015",
+      "2016"
+    ],
+    "correct_answer": "2015",
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "Who was the manager of the French national team for their 2018 World Cup victory?",
+    "options": [
+      "Zinedine Zidane",
+      "Laurent Blanc",
+      "Didier Deschamps",
+      "Thierry Henry"
+    ],
+    "correct_answer": "Didier Deschamps",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "With which club did Robert Lewandowski make his debut in the Bundesliga?",
+    "options": [
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Bayer Leverkusen",
+      "Schalke 04"
+    ],
+    "correct_answer": "Borussia Dortmund",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "Which goalkeeper made a great last minute save in the 2022 World Cup Final?",
+    "options": [
+      "Manuel Neuer",
+      "Emiliano Martinez",
+      "Ederson",
+      "Hugo Lloris"
+    ],
+    "correct_answer": "Emiliano Martinez",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "Who was the manager of Germany during their 2014 World Cup win?",
+    "options": [
+      "Joachim Löw",
+      "Jürgen Klinsmann",
+      "Berti Vogts",
+      "Ralf Rangnick"
+    ],
+    "correct_answer": "Joachim Löw",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "Who is the all-time top scorer in Premier League history?",
+    "options": [
+      "Alan Shearer",
+      "Harry Kane",
+      "Wayne Rooney",
+      "Thierry Henry"
+    ],
+    "correct_answer": "Alan Shearer",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "Who holds the record for most Premier League appearances of all time?",
+    "options": [
+      "James Milner",
+      "Gareth Barry",
+      "Ryan Giggs",
+      "Frank Lampard"
+    ],
+    "correct_answer": "James Milner",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "Which club has won the most Serie A (Italian league) titles?",
+    "options": [
+      "Juventus",
+      "Inter Milan",
+      "AC Milan",
+      "Napoli"
+    ],
+    "correct_answer": "Juventus",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "Which player holds the record for most appearances for AC Milan?",
+    "options": [
+      "Paolo Maldini",
+      "Franco Baresi",
+      "Alessandro Costacurta",
+      "Gianni Rivera"
+    ],
+    "correct_answer": "Paolo Maldini",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "Who scored Spain's winning goal in the 2010 World Cup final?",
+    "options": [
+      "Andrés Iniesta",
+      "David Villa",
+      "Xavi Hernández",
+      "Fernando Torres"
+    ],
+    "correct_answer": "Andrés Iniesta",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "Which coach has won the most UEFA Champions League titles?",
+    "options": [
+      "Carlo Ancelotti",
+      "Pep Guardiola",
+      "Zinedine Zidane",
+      "Alex Ferguson"
+    ],
+    "correct_answer": "Carlo Ancelotti",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question": "Which player is tied for the most UEFA Champions League titles won (6)?",
+    "options": [
+      "Dani Carvajal",
+      "Cristiano Ronaldo",
+      "Karim Benzema",
+      "Luka Modrić"
+    ],
+    "correct_answer": "Dani Carvajal",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question": "Who is the all-time top scorer in FIFA World Cup history?",
+    "options": [
+      "Kylian Mbappé",
+      "Lionel Messi",
+      "Miroslav Klose",
+      "Ronaldo Nazário"
+    ],
+    "correct_answer": "Kylian Mbappé",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question": "Which club has won the most Portuguese league (Primeira Liga) titles?",
+    "options": [
+      "Benfica",
+      "Porto",
+      "Sporting CP",
+      "Braga"
+    ],
+    "correct_answer": "Benfica",
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question": "Which team has won the most Ligue 1 titles in France?",
+    "options": [
+      "Paris Saint-Germain",
+      "Saint-Étienne",
+      "Olympique de Marseille",
+      "AS Monaco"
+    ],
+    "correct_answer": "Paris Saint-Germain",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question": "Which team has won the second-most UEFA Champions League titles behind Real Madrid?",
+    "options": [
+      "AC Milan",
+      "Liverpool",
+      "Bayern Munich",
+      "Barcelona"
+    ],
+    "correct_answer": "AC Milan",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question": "Which of the following players has never won the UEFA Champions League?",
+    "options": [
+      "Neymar",
+      "Zlatan Ibrahimović",
+      "Robert Lewandowski",
+      "Karim Benzema"
+    ],
+    "correct_answer": "Zlatan Ibrahimović",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question": "Which of the following players has never won the Premier League?",
+    "options": [
+      "Jordan Henderson",
+      "Kai Havertz",
+      "İlkay Gündoğan",
+      "Pierre-Emerick Aubameyang"
+    ],
+    "correct_answer": "Pierre-Emerick Aubameyang",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question": "Which of the following players has won the Premier League Golden Boot?",
+    "options": [
+      "Edin Džeko",
+      "Alexis Sánchez",
+      "Jamie Vardy",
+      "Ollie Watkins"
+    ],
+    "correct_answer": "Jamie Vardy",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question": "Barcelona and Real Madrid are the two clubs with the most La Liga titles. Which club is third?",
+    "options": [
+      "Atlético Madrid",
+      "Athletic Bilbao",
+      "Valencia",
+      "Sevilla"
+    ],
+    "correct_answer": "Atlético Madrid",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question": "Who is the foreign player with the most goals in Premier League history?",
+    "options": [
+      "Thierry Henry",
+      "Mohamed Salah",
+      "Sergio Agüero",
+      "Robin van Persie"
+    ],
+    "correct_answer": "Mohamed Salah",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question": "Who is the all-time top scorer for the Brazil national football team?",
+    "options": [
+      "Pelé",
+      "Neymar",
+      "Ronaldo",
+      "Romário"
+    ],
+    "correct_answer": "Neymar",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question": "Who is the all-time top scorer for the France national football team?",
+    "options": [
+      "Olivier Giroud",
+      "Kylian Mbappé",
+      "Thierry Henry",
+      "Antoine Griezmann"
+    ],
+    "correct_answer": "Kylian Mbappé",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question": "In Barcelona's 6–1 comeback against Paris Saint-Germain in 2017, which player scored the sixth goal?",
+    "options": [
+      "Sergi Roberto",
+      "Neymar",
+      "Gerard Piqué",
+      "Sergio Busquets"
+    ],
+    "correct_answer": "Sergi Roberto",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question": "How many UEFA Champions League titles has Manchester City won?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": "1",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question": "How many UEFA Champions League titles has Arsenal won?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": "0",
+    "difficulty": 2
+  },
+  {
+    "id": 46,
+    "question": "How many FIFA World Cups has the Spain national team won?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": "2",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question": "Which of the following clubs has João Félix never played for?",
+    "options": [
+      "AC Milan",
+      "Chelsea",
+      "Barcelona",
+      "Galatasaray"
+    ],
+    "correct_answer": "Galatasaray",
+    "difficulty": 2
+  },
+  {
+    "id": 48,
+    "question": "Who was the Manchester United manager when Cristiano Ronaldo left the club to join Al Nassr?",
+    "options": [
+      "Erik ten Hag",
+      "Ralf Rangnick",
+      "Ole Gunnar Solskjær",
+      "José Mourinho"
+    ],
+    "correct_answer": "Erik ten Hag",
+    "difficulty": 2
+  },
+  {
+    "id": 49,
+    "question": "Under which manager did Barcelona win the UEFA Champions League in 2009 and 2011?",
+    "options": [
+      "Pep Guardiola",
+      "Luis Enrique",
+      "Frank Rijkaard",
+      "Ronald Koeman"
+    ],
+    "correct_answer": "Pep Guardiola",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question": "Who holds the record for the most appearances for Juventus?",
+    "options": [
+      "Gianluigi Buffon",
+      "Alessandro Del Piero",
+      "Giorgio Chiellini",
+      "Leonardo Bonucci"
+    ],
+    "correct_answer": "Gianluigi Buffon",
+    "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question": "Who holds the record for the most appearances in the Premier League for Manchester City?",
+    "options": [
+      "David Silva",
+      "Sergio Agüero",
+      "Vincent Kompany",
+      "Kevin De Bruyne"
+    ],
+    "correct_answer": "David Silva",
+    "difficulty": 2
+  },
+  {
+    "id": 52,
+    "question": "Who holds the record for the most appearances for Inter Milan?",
+    "options": [
+      "Javier Zanetti",
+      "Giuseppe Bergomi",
+      "Lautaro Martínez",
+      "Walter Samuel"
+    ],
+    "correct_answer": "Javier Zanetti",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question": "Who is Manchester United's all-time top scorer in the Premier League?",
+    "options": [
+      "Wayne Rooney",
+      "Ryan Giggs",
+      "Teddy Sheringham",
+      "Cristiano Ronaldo"
+    ],
+    "correct_answer": "Wayne Rooney",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question": "Which club did Liverpool sign Virgil van Dijk from?",
+    "options": [
+      "Groningen",
+      "Southampton",
+      "Rangers",
+      "Celtic"
+    ],
+    "correct_answer": "Southampton",
+    "difficulty": 2
+  },
+  {
+    "id": 55,
+    "question": "Which manager has won the UEFA Champions League, UEFA Europa League and UEFA Europa Conference League?",
+    "options": [
+      "José Mourinho",
+      "Pep Guardiola",
+      "Carlo Ancelotti",
+      "Jürgen Klopp"
+    ],
+    "correct_answer": "José Mourinho",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question": "Which of the following players has never won La Liga?",
+    "options": [
+      "Marcos Llorente",
+      "Koke",
+      "Antoine Griezmann",
+      "Álvaro Morata"
+    ],
+    "correct_answer": "Antoine Griezmann",
+    "difficulty": 2
+  },
+  {
+    "id": 57,
+    "question": "What was the last FIFA World Cup in which Italy participated?",
+    "options": [
+      "2010",
+      "2014",
+      "2018",
+      "2022"
+    ],
+    "correct_answer": "2014",
+    "difficulty": 2
+  },
+  {
+    "id": 58,
+    "question": "Who was Chelsea's manager when they won the UEFA Champions League in 2021?",
+    "options": [
+      "Frank Lampard",
+      "Thomas Tuchel",
+      "José Mourinho",
+      "Roberto Di Matteo"
+    ],
+    "correct_answer": "Thomas Tuchel",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question": "Who was Bayern Munich's manager when they won the UEFA Champions League in 2020?",
+    "options": [
+      "Jupp Heynckes",
+      "Hansi Flick",
+      "Pep Guardiola",
+      "Thomas Tuchel"
+    ],
+    "correct_answer": "Hansi Flick",
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "question": "Which Portugal international has been AC Milan's number 10 since 2023?",
+    "options": [
+      "Rafael Leão",
+      "Andre Silva",
+      "Brahim Diaz",
+      "João Félix"
+    ],
+    "correct_answer": "Rafael Leão",
+    "difficulty": 2
+  },
+  {
+    "id": 61,
+    "question": "Which club sold Kylian Mbappé for €180m?",
+    "options": [
+      "Paris Saint-Germain",
+      "AS Monaco",
+      "Olympique de Marseille",
+      "Olympique Lyonnais"
+    ],
+    "correct_answer": "AS Monaco",
+    "difficulty": 2
+  },
+  {
+    "id": 62,
+    "question": "Which of the following players has been named La Liga's Best Defender five times?",
+    "options": [
+      "Carles Puyol",
+      "Sergio Ramos",
+      "Pepe",
+      "Gerard Piqué"
+    ],
+    "correct_answer": "Sergio Ramos",
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "question": "Which player scored the winning goal for Manchester City against QPR in the 2011-12 season, securing the Premier League title?",
+    "options": [
+      "Sergio Agüero",
+      "Vincent Kompany",
+      "Mario Balotelli",
+      "Yaya Touré"
+    ],
+    "correct_answer": "Sergio Agüero",
+    "difficulty": 2
+  },
+  {
+    "id": 64,
+    "question": "Besides Manchester, which other European city has two clubs that have won the Champions League?",
+    "options": [
+      "London",
+      "Madrid",
+      "Milan",
+      "Liverpool"
+    ],
+    "correct_answer": "Milan",
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question": "How many times has Sevilla lost the Europa League final?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": "0",
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "question": "Who was the manager of Italy when they won Euro 2020(2021)?",
+    "options": [
+      "Luciano Spalletti",
+      "Roberto Mancini",
+      "Gian Piero Gasperini",
+      "Gennaro Gattuso"
+    ],
+    "correct_answer": "Roberto Mancini",
+    "difficulty": 2
+  },
+  {
+    "id": 67,
+    "question": "Leicester won the Premier League title in the 2015/16 season. Who was the club's top goalscorer?",
+    "options": [
+      "Jamie Vardy",
+      "Riyad Mahrez",
+      "Shinji Okazaki",
+      "Kelechi Iheanacho"
+    ],
+    "correct_answer": "Jamie Vardy",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "question": "What is the name of Barcelona's famous youth academy?",
+    "options": [
+      "La Masia",
+      "La Fábrica",
+      "Lezama",
+      "De Toekomst"
+    ],
+    "correct_answer": "La Masia",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question": "Which player had the most assists at the 2026 FIFA World Cup?",
+    "options": [
+      "Michael Olise",
+      "Martin Ødegaard",
+      "Brahim Díaz",
+      "Kylian Mbappé"
+    ],
+    "correct_answer": "Michael Olise",
+    "difficulty": 2
+  },
+  {
+    "id": 70,
+    "question": "Which club is known as 'Los Blancos'?",
+    "options": [
+      "Real Madrid",
+      "Barcelona",
+      "Atlético Madrid",
+      "Sevilla"
+    ],
+    "correct_answer": "Real Madrid",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "question": "Who is Poland's all-time leading goalscorer?",
+    "options": [
+      "Robert Lewandowski",
+      "Włodzimierz Lubański",
+      "Grzegorz Lato",
+      "Zbigniew Boniek"
+    ],
+    "correct_answer": "Robert Lewandowski",
+    "difficulty": 2
+  },
+  {
+    "id": 73,
+    "question": "Who is Brazil's all-time leading goalscorer?",
+    "options": [
+      "Neymar",
+      "Pelé",
+      "Ronaldo",
+      "Romário"
+    ],
+    "correct_answer": "Neymar",
+    "difficulty": 2
+  },
+  {
+    "id": 74,
+    "question": "Who is Argentina's all-time leading goalscorer?",
+    "options": [
+      "Lionel Messi",
+      "Gabriel Batistuta",
+      "Diego Maradona",
+      "Sergio Agüero"
+    ],
+    "correct_answer": "Lionel Messi",
+    "difficulty": 2
+  },
+  {
+    "id": 75,
+    "question": "Who is Sweden's all-time leading goalscorer?",
+    "options": [
+      "Zlatan Ibrahimović",
+      "Sven Rydell",
+      "Gunnar Nordahl",
+      "Henrik Larsson"
+    ],
+    "correct_answer": "Zlatan Ibrahimović",
+    "difficulty": 2
+  },
+  {
+    "id": 76,
+    "question": "Which manager has won the most Premier League titles?",
+    "options": [
+      "Sir Alex Ferguson",
+      "Pep Guardiola",
+      "José Mourinho",
+      "Arsène Wenger"
+    ],
+    "correct_answer": "Sir Alex Ferguson",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question": "Which goalkeeper has kept the most clean sheets for the Spain national team?",
+    "options": [
+      "Iker Casillas",
+      "Andoni Zubizarreta",
+      "David de Gea",
+      "Víctor Valdés"
+    ],
+    "correct_answer": "Iker Casillas",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question": "Which continent has won the most FIFA World Cup titles?",
+    "options": [
+      "Europe",
+      "South America",
+      "Africa",
+      "Asia"
+    ],
+    "correct_answer": "Europe",
+    "difficulty": 2
+  },
+  {
+    "id": 79,
+    "question": "How many FIFA World Cup titles have African countries won in total?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": "0",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question": "Which club had the most players at the 2026 FIFA World Cup?",
+    "options": [
+      "Manchester City",
+      "Bayern Munich",
+      "Arsenal",
+      "Paris Saint-Germain"
+    ],
+    "correct_answer": "Manchester City",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question": "Which team has reached the most FIFA World Cup semi-finals?",
+    "options": [
+      "Germany",
+      "Italy",
+      "Brazil",
+      "France"
+    ],
+    "correct_answer": "Germany",
+    "difficulty": 2
+  }
 ]
