@@ -12,6 +12,7 @@
       "Manchester United",
       "Real Madrid",
       "Juventus",
+      "Manchester United",
       "Al-Nassr"
     ],
     "leagues": [
@@ -103,13 +104,16 @@
       "Barcelona",
       "AC Milan",
       "Flamengo",
-      "Atletico Mineiro"
+      "Atletico Mineiro",
+      "Queretaro",
+      "Fluminense"
     ],
     "leagues": [
       "Brasileirão",
       "Ligue 1",
       "La Liga",
-      "Serie A"
+      "Serie A",
+      "Liga MX"
     ],
     "trophies": [
       "World Cup",
@@ -129,6 +133,7 @@
     "stillPlaying": true,
     "clubs": [
       "Nacional",
+      "Groningen",
       "Ajax",
       "Liverpool",
       "Barcelona",
@@ -158,6 +163,7 @@
     "birthYear": 1989,
     "stillPlaying": true,
     "clubs": [
+      "Rot Weiss Ahlen",
       "Borussia Monchengladbach",
       "Borussia Dortmund",
       "LA Galaxy"
@@ -224,6 +230,10 @@
     "stillPlaying": true,
     "clubs": [
       "Tottenham Hotspur",
+      "Leyton Orient",
+      "Millwall",
+      "Norwich City",
+      "Leicester City",
       "Bayern Munich"
     ],
     "leagues": [
@@ -309,8 +319,10 @@
     "birthYear": 1992,
     "stillPlaying": true,
     "clubs": [
+      "Al Mokawloon Al Arab",
       "Basel",
       "Chelsea",
+      "Fiorentina",
       "AS Roma",
       "Liverpool",
       "Trabzonspor"
@@ -319,7 +331,8 @@
       "Swiss Super League",
       "Premier League",
       "Serie A",
-      "Süper Lig"
+      "Süper Lig",
+      "Egyptian Premier League"
     ],
     "trophies": [
       "Premier League",
@@ -381,6 +394,7 @@
     "stillPlaying": false,
     "clubs": [
       "Manchester United",
+      "Preston North End",
       "Real Madrid",
       "LA Galaxy",
       "AC Milan",
@@ -412,11 +426,19 @@
     "clubs": [
       "Independiente",
       "Arsenal",
-      "Aston Villa"
+      "Oxford United",
+      "Sheffield Wednesday",
+      "Rotherham United",
+      "Wolverhampton Wanderers",
+      "Getafe",
+      "Reading",
+      "Aston Villa",
+      "Chelsea"
     ],
     "leagues": [
       "Argentine Primera División",
-      "Premier League"
+      "Premier League",
+      "La Liga"
     ],
     "trophies": [
       "World Cup",
@@ -433,11 +455,13 @@
     "stillPlaying": false,
     "clubs": [
       "Barcelona",
-      "Vissel Kobe"
+      "Vissel Kobe",
+      "Emirates Club"
     ],
     "leagues": [
       "La Liga",
-      "J1 League"
+      "J1 League",
+      "UAE Pro League"
     ],
     "trophies": [
       "World Cup",
@@ -477,7 +501,7 @@
     "birthYear": 1994,
     "stillPlaying": true,
     "clubs": [
-      "Boavista",
+      "Novara",
       "Udinese",
       "Sampdoria",
       "Sporting CP",
@@ -535,7 +559,8 @@
       "Barcelona",
       "Napoli",
       "Sevilla",
-      "Newell's Old Boys"
+      "Newell's Old Boys",
+      "Boca Juniors"
     ],
     "leagues": [
       "Argentine Primera División",
@@ -563,7 +588,8 @@
       "Juventus",
       "Arsenal",
       "Barcelona",
-      "New York Red Bulls"
+      "New York Red Bulls",
+      "Arsenal"
     ],
     "leagues": [
       "Ligue 1",
@@ -593,6 +619,7 @@
       "Sevilla",
       "Real Madrid",
       "Paris Saint-Germain",
+      "Sevilla",
       "Monterrey"
     ],
     "leagues": [
@@ -619,17 +646,26 @@
     "stillPlaying": false,
     "clubs": [
       "Real Madrid",
+      "Leganés",
       "Espanyol",
       "Mallorca",
       "Barcelona",
       "Inter Milan",
+      "Anzhi Makhachkala",
       "Chelsea",
-      "Everton"
+      "Everton",
+      "Sampdoria",
+      "Antalyaspor",
+      "Konyaspor",
+      "Qatar SC"
     ],
     "leagues": [
       "La Liga",
       "Serie A",
-      "Premier League"
+      "Premier League",
+      "Russian Premier League",
+      "Süper Lig",
+      "Qatar Stars League"
     ],
     "trophies": [
       "La Liga",
@@ -724,17 +760,22 @@
     "stillPlaying": false,
     "clubs": [
       "Union São João",
+      "Atletico Mineiro",
       "Palmeiras",
       "Inter Milan",
       "Real Madrid",
       "Fenerbahçe",
-      "Corinthians"
+      "Corinthians",
+      "Anzhi Makhachkala",
+      "Delhi Dynamos"
     ],
     "leagues": [
       "Brasileirão",
       "Serie A",
       "La Liga",
-      "Süper Lig"
+      "Süper Lig",
+      "Russian Premier League",
+      "Indian Super League"
     ],
     "trophies": [
       "La Liga",
@@ -758,7 +799,9 @@
       "Chelsea",
       "Shanghai Shenhua",
       "Galatasaray",
-      "Montreal Impact"
+      "Chelsea",
+      "Montreal Impact",
+      "Phoenix Rising FC"
     ],
     "leagues": [
       "Ligue 1",
@@ -818,6 +861,8 @@
       "São Paulo",
       "AC Milan",
       "Real Madrid",
+      "AC Milan",
+      "São Paulo",
       "Orlando City"
     ],
     "leagues": [
@@ -845,6 +890,7 @@
     "clubs": [
       "São Paulo",
       "Real Zaragoza",
+      "Juventude",
       "Palmeiras",
       "AS Roma",
       "AC Milan"
@@ -901,6 +947,8 @@
     "clubs": [
       "Brescia",
       "Inter Milan",
+      "Reggina",
+      "Brescia",
       "AC Milan",
       "Juventus",
       "New York City FC"
@@ -1020,6 +1068,7 @@
     "stillPlaying": false,
     "clubs": [
       "West Ham United",
+      "Swansea City",
       "Chelsea",
       "Manchester City",
       "New York City FC"
@@ -1047,6 +1096,7 @@
     "clubs": [
       "Everton",
       "Manchester United",
+      "Everton",
       "D.C. United",
       "Derby County"
     ],
@@ -1073,6 +1123,9 @@
     "stillPlaying": true,
     "clubs": [
       "Dinamo Zagreb",
+      "Zrinjski Mostar",
+      "Inter Zaprešić",
+      "Dinamo Zagreb",
       "Tottenham Hotspur",
       "Real Madrid",
       "AC Milan"
@@ -1081,7 +1134,8 @@
       "Croatian First League",
       "Premier League",
       "La Liga",
-      "Serie A"
+      "Serie A",
+      "Bosnian Premier League"
     ],
     "trophies": [
       "Champions League",
@@ -1127,16 +1181,22 @@
     "birthYear": 1983,
     "stillPlaying": false,
     "clubs": [
+      "Beveren",
+      "Metalurh Donetsk",
       "Olympiacos",
       "Monaco",
       "Barcelona",
-      "Manchester City"
+      "Manchester City",
+      "Olympiacos",
+      "Qingdao Huanghai"
     ],
     "leagues": [
       "Greek Super League",
       "Ligue 1",
       "La Liga",
-      "Premier League"
+      "Premier League",
+      "Belgian First Division A",
+      "Ukrainian Premier League"
     ],
     "trophies": [
       "Greek Super League",
@@ -1158,16 +1218,23 @@
     "birthYear": 1982,
     "stillPlaying": false,
     "clubs": [
+      "Bastia",
       "Lyon",
       "Chelsea",
       "Real Madrid",
-      "AC Milan"
+      "AC Milan",
+      "Panathinaikos",
+      "Persib Bandung",
+      "Sabail FK"
     ],
     "leagues": [
       "Ligue 1",
       "Premier League",
       "La Liga",
-      "Serie A"
+      "Serie A",
+      "Greek Super League",
+      "Liga 1 (Indonesia)",
+      "Azerbaijan Premier League"
     ],
     "trophies": [
       "Premier League",
