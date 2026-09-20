@@ -1,0 +1,1180 @@
+[
+  {
+    "id": "cristiano-ronaldo",
+    "name": "Cristiano Ronaldo",
+    "nationality": "Portugal",
+    "continent": "Europe",
+    "position": "Forward",
+    "birthYear": 1985,
+    "stillPlaying": true,
+    "clubs": [
+      "Sporting CP",
+      "Manchester United",
+      "Real Madrid",
+      "Juventus",
+      "Al-Nassr"
+    ],
+    "leagues": [
+      "Primeira Liga",
+      "Premier League",
+      "La Liga",
+      "Serie A",
+      "Saudi Pro League"
+    ],
+    "trophies": [
+      "Premier League",
+      "La Liga",
+      "Serie A",
+      "Champions League",
+      "FIFA Club World Cup",
+      "European Championship",
+      "UEFA Nations League",
+      "Ballon d'Or"
+    ]
+  },
+  {
+    "id": "lionel-messi",
+    "name": "Lionel Messi",
+    "nationality": "Argentina",
+    "continent": "South America",
+    "position": "Forward",
+    "birthYear": 1987,
+    "stillPlaying": true,
+    "clubs": [
+      "Barcelona",
+      "Paris Saint-Germain",
+      "Inter Miami"
+    ],
+    "leagues": [
+      "La Liga",
+      "Ligue 1",
+      "MLS"
+    ],
+    "trophies": [
+      "World Cup",
+      "Copa América",
+      "La Liga",
+      "Ligue 1",
+      "Champions League",
+      "FIFA Club World Cup",
+      "Ballon d'Or"
+    ]
+  },
+  {
+    "id": "neymar",
+    "name": "Neymar",
+    "nationality": "Brazil",
+    "continent": "South America",
+    "position": "Forward",
+    "birthYear": 1992,
+    "stillPlaying": true,
+    "clubs": [
+      "Santos",
+      "Barcelona",
+      "Paris Saint-Germain",
+      "Al-Hilal",
+      "Santos"
+    ],
+    "leagues": [
+      "Brasileirão",
+      "La Liga",
+      "Ligue 1",
+      "Saudi Pro League"
+    ],
+    "trophies": [
+      "Copa América",
+      "La Liga",
+      "Ligue 1",
+      "Champions League",
+      "Olympic Gold"
+    ]
+  },
+  {
+    "id": "ronaldinho",
+    "name": "Ronaldinho",
+    "nationality": "Brazil",
+    "continent": "South America",
+    "position": "Midfielder",
+    "birthYear": 1980,
+    "stillPlaying": false,
+    "clubs": [
+      "Gremio",
+      "Paris Saint-Germain",
+      "Barcelona",
+      "AC Milan",
+      "Flamengo",
+      "Atletico Mineiro"
+    ],
+    "leagues": [
+      "Brasileirão",
+      "Ligue 1",
+      "La Liga",
+      "Serie A"
+    ],
+    "trophies": [
+      "World Cup",
+      "Copa América",
+      "La Liga",
+      "Champions League",
+      "Ballon d'Or"
+    ]
+  },
+  {
+    "id": "luis-suarez",
+    "name": "Luis Suárez",
+    "nationality": "Uruguay",
+    "continent": "South America",
+    "position": "Forward",
+    "birthYear": 1987,
+    "stillPlaying": true,
+    "clubs": [
+      "Nacional",
+      "Ajax",
+      "Liverpool",
+      "Barcelona",
+      "Atletico Madrid",
+      "Inter Miami"
+    ],
+    "leagues": [
+      "Primera División Uruguaya",
+      "Eredivisie",
+      "Premier League",
+      "La Liga",
+      "MLS"
+    ],
+    "trophies": [
+      "Copa América",
+      "Eredivisie",
+      "La Liga",
+      "Champions League"
+    ]
+  },
+  {
+    "id": "marco-reus",
+    "name": "Marco Reus",
+    "nationality": "Germany",
+    "continent": "Europe",
+    "position": "Midfielder",
+    "birthYear": 1989,
+    "stillPlaying": true,
+    "clubs": [
+      "Borussia Monchengladbach",
+      "Borussia Dortmund",
+      "LA Galaxy"
+    ],
+    "leagues": [
+      "Bundesliga",
+      "MLS"
+    ],
+    "trophies": [
+      "DFB-Pokal",
+      "MLS Cup"
+    ]
+  },
+  {
+    "id": "manuel-neuer",
+    "name": "Manuel Neuer",
+    "nationality": "Germany",
+    "continent": "Europe",
+    "position": "Goalkeeper",
+    "birthYear": 1986,
+    "stillPlaying": true,
+    "clubs": [
+      "Schalke 04",
+      "Bayern Munich"
+    ],
+    "leagues": [
+      "Bundesliga"
+    ],
+    "trophies": [
+      "World Cup",
+      "Bundesliga",
+      "DFB-Pokal",
+      "Champions League"
+    ]
+  },
+  {
+    "id": "joshua-kimmich",
+    "name": "Joshua Kimmich",
+    "nationality": "Germany",
+    "continent": "Europe",
+    "position": "Midfielder",
+    "birthYear": 1995,
+    "stillPlaying": true,
+    "clubs": [
+      "RB Leipzig",
+      "Bayern Munich"
+    ],
+    "leagues": [
+      "Bundesliga"
+    ],
+    "trophies": [
+      "Bundesliga",
+      "DFB-Pokal",
+      "Champions League"
+    ]
+  },
+  {
+    "id": "harry-kane",
+    "name": "Harry Kane",
+    "nationality": "England",
+    "continent": "Europe",
+    "position": "Forward",
+    "birthYear": 1993,
+    "stillPlaying": true,
+    "clubs": [
+      "Tottenham Hotspur",
+      "Bayern Munich"
+    ],
+    "leagues": [
+      "Premier League",
+      "Bundesliga"
+    ],
+    "trophies": [
+      "Bundesliga"
+    ]
+  },
+  {
+    "id": "kylian-mbappe",
+    "name": "Kylian Mbappé",
+    "nationality": "France",
+    "continent": "Europe",
+    "position": "Forward",
+    "birthYear": 1998,
+    "stillPlaying": true,
+    "clubs": [
+      "AS Monaco",
+      "Paris Saint-Germain",
+      "Real Madrid"
+    ],
+    "leagues": [
+      "Ligue 1",
+      "La Liga"
+    ],
+    "trophies": [
+      "World Cup",
+      "Ligue 1"
+    ]
+  },
+  {
+    "id": "vinicius-junior",
+    "name": "Vinícius Júnior",
+    "nationality": "Brazil",
+    "continent": "South America",
+    "position": "Forward",
+    "birthYear": 2000,
+    "stillPlaying": true,
+    "clubs": [
+      "Flamengo",
+      "Real Madrid"
+    ],
+    "leagues": [
+      "Brasileirão",
+      "La Liga"
+    ],
+    "trophies": [
+      "La Liga",
+      "Champions League"
+    ]
+  },
+  {
+    "id": "steven-gerrard",
+    "name": "Steven Gerrard",
+    "nationality": "England",
+    "continent": "Europe",
+    "position": "Midfielder",
+    "birthYear": 1980,
+    "stillPlaying": false,
+    "clubs": [
+      "Liverpool",
+      "LA Galaxy"
+    ],
+    "leagues": [
+      "Premier League",
+      "MLS"
+    ],
+    "trophies": [
+      "Champions League",
+      "FA Cup",
+      "UEFA Cup",
+      "League Cup"
+    ]
+  },
+  {
+    "id": "mohamed-salah",
+    "name": "Mohamed Salah",
+    "nationality": "Egypt",
+    "continent": "Africa",
+    "position": "Forward",
+    "birthYear": 1992,
+    "stillPlaying": true,
+    "clubs": [
+      "Basel",
+      "Chelsea",
+      "AS Roma",
+      "Liverpool",
+      "Trabzonspor"
+    ],
+    "leagues": [
+      "Swiss Super League",
+      "Premier League",
+      "Serie A",
+      "Süper Lig"
+    ],
+    "trophies": [
+      "Premier League",
+      "Champions League"
+    ]
+  },
+  {
+    "id": "jude-bellingham",
+    "name": "Jude Bellingham",
+    "nationality": "England",
+    "continent": "Europe",
+    "position": "Midfielder",
+    "birthYear": 2003,
+    "stillPlaying": true,
+    "clubs": [
+      "Birmingham City",
+      "Borussia Dortmund",
+      "Real Madrid"
+    ],
+    "leagues": [
+      "Bundesliga",
+      "La Liga"
+    ],
+    "trophies": [
+      "La Liga",
+      "Champions League"
+    ]
+  },
+  {
+    "id": "antoine-griezmann",
+    "name": "Antoine Griezmann",
+    "nationality": "France",
+    "continent": "Europe",
+    "position": "Forward",
+    "birthYear": 1991,
+    "stillPlaying": true,
+    "clubs": [
+      "Real Sociedad",
+      "Atletico Madrid",
+      "Barcelona",
+      "Atletico Madrid",
+      "Orlando City"
+    ],
+    "leagues": [
+      "La Liga",
+      "MLS"
+    ],
+    "trophies": [
+      "World Cup"
+    ]
+  },
+  {
+    "id": "david-beckham",
+    "name": "David Beckham",
+    "nationality": "England",
+    "continent": "Europe",
+    "position": "Midfielder",
+    "birthYear": 1975,
+    "stillPlaying": false,
+    "clubs": [
+      "Manchester United",
+      "Real Madrid",
+      "LA Galaxy",
+      "AC Milan",
+      "Paris Saint-Germain"
+    ],
+    "leagues": [
+      "Premier League",
+      "La Liga",
+      "MLS",
+      "Serie A",
+      "Ligue 1"
+    ],
+    "trophies": [
+      "Premier League",
+      "Champions League",
+      "FA Cup",
+      "La Liga",
+      "MLS Cup"
+    ]
+  },
+  {
+    "id": "emiliano-martinez",
+    "name": "Emiliano Martínez",
+    "nationality": "Argentina",
+    "continent": "South America",
+    "position": "Goalkeeper",
+    "birthYear": 1992,
+    "stillPlaying": true,
+    "clubs": [
+      "Independiente",
+      "Arsenal",
+      "Aston Villa"
+    ],
+    "leagues": [
+      "Argentine Primera División",
+      "Premier League"
+    ],
+    "trophies": [
+      "World Cup",
+      "Copa América"
+    ]
+  },
+  {
+    "id": "andres-iniesta",
+    "name": "Andrés Iniesta",
+    "nationality": "Spain",
+    "continent": "Europe",
+    "position": "Midfielder",
+    "birthYear": 1984,
+    "stillPlaying": false,
+    "clubs": [
+      "Barcelona",
+      "Vissel Kobe"
+    ],
+    "leagues": [
+      "La Liga",
+      "J1 League"
+    ],
+    "trophies": [
+      "World Cup",
+      "European Championship",
+      "La Liga",
+      "Champions League"
+    ]
+  },
+  {
+    "id": "josko-gvardiol",
+    "name": "Joško Gvardiol",
+    "nationality": "Croatia",
+    "continent": "Europe",
+    "position": "Defender",
+    "birthYear": 2002,
+    "stillPlaying": true,
+    "clubs": [
+      "Dinamo Zagreb",
+      "RB Leipzig",
+      "Manchester City"
+    ],
+    "leagues": [
+      "Croatian First League",
+      "Bundesliga",
+      "Premier League"
+    ],
+    "trophies": [
+      "Premier League"
+    ]
+  },
+  {
+    "id": "bruno-fernandes",
+    "name": "Bruno Fernandes",
+    "nationality": "Portugal",
+    "continent": "Europe",
+    "position": "Midfielder",
+    "birthYear": 1994,
+    "stillPlaying": true,
+    "clubs": [
+      "Boavista",
+      "Udinese",
+      "Sampdoria",
+      "Sporting CP",
+      "Manchester United"
+    ],
+    "leagues": [
+      "Primeira Liga",
+      "Serie A",
+      "Premier League"
+    ],
+    "trophies": [
+      "UEFA Nations League"
+    ]
+  },
+  {
+    "id": "erling-haaland",
+    "name": "Erling Haaland",
+    "nationality": "Norway",
+    "continent": "Europe",
+    "position": "Forward",
+    "birthYear": 2000,
+    "stillPlaying": true,
+    "clubs": [
+      "Bryne",
+      "Molde",
+      "Red Bull Salzburg",
+      "Borussia Dortmund",
+      "Manchester City"
+    ],
+    "leagues": [
+      "Eliteserien",
+      "Austrian Bundesliga",
+      "Bundesliga",
+      "Premier League"
+    ],
+    "trophies": [
+      "Austrian Bundesliga",
+      "DFB-Pokal",
+      "Premier League",
+      "FA Cup",
+      "Champions League"
+    ]
+  },
+  {
+    "id": "diego-maradona",
+    "name": "Diego Maradona",
+    "nationality": "Argentina",
+    "continent": "South America",
+    "position": "Forward",
+    "birthYear": 1960,
+    "stillPlaying": false,
+    "clubs": [
+      "Argentinos Juniors",
+      "Boca Juniors",
+      "Barcelona",
+      "Napoli",
+      "Sevilla",
+      "Newell's Old Boys"
+    ],
+    "leagues": [
+      "Argentine Primera División",
+      "La Liga",
+      "Serie A"
+    ],
+    "trophies": [
+      "Argentine Primera División",
+      "Copa del Rey",
+      "Serie A",
+      "UEFA Cup",
+      "World Cup"
+    ]
+  },
+  {
+    "id": "thierry-henry",
+    "name": "Thierry Henry",
+    "nationality": "France",
+    "continent": "Europe",
+    "position": "Forward",
+    "birthYear": 1977,
+    "stillPlaying": false,
+    "clubs": [
+      "Monaco",
+      "Juventus",
+      "Arsenal",
+      "Barcelona",
+      "New York Red Bulls"
+    ],
+    "leagues": [
+      "Ligue 1",
+      "Serie A",
+      "Premier League",
+      "La Liga",
+      "MLS"
+    ],
+    "trophies": [
+      "Premier League",
+      "FA Cup",
+      "La Liga",
+      "Champions League",
+      "World Cup",
+      "European Championship"
+    ]
+  },
+  {
+    "id": "sergio-ramos",
+    "name": "Sergio Ramos",
+    "nationality": "Spain",
+    "continent": "Europe",
+    "position": "Defender",
+    "birthYear": 1986,
+    "stillPlaying": false,
+    "clubs": [
+      "Sevilla",
+      "Real Madrid",
+      "Paris Saint-Germain",
+      "Monterrey"
+    ],
+    "leagues": [
+      "La Liga",
+      "Ligue 1",
+      "Liga MX"
+    ],
+    "trophies": [
+      "La Liga",
+      "Copa del Rey",
+      "Champions League",
+      "Ligue 1",
+      "World Cup",
+      "European Championship"
+    ]
+  },
+  {
+    "id": "samuel-etoo",
+    "name": "Samuel Eto'o",
+    "nationality": "Cameroon",
+    "continent": "Africa",
+    "position": "Forward",
+    "birthYear": 1981,
+    "stillPlaying": false,
+    "clubs": [
+      "Real Madrid",
+      "Espanyol",
+      "Mallorca",
+      "Barcelona",
+      "Inter Milan",
+      "Chelsea",
+      "Everton"
+    ],
+    "leagues": [
+      "La Liga",
+      "Serie A",
+      "Premier League"
+    ],
+    "trophies": [
+      "La Liga",
+      "Copa del Rey",
+      "Champions League",
+      "Serie A",
+      "Premier League",
+      "Africa Cup of Nations"
+    ]
+  },
+  {
+    "id": "xavi-hernandez",
+    "name": "Xavi Hernández",
+    "nationality": "Spain",
+    "continent": "Europe",
+    "position": "Midfielder",
+    "birthYear": 1980,
+    "stillPlaying": false,
+    "clubs": [
+      "Barcelona",
+      "Al Sadd"
+    ],
+    "leagues": [
+      "La Liga",
+      "Qatar Stars League"
+    ],
+    "trophies": [
+      "La Liga",
+      "Copa del Rey",
+      "Champions League",
+      "World Cup",
+      "European Championship"
+    ]
+  },
+  {
+    "id": "son-heung-min",
+    "name": "Son Heung-min",
+    "nationality": "South Korea",
+    "continent": "Asia",
+    "position": "Forward",
+    "birthYear": 1992,
+    "stillPlaying": true,
+    "clubs": [
+      "Hamburger SV",
+      "Bayer Leverkusen",
+      "Tottenham Hotspur",
+      "Los Angeles FC"
+    ],
+    "leagues": [
+      "Bundesliga",
+      "Premier League",
+      "MLS"
+    ],
+    "trophies": [
+      "UEFA Europa League"
+    ]
+  },
+  {
+    "id": "karim-benzema",
+    "name": "Karim Benzema",
+    "nationality": "France",
+    "continent": "Europe",
+    "position": "Forward",
+    "birthYear": 1987,
+    "stillPlaying": true,
+    "clubs": [
+      "Lyon",
+      "Real Madrid",
+      "Al-Ittihad",
+      "Al-Hilal"
+    ],
+    "leagues": [
+      "Ligue 1",
+      "La Liga",
+      "Saudi Pro League"
+    ],
+    "trophies": [
+      "Ligue 1",
+      "La Liga",
+      "Copa del Rey",
+      "Champions League",
+      "Ballon d'Or"
+    ]
+  },
+  {
+    "id": "roberto-carlos",
+    "name": "Roberto Carlos",
+    "nationality": "Brazil",
+    "continent": "South America",
+    "position": "Defender",
+    "birthYear": 1973,
+    "stillPlaying": false,
+    "clubs": [
+      "Union São João",
+      "Palmeiras",
+      "Inter Milan",
+      "Real Madrid",
+      "Fenerbahçe",
+      "Corinthians"
+    ],
+    "leagues": [
+      "Brasileirão",
+      "Serie A",
+      "La Liga",
+      "Süper Lig"
+    ],
+    "trophies": [
+      "La Liga",
+      "Champions League",
+      "World Cup",
+      "Copa América"
+    ]
+  },
+  {
+    "id": "didier-drogba",
+    "name": "Didier Drogba",
+    "nationality": "Côte d'Ivoire",
+    "continent": "Africa",
+    "position": "Forward",
+    "birthYear": 1978,
+    "stillPlaying": false,
+    "clubs": [
+      "Le Mans",
+      "Guingamp",
+      "Marseille",
+      "Chelsea",
+      "Shanghai Shenhua",
+      "Galatasaray",
+      "Montreal Impact"
+    ],
+    "leagues": [
+      "Ligue 1",
+      "Premier League",
+      "Chinese Super League",
+      "Süper Lig",
+      "MLS"
+    ],
+    "trophies": [
+      "Ligue 1",
+      "Premier League",
+      "FA Cup",
+      "Champions League"
+    ]
+  },
+  {
+    "id": "ronaldo-nazario",
+    "name": "Ronaldo Nazário",
+    "nationality": "Brazil",
+    "continent": "South America",
+    "position": "Forward",
+    "birthYear": 1976,
+    "stillPlaying": false,
+    "clubs": [
+      "Cruzeiro",
+      "PSV Eindhoven",
+      "Barcelona",
+      "Inter Milan",
+      "Real Madrid",
+      "AC Milan",
+      "Corinthians"
+    ],
+    "leagues": [
+      "Brasileirão",
+      "Eredivisie",
+      "La Liga",
+      "Serie A"
+    ],
+    "trophies": [
+      "World Cup",
+      "Copa América",
+      "La Liga",
+      "Copa del Rey",
+      "UEFA Cup",
+      "Ballon d'Or"
+    ]
+  },
+  {
+    "id": "kaka",
+    "name": "Kaká",
+    "nationality": "Brazil",
+    "continent": "South America",
+    "position": "Midfielder",
+    "birthYear": 1982,
+    "stillPlaying": false,
+    "clubs": [
+      "São Paulo",
+      "AC Milan",
+      "Real Madrid",
+      "Orlando City"
+    ],
+    "leagues": [
+      "Brasileirão",
+      "Serie A",
+      "La Liga",
+      "MLS"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Serie A",
+      "FIFA Club World Cup",
+      "Ballon d'Or"
+    ]
+  },
+  {
+    "id": "cafu",
+    "name": "Cafu",
+    "nationality": "Brazil",
+    "continent": "South America",
+    "position": "Defender",
+    "birthYear": 1970,
+    "stillPlaying": false,
+    "clubs": [
+      "São Paulo",
+      "Real Zaragoza",
+      "Palmeiras",
+      "AS Roma",
+      "AC Milan"
+    ],
+    "leagues": [
+      "Brasileirão",
+      "La Liga",
+      "Serie A"
+    ],
+    "trophies": [
+      "World Cup",
+      "Copa América",
+      "Champions League",
+      "Serie A",
+      "FIFA Club World Cup"
+    ]
+  },
+  {
+    "id": "zinedine-zidane",
+    "name": "Zinedine Zidane",
+    "nationality": "France",
+    "continent": "Europe",
+    "position": "Midfielder",
+    "birthYear": 1972,
+    "stillPlaying": false,
+    "clubs": [
+      "Cannes",
+      "Bordeaux",
+      "Juventus",
+      "Real Madrid"
+    ],
+    "leagues": [
+      "Ligue 1",
+      "Serie A",
+      "La Liga"
+    ],
+    "trophies": [
+      "World Cup",
+      "European Championship",
+      "Champions League",
+      "La Liga",
+      "Serie A",
+      "Ballon d'Or"
+    ]
+  },
+  {
+    "id": "andrea-pirlo",
+    "name": "Andrea Pirlo",
+    "nationality": "Italy",
+    "continent": "Europe",
+    "position": "Midfielder",
+    "birthYear": 1979,
+    "stillPlaying": false,
+    "clubs": [
+      "Brescia",
+      "Inter Milan",
+      "AC Milan",
+      "Juventus",
+      "New York City FC"
+    ],
+    "leagues": [
+      "Serie A",
+      "MLS"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Serie A",
+      "FIFA Club World Cup"
+    ]
+  },
+  {
+    "id": "paolo-maldini",
+    "name": "Paolo Maldini",
+    "nationality": "Italy",
+    "continent": "Europe",
+    "position": "Defender",
+    "birthYear": 1968,
+    "stillPlaying": false,
+    "clubs": [
+      "AC Milan"
+    ],
+    "leagues": [
+      "Serie A"
+    ],
+    "trophies": [
+      "Champions League",
+      "Serie A",
+      "FIFA Club World Cup"
+    ]
+  },
+  {
+    "id": "gianluigi-buffon",
+    "name": "Gianluigi Buffon",
+    "nationality": "Italy",
+    "continent": "Europe",
+    "position": "Goalkeeper",
+    "birthYear": 1978,
+    "stillPlaying": false,
+    "clubs": [
+      "Parma",
+      "Juventus",
+      "Paris Saint-Germain",
+      "Juventus",
+      "Parma"
+    ],
+    "leagues": [
+      "Serie A",
+      "Ligue 1"
+    ],
+    "trophies": [
+      "World Cup",
+      "Serie A",
+      "Ligue 1",
+      "UEFA Cup"
+    ]
+  },
+  {
+    "id": "iker-casillas",
+    "name": "Iker Casillas",
+    "nationality": "Spain",
+    "continent": "Europe",
+    "position": "Goalkeeper",
+    "birthYear": 1981,
+    "stillPlaying": false,
+    "clubs": [
+      "Real Madrid",
+      "Porto"
+    ],
+    "leagues": [
+      "La Liga",
+      "Primeira Liga"
+    ],
+    "trophies": [
+      "World Cup",
+      "European Championship",
+      "Champions League",
+      "La Liga",
+      "Copa del Rey",
+      "FIFA Club World Cup"
+    ]
+  },
+  {
+    "id": "carles-puyol",
+    "name": "Carles Puyol",
+    "nationality": "Spain",
+    "continent": "Europe",
+    "position": "Defender",
+    "birthYear": 1978,
+    "stillPlaying": false,
+    "clubs": [
+      "Barcelona"
+    ],
+    "leagues": [
+      "La Liga"
+    ],
+    "trophies": [
+      "World Cup",
+      "European Championship",
+      "Champions League",
+      "La Liga",
+      "Copa del Rey",
+      "FIFA Club World Cup"
+    ]
+  },
+  {
+    "id": "frank-lampard",
+    "name": "Frank Lampard",
+    "nationality": "England",
+    "continent": "Europe",
+    "position": "Midfielder",
+    "birthYear": 1978,
+    "stillPlaying": false,
+    "clubs": [
+      "West Ham United",
+      "Chelsea",
+      "Manchester City",
+      "New York City FC"
+    ],
+    "leagues": [
+      "Premier League",
+      "MLS"
+    ],
+    "trophies": [
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Champions League",
+      "UEFA Europa League"
+    ]
+  },
+  {
+    "id": "wayne-rooney",
+    "name": "Wayne Rooney",
+    "nationality": "England",
+    "continent": "Europe",
+    "position": "Forward",
+    "birthYear": 1985,
+    "stillPlaying": false,
+    "clubs": [
+      "Everton",
+      "Manchester United",
+      "D.C. United",
+      "Derby County"
+    ],
+    "leagues": [
+      "Premier League",
+      "MLS"
+    ],
+    "trophies": [
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Champions League",
+      "FIFA Club World Cup",
+      "UEFA Europa League"
+    ]
+  },
+  {
+    "id": "luka-modric",
+    "name": "Luka Modrić",
+    "nationality": "Croatia",
+    "continent": "Europe",
+    "position": "Midfielder",
+    "birthYear": 1985,
+    "stillPlaying": true,
+    "clubs": [
+      "Dinamo Zagreb",
+      "Tottenham Hotspur",
+      "Real Madrid",
+      "AC Milan"
+    ],
+    "leagues": [
+      "Croatian First League",
+      "Premier League",
+      "La Liga",
+      "Serie A"
+    ],
+    "trophies": [
+      "Champions League",
+      "La Liga",
+      "Copa del Rey",
+      "FIFA Club World Cup",
+      "Ballon d'Or"
+    ]
+  },
+  {
+    "id": "sergio-aguero",
+    "name": "Sergio Agüero",
+    "nationality": "Argentina",
+    "continent": "South America",
+    "position": "Forward",
+    "birthYear": 1988,
+    "stillPlaying": false,
+    "clubs": [
+      "Independiente",
+      "Atletico Madrid",
+      "Manchester City",
+      "Barcelona"
+    ],
+    "leagues": [
+      "Argentine Primera División",
+      "La Liga",
+      "Premier League"
+    ],
+    "trophies": [
+      "Copa América",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "UEFA Europa League"
+    ]
+  },
+  {
+    "id": "yaya-toure",
+    "name": "Yaya Touré",
+    "nationality": "Côte d'Ivoire",
+    "continent": "Africa",
+    "position": "Midfielder",
+    "birthYear": 1983,
+    "stillPlaying": false,
+    "clubs": [
+      "Olympiacos",
+      "Monaco",
+      "Barcelona",
+      "Manchester City"
+    ],
+    "leagues": [
+      "Greek Super League",
+      "Ligue 1",
+      "La Liga",
+      "Premier League"
+    ],
+    "trophies": [
+      "Greek Super League",
+      "Africa Cup of Nations",
+      "Champions League",
+      "La Liga",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Copa del Rey"
+    ]
+  },
+  {
+    "id": "michael-essien",
+    "name": "Michael Essien",
+    "nationality": "Ghana",
+    "continent": "Africa",
+    "position": "Midfielder",
+    "birthYear": 1982,
+    "stillPlaying": false,
+    "clubs": [
+      "Lyon",
+      "Chelsea",
+      "Real Madrid",
+      "AC Milan"
+    ],
+    "leagues": [
+      "Ligue 1",
+      "Premier League",
+      "La Liga",
+      "Serie A"
+    ],
+    "trophies": [
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Champions League",
+      "UEFA Europa League"
+    ]
+  }
+]

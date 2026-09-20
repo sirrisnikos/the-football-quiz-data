@@ -1,0 +1,560 @@
+[
+  {
+    "id": "ucl-titles-clubs",
+    "title": "Clubs with the most UEFA Champions League / European Cup titles",
+    "entityType": "club",
+    "sourceNote": "As of the 2025-26 season",
+    "answers": [
+      { "rank": 1, "name": "Real Madrid", "stat": "15 titles" },
+      { "rank": 2, "name": "AC Milan", "stat": "7 titles", "aliases": ["Milan"] },
+      { "rank": 3, "name": "Liverpool", "stat": "6 titles", "aliases": ["Liverpool FC"] },
+      { "rank": 4, "name": "Bayern Munich", "stat": "6 titles", "aliases": ["Bayern"] },
+      { "rank": 5, "name": "Barcelona", "stat": "5 titles", "aliases": ["FC Barcelona", "Barca"] },
+      { "rank": 6, "name": "Ajax", "stat": "4 titles", "aliases": ["AFC Ajax"] },
+      { "rank": 7, "name": "Manchester United", "stat": "3 titles", "aliases": ["Man United", "Man Utd"] },
+      { "rank": 8, "name": "Inter Milan", "stat": "3 titles", "aliases": ["Inter", "Internazionale"] },
+      { "rank": 9, "name": "Benfica", "stat": "2 titles", "aliases": ["SL Benfica"], "tiedWith": ["Nottingham Forest", "Forest", "Paris Saint-Germain", "PSG", "Chelsea", "Juventus", "FC Porto", "Porto"] },
+      { "rank": 10, "name": "Nottingham Forest", "stat": "2 titles", "aliases": ["Forest", "Nott'm Forest"], "tiedWith": ["Benfica", "Paris Saint-Germain", "PSG", "Chelsea", "Juventus", "FC Porto", "Porto"] }
+    ]
+  },
+  {
+    "id": "english-top-flight-titles-clubs",
+    "title": "English clubs with the most top-flight league titles of all time",
+    "entityType": "club",
+    "sourceNote": "As of the 2025-26 season",
+    "answers": [
+      { "rank": 1, "name": "Manchester United", "stat": "20 titles", "aliases": ["Man United", "Man Utd"] },
+      { "rank": 2, "name": "Liverpool", "stat": "20 titles", "aliases": ["Liverpool FC"] },
+      { "rank": 3, "name": "Arsenal", "stat": "14 titles" },
+      { "rank": 4, "name": "Manchester City", "stat": "10 titles", "aliases": ["Man City"] },
+      { "rank": 5, "name": "Everton", "stat": "9 titles" },
+      { "rank": 6, "name": "Aston Villa", "stat": "7 titles", "aliases": ["Villa"] },
+      { "rank": 7, "name": "Sunderland", "stat": "6 titles" },
+      { "rank": 8, "name": "Chelsea", "stat": "6 titles" },
+      { "rank": 9, "name": "Newcastle United", "stat": "4 titles", "aliases": ["Newcastle"] },
+      { "rank": 10, "name": "Sheffield Wednesday", "stat": "4 titles", "aliases": ["Sheff Wed", "Wednesday"] }
+    ]
+  },
+  {
+    "id": "ballon-dor-wins-players",
+    "title": "Players with the most Ballon d'Or wins",
+    "entityType": "player",
+    "sourceNote": "As of the 2025 ceremony",
+    "answers": [
+      { "rank": 1, "name": "Lionel Messi", "stat": "8 wins", "aliases": ["Messi"] },
+      { "rank": 2, "name": "Cristiano Ronaldo", "stat": "5 wins", "aliases": ["CR7", "Cristiano"] },
+      { "rank": 3, "name": "Johan Cruyff", "stat": "3 wins", "aliases": ["Cruyff"] },
+      { "rank": 4, "name": "Michel Platini", "stat": "3 wins", "aliases": ["Platini"] },
+      { "rank": 5, "name": "Marco van Basten", "stat": "3 wins", "aliases": ["Van Basten"] },
+      { "rank": 6, "name": "Alfredo Di Stefano", "stat": "2 wins", "aliases": ["Alfredo Di Stéfano", "Di Stefano", "Di Stéfano"] },
+      { "rank": 7, "name": "Franz Beckenbauer", "stat": "2 wins", "aliases": ["Beckenbauer"] },
+      { "rank": 8, "name": "Kevin Keegan", "stat": "2 wins", "aliases": ["Keegan"] },
+      { "rank": 9, "name": "Karl-Heinz Rummenigge", "stat": "2 wins", "aliases": ["Rummenigge"] },
+      { "rank": 10, "name": "Ronaldo Nazario", "stat": "2 wins", "aliases": ["Ronaldo Nazário", "R9", "Ronaldo"] }
+    ]
+  },
+  {
+    "id": "fa-cup-titles-clubs",
+    "title": "Clubs with the most FA Cup titles",
+    "entityType": "club",
+    "sourceNote": "As of the 2025-26 season",
+    "answers": [
+      { "rank": 1, "name": "Arsenal", "stat": "14 titles" },
+      { "rank": 2, "name": "Manchester United", "stat": "13 titles", "aliases": ["Man United", "Man Utd"] },
+      { "rank": 3, "name": "Tottenham Hotspur", "stat": "8 titles", "aliases": ["Tottenham", "Spurs"] },
+      { "rank": 4, "name": "Chelsea", "stat": "8 titles" },
+      { "rank": 5, "name": "Liverpool", "stat": "8 titles", "aliases": ["Liverpool FC"] },
+      { "rank": 6, "name": "Manchester City", "stat": "8 titles", "aliases": ["Man City"] },
+      { "rank": 7, "name": "Aston Villa", "stat": "7 titles", "aliases": ["Villa"] },
+      { "rank": 8, "name": "Blackburn Rovers", "stat": "6 titles", "aliases": ["Blackburn"] },
+      { "rank": 9, "name": "Newcastle United", "stat": "6 titles", "aliases": ["Newcastle"] },
+      { "rank": 10, "name": "Everton", "stat": "5 titles", "tiedWith": ["West Bromwich Albion"] }
+    ]
+  },
+  {
+    "id": "euro-titles-countries",
+    "title": "Countries with the most UEFA European Championship titles",
+    "entityType": "country",
+    "sourceNote": "As of Euro 2024",
+    "answers": [
+      { "rank": 1, "name": "Spain", "stat": "4 titles" },
+      { "rank": 2, "name": "Germany", "stat": "3 titles" },
+      { "rank": 3, "name": "France", "stat": "2 titles" },
+      { "rank": 4, "name": "Italy", "stat": "2 titles" },
+      { "rank": 5, "name": "Soviet Union", "stat": "1 title", "aliases": ["USSR"] },
+      { "rank": 6, "name": "Czechoslovakia", "stat": "1 title" },
+      { "rank": 7, "name": "Netherlands", "stat": "1 title", "aliases": ["Holland"] },
+      { "rank": 8, "name": "Denmark", "stat": "1 title" },
+      { "rank": 9, "name": "Greece", "stat": "1 title" },
+      { "rank": 10, "name": "Portugal", "stat": "1 title" }
+    ]
+  },
+  {
+    "id": "world-cup-final-appearances-countries",
+    "title": "Countries with the most FIFA World Cup final appearances",
+    "entityType": "country",
+    "sourceNote": "As of the 2026 World Cup",
+    "answers": [
+      { "rank": 1, "name": "Germany", "stat": "8 finals" },
+      { "rank": 2, "name": "Brazil", "stat": "7 finals" },
+      { "rank": 3, "name": "Argentina", "stat": "7 finals" },
+      { "rank": 4, "name": "Italy", "stat": "6 finals" },
+      { "rank": 5, "name": "France", "stat": "4 finals" },
+      { "rank": 6, "name": "Netherlands", "stat": "3 finals", "aliases": ["Holland"] },
+      { "rank": 7, "name": "Uruguay", "stat": "2 finals" },
+      { "rank": 8, "name": "Hungary", "stat": "2 finals" },
+      { "rank": 9, "name": "Czechoslovakia", "stat": "2 finals" },
+      { "rank": 10, "name": "Spain", "stat": "2 finals" }
+    ]
+  },
+  {
+    "id": "last-10-ucl-final-scorers",
+    "title": "The last 10 different people to score in a UEFA Champions League final (most recent first)",
+    "entityType": "player",
+    "sourceNote": "Every final goal counts once per scorer, working back from the 2026 final",
+    "answers": [
+      { "rank": 1, "name": "Ousmane Dembele", "stat": "2026 final", "aliases": ["Ousmane Dembélé", "Dembele", "Dembélé"] },
+      { "rank": 2, "name": "Kai Havertz", "stat": "2026 final", "aliases": ["Havertz"] },
+      { "rank": 3, "name": "Senny Mayulu", "stat": "2025 final", "aliases": ["Mayulu"] },
+      { "rank": 4, "name": "Khvicha Kvaratskhelia", "stat": "2025 final", "aliases": ["Kvaratskhelia"] },
+      { "rank": 5, "name": "Desire Doue", "stat": "2025 final", "aliases": ["Désiré Doué", "Doue", "Doué"] },
+      { "rank": 6, "name": "Achraf Hakimi", "stat": "2025 final", "aliases": ["Hakimi"] },
+      { "rank": 7, "name": "Vinicius Junior", "stat": "2024 final", "aliases": ["Vinícius Júnior", "Vinicius Jr", "Vini Jr"] },
+      { "rank": 8, "name": "Dani Carvajal", "stat": "2024 final", "aliases": ["Carvajal"] },
+      { "rank": 9, "name": "Rodri", "stat": "2023 final", "aliases": ["Rodrigo Hernandez"] },
+      { "rank": 10, "name": "Kingsley Coman", "stat": "2020 final", "aliases": ["Coman"] }
+    ]
+  },
+  {
+    "id": "real-madrid-appearances",
+    "title": "Players with the most appearances for Real Madrid",
+    "entityType": "player",
+    "sourceNote": "Official appearances, all competitions",
+    "answers": [
+      { "rank": 1, "name": "Raul", "stat": "741 apps", "aliases": ["Raúl", "Raul Gonzalez"] },
+      { "rank": 2, "name": "Iker Casillas", "stat": "725 apps", "aliases": ["Casillas"] },
+      { "rank": 3, "name": "Manolo Sanchis", "stat": "710 apps", "aliases": ["Manuel Sanchis", "Sanchis"] },
+      { "rank": 4, "name": "Sergio Ramos", "stat": "671 apps", "aliases": ["Ramos"] },
+      { "rank": 5, "name": "Karim Benzema", "stat": "648 apps", "aliases": ["Benzema"] },
+      { "rank": 6, "name": "Santillana", "stat": "645 apps", "aliases": ["Carlos Santillana"] },
+      { "rank": 7, "name": "Fernando Hierro", "stat": "601 apps", "aliases": ["Hierro"] },
+      { "rank": 8, "name": "Luka Modric", "stat": "597 apps", "aliases": ["Luka Modrić", "Modric"] },
+      { "rank": 9, "name": "Paco Gento", "stat": "596 apps", "aliases": ["Francisco Gento", "Gento"] },
+      { "rank": 10, "name": "Jose Antonio Camacho", "stat": "577 apps", "aliases": ["José Antonio Camacho", "Camacho"] }
+    ]
+  },
+  {
+    "id": "last-10-ballon-dor-winners",
+    "title": "The last 10 different Ballon d'Or winners (most recent first)",
+    "entityType": "player",
+    "sourceNote": "Men's award; skips years won by a repeat winner, and 2020 (not awarded)",
+    "answers": [
+      { "rank": 1, "name": "Ousmane Dembele", "stat": "2025", "aliases": ["Ousmane Dembélé", "Dembele", "Dembélé"] },
+      { "rank": 2, "name": "Rodri", "stat": "2024", "aliases": ["Rodrigo Hernandez"] },
+      { "rank": 3, "name": "Lionel Messi", "stat": "2023", "aliases": ["Messi"] },
+      { "rank": 4, "name": "Karim Benzema", "stat": "2022", "aliases": ["Benzema"] },
+      { "rank": 5, "name": "Luka Modric", "stat": "2018", "aliases": ["Luka Modrić", "Modric"] },
+      { "rank": 6, "name": "Cristiano Ronaldo", "stat": "2017", "aliases": ["CR7", "Cristiano"] },
+      { "rank": 7, "name": "Kaka", "stat": "2007", "aliases": ["Kaká"] },
+      { "rank": 8, "name": "Fabio Cannavaro", "stat": "2006", "aliases": ["Cannavaro"] },
+      { "rank": 9, "name": "Ronaldinho", "stat": "2005", "aliases": ["Ronaldinho Gaucho"] },
+      { "rank": 10, "name": "Andriy Shevchenko", "stat": "2004", "aliases": ["Shevchenko"] }
+    ]
+  },
+  {
+    "id": "brazil-most-capped",
+    "title": "Players with the most caps for the Brazil national team",
+    "entityType": "player",
+    "sourceNote": "As of 2026",
+    "answers": [
+      { "rank": 1, "name": "Cafu", "stat": "143 caps" },
+      { "rank": 2, "name": "Neymar", "stat": "128 caps", "aliases": ["Neymar Jr"] },
+      { "rank": 3, "name": "Roberto Carlos", "stat": "127 caps" },
+      { "rank": 4, "name": "Dani Alves", "stat": "126 caps", "aliases": ["Daniel Alves"] },
+      { "rank": 5, "name": "Thiago Silva", "stat": "112 caps" },
+      { "rank": 6, "name": "Lucio", "stat": "105 caps", "aliases": ["Lúcio"] },
+      { "rank": 7, "name": "Marquinhos", "stat": "103 caps" },
+      { "rank": 8, "name": "Claudio Taffarel", "stat": "101 caps", "aliases": ["Taffarel"] },
+      { "rank": 9, "name": "Robinho", "stat": "100 caps" },
+      { "rank": 10, "name": "Ronaldo Nazario", "stat": "98 caps", "aliases": ["Ronaldo Nazário", "Ronaldo", "R9"] }
+    ]
+  },
+  {
+    "id": "argentina-most-capped",
+    "title": "Players with the most caps for the Argentina national team",
+    "entityType": "player",
+    "sourceNote": "As of 2026",
+    "answers": [
+      { "rank": 1, "name": "Lionel Messi", "stat": "196 caps", "aliases": ["Messi"] },
+      { "rank": 2, "name": "Javier Mascherano", "stat": "147 caps", "aliases": ["Mascherano"] },
+      { "rank": 3, "name": "Angel Di Maria", "stat": "145 caps", "aliases": ["Ángel Di María", "Di Maria"] },
+      { "rank": 4, "name": "Javier Zanetti", "stat": "145 caps", "aliases": ["Zanetti"] },
+      { "rank": 5, "name": "Nicolas Otamendi", "stat": "129 caps", "aliases": ["Nicolás Otamendi", "Otamendi"] },
+      { "rank": 6, "name": "Roberto Ayala", "stat": "115 caps", "aliases": ["Ayala"] },
+      { "rank": 7, "name": "Diego Simeone", "stat": "106 caps", "aliases": ["Simeone"] },
+      { "rank": 8, "name": "Sergio Aguero", "stat": "101 caps", "aliases": ["Sergio Agüero", "Aguero", "Kun Aguero"] },
+      { "rank": 9, "name": "Oscar Ruggeri", "stat": "97 caps", "aliases": ["Óscar Ruggeri", "Ruggeri"] },
+      { "rank": 10, "name": "Sergio Romero", "stat": "96 caps", "aliases": ["Romero"] }
+    ]
+  },
+  {
+    "id": "germany-most-capped",
+    "title": "Players with the most caps for the Germany national team",
+    "entityType": "player",
+    "sourceNote": "As of 2026",
+    "answers": [
+      { "rank": 1, "name": "Lothar Matthaus", "stat": "150 caps", "aliases": ["Lothar Matthäus", "Matthaus"] },
+      { "rank": 2, "name": "Miroslav Klose", "stat": "137 caps", "aliases": ["Klose"] },
+      { "rank": 3, "name": "Thomas Muller", "stat": "131 caps", "aliases": ["Thomas Müller", "Muller"] },
+      { "rank": 4, "name": "Lukas Podolski", "stat": "130 caps", "aliases": ["Podolski"] },
+      { "rank": 5, "name": "Manuel Neuer", "stat": "128 caps", "aliases": ["Neuer"] },
+      { "rank": 6, "name": "Bastian Schweinsteiger", "stat": "121 caps", "aliases": ["Schweinsteiger"] },
+      { "rank": 7, "name": "Joshua Kimmich", "stat": "114 caps", "aliases": ["Kimmich"] },
+      { "rank": 8, "name": "Toni Kroos", "stat": "114 caps", "aliases": ["Kroos"] },
+      { "rank": 9, "name": "Philipp Lahm", "stat": "113 caps", "aliases": ["Lahm"] },
+      { "rank": 10, "name": "Jurgen Klinsmann", "stat": "108 caps", "aliases": ["Jürgen Klinsmann", "Klinsmann"] }
+    ]
+  },
+  {
+    "id": "premier-league-most-appearances",
+    "title": "Players with the most Premier League appearances",
+    "entityType": "player",
+    "sourceNote": "As of the 2025-26 season",
+    "answers": [
+      { "rank": 1, "name": "James Milner", "stat": "658 apps", "aliases": ["Milner"] },
+      { "rank": 2, "name": "Gareth Barry", "stat": "653 apps", "aliases": ["Barry"] },
+      { "rank": 3, "name": "Ryan Giggs", "stat": "632 apps", "aliases": ["Giggs"] },
+      { "rank": 4, "name": "Frank Lampard", "stat": "609 apps", "aliases": ["Lampard"] },
+      { "rank": 5, "name": "David James", "stat": "572 apps" },
+      { "rank": 6, "name": "Gary Speed", "stat": "535 apps", "aliases": ["Speed"] },
+      { "rank": 7, "name": "Emile Heskey", "stat": "516 apps", "aliases": ["Heskey"] },
+      { "rank": 8, "name": "Mark Schwarzer", "stat": "514 apps", "aliases": ["Schwarzer"] },
+      { "rank": 9, "name": "Jamie Carragher", "stat": "508 apps", "aliases": ["Carragher", "Carra"] },
+      { "rank": 10, "name": "Phil Neville", "stat": "505 apps" }
+    ]
+  },
+  {
+    "id": "last-10-ucl-finalist-clubs",
+    "title": "The last 10 different clubs to reach a UEFA Champions League final (most recent first)",
+    "entityType": "club",
+    "sourceNote": "Through the 2026 final",
+    "answers": [
+      { "rank": 1, "name": "Paris Saint-Germain", "stat": "2026 final", "aliases": ["PSG"] },
+      { "rank": 2, "name": "Arsenal", "stat": "2026 final" },
+      { "rank": 3, "name": "Inter Milan", "stat": "2025 final", "aliases": ["Inter", "Internazionale"] },
+      { "rank": 4, "name": "Real Madrid", "stat": "2024 final" },
+      { "rank": 5, "name": "Borussia Dortmund", "stat": "2024 final", "aliases": ["Dortmund", "BVB"] },
+      { "rank": 6, "name": "Manchester City", "stat": "2023 final", "aliases": ["Man City"] },
+      { "rank": 7, "name": "Liverpool", "stat": "2022 final", "aliases": ["Liverpool FC"] },
+      { "rank": 8, "name": "Chelsea", "stat": "2021 final" },
+      { "rank": 9, "name": "Bayern Munich", "stat": "2020 final", "aliases": ["Bayern"] },
+      { "rank": 10, "name": "Tottenham Hotspur", "stat": "2019 final", "aliases": ["Tottenham", "Spurs"] }
+    ]
+  },
+  {
+    "id": "last-10-world-cup-golden-boot-winners",
+    "title": "The last 10 different FIFA World Cup Golden Boot winners (most recent first)",
+    "entityType": "player",
+    "sourceNote": "Distinct winners; skips editions won again by a repeat winner or shared between co-winners",
+    "answers": [
+      { "rank": 1, "name": "Kylian Mbappe", "stat": "2026", "aliases": ["Kylian Mbappé", "Mbappe", "Mbappé"] },
+      { "rank": 2, "name": "Harry Kane", "stat": "2018", "aliases": ["Kane"] },
+      { "rank": 3, "name": "James Rodriguez", "stat": "2014", "aliases": ["James Rodríguez"] },
+      { "rank": 4, "name": "Thomas Muller", "stat": "2010", "aliases": ["Thomas Müller", "Muller"] },
+      { "rank": 5, "name": "Miroslav Klose", "stat": "2006", "aliases": ["Klose"] },
+      { "rank": 6, "name": "Ronaldo Nazario", "stat": "2002", "aliases": ["Ronaldo Nazário", "Ronaldo", "R9"] },
+      { "rank": 7, "name": "Davor Suker", "stat": "1998", "aliases": ["Davor Šuker", "Suker"] },
+      { "rank": 8, "name": "Salvatore Schillaci", "stat": "1990", "aliases": ["Schillaci", "Toto Schillaci"] },
+      { "rank": 9, "name": "Gary Lineker", "stat": "1986", "aliases": ["Lineker"] },
+      { "rank": 10, "name": "Paolo Rossi", "stat": "1982", "aliases": ["Rossi"] }
+    ]
+  },
+  {
+    "id": "copa-libertadores-titles-clubs",
+    "title": "Clubs with the most Copa Libertadores titles",
+    "entityType": "club",
+    "sourceNote": "As of 2025",
+    "answers": [
+      { "rank": 1, "name": "Independiente", "stat": "7 titles" },
+      { "rank": 2, "name": "Boca Juniors", "stat": "6 titles", "aliases": ["Boca"] },
+      { "rank": 3, "name": "Penarol", "stat": "5 titles", "aliases": ["Peñarol"] },
+      { "rank": 4, "name": "Estudiantes", "stat": "4 titles", "aliases": ["Estudiantes de La Plata"] },
+      { "rank": 5, "name": "River Plate", "stat": "4 titles", "aliases": ["River"] },
+      { "rank": 6, "name": "Flamengo", "stat": "4 titles" },
+      { "rank": 7, "name": "Nacional", "stat": "3 titles", "aliases": ["Club Nacional", "Nacional Montevideo"] },
+      { "rank": 8, "name": "Olimpia", "stat": "3 titles", "aliases": ["Club Olimpia"] },
+      { "rank": 9, "name": "Sao Paulo", "stat": "3 titles", "aliases": ["São Paulo"] },
+      { "rank": 10, "name": "Santos", "stat": "3 titles" }
+    ]
+  },
+  {
+    "id": "spanish-players-arsenal-appearances",
+    "title": "Spanish players with the most appearances for Arsenal",
+    "entityType": "player",
+    "sourceNote": "As of 2026",
+    "answers": [
+      { "rank": 1, "name": "Cesc Fabregas", "stat": "212 apps", "aliases": ["Cesc Fàbregas", "Fabregas", "Fàbregas", "Cesc"] },
+      { "rank": 2, "name": "Nacho Monreal", "stat": "187 apps", "aliases": ["Monreal"] },
+      { "rank": 3, "name": "Hector Bellerin", "stat": "183 apps", "aliases": ["Héctor Bellerín", "Bellerin", "Bellerín"] },
+      { "rank": 4, "name": "Santi Cazorla", "stat": "129 apps", "aliases": ["Cazorla"] },
+      { "rank": 5, "name": "Mikel Arteta", "stat": "110 apps", "aliases": ["Arteta"] },
+      { "rank": 6, "name": "Manuel Almunia", "stat": "109 apps", "aliases": ["Almunia"] },
+      { "rank": 7, "name": "David Raya", "stat": "107 apps", "aliases": ["Raya"] },
+      { "rank": 8, "name": "Jose Antonio Reyes", "stat": "69 apps", "aliases": ["José Antonio Reyes", "Reyes"] },
+      { "rank": 9, "name": "Mikel Merino", "stat": "50 apps", "aliases": ["Merino"] },
+      { "rank": 10, "name": "Dani Ceballos", "stat": "49 apps", "aliases": ["Ceballos"] }
+    ]
+  },
+  {
+    "id": "el-clasico-goals-since-2000",
+    "title": "Players with the most goals in El Clasico since 2000",
+    "entityType": "player",
+    "sourceNote": "Goals scored in El Clasico from the 2000 calendar year onward",
+    "answers": [
+      { "rank": 1, "name": "Lionel Messi", "stat": "26 goals", "aliases": ["Messi"] },
+      { "rank": 2, "name": "Cristiano Ronaldo", "stat": "18 goals", "aliases": ["CR7", "Cristiano"] },
+      { "rank": 3, "name": "Karim Benzema", "stat": "16 goals", "aliases": ["Benzema"] },
+      { "rank": 4, "name": "Luis Suarez", "stat": "11 goals", "aliases": ["Luis Suárez", "Suarez", "Suárez"] },
+      { "rank": 5, "name": "Vinicius Junior", "stat": "7 goals", "aliases": ["Vinícius Júnior", "Vinicius Jr", "Vini Jr"] },
+      { "rank": 6, "name": "Raul", "stat": "6 goals", "aliases": ["Raúl", "Raul Gonzalez"] },
+      { "rank": 7, "name": "Robert Lewandowski", "stat": "5 goals", "aliases": ["Lewandowski"] },
+      { "rank": 8, "name": "Sergio Ramos", "stat": "5 goals", "aliases": ["Ramos"] },
+      { "rank": 9, "name": "Xavi", "stat": "5 goals", "aliases": ["Xavi Hernandez", "Xavi Hernández"] },
+      { "rank": 10, "name": "Pedro", "stat": "5 goals", "aliases": ["Pedro Rodriguez", "Pedro Rodríguez"] }
+    ]
+  },
+  {
+    "id": "argentina-premier-league-goals",
+    "title": "Argentinian players with the most goals in the Premier League",
+    "entityType": "player",
+    "sourceNote": "As of the 2025-26 season",
+    "answers": [
+      { "rank": 1, "name": "Sergio Aguero", "stat": "184 goals", "aliases": ["Sergio Agüero", "Aguero", "Agüero", "Kun Aguero"] },
+      { "rank": 2, "name": "Carlos Tevez", "stat": "84 goals", "aliases": ["Carlos Tévez", "Tevez", "Tévez"] },
+      { "rank": 3, "name": "Alexis Mac Allister", "stat": "28 goals", "aliases": ["Mac Allister"] },
+      { "rank": 4, "name": "Manuel Lanzini", "stat": "27 goals", "aliases": ["Lanzini"] },
+      { "rank": 5, "name": "Julian Alvarez", "stat": "20 goals", "aliases": ["Julián Álvarez", "Alvarez", "Álvarez"] },
+      { "rank": 6, "name": "Hernan Crespo", "stat": "20 goals", "aliases": ["Hernán Crespo", "Crespo"] },
+      { "rank": 7, "name": "Enzo Fernandez", "stat": "19 goals", "aliases": ["Enzo Fernández", "Enzo"] },
+      { "rank": 8, "name": "Leonardo Ulloa", "stat": "19 goals", "aliases": ["Ulloa"] },
+      { "rank": 9, "name": "Alejandro Garnacho", "stat": "17 goals", "aliases": ["Garnacho"] },
+      { "rank": 10, "name": "Erik Lamela", "stat": "17 goals", "aliases": ["Lamela"] }
+    ]
+  },
+  {
+    "id": "world-cup-goals-countries",
+    "title": "National teams with the most goals in World Cups",
+    "entityType": "country",
+    "sourceNote": "As of the 2026 World Cup",
+    "answers": [
+      { "rank": 1, "name": "Brazil", "stat": "237 goals" },
+      { "rank": 2, "name": "Germany", "stat": "232 goals" },
+      { "rank": 3, "name": "Argentina", "stat": "152 goals" },
+      { "rank": 4, "name": "France", "stat": "136 goals" },
+      { "rank": 5, "name": "Italy", "stat": "128 goals" },
+      { "rank": 6, "name": "Spain", "stat": "108 goals" },
+      { "rank": 7, "name": "England", "stat": "104 goals" },
+      { "rank": 8, "name": "Netherlands", "stat": "96 goals", "aliases": ["Holland"] },
+      { "rank": 9, "name": "Uruguay", "stat": "89 goals" },
+      { "rank": 10, "name": "Hungary", "stat": "87 goals" }
+    ]
+  },
+  {
+    "id": "europa-league-titles-clubs",
+    "title": "Teams with the most Europa League titles",
+    "entityType": "club",
+    "sourceNote": "As of the 2025-26 season",
+    "answers": [
+      { "rank": 1, "name": "Sevilla", "stat": "7 titles", "aliases": ["Sevilla FC"] },
+      { "rank": 2, "name": "Liverpool", "stat": "3 titles", "aliases": ["Liverpool FC"] },
+      { "rank": 3, "name": "Juventus", "stat": "3 titles", "aliases": ["Juve"] },
+      { "rank": 4, "name": "Inter Milan", "stat": "3 titles", "aliases": ["Inter", "Internazionale"] },
+      { "rank": 5, "name": "Atletico Madrid", "stat": "3 titles", "aliases": ["Atlético Madrid", "Atletico", "Atléti", "Atleti"] },
+      { "rank": 6, "name": "Tottenham Hotspur", "stat": "3 titles", "aliases": ["Tottenham", "Spurs"] },
+      { "rank": 7, "name": "Parma", "stat": "2 titles" },
+      { "rank": 8, "name": "Chelsea", "stat": "2 titles" },
+      { "rank": 9, "name": "Borussia Monchengladbach", "stat": "2 titles", "aliases": ["Borussia Mönchengladbach", "Monchengladbach", "Gladbach"] },
+      { "rank": 10, "name": "Feyenoord", "stat": "2 titles", "tiedWith": ["Eintracht Frankfurt", "Frankfurt", "IFK Goteborg", "IFK Göteborg", "Porto", "FC Porto", "Real Madrid"] }
+    ]
+  },
+  {
+    "id": "brazilian-la-liga-goals-since-2000",
+    "title": "Brazilian players with the most goals in La Liga since 2000",
+    "entityType": "player",
+    "sourceNote": "Goals scored in La Liga from the 2000/2001 season onward",
+    "answers": [
+      { "rank": 1, "name": "Ronaldo Nazario", "stat": "83 goals", "aliases": ["Ronaldo Nazário", "Ronaldo", "R9"] },
+      { "rank": 2, "name": "Willian Jose", "stat": "82 goals", "aliases": ["Willian José"] },
+      { "rank": 3, "name": "Vinicius Junior", "stat": "77 goals", "aliases": ["Vinícius Júnior", "Vinicius Jr", "Vini Jr"] },
+      { "rank": 4, "name": "Luis Fabiano", "stat": "72 goals", "aliases": ["Luís Fabiano", "Fabiano"] },
+      { "rank": 5, "name": "Ronaldinho", "stat": "69 goals", "aliases": ["Ronaldinho Gaucho"] },
+      { "rank": 6, "name": "Neymar", "stat": "68 goals", "aliases": ["Neymar Jr"] },
+      { "rank": 7, "name": "Luis Eduardo", "stat": "63 goals" },
+      { "rank": 8, "name": "Julio Baptista", "stat": "62 goals", "aliases": ["Júlio Baptista", "Baptista"] },
+      { "rank": 9, "name": "Charles", "stat": "58 goals" },
+      { "rank": 10, "name": "Ricardo Oliveira", "stat": "58 goals", "aliases": ["Oliveira"] }
+    ]
+  },
+  {
+    "id": "portuguese-premier-league-appearances",
+    "title": "Portuguese players with the most appearances in the Premier League",
+    "entityType": "player",
+    "sourceNote": "As of the 2025-26 season",
+    "answers": [
+      { "rank": 1, "name": "Bernardo Silva", "stat": "304 apps" },
+      { "rank": 2, "name": "Luis Boa Morte", "stat": "296 apps", "aliases": ["Luís Boa Morte", "Boa Morte"] },
+      { "rank": 3, "name": "Cristiano Ronaldo", "stat": "236 apps", "aliases": ["CR7", "Cristiano"] },
+      { "rank": 4, "name": "Bruno Fernandes", "stat": "230 apps", "aliases": ["Fernandes"] },
+      { "rank": 5, "name": "Diogo Jota", "stat": "190 apps", "aliases": ["Jota"] },
+      { "rank": 6, "name": "Pedro Neto", "stat": "180 apps", "aliases": ["Neto"] },
+      { "rank": 7, "name": "Jose Fonte", "stat": "178 apps", "aliases": ["José Fonte", "Fonte"] },
+      { "rank": 8, "name": "Ruben Neves", "stat": "177 apps", "aliases": ["Rúben Neves", "Neves"] },
+      { "rank": 9, "name": "Joao Moutinho", "stat": "175 apps", "aliases": ["João Moutinho", "Moutinho"] },
+      { "rank": 10, "name": "Diogo Dalot", "stat": "173 apps", "aliases": ["Dalot"] }
+    ]
+  },
+  {
+    "id": "dutch-serie-a-appearances",
+    "title": "Dutch players with the most appearances in Serie A",
+    "entityType": "player",
+    "sourceNote": "As of the 2025-26 season",
+    "answers": [
+      { "rank": 1, "name": "Clarence Seedorf", "stat": "396 apps", "aliases": ["Seedorf"] },
+      { "rank": 2, "name": "Marten de Roon", "stat": "340 apps", "aliases": ["de Roon", "De Roon"] },
+      { "rank": 3, "name": "Stefan de Vrij", "stat": "308 apps", "aliases": ["de Vrij", "De Vrij"] },
+      { "rank": 4, "name": "Edgar Davids", "stat": "192 apps", "aliases": ["Davids"] },
+      { "rank": 5, "name": "Hans Hateboer", "stat": "189 apps", "aliases": ["Hateboer"] },
+      { "rank": 6, "name": "Ruud Gullit", "stat": "178 apps", "aliases": ["Gullit"] },
+      { "rank": 7, "name": "Teun Koopmeiners", "stat": "157 apps", "aliases": ["Koopmeiners"] },
+      { "rank": 8, "name": "Kevin Strootman", "stat": "157 apps", "aliases": ["Strootman"] },
+      { "rank": 9, "name": "Bram Nuytinck", "stat": "152 apps", "aliases": ["Nuytinck"] },
+      { "rank": 10, "name": "Denzel Dumfries", "stat": "147 apps", "aliases": ["Dumfries"] }
+    ]
+  },
+  {
+    "id": "ligue-1-goals-since-2009-10",
+    "title": "Players with the most goals in Ligue 1 since season 2009/2010",
+    "entityType": "player",
+    "sourceNote": "Goals scored in Ligue 1 from the 2009/2010 season onward",
+    "answers": [
+      { "rank": 1, "name": "Kylian Mbappe", "stat": "191 goals", "aliases": ["Kylian Mbappé", "Mbappe", "Mbappé"] },
+      { "rank": 2, "name": "Wissam Ben Yedder", "stat": "161 goals", "aliases": ["Ben Yedder"] },
+      { "rank": 3, "name": "Alexandre Lacazette", "stat": "161 goals", "aliases": ["Lacazette"] },
+      { "rank": 4, "name": "Edinson Cavani", "stat": "138 goals", "aliases": ["Cavani"] },
+      { "rank": 5, "name": "Zlatan Ibrahimovic", "stat": "113 goals", "aliases": ["Zlatan Ibrahimović", "Ibrahimovic", "Ibrahimović", "Zlatan"] },
+      { "rank": 6, "name": "Florian Thauvin", "stat": "98 goals", "aliases": ["Thauvin"] },
+      { "rank": 7, "name": "Dimitri Payet", "stat": "94 goals", "aliases": ["Payet"] },
+      { "rank": 8, "name": "Gaetan Laborde", "stat": "88 goals", "aliases": ["Gaëtan Laborde", "Laborde"] },
+      { "rank": 9, "name": "Jonathan David", "stat": "87 goals" },
+      { "rank": 10, "name": "Andy Delort", "stat": "85 goals", "aliases": ["Delort"] }
+    ]
+  },
+  {
+    "id": "ucl-clean-sheets-goalkeepers",
+    "title": "Goalkeepers with the most clean sheets in the Champions League",
+    "entityType": "player",
+    "sourceNote": "As of 2026",
+    "answers": [
+      { "rank": 1, "name": "Manuel Neuer", "stat": "62 clean sheets", "aliases": ["Neuer"] },
+      { "rank": 2, "name": "Iker Casillas", "stat": "57 clean sheets", "aliases": ["Casillas"] },
+      { "rank": 3, "name": "Gianluigi Buffon", "stat": "52 clean sheets", "aliases": ["Buffon"] },
+      { "rank": 4, "name": "Victor Valdes", "stat": "45 clean sheets", "aliases": ["Víctor Valdés", "Valdes", "Valdés"] },
+      { "rank": 5, "name": "Petr Cech", "stat": "41 clean sheets", "aliases": ["Petr Čech", "Cech", "Čech"] },
+      { "rank": 6, "name": "Jan Oblak", "stat": "36 clean sheets", "aliases": ["Oblak"] },
+      { "rank": 7, "name": "Thibaut Courtois", "stat": "34 clean sheets", "aliases": ["Courtois"] },
+      { "rank": 8, "name": "Dida", "stat": "34 clean sheets" },
+      { "rank": 9, "name": "Oliver Kahn", "stat": "33 clean sheets", "aliases": ["Kahn"] },
+      { "rank": 10, "name": "Marc-Andre ter Stegen", "stat": "32 clean sheets", "aliases": ["Marc-André ter Stegen", "ter Stegen", "Ter Stegen"] }
+    ]
+  },
+  {
+    "id": "bundesliga-most-seasons-clubs",
+    "title": "Teams with the most seasons in the Bundesliga",
+    "entityType": "club",
+    "sourceNote": "As of the 2025-26 season",
+    "answers": [
+      { "rank": 1, "name": "Bayern Munich", "stat": "61 seasons", "aliases": ["Bayern München", "Bayern"] },
+      { "rank": 2, "name": "Werder Bremen", "stat": "61 seasons", "aliases": ["Werder"] },
+      { "rank": 3, "name": "Borussia Dortmund", "stat": "59 seasons", "aliases": ["Dortmund", "BVB"] },
+      { "rank": 4, "name": "VfB Stuttgart", "stat": "59 seasons", "aliases": ["Stuttgart"] },
+      { "rank": 5, "name": "Borussia Monchengladbach", "stat": "58 seasons", "aliases": ["Borussia Mönchengladbach", "Monchengladbach", "Gladbach"] },
+      { "rank": 6, "name": "Eintracht Frankfurt", "stat": "57 seasons", "aliases": ["Frankfurt"] },
+      { "rank": 7, "name": "Hamburger SV", "stat": "56 seasons", "aliases": ["Hamburg", "HSV"] },
+      { "rank": 8, "name": "Schalke 04", "stat": "54 seasons", "aliases": ["Schalke"] },
+      { "rank": 9, "name": "FC Koln", "stat": "53 seasons", "aliases": ["1. FC Köln", "Koln", "Köln", "Cologne", "FC Cologne"] },
+      { "rank": 10, "name": "Bayer Leverkusen", "stat": "47 seasons", "aliases": ["Leverkusen"] }
+    ]
+  },
+  {
+    "id": "bundesliga-goals-since-2020-21",
+    "title": "Players with the most goals in the Bundesliga since season 2020/21",
+    "entityType": "player",
+    "sourceNote": "Goals scored in the Bundesliga from the 2020/21 season onward",
+    "answers": [
+      { "rank": 1, "name": "Harry Kane", "stat": "98 goals", "aliases": ["Kane"] },
+      { "rank": 2, "name": "Patrik Schick", "stat": "80 goals", "aliases": ["Schick"] },
+      { "rank": 3, "name": "Andrej Kramaric", "stat": "78 goals", "aliases": ["Andrej Kramarić", "Kramaric", "Kramarić"] },
+      { "rank": 4, "name": "Serhou Guirassy", "stat": "77 goals", "aliases": ["Guirassy"] },
+      { "rank": 5, "name": "Robert Lewandowski", "stat": "76 goals", "aliases": ["Lewandowski"] },
+      { "rank": 6, "name": "Ermedin Demirovic", "stat": "57 goals", "aliases": ["Ermedin Demirović", "Demirovic", "Demirović"] },
+      { "rank": 7, "name": "Serge Gnabry", "stat": "56 goals", "aliases": ["Gnabry"] },
+      { "rank": 8, "name": "Vincenzo Grifo", "stat": "56 goals", "aliases": ["Grifo"] },
+      { "rank": 9, "name": "Jonathan Burkardt", "stat": "53 goals", "aliases": ["Burkardt"] },
+      { "rank": 10, "name": "Erling Haaland", "stat": "49 goals", "aliases": ["Haaland"] }
+    ]
+  },
+  {
+    "id": "last-10-euro-winners",
+    "title": "The last 10 different UEFA Euro winners (most recent first)",
+    "entityType": "country",
+    "sourceNote": "Distinct champions; skips editions won again by a repeat winner, working back from Euro 2024",
+    "answers": [
+      { "rank": 1, "name": "Spain", "stat": "2024" },
+      { "rank": 2, "name": "Italy", "stat": "2020" },
+      { "rank": 3, "name": "Portugal", "stat": "2016" },
+      { "rank": 4, "name": "Greece", "stat": "2004" },
+      { "rank": 5, "name": "France", "stat": "2000" },
+      { "rank": 6, "name": "Germany", "stat": "1996" },
+      { "rank": 7, "name": "Denmark", "stat": "1992" },
+      { "rank": 8, "name": "Netherlands", "stat": "1988", "aliases": ["Holland"] },
+      { "rank": 9, "name": "Czechoslovakia", "stat": "1976" },
+      { "rank": 10, "name": "Soviet Union", "stat": "1960", "aliases": ["USSR"] }
+    ]
+  },
+  {
+    "id": "last-10-ancelotti-clubs",
+    "title": "The last 10 teams Carlo Ancelotti managed (most recent first)",
+    "entityType": "club",
+    "sourceNote": "Managerial spells only, most recent first",
+    "answers": [
+      { "rank": 1, "name": "Real Madrid", "stat": "2013-2015 & 2021-2025" },
+      { "rank": 2, "name": "Everton", "stat": "2019-2021" },
+      { "rank": 3, "name": "Napoli", "stat": "2018-2019" },
+      { "rank": 4, "name": "Bayern Munich", "stat": "2016-2017", "aliases": ["Bayern"] },
+      { "rank": 5, "name": "Paris Saint-Germain", "stat": "2011-2013", "aliases": ["PSG"] },
+      { "rank": 6, "name": "Chelsea", "stat": "2009-2011" },
+      { "rank": 7, "name": "AC Milan", "stat": "2001-2009", "aliases": ["Milan"] },
+      { "rank": 8, "name": "Juventus", "stat": "1999-2001", "aliases": ["Juve"] },
+      { "rank": 9, "name": "Parma", "stat": "1996-1998" },
+      { "rank": 10, "name": "Reggiana", "stat": "1995-1996" }
+    ]
+  },
+  {
+    "id": "last-10-english-top-flight-champions",
+    "title": "The last 10 different champions of the English top flight (most recent first)",
+    "entityType": "club",
+    "sourceNote": "Distinct champions; skips seasons won again by a repeat champion, working back from 2025-26",
+    "answers": [
+      { "rank": 1, "name": "Arsenal", "stat": "2025-26" },
+      { "rank": 2, "name": "Liverpool", "stat": "2024-25", "aliases": ["Liverpool FC"] },
+      { "rank": 3, "name": "Manchester City", "stat": "2023-24", "aliases": ["Man City"] },
+      { "rank": 4, "name": "Chelsea", "stat": "2016-17" },
+      { "rank": 5, "name": "Leicester City", "stat": "2015-16", "aliases": ["Leicester"] },
+      { "rank": 6, "name": "Manchester United", "stat": "2012-13", "aliases": ["Man United", "Man Utd"] },
+      { "rank": 7, "name": "Blackburn Rovers", "stat": "1994-95", "aliases": ["Blackburn"] },
+      { "rank": 8, "name": "Leeds United", "stat": "1991-92", "aliases": ["Leeds"] },
+      { "rank": 9, "name": "Everton", "stat": "1986-87" },
+      { "rank": 10, "name": "Aston Villa", "stat": "1980-81", "aliases": ["Villa"] }
+    ]
+  }
+]
