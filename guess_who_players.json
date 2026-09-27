@@ -30,7 +30,10 @@
       "FIFA Club World Cup",
       "European Championship",
       "UEFA Nations League",
-      "Ballon d'Or"
+      "Ballon d'Or",
+      "FA Cup",
+      "League Cup",
+      "Copa del Rey"
     ]
   },
   {
@@ -58,7 +61,10 @@
       "Ligue 1",
       "Champions League",
       "FIFA Club World Cup",
-      "Ballon d'Or"
+      "Ballon d'Or",
+      "Copa del Rey",
+      "Olympic Gold",
+      "MLS Cup"
     ]
   },
   {
@@ -83,11 +89,12 @@
       "Saudi Pro League"
     ],
     "trophies": [
-      "Copa América",
       "La Liga",
       "Ligue 1",
       "Champions League",
-      "Olympic Gold"
+      "Olympic Gold",
+      "Copa del Rey",
+      "FIFA Club World Cup"
     ]
   },
   {
@@ -120,7 +127,8 @@
       "Copa América",
       "La Liga",
       "Champions League",
-      "Ballon d'Or"
+      "Ballon d'Or",
+      "Serie A"
     ]
   },
   {
@@ -138,6 +146,8 @@
       "Liverpool",
       "Barcelona",
       "Atletico Madrid",
+      "Nacional",
+      "Grêmio",
       "Inter Miami"
     ],
     "leagues": [
@@ -145,13 +155,18 @@
       "Eredivisie",
       "Premier League",
       "La Liga",
-      "MLS"
+      "MLS",
+      "Brasileirão"
     ],
     "trophies": [
       "Copa América",
       "Eredivisie",
       "La Liga",
-      "Champions League"
+      "Champions League",
+      "FIFA Club World Cup",
+      "Copa del Rey",
+      "League Cup",
+      "MLS Cup"
     ]
   },
   {
@@ -186,7 +201,7 @@
     "birthYear": 1986,
     "stillPlaying": true,
     "clubs": [
-      "Schalke 04",
+      "Schalke",
       "Bayern Munich"
     ],
     "leagues": [
@@ -196,7 +211,8 @@
       "World Cup",
       "Bundesliga",
       "DFB-Pokal",
-      "Champions League"
+      "Champions League",
+      "FIFA Club World Cup"
     ]
   },
   {
@@ -217,7 +233,8 @@
     "trophies": [
       "Bundesliga",
       "DFB-Pokal",
-      "Champions League"
+      "Champions League",
+      "FIFA Club World Cup"
     ]
   },
   {
@@ -263,7 +280,8 @@
     ],
     "trophies": [
       "World Cup",
-      "Ligue 1"
+      "Ligue 1",
+      "UEFA Nations League"
     ]
   },
   {
@@ -284,7 +302,9 @@
     ],
     "trophies": [
       "La Liga",
-      "Champions League"
+      "Champions League",
+      "Copa del Rey",
+      "FIFA Club World Cup"
     ]
   },
   {
@@ -336,7 +356,10 @@
     ],
     "trophies": [
       "Premier League",
-      "Champions League"
+      "Champions League",
+      "FA Cup",
+      "League Cup",
+      "FIFA Club World Cup"
     ]
   },
   {
@@ -358,7 +381,8 @@
     ],
     "trophies": [
       "La Liga",
-      "Champions League"
+      "Champions League",
+      "DFB-Pokal"
     ]
   },
   {
@@ -381,7 +405,10 @@
       "MLS"
     ],
     "trophies": [
-      "World Cup"
+      "World Cup",
+      "UEFA Europa League",
+      "UEFA Nations League",
+      "Copa del Rey"
     ]
   },
   {
@@ -412,7 +439,8 @@
       "Champions League",
       "FA Cup",
       "La Liga",
-      "MLS Cup"
+      "MLS Cup",
+      "Ligue 1"
     ]
   },
   {
@@ -442,7 +470,8 @@
     ],
     "trophies": [
       "World Cup",
-      "Copa América"
+      "Copa América",
+      "FA Cup"
     ]
   },
   {
@@ -467,7 +496,9 @@
       "World Cup",
       "European Championship",
       "La Liga",
-      "Champions League"
+      "Champions League",
+      "Copa del Rey",
+      "FIFA Club World Cup"
     ]
   },
   {
@@ -489,7 +520,8 @@
       "Premier League"
     ],
     "trophies": [
-      "Premier League"
+      "Premier League",
+      "FIFA Club World Cup"
     ]
   },
   {
@@ -513,7 +545,9 @@
       "Premier League"
     ],
     "trophies": [
-      "UEFA Nations League"
+      "UEFA Nations League",
+      "FA Cup",
+      "League Cup"
     ]
   },
   {
@@ -542,7 +576,8 @@
       "DFB-Pokal",
       "Premier League",
       "FA Cup",
-      "Champions League"
+      "Champions League",
+      "FIFA Club World Cup"
     ]
   },
   {
@@ -604,7 +639,10 @@
       "La Liga",
       "Champions League",
       "World Cup",
-      "European Championship"
+      "European Championship",
+      "Copa del Rey",
+      "FIFA Club World Cup",
+      "Ligue 1"
     ]
   },
   {
@@ -633,7 +671,8 @@
       "Champions League",
       "Ligue 1",
       "World Cup",
-      "European Championship"
+      "European Championship",
+      "FIFA Club World Cup"
     ]
   },
   {
@@ -672,8 +711,9 @@
       "Copa del Rey",
       "Champions League",
       "Serie A",
-      "Premier League",
-      "Africa Cup of Nations"
+      "Africa Cup of Nations",
+      "Olympic Gold",
+      "FIFA Club World Cup"
     ]
   },
   {
@@ -697,7 +737,8 @@
       "Copa del Rey",
       "Champions League",
       "World Cup",
-      "European Championship"
+      "European Championship",
+      "FIFA Club World Cup"
     ]
   },
   {
@@ -747,7 +788,9 @@
       "La Liga",
       "Copa del Rey",
       "Champions League",
-      "Ballon d'Or"
+      "Ballon d'Or",
+      "FIFA Club World Cup",
+      "UEFA Nations League"
     ]
   },
   {
@@ -787,7 +830,7 @@
   {
     "id": "didier-drogba",
     "name": "Didier Drogba",
-    "nationality": "Côte d'Ivoire",
+    "nationality": "Ivory Coast",
     "continent": "Africa",
     "position": "Forward",
     "birthYear": 1978,
@@ -800,7 +843,7 @@
       "Shanghai Shenhua",
       "Galatasaray",
       "Chelsea",
-      "Montreal Impact",
+      "CF Montreal",
       "Phoenix Rising FC"
     ],
     "leagues": [
@@ -811,10 +854,10 @@
       "MLS"
     ],
     "trophies": [
-      "Ligue 1",
       "Premier League",
       "FA Cup",
-      "Champions League"
+      "Champions League",
+      "League Cup"
     ]
   },
   {
@@ -876,7 +919,9 @@
       "Champions League",
       "Serie A",
       "FIFA Club World Cup",
-      "Ballon d'Or"
+      "Ballon d'Or",
+      "La Liga",
+      "Copa del Rey"
     ]
   },
   {
@@ -1123,7 +1168,7 @@
     "stillPlaying": true,
     "clubs": [
       "Dinamo Zagreb",
-      "Zrinjski Mostar",
+      "Zrinjski",
       "Inter Zaprešić",
       "Dinamo Zagreb",
       "Tottenham Hotspur",
@@ -1169,13 +1214,14 @@
       "Premier League",
       "FA Cup",
       "League Cup",
-      "UEFA Europa League"
+      "UEFA Europa League",
+      "Olympic Gold"
     ]
   },
   {
     "id": "yaya-toure",
     "name": "Yaya Touré",
-    "nationality": "Côte d'Ivoire",
+    "nationality": "Ivory Coast",
     "continent": "Africa",
     "position": "Midfielder",
     "birthYear": 1983,
@@ -1206,7 +1252,8 @@
       "Premier League",
       "FA Cup",
       "League Cup",
-      "Copa del Rey"
+      "Copa del Rey",
+      "FIFA Club World Cup"
     ]
   },
   {
@@ -1241,7 +1288,8 @@
       "FA Cup",
       "League Cup",
       "Champions League",
-      "UEFA Europa League"
+      "UEFA Europa League",
+      "Ligue 1"
     ]
   }
 ]
