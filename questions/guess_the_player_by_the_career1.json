@@ -387,7 +387,7 @@
     "question": "Which player had this career path?",
     "career": [
       {
-        "team": "Barcelona 2",
+        "team": "Barcelona B",
         "years": "2001-2002"
       },
       {
@@ -412,7 +412,7 @@
     "question": "Which player had this career path?",
     "career": [
       {
-        "team": "Barcelona 2",
+        "team": "Barcelona B",
         "years": "1997-1998"
       },
       {
@@ -424,7 +424,10 @@
         "years": "2015-2019"
       }
     ],
-    "correct_answer": "Xavi Hernández"
+    "correct_answer": "Xavi Hernández",
+    "aliases": [
+      "Xavi"
+    ]
   },
   {
     "id": 16,
@@ -738,7 +741,10 @@
         "years": "2018-Present"
       }
     ],
-    "correct_answer": "Vinicius Jr"
+    "correct_answer": "Vinicius Jr",
+    "aliases": [
+      "Vinícius Júnior"
+    ]
   },
   {
     "id": 26,

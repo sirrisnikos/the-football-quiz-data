@@ -658,7 +658,10 @@
         "years": "2023-2024"
       }
     ],
-    "correct_answer": "Marcelo"
+    "correct_answer": "Marcelo",
+    "aliases": [
+      "Marcelo Vieira"
+    ]
   },
   {
     "id": 22,
@@ -1588,7 +1591,10 @@
         "years": "2022-2023"
       }
     ],
-    "correct_answer": "Dani Alves"
+    "correct_answer": "Dani Alves",
+    "aliases": [
+      "Daniel Alves"
+    ]
   },
   {
     "id": 52,
@@ -1894,7 +1900,10 @@
         "years": "2015-2019"
       }
     ],
-    "correct_answer": "Xavi"
+    "correct_answer": "Xavi",
+    "aliases": [
+      "Xavi Hernández"
+    ]
   },
   {
     "id": 62,

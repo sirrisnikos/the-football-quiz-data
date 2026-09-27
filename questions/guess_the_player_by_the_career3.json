@@ -1434,7 +1434,7 @@
     "career": [
       {
         "team": "Benfica",
-        "years": "2022-Present"
+        "years": "2022-2024"
       },
       {
         "team": "Paris Saint-Germain",
@@ -2003,7 +2003,10 @@
         "years": "2009-2011"
       }
     ],
-    "correct_answer": "Ronaldo Nazário"
+    "correct_answer": "Ronaldo Nazário",
+    "aliases": [
+      "Ronaldo"
+    ]
   },
   {
     "id": 70,
@@ -2301,7 +2304,10 @@
         "years": "2026-Present"
       }
     ],
-    "correct_answer": "Alexis Sánchez"
+    "correct_answer": "Alexis Sánchez",
+    "aliases": [
+      "Alexis Sánchez Chileno"
+    ]
   },
   {
     "id": 80,
@@ -3025,7 +3031,7 @@
       },
       {
         "team": "Borussia Dortmund",
-        "years": "2021-"
+        "years": "2021-Present"
       }
     ],
     "correct_answer": "Gregor Kobel"
@@ -3050,7 +3056,7 @@
       },
       {
         "team": "Bayern Munich",
-        "years": "2021-"
+        "years": "2021-Present"
       }
     ],
     "correct_answer": "Dayot Upamecano"
