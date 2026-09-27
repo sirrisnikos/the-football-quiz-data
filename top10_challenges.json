@@ -1340,6 +1340,15 @@
         "aliases": [
           "Club Nacional",
           "Nacional Montevideo"
+        ],
+        "tiedWith": [
+          "Olimpia",
+          "Sao Paulo",
+          "Santos",
+          "Gremio",
+          "Palmeiras",
+          "Grêmio",
+          "São Paulo"
         ]
       },
       {
@@ -1348,6 +1357,15 @@
         "stat": "3 titles",
         "aliases": [
           "Club Olimpia"
+        ],
+        "tiedWith": [
+          "Nacional",
+          "Sao Paulo",
+          "Santos",
+          "Gremio",
+          "Palmeiras",
+          "Grêmio",
+          "São Paulo"
         ]
       },
       {
@@ -1356,12 +1374,29 @@
         "stat": "3 titles",
         "aliases": [
           "São Paulo"
+        ],
+        "tiedWith": [
+          "Nacional",
+          "Olimpia",
+          "Santos",
+          "Gremio",
+          "Palmeiras",
+          "Grêmio"
         ]
       },
       {
         "rank": 10,
         "name": "Santos",
-        "stat": "3 titles"
+        "stat": "3 titles",
+        "tiedWith": [
+          "Nacional",
+          "Olimpia",
+          "Sao Paulo",
+          "Gremio",
+          "Palmeiras",
+          "Grêmio",
+          "São Paulo"
+        ]
       }
     ]
   },
@@ -2513,7 +2548,7 @@
   },
   {
     "id": "last-10-ancelotti-clubs",
-    "title": "The last 10 teams Carlo Ancelotti managed (most recent first)",
+    "title": "The last 10 clubs Carlo Ancelotti managed (most recent first)",
     "entityType": "club",
     "sourceNote": "Managerial spells only, most recent first",
     "answers": [
@@ -3466,7 +3501,7 @@
       {
         "rank": 1,
         "name": "Ajax",
-        "stat": "5 titles",
+        "stat": "6 titles",
         "aliases": [
           "AFC Ajax"
         ]
@@ -3486,30 +3521,27 @@
       },
       {
         "rank": 4,
+        "name": "Anderlecht",
+        "stat": "3 titles"
+      },
+      {
+        "rank": 5,
         "name": "Benfica",
         "stat": "2 titles",
         "aliases": [
           "SL Benfica"
-        ],
-        "tiedWith": [
-          "PSV Eindhoven",
-          "IFK Goteborg"
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "PSV Eindhoven",
-        "stat": "2 titles",
-        "aliases": [
-          "PSV"
-        ],
-        "tiedWith": [
-          "Benfica",
-          "IFK Goteborg"
         ]
       },
       {
         "rank": 6,
+        "name": "PSV Eindhoven",
+        "stat": "2 titles",
+        "aliases": [
+          "PSV"
+        ]
+      },
+      {
+        "rank": 7,
         "name": "IFK Goteborg",
         "stat": "2 titles",
         "aliases": [
@@ -3517,46 +3549,48 @@
           "Goteborg"
         ],
         "tiedWith": [
-          "Benfica",
-          "PSV Eindhoven"
-        ]
-      },
-      {
-        "rank": 7,
-        "name": "Crvena Zvezda",
-        "stat": "1 title",
-        "aliases": [
-          "Red Star Belgrade",
-          "Crevna Zvezda"
+          "Dynamo Kyiv",
+          "Dynamo Kiev"
         ]
       },
       {
         "rank": 8,
-        "name": "Celtic",
-        "stat": "1 title"
+        "name": "Dynamo Kyiv",
+        "stat": "2 titles",
+        "aliases": [
+          "Dynamo Kiev"
+        ],
+        "tiedWith": [
+          "IFK Goteborg",
+          "IFK Göteborg"
+        ]
       },
       {
         "rank": 9,
+        "name": "Celtic",
+        "stat": "1 title",
+        "tiedWith": [
+          "Steaua Bucuresti",
+          "FCSB",
+          "Steaua",
+          "Crvena Zvezda",
+          "Red Star",
+          "Red Star Belgrade"
+        ]
+      },
+      {
+        "rank": 10,
         "name": "Steaua Bucuresti",
         "stat": "1 title",
         "aliases": [
           "Steaua București",
           "FCSB"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "Zenit",
-        "stat": "1 title",
-        "aliases": [
-          "Zenit Saint Petersburg",
-          "Zenit St Petersburg"
         ],
         "tiedWith": [
-          "Shakhtar Donetsk",
-          "Galatasaray",
-          "Anderlecht",
-          "CSKA Moscow"
+          "Celtic",
+          "Crvena Zvezda",
+          "Red Star",
+          "Red Star Belgrade"
         ]
       }
     ]
@@ -3661,7 +3695,7 @@
   },
   {
     "id": "premier-league-nationalities-2025-26",
-    "title": "Nationalities with the most players in the Premier League (2025-26 season)",
+    "title": "Foreign Nationalities with the most players in the Premier League (2025-26 season)",
     "entityType": "country",
     "sourceNote": "By nationality of registered first-team players, 2025-26 season",
     "answers": [
@@ -3740,7 +3774,7 @@
   },
   {
     "id": "serie-a-nationalities-2025-26",
-    "title": "Nationalities with the most players in Serie A (2025-26 season)",
+    "title": "Foreign nationalities with the most players in Serie A (2025-26 season)",
     "entityType": "country",
     "sourceNote": "By nationality of registered first-team players, 2025-26 season",
     "answers": [
@@ -4042,7 +4076,10 @@
       {
         "rank": 6,
         "name": "Cape Verde",
-        "stat": "12 players"
+        "stat": "12 players",
+        "aliases": [
+          "Cabo Verde"
+        ]
       },
       {
         "rank": 7,
