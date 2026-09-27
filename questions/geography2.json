@@ -121,7 +121,7 @@
   },
   {
     "id": 11,
-    "question": "Which national team does the midfielder Son Heung-min captain?",
+    "question": "Which national team does the forward Son Heung-min captain?",
     "options": [
       "Japan",
       "South Korea",
@@ -169,7 +169,7 @@
   },
   {
     "id": 15,
-    "question": "Which country hosted the 2014 Fifa World Cup?",
+    "question": "Which country hosted the 2014 FIFA World Cup?",
     "options": [
       "Brazil",
       "Russia",
@@ -313,7 +313,7 @@
   },
   {
     "id": 27,
-    "question": "The 'Wanda Metropolitano' is the home of which Spanish club?",
+    "question": "The Metropolitano stadium (formerly the 'Wanda Metropolitano') is the home of which Spanish club?",
     "options": [
       "Athletic Bilbao",
       "Real Betis",
@@ -709,7 +709,7 @@
   },
   {
     "id": 60,
-    "question": "Which the only balkan country who reach in World Cup final",
+    "question": "Which is the only Balkan country to have reached a World Cup final?",
     "options": [
       "Romania",
       "Bulgaria",

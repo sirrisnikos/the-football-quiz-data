@@ -529,7 +529,7 @@
   },
   {
     "id": 45,
-    "question": "Which country does Nico González represent?",
+    "question": "Which country does Nicolás González, the winger who played for Fiorentina and Juventus, represent?",
     "options": [
       "Spain",
       "Argentina",
@@ -641,7 +641,7 @@
     "options": [
       "David Alaba",
       "Marko Arnautović",
-      "Johan Manzambi",
+      "Konrad Laimer",
       "Gregor Kobel"
     ],
     "correct_answer": "Gregor Kobel",
@@ -749,7 +749,7 @@
     "options": [
       "Argentina",
       "Portugal",
-      "France",
+      "Netherlands",
       "Brazil"
     ],
     "correct_answer": "Argentina",
@@ -865,7 +865,7 @@
   },
   {
     "id": 73,
-    "question": "The most commonly played match in World International Football is between Scotland and which other nation?",
+    "question": "The oldest international fixture in football history (first played in 1872) is between Scotland and which other nation?",
     "options": [
       "England",
       "Wales",
@@ -961,7 +961,7 @@
   },
   {
     "id": 81,
-    "question": "Which country is the club Al-Ahli from?",
+    "question": "Which country is Al-Ahli, the club from Jeddah, from?",
     "options": [
       "Qatar",
       "United Arab Emirates",

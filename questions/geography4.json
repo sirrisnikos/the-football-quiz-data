@@ -49,12 +49,12 @@
   },
   {
     "id": 5,
-    "question": "What is the most northern European club?",
+    "question": "Which of these clubs is the northernmost?",
     "options": [
-      "Bodo/Glimt",
+      "Bodø/Glimt",
       "Tromsø IL",
       "Rosenborg",
-      "Hacken"
+      "Häcken"
     ],
     "correct_answer": "Tromsø IL",
     "difficulty": 4
@@ -97,7 +97,7 @@
   },
   {
     "id": 9,
-    "question": "Which country does Abdukodir Khusanov represent??",
+    "question": "Which country does Abdukodir Khusanov represent?",
     "options": [
       "Uzbekistan",
       "Kazakhstan",
@@ -241,9 +241,9 @@
   },
   {
     "id": 21,
-    "question": "In which city is the 'Saint James' Park located?",
+    "question": "In which city is St James' Park located?",
     "options": [
-      "Brentford",
+      "Sunderland",
       "Liverpool",
       "Brighton",
       "Newcastle"
@@ -733,7 +733,7 @@
   },
   {
     "id": 63,
-    "question": "Which country's top division is called the Premiership?",
+    "question": "Which country's top division is called the Premiership, with Celtic and Rangers competing in it?",
     "options": [
       "Scotland",
       "England",
@@ -868,7 +868,7 @@
     "question": "What is Xherdan Shaqiri's family heritage?",
     "options": [
       "Kosovar",
-      "Albanian",
+      "Macedonian",
       "Bosnian",
       "Serbian"
     ],
@@ -918,7 +918,7 @@
       "Istanbul",
       "Glasgow",
       "Moscow",
-      "London"
+      "Madrid"
     ],
     "correct_answer": "Glasgow",
     "difficulty": 4
@@ -949,7 +949,7 @@
   },
   {
     "id": 81,
-    "question": "Which is the most western country in UEFA?",
+    "question": "Which UEFA nation's capital city lies furthest west?",
     "options": [
       "Portugal",
       "Ireland",

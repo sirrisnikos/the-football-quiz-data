@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "question": "Didier Drogba is famously credited with helping to pause a Civil War in his home country after qualifying for the 2006 World Cup. In which city was the crucial appeal made?",
+    "question": "Didier Drogba famously helped push for peace in the Ivorian Civil War by having a 2007 international match played in which rebel-held city?",
     "options": [
       "Abidjan",
       "Bouaké",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "question": "The club 'UD Las Palmas' plays in the Spanish La Liga, but geographically, which continent is their home stadium located on?",
+    "question": "The club 'UD Las Palmas' plays in the Spanish league system, but geographically, which continent is their home stadium located on?",
     "options": [
       "Europe",
       "Africa",
@@ -137,8 +137,8 @@
     "options": [
       "Athens",
       "London",
-      "Istanbul",
-      "Buenos Aires"
+      "Rome",
+      "Madrid"
     ],
     "correct_answer": "London",
     "difficulty": 5
@@ -193,7 +193,7 @@
   },
   {
     "id": 18,
-    "question": "Which nation is the only one to play in the South American confederation (CONMEBOL) despite being located in the Northern Hemisphere?",
+    "question": "Which is the only CONMEBOL nation located entirely in the Northern Hemisphere?",
     "options": [
       "Colombia",
       "Venezuela",
@@ -613,7 +613,7 @@
   },
   {
     "id": 53,
-    "question": "Which club from Liechtenstein plays in the Swiss football league system?",
+    "question": "Which Liechtenstein club plays in Switzerland's professional leagues (Super League / Challenge League)?",
     "options": [
       "FC Vaduz",
       "FC Balzers",
@@ -661,7 +661,7 @@
   },
   {
     "id": 65,
-    "question": "Which country does Hamza Choudhury originate from?",
+    "question": "Which national team does Hamza Choudhury represent?",
     "options": [
       "England",
       "Bangladesh",
@@ -685,7 +685,7 @@
   },
   {
     "id": 67,
-    "question": "Which country does former Tottenham Hotspur palyer Victor Wanyama originate from?",
+    "question": "Which country does former Tottenham Hotspur player Victor Wanyama originate from?",
     "options": [
       "Kenya",
       "Uganda",
@@ -721,7 +721,7 @@
   },
   {
     "id": 70,
-    "question": "Which country does Gerson Rodrigues originate from?",
+    "question": "Which national team does Gerson Rodrigues represent?",
     "options": [
       "Luxembourg",
       "Liechtenstein",
