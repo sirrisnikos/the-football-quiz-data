@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "Which player scored both of Manchester United's injury-time goals in the 1999 Champions League final?",
+    "question": "Which players scored Manchester United's two injury-time goals in the 1999 Champions League final?",
     "options": [
       "Sheringham & Solskjær",
       "Yorke & Cole",
@@ -109,14 +109,14 @@
   },
   {
     "id": 17,
-    "question": "Who was the captain of the 'Dream Team' Barcelona that won the 1992 European Cup?",
+    "question": "Which Barcelona captain lifted the European Cup at Wembley in 1992?",
     "options": [
       "Pep Guardiola",
       "José Mari Bakero",
-      "Andoni Zubizarreta",
+      "José Ramón Alexanko",
       "Ronald Koeman"
     ],
-    "correct_answer": "Andoni Zubizarreta",
+    "correct_answer": "José Ramón Alexanko",
     "difficulty": 4
   },
   {
@@ -581,7 +581,7 @@
     "options": [
       "Jack Butland",
       "Aaron Ramsdale",
-      "Dean henderson",
+      "Dean Henderson",
       "James Trafford"
     ],
     "correct_answer": "Jack Butland",
@@ -776,12 +776,12 @@
       "Inter Milan",
       "VfB Stuttgart"
     ],
-    "correct_answer": "Inter Milan",
+    "correct_answer": "VfB Stuttgart",
     "difficulty": 4
   },
   {
     "id": 78,
-    "question": "Which is the only Belgian club to have won a major European trophy?",
+    "question": "Which of these Belgian clubs has won a major European trophy?",
     "options": [
       "Anderlecht",
       "Club Brugge",
@@ -805,7 +805,7 @@
   },
   {
     "id": 80,
-    "question": "Who has made the most Premier League appearances for Tottenham Hotspur?",
+    "question": "Which of these players has made the most Premier League appearances for Tottenham Hotspur?",
     "options": [
       "Harry Kane",
       "Steve Perryman",

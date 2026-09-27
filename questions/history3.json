@@ -171,17 +171,17 @@
     "id": 15,
     "question": "Which striker was known as 'The flying Dutch-man'?",
     "options": [
-      "Robin Van Persie",
-      "Robben",
-      "Ruud Van Nistelroy",
-      "Klaas Jan Huntelaar"
+      "Robin van Persie",
+      "Arjen Robben",
+      "Ruud van Nistelrooy",
+      "Klaas-Jan Huntelaar"
     ],
-    "correct_answer": "Robin Van Persie",
+    "correct_answer": "Robin van Persie",
     "difficulty": 3
   },
   {
     "id": 16,
-    "question": "Which team won the FA Cup in 2001, 2003, and 2005 during a dominant domestic period?",
+    "question": "Which team won the FA Cup in 2002, 2003, and 2005 during a dominant domestic period?",
     "options": [
       "Manchester United",
       "Chelsea",
@@ -272,7 +272,7 @@
       "Liverpool",
       "Manchester United"
     ],
-    "correct_answer": "Juventus",
+    "correct_answer": "Manchester United",
     "difficulty": 3
   },
   {
@@ -661,12 +661,12 @@
   },
   {
     "id": 55,
-    "question": "Which player has received the most red cards in UEFA Champions League history?",
+    "question": "Which of these players shares the record for the most red cards in UEFA Champions League history (4)?",
     "options": [
       "Sergio Ramos",
-      "Zlatan Ibrahimović",
-      "Edgar Davids",
-      "Roy Keane"
+      "Xavi",
+      "Andrea Pirlo",
+      "Kaká"
     ],
     "correct_answer": "Sergio Ramos",
     "difficulty": 3
@@ -1033,7 +1033,7 @@
   },
   {
     "id": 87,
-    "question": "Who was Spain's manager when they won three consecutive major international tournaments?",
+    "question": "Who was Spain's manager when they won the 2010 World Cup and Euro 2012?",
     "options": [
       "Luis Aragonés",
       "Vicente del Bosque",
@@ -1089,7 +1089,7 @@
       "West Ham United"
     ],
     "correct_answer": "Everton",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "id": 92,
@@ -1249,7 +1249,7 @@
   },
   {
     "id": 105,
-    "question": "Who is the only Czech footballer to have won the Ballon d'Or?",
+    "question": "Who is the only Czech Republic international (since 1993) to have won the Ballon d'Or?",
     "options": [
       "Pavel Nedvěd",
       "Josef Masopust",
@@ -1341,6 +1341,6 @@
       "2020"
     ],
     "correct_answer": "2016",
-    "difficulty": 4
+    "difficulty": 3
   }
 ]

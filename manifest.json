@@ -27,8 +27,8 @@
   "questions/guess_the_score4.json": "2",
   "questions/guess_the_score5.json": "2",
   "questions/history1.json": "2",
-  "questions/history2.json": "2",
-  "questions/history3.json": "2",
-  "questions/history4.json": "2",
-  "questions/history5.json": "2"
+  "questions/history2.json": "3",
+  "questions/history3.json": "3",
+  "questions/history4.json": "3",
+  "questions/history5.json": "3"
 }

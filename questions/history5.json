@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "question": "Who was the first player to win the Ballon d'Or three times (1983, 1984, 1985)?",
+    "question": "Who was the first player to win the Ballon d'Or three times?",
     "options": [
       "Johan Cruyff",
       "Marco van Basten",
@@ -219,12 +219,12 @@
     "id": 20,
     "question": "Which manager is associated with the famous 'Benfica curse'?",
     "options": [
-      "Bella Guttmann",
+      "Béla Guttmann",
       "Helenio Herrera",
       "Rinus Michels",
       "Ernst Happel"
     ],
-    "correct_answer": "Bella Guttmann",
+    "correct_answer": "Béla Guttmann",
     "difficulty": 5
   },
   {
@@ -460,7 +460,7 @@
     "question": "Which Portugal international joined Milan from Fiorentina in 2001?",
     "options": [
       "Rui Costa",
-      "Manuel Rui Costa",
+      "Nuno Gomes",
       "Paulo Sousa",
       "Deco"
     ],
@@ -481,7 +481,7 @@
   },
   {
     "id": 42,
-    "question": "In 2001, Zidane scored one of the great Champions League final goals. Which team did he score against?",
+    "question": "In 2002, Zidane scored one of the great Champions League final goals. Which team did he score against?",
     "options": [
       "Liverpool",
       "Bayer Leverkusen",
@@ -548,7 +548,7 @@
       "Karl-Heinz Rummenigge",
       "Kevin Keegan"
     ],
-    "correct_answer": "Marco van Basten",
+    "correct_answer": "Michel Platini",
     "difficulty": 5
   },
   {
@@ -901,7 +901,7 @@
   },
   {
     "id": 75,
-    "question": "Which player made his Premier League debut aged 15 years and 174 days in 2022?",
+    "question": "Which player made his Premier League debut aged 15 years and 181 days in 2022?",
     "options": [
       "Ethan Nwaneri",
       "Harvey Elliott",
