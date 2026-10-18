@@ -2,6 +2,7 @@
   {
     "id": 1,
     "question": "Which team did Liverpool defeat in the 2019 UEFA Champions League final?",
+    "question_el": "Ποια ομάδα νίκησε η Liverpool στον τελικό του Champions League το 2019;",
     "options": [
       "Real Madrid",
       "Tottenham Hotspur",
@@ -14,6 +15,7 @@
   {
     "id": 2,
     "question": "Who was the runner-up in the 2012 European Championship?",
+    "question_el": "Ποια ομάδα ήταν φιναλίστ στο Euro 2012;",
     "options": [
       "Germany",
       "England",
@@ -26,6 +28,7 @@
   {
     "id": 3,
     "question": "Which club lost to Chelsea in the 2021 UEFA Champions League final?",
+    "question_el": "Ποια ομάδα έχασε από την Chelsea στον τελικό του Champions League το 2021;",
     "options": [
       "Manchester City",
       "Paris Saint-Germain",
@@ -38,6 +41,7 @@
   {
     "id": 4,
     "question": "Who scored the winning goal for Germany in the 2014 World Cup Final against Argentina?",
+    "question_el": "Ποιος σκόραρε το νικητήριο γκολ της Γερμανίας στον τελικό του Μουντιάλ του 2014 κόντρα στην Αργεντινή;",
     "options": [
       "Thomas Müller",
       "Miroslav Klose",
@@ -50,6 +54,7 @@
   {
     "id": 5,
     "question": "In 2016, which underdog team famously won the English Premier League title?",
+    "question_el": "Το 2016, ποιο αουτσάιντερ κατέκτησε απρόσμενα την Premier League;",
     "options": [
       "West Ham United",
       "Leicester City",
@@ -62,6 +67,7 @@
   {
     "id": 6,
     "question": "Who did Portugal defeat in the final to win Euro 2016?",
+    "question_el": "Ποια ομάδα νίκησε η Πορτογαλία στον τελικό για να κατακτήσει το Euro 2016;",
     "options": [
       "Germany",
       "France",
@@ -74,6 +80,7 @@
   {
     "id": 7,
     "question": "Which club won the 2012 UEFA Champions League?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2012;",
     "options": [
       "Barcelona",
       "Bayern Munich",
@@ -86,6 +93,7 @@
   {
     "id": 8,
     "question": "Which club won the 2011 UEFA Champions League?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2011;",
     "options": [
       "Barcelona",
       "Inter Milan",
@@ -98,6 +106,7 @@
   {
     "id": 9,
     "question": "Which nation did Italy beat on penalties to win the Euro 2020 (played in 2021) final?",
+    "question_el": "Ποια χώρα νίκησε η Ιταλία στα πέναλτι στον τελικό του Euro 2020 (που έγινε το 2021);",
     "options": [
       "Spain",
       "Denmark",
@@ -110,6 +119,7 @@
   {
     "id": 10,
     "question": "Who was the top scorer (Golden Boot winner) of the 2022 FIFA World Cup?",
+    "question_el": "Ποιος ήταν ο πρώτος σκόρερ (Χρυσό Παπούτσι) του Μουντιάλ του 2022;",
     "options": [
       "Lionel Messi",
       "Kylian Mbappé",
@@ -122,6 +132,7 @@
   {
     "id": 11,
     "question": "Who was the manager of Manchester United when they won their last Premier League title in 2013?",
+    "question_el": "Ποιος ήταν ο προπονητής της Manchester United όταν κατέκτησε την τελευταία της Premier League, το 2013;",
     "options": [
       "David Moyes",
       "Louis van Gaal",
@@ -134,6 +145,7 @@
   {
     "id": 12,
     "question": "Which team lost the 2015 UEFA Champions League final to Barcelona?",
+    "question_el": "Ποια ομάδα έχασε από την Barcelona στον τελικό του Champions League το 2015;",
     "options": [
       "Juventus",
       "Real Madrid",
@@ -146,6 +158,7 @@
   {
     "id": 13,
     "question": "In which year did Spain win their second consecutive European Championship?",
+    "question_el": "Ποια χρονιά κατέκτησε η Ισπανία το δεύτερο συνεχόμενο Euro;",
     "options": [
       "2008",
       "2010",
@@ -158,6 +171,7 @@
   {
     "id": 14,
     "question": "Which player won the UEFA Men's Player of the Year award in 2018, breaking the Messi-Ronaldo streak?",
+    "question_el": "Ποιος παίκτης κέρδισε το βραβείο του Παίκτη της Χρονιάς της UEFA το 2018, σπάζοντας το σερί Messi – Ronaldo;",
     "options": [
       "Antoine Griezmann",
       "Luka Modrić",
@@ -170,6 +184,7 @@
   {
     "id": 15,
     "question": "Which team defeated Arsenal in the 2019 UEFA Europa League final?",
+    "question_el": "Ποια ομάδα νίκησε την Arsenal στον τελικό του Europa League το 2019;",
     "options": [
       "Chelsea",
       "Manchester United",
@@ -182,6 +197,7 @@
   {
     "id": 16,
     "question": "Who was the host nation of the 2010 FIFA World Cup?",
+    "question_el": "Ποια χώρα διοργάνωσε το Μουντιάλ του 2010;",
     "options": [
       "Brazil",
       "South Africa",
@@ -194,6 +210,7 @@
   {
     "id": 17,
     "question": "Which club ended Juventus' streak of nine consecutive Serie A titles in 2021?",
+    "question_el": "Ποια ομάδα σταμάτησε το σερί της Juventus με εννέα συνεχόμενα πρωταθλήματα Serie A, το 2021;",
     "options": [
       "AC Milan",
       "Napoli",
@@ -206,6 +223,7 @@
   {
     "id": 18,
     "question": "Which club reached the UEFA Champions League final in 2010 but lost to Inter Milan?",
+    "question_el": "Ποια ομάδα έφτασε στον τελικό του Champions League το 2010, αλλά έχασε από την Inter Milan;",
     "options": [
       "Porto",
       "Barcelona",
@@ -218,6 +236,7 @@
   {
     "id": 19,
     "question": "Which German club reached the Champions League final in 2013 only to lose to Bayern Munich?",
+    "question_el": "Ποια γερμανική ομάδα έφτασε στον τελικό του Champions League το 2013, μόνο για να χάσει από την Bayern Munich;",
     "options": [
       "Bayer Leverkusen",
       "Borussia Dortmund",
@@ -230,6 +249,7 @@
   {
     "id": 20,
     "question": "In which year did the 'MSN' trio (Messi, Suárez, Neymar) win 5 trophies with Barcelona?",
+    "question_el": "Ποια χρονιά το τρίο «MSN» (Messi, Suárez, Neymar) κατέκτησε 5 τρόπαια με την Barcelona;",
     "options": [
       "2013",
       "2014",
@@ -242,6 +262,7 @@
   {
     "id": 21,
     "question": "Who was the manager of the French national team for their 2018 World Cup victory?",
+    "question_el": "Ποιος ήταν ο προπονητής της Γαλλίας όταν κατέκτησε το Μουντιάλ του 2018;",
     "options": [
       "Zinedine Zidane",
       "Laurent Blanc",
@@ -254,6 +275,7 @@
   {
     "id": 22,
     "question": "With which club did Robert Lewandowski make his debut in the Bundesliga?",
+    "question_el": "Με ποια ομάδα έκανε ντεμπούτο στην Bundesliga ο Robert Lewandowski;",
     "options": [
       "Bayern Munich",
       "Borussia Dortmund",
@@ -266,6 +288,7 @@
   {
     "id": 23,
     "question": "Which goalkeeper made a great last minute save in the 2022 World Cup Final?",
+    "question_el": "Ποιος τερματοφύλακας έκανε μια σπουδαία απόκρουση στο τελευταίο λεπτό του τελικού του Μουντιάλ του 2022;",
     "options": [
       "Manuel Neuer",
       "Emiliano Martinez",
@@ -278,6 +301,7 @@
   {
     "id": 24,
     "question": "Who was the manager of Germany during their 2014 World Cup win?",
+    "question_el": "Ποιος ήταν ο προπονητής της Γερμανίας όταν κατέκτησε το Μουντιάλ του 2014;",
     "options": [
       "Joachim Löw",
       "Jürgen Klinsmann",
@@ -290,6 +314,7 @@
   {
     "id": 25,
     "question": "Who is the all-time top scorer in Premier League history?",
+    "question_el": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών στην ιστορία της Premier League;",
     "options": [
       "Alan Shearer",
       "Harry Kane",
@@ -302,6 +327,7 @@
   {
     "id": 26,
     "question": "Who holds the record for most Premier League appearances of all time?",
+    "question_el": "Ποιος έχει το ρεκόρ συμμετοχών όλων των εποχών στην Premier League;",
     "options": [
       "James Milner",
       "Gareth Barry",
@@ -314,6 +340,7 @@
   {
     "id": 27,
     "question": "Which club has won the most Serie A (Italian league) titles?",
+    "question_el": "Ποια ομάδα έχει κατακτήσει τα περισσότερα πρωταθλήματα Serie A;",
     "options": [
       "Juventus",
       "Inter Milan",
@@ -326,6 +353,7 @@
   {
     "id": 28,
     "question": "Which player holds the record for most appearances for AC Milan?",
+    "question_el": "Ποιος παίκτης έχει το ρεκόρ συμμετοχών με την AC Milan;",
     "options": [
       "Paolo Maldini",
       "Franco Baresi",
@@ -338,6 +366,7 @@
   {
     "id": 29,
     "question": "Who scored Spain's winning goal in the 2010 World Cup final?",
+    "question_el": "Ποιος σκόραρε το νικητήριο γκολ της Ισπανίας στον τελικό του Μουντιάλ του 2010;",
     "options": [
       "Andrés Iniesta",
       "David Villa",
@@ -350,6 +379,7 @@
   {
     "id": 30,
     "question": "Which coach has won the most UEFA Champions League titles?",
+    "question_el": "Ποιος προπονητής έχει κατακτήσει τα περισσότερα Champions League;",
     "options": [
       "Carlo Ancelotti",
       "Pep Guardiola",
@@ -362,6 +392,7 @@
   {
     "id": 31,
     "question": "Which player is tied for the most UEFA Champions League titles won (6)?",
+    "question_el": "Ποιος παίκτης μοιράζεται το ρεκόρ των περισσότερων Champions League (6);",
     "options": [
       "Dani Carvajal",
       "Cristiano Ronaldo",
@@ -374,6 +405,7 @@
   {
     "id": 32,
     "question": "Who is the all-time top scorer in FIFA World Cup history?",
+    "question_el": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών στην ιστορία του Μουντιάλ;",
     "options": [
       "Kylian Mbappé",
       "Lionel Messi",
@@ -386,6 +418,7 @@
   {
     "id": 33,
     "question": "Which club has won the most Portuguese league (Primeira Liga) titles?",
+    "question_el": "Ποια ομάδα έχει κατακτήσει τα περισσότερα πρωταθλήματα Πορτογαλίας (Primeira Liga);",
     "options": [
       "Benfica",
       "Porto",
@@ -398,6 +431,7 @@
   {
     "id": 34,
     "question": "Which team has won the most Ligue 1 titles in France?",
+    "question_el": "Ποια ομάδα έχει κατακτήσει τα περισσότερα πρωταθλήματα Ligue 1 στη Γαλλία;",
     "options": [
       "Paris Saint-Germain",
       "Saint-Étienne",
@@ -410,6 +444,7 @@
   {
     "id": 35,
     "question": "Which team has won the second-most UEFA Champions League titles behind Real Madrid?",
+    "question_el": "Ποια ομάδα έχει τα δεύτερα περισσότερα Champions League μετά τη Real Madrid;",
     "options": [
       "AC Milan",
       "Liverpool",
@@ -422,6 +457,7 @@
   {
     "id": 36,
     "question": "Which of the following players has never won the UEFA Champions League?",
+    "question_el": "Ποιος από τους παρακάτω παίκτες δεν έχει κατακτήσει ποτέ το Champions League;",
     "options": [
       "Neymar",
       "Zlatan Ibrahimović",
@@ -434,6 +470,7 @@
   {
     "id": 37,
     "question": "Which of the following players has never won the Premier League?",
+    "question_el": "Ποιος από τους παρακάτω παίκτες δεν έχει κατακτήσει ποτέ την Premier League;",
     "options": [
       "Jordan Henderson",
       "Kai Havertz",
@@ -446,6 +483,7 @@
   {
     "id": 38,
     "question": "Which of the following players has won the Premier League Golden Boot?",
+    "question_el": "Ποιος από τους παρακάτω παίκτες έχει κερδίσει το Χρυσό Παπούτσι της Premier League;",
     "options": [
       "Edin Džeko",
       "Alexis Sánchez",
@@ -458,6 +496,7 @@
   {
     "id": 39,
     "question": "Barcelona and Real Madrid are the two clubs with the most La Liga titles. Which club is third?",
+    "question_el": "Η Barcelona και η Real Madrid έχουν τα περισσότερα πρωταθλήματα La Liga. Ποια ομάδα είναι τρίτη;",
     "options": [
       "Atlético Madrid",
       "Athletic Bilbao",
@@ -470,6 +509,7 @@
   {
     "id": 40,
     "question": "Who is the foreign player with the most goals in Premier League history?",
+    "question_el": "Ποιος είναι ο ξένος παίκτης με τα περισσότερα γκολ στην ιστορία της Premier League;",
     "options": [
       "Thierry Henry",
       "Mohamed Salah",
@@ -482,6 +522,7 @@
   {
     "id": 41,
     "question": "Who is the all-time top scorer for the Brazil national football team?",
+    "question_el": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών της Εθνικής Βραζιλίας;",
     "options": [
       "Pelé",
       "Neymar",
@@ -494,6 +535,7 @@
   {
     "id": 42,
     "question": "Who is the all-time top scorer for the France national football team?",
+    "question_el": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών της Εθνικής Γαλλίας;",
     "options": [
       "Olivier Giroud",
       "Kylian Mbappé",
@@ -506,6 +548,7 @@
   {
     "id": 43,
     "question": "In Barcelona's 6–1 comeback against Paris Saint-Germain in 2017, which player scored the sixth goal?",
+    "question_el": "Στην ανατροπή της Barcelona με 6-1 κόντρα στην Paris Saint-Germain το 2017, ποιος παίκτης σκόραρε το έκτο γκολ;",
     "options": [
       "Sergi Roberto",
       "Neymar",
@@ -518,6 +561,7 @@
   {
     "id": 44,
     "question": "How many UEFA Champions League titles has Manchester City won?",
+    "question_el": "Πόσα Champions League έχει κατακτήσει η Manchester City;",
     "options": [
       "0",
       "1",
@@ -530,6 +574,7 @@
   {
     "id": 45,
     "question": "How many UEFA Champions League titles has Arsenal won?",
+    "question_el": "Πόσα Champions League έχει κατακτήσει η Arsenal;",
     "options": [
       "0",
       "1",
@@ -542,6 +587,7 @@
   {
     "id": 46,
     "question": "How many FIFA World Cups has the Spain national team won?",
+    "question_el": "Πόσα Μουντιάλ έχει κατακτήσει η Εθνική Ισπανίας;",
     "options": [
       "0",
       "1",
@@ -554,6 +600,7 @@
   {
     "id": 47,
     "question": "Which of the following clubs has João Félix never played for?",
+    "question_el": "Σε ποια από τις παρακάτω ομάδες δεν έχει παίξει ποτέ ο João Félix;",
     "options": [
       "AC Milan",
       "Chelsea",
@@ -566,6 +613,7 @@
   {
     "id": 48,
     "question": "Who was the Manchester United manager when Cristiano Ronaldo left the club to join Al Nassr?",
+    "question_el": "Ποιος ήταν ο προπονητής της Manchester United όταν ο Cristiano Ronaldo έφυγε για την Al Nassr;",
     "options": [
       "Erik ten Hag",
       "Ralf Rangnick",
@@ -578,6 +626,7 @@
   {
     "id": 49,
     "question": "Under which manager did Barcelona win the UEFA Champions League in 2009 and 2011?",
+    "question_el": "Με ποιον προπονητή κατέκτησε η Barcelona το Champions League το 2009 και το 2011;",
     "options": [
       "Pep Guardiola",
       "Luis Enrique",
@@ -590,6 +639,7 @@
   {
     "id": 50,
     "question": "Who holds the record for the most appearances for Juventus?",
+    "question_el": "Ποιος έχει το ρεκόρ συμμετοχών με την Juventus;",
     "options": [
       "Gianluigi Buffon",
       "Alessandro Del Piero",
@@ -602,6 +652,7 @@
   {
     "id": 51,
     "question": "Who holds the record for the most appearances in the Premier League for Manchester City?",
+    "question_el": "Ποιος έχει το ρεκόρ συμμετοχών στην Premier League με την Manchester City;",
     "options": [
       "David Silva",
       "Sergio Agüero",
@@ -614,6 +665,7 @@
   {
     "id": 52,
     "question": "Who holds the record for the most appearances for Inter Milan?",
+    "question_el": "Ποιος έχει το ρεκόρ συμμετοχών με την Inter Milan;",
     "options": [
       "Javier Zanetti",
       "Giuseppe Bergomi",
@@ -626,6 +678,7 @@
   {
     "id": 53,
     "question": "Who is Manchester United's all-time top scorer in the Premier League?",
+    "question_el": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών της Manchester United στην Premier League;",
     "options": [
       "Wayne Rooney",
       "Ryan Giggs",
@@ -638,6 +691,7 @@
   {
     "id": 54,
     "question": "Which club did Liverpool sign Virgil van Dijk from?",
+    "question_el": "Από ποια ομάδα απέκτησε η Liverpool τον Virgil van Dijk;",
     "options": [
       "Groningen",
       "Southampton",
@@ -650,6 +704,7 @@
   {
     "id": 55,
     "question": "Which manager has won the UEFA Champions League, UEFA Europa League and UEFA Europa Conference League?",
+    "question_el": "Ποιος προπονητής έχει κατακτήσει Champions League, Europa League και Conference League;",
     "options": [
       "José Mourinho",
       "Pep Guardiola",
@@ -662,6 +717,7 @@
   {
     "id": 56,
     "question": "Which of the following players has never won La Liga?",
+    "question_el": "Ποιος από τους παρακάτω παίκτες δεν έχει κατακτήσει ποτέ τη La Liga;",
     "options": [
       "Marcos Llorente",
       "Koke",
@@ -674,6 +730,7 @@
   {
     "id": 57,
     "question": "What was the last FIFA World Cup in which Italy participated?",
+    "question_el": "Ποιο ήταν το τελευταίο Μουντιάλ στο οποίο συμμετείχε η Ιταλία;",
     "options": [
       "2010",
       "2014",
@@ -686,6 +743,7 @@
   {
     "id": 58,
     "question": "Who was Chelsea's manager when they won the UEFA Champions League in 2021?",
+    "question_el": "Ποιος ήταν ο προπονητής της Chelsea όταν κατέκτησε το Champions League το 2021;",
     "options": [
       "Frank Lampard",
       "Thomas Tuchel",
@@ -698,6 +756,7 @@
   {
     "id": 59,
     "question": "Who was Bayern Munich's manager when they won the UEFA Champions League in 2020?",
+    "question_el": "Ποιος ήταν ο προπονητής της Bayern Munich όταν κατέκτησε το Champions League το 2020;",
     "options": [
       "Jupp Heynckes",
       "Hansi Flick",
@@ -710,6 +769,7 @@
   {
     "id": 60,
     "question": "Which Portugal international has been AC Milan's number 10 since 2023?",
+    "question_el": "Ποιος διεθνής Πορτογάλος φοράει το νούμερο 10 της AC Milan από το 2023;",
     "options": [
       "Rafael Leão",
       "Andre Silva",
@@ -722,6 +782,7 @@
   {
     "id": 61,
     "question": "Which club sold Kylian Mbappé for €180m?",
+    "question_el": "Ποια ομάδα πούλησε τον Kylian Mbappé για 180 εκατ. ευρώ;",
     "options": [
       "Paris Saint-Germain",
       "AS Monaco",
@@ -734,6 +795,7 @@
   {
     "id": 62,
     "question": "Which of the following players has been named La Liga's Best Defender five times?",
+    "question_el": "Ποιος από τους παρακάτω παίκτες έχει αναδειχθεί πέντε φορές καλύτερος αμυντικός της La Liga;",
     "options": [
       "Carles Puyol",
       "Sergio Ramos",
@@ -746,6 +808,7 @@
   {
     "id": 63,
     "question": "Which player scored the winning goal for Manchester City against QPR in the 2011-12 season, securing the Premier League title?",
+    "question_el": "Ποιος παίκτης σκόραρε το νικητήριο γκολ της Manchester City κόντρα στην QPR τη σεζόν 2011-12, χαρίζοντάς της την Premier League;",
     "options": [
       "Sergio Agüero",
       "Vincent Kompany",
@@ -758,11 +821,18 @@
   {
     "id": 64,
     "question": "Besides Manchester, which other European city has two clubs that have won the Champions League?",
+    "question_el": "Εκτός από το Μάντσεστερ, ποια άλλη ευρωπαϊκή πόλη έχει δύο ομάδες που έχουν κατακτήσει το Champions League;",
     "options": [
       "London",
       "Madrid",
       "Milan",
       "Liverpool"
+    ],
+    "options_el": [
+      "Λονδίνο",
+      "Μαδρίτη",
+      "Μιλάνο",
+      "Λίβερπουλ"
     ],
     "correct_answer": "Milan",
     "difficulty": 2
@@ -770,6 +840,7 @@
   {
     "id": 65,
     "question": "How many times has Sevilla lost the Europa League final?",
+    "question_el": "Πόσες φορές έχει χάσει η Sevilla τελικό Europa League;",
     "options": [
       "0",
       "1",
@@ -782,6 +853,7 @@
   {
     "id": 66,
     "question": "Who was the manager of Italy when they won Euro 2020(2021)?",
+    "question_el": "Ποιος ήταν ο προπονητής της Ιταλίας όταν κατέκτησε το Euro 2020 (το 2021);",
     "options": [
       "Luciano Spalletti",
       "Roberto Mancini",
@@ -794,6 +866,7 @@
   {
     "id": 67,
     "question": "Leicester won the Premier League title in the 2015/16 season. Who was the club's top goalscorer?",
+    "question_el": "Η Leicester κατέκτησε την Premier League τη σεζόν 2015/16. Ποιος ήταν ο πρώτος σκόρερ της ομάδας;",
     "options": [
       "Jamie Vardy",
       "Riyad Mahrez",
@@ -806,6 +879,7 @@
   {
     "id": 68,
     "question": "What is the name of Barcelona's famous youth academy?",
+    "question_el": "Πώς λέγεται η διάσημη ακαδημία της Barcelona;",
     "options": [
       "La Masia",
       "La Fábrica",
@@ -818,6 +892,7 @@
   {
     "id": 69,
     "question": "Which player had the most assists at the 2026 FIFA World Cup?",
+    "question_el": "Ποιος παίκτης είχε τις περισσότερες assist στο Μουντιάλ του 2026;",
     "options": [
       "Michael Olise",
       "Martin Ødegaard",
@@ -830,6 +905,7 @@
   {
     "id": 70,
     "question": "Which club is known as 'Los Blancos'?",
+    "question_el": "Ποια ομάδα είναι γνωστή ως «Los Blancos»;",
     "options": [
       "Real Madrid",
       "Barcelona",
@@ -842,6 +918,7 @@
   {
     "id": 71,
     "question": "Who is Poland's all-time leading goalscorer?",
+    "question_el": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών της Πολωνίας;",
     "options": [
       "Robert Lewandowski",
       "Włodzimierz Lubański",
@@ -854,6 +931,7 @@
   {
     "id": 73,
     "question": "Who is Brazil's all-time leading goalscorer?",
+    "question_el": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών της Βραζιλίας;",
     "options": [
       "Neymar",
       "Pelé",
@@ -866,6 +944,7 @@
   {
     "id": 74,
     "question": "Who is Argentina's all-time leading goalscorer?",
+    "question_el": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών της Αργεντινής;",
     "options": [
       "Lionel Messi",
       "Gabriel Batistuta",
@@ -878,6 +957,7 @@
   {
     "id": 75,
     "question": "Who is Sweden's all-time leading goalscorer?",
+    "question_el": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών της Σουηδίας;",
     "options": [
       "Zlatan Ibrahimović",
       "Sven Rydell",
@@ -890,6 +970,7 @@
   {
     "id": 76,
     "question": "Which manager has won the most Premier League titles?",
+    "question_el": "Ποιος προπονητής έχει κατακτήσει τις περισσότερες Premier League;",
     "options": [
       "Sir Alex Ferguson",
       "Pep Guardiola",
@@ -902,6 +983,7 @@
   {
     "id": 77,
     "question": "Which goalkeeper has kept the most clean sheets for the Spain national team?",
+    "question_el": "Ποιος τερματοφύλακας έχει κρατήσει τα περισσότερα clean sheets με την Εθνική Ισπανίας;",
     "options": [
       "Iker Casillas",
       "Andoni Zubizarreta",
@@ -914,6 +996,7 @@
   {
     "id": 78,
     "question": "Which continent has won the most FIFA World Cup titles?",
+    "question_el": "Ποια ήπειρος έχει κατακτήσει τα περισσότερα Μουντιάλ;",
     "options": [
       "Europe",
       "South America",
@@ -926,6 +1009,7 @@
   {
     "id": 79,
     "question": "How many FIFA World Cup titles have African countries won in total?",
+    "question_el": "Πόσα Μουντιάλ έχουν κατακτήσει συνολικά οι αφρικανικές χώρες;",
     "options": [
       "0",
       "1",
@@ -938,6 +1022,7 @@
   {
     "id": 80,
     "question": "Which club had the most players at the 2026 FIFA World Cup?",
+    "question_el": "Ποια ομάδα είχε τους περισσότερους παίκτες στο Μουντιάλ του 2026;",
     "options": [
       "Manchester City",
       "Bayern Munich",
@@ -950,6 +1035,7 @@
   {
     "id": 81,
     "question": "Which team has reached the most FIFA World Cup semi-finals?",
+    "question_el": "Ποια ομάδα έχει φτάσει στους περισσότερους ημιτελικούς Μουντιάλ;",
     "options": [
       "Germany",
       "Italy",

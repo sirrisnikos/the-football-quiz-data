@@ -4,132 +4,151 @@
     "match": "Germany vs Argentina",
     "score": "1-0",
     "level": 2,
-    "notes": "World Cup Final 2014 (with extra time)(Mario Gotze wins Cup"
+    "notes": "World Cup Final 2014 (with extra time)(Mario Gotze wins Cup",
+    "notes_el": "Τελικός Μουντιάλ 2014 (με παράταση) (Ο Mario Götze χαρίζει το Κύπελλο)"
   },
   {
     "id": 20,
     "match": "Barcelona vs Juventus",
     "score": "3-1",
     "level": 2,
-    "notes": "UCL Final 2015(Berlin Belongs to Barça)"
+    "notes": "UCL Final 2015(Berlin Belongs to Barça)",
+    "notes_el": "Τελικός Champions League 2015 (Το Βερολίνο ανήκει στην Barça)"
   },
   {
     "id": 21,
     "match": "Real Madrid vs Liverpool",
     "score": "3-1",
     "level": 2,
-    "notes": "UCL Final 2018(Bale Steals the Show)"
+    "notes": "UCL Final 2018(Bale Steals the Show)",
+    "notes_el": "Τελικός Champions League 2018 (Ο Bale κλέβει την παράσταση)"
   },
   {
     "id": 22,
     "match": "France vs Croatia",
     "score": "4-2",
     "level": 2,
-    "notes": "World Cup Final 2018(Allez les Bleus)"
+    "notes": "World Cup Final 2018(Allez les Bleus)",
+    "notes_el": "Τελικός Μουντιάλ 2018 (Allez les Bleus)"
   },
   {
     "id": 23,
     "match": "Juventus vs Real Madrid",
     "score": "1-4",
     "level": 2,
-    "notes": "UCL Final 2017(Ronaldo's Cardiff Masterclass)"
+    "notes": "UCL Final 2017(Ronaldo's Cardiff Masterclass)",
+    "notes_el": "Τελικός Champions League 2017 (Το ρεσιτάλ του Ronaldo στο Κάρντιφ)"
   },
   {
     "id": 24,
     "match": "Portugal vs France",
     "score": "1-0",
     "level": 2,
-    "notes": "EURO Final 2016 (with extra time)(super-sub Éder)"
+    "notes": "EURO Final 2016 (with extra time)(super-sub Éder)",
+    "notes_el": "Τελικός Euro 2016 (με παράταση) (Η σούπερ αλλαγή, ο Éder)"
   },
   {
     "id": 25,
     "match": "Italy vs England",
     "score": "1-1",
     "level": 2,
-    "notes": "EURO Final 2020 (with extra time)(The Trophy Stays in Rome)"
+    "notes": "EURO Final 2020 (with extra time)(The Trophy Stays in Rome)",
+    "notes_el": "Τελικός Euro 2020 (με παράταση) (Το τρόπαιο μένει στη Ρώμη)"
   },
   {
     "id": 26,
     "match": "Real Madrid vs Atletico Madrid",
     "score": "4-1",
     "level": 2,
-    "notes": "UCL Final 2014 (with extra time)(The Header That Changed Everything)"
+    "notes": "UCL Final 2014 (with extra time)(The Header That Changed Everything)",
+    "notes_el": "Τελικός Champions League 2014 (με παράταση) (Η κεφαλιά που άλλαξε τα πάντα)"
   },
   {
     "id": 27,
     "match": "Real Madrid vs Atletico Madrid",
     "score": "1-1",
     "level": 2,
-    "notes": "UCL Final 2016 (with extra time)(Atletico’s Revenge Denied)"
+    "notes": "UCL Final 2016 (with extra time)(Atletico’s Revenge Denied)",
+    "notes_el": "Τελικός Champions League 2016 (με παράταση) (Η εκδίκηση της Atlético δεν ήρθε)"
   },
   {
     "id": 28,
     "match": "Villarreal vs Manchester United",
     "score": "1-1",
     "level": 2,
-    "notes": "Europa League Final 2021(with extra time)(Emery’s Yellow Submarine)"
+    "notes": "Europa League Final 2021(with extra time)(Emery’s Yellow Submarine)",
+    "notes_el": "Τελικός Europa League 2021 (με παράταση) (Το κίτρινο υποβρύχιο του Emery)"
   },
   {
     "id": 29,
     "match": "Eintracht Frankfurt vs Rangers",
     "score": "1-1",
     "level": 2,
-    "notes": "Europa League Final 2022 (with extra time)(Frankfurt's Fairytale)"
+    "notes": "Europa League Final 2022 (with extra time)(Frankfurt's Fairytale)",
+    "notes_el": "Τελικός Europa League 2022 (με παράταση) (Το παραμύθι της Frankfurt)"
   },
   {
     "id": 30,
     "match": "Sevilla vs Roma",
     "score": "1-1",
     "level": 2,
-    "notes": "Europa League Final 2023 (with extra time)(7 Out of 7!)"
+    "notes": "Europa League Final 2023 (with extra time)(7 Out of 7!)",
+    "notes_el": "Τελικός Europa League 2023 (με παράταση) (7 στα 7!)"
   },
   {
     "id": 31,
     "match": "Atalanta vs Bayer Leverkusen",
     "score": "3-0",
     "level": 2,
-    "notes": "Europa League Final 2024(Neverlosen?)"
+    "notes": "Europa League Final 2024(Neverlosen?)",
+    "notes_el": "Τελικός Europa League 2024 (Neverlosen;)"
   },
   {
     "id": 32,
     "match": "Tottenham vs Manchester United",
     "score": "1-0",
     "level": 2,
-    "notes": "Europa League Final 2025(17 Years of Waiting Over)"
+    "notes": "Europa League Final 2025(17 Years of Waiting Over)",
+    "notes_el": "Τελικός Europa League 2025 (Τέλος η αναμονή 17 ετών)"
   },
   {
     "id": 33,
     "match": "Crystal Palace vs Rayo Vallecano",
     "score": "1-0",
     "level": 2,
-    "notes": "UEFA Conference League Final 2026(First European Trophy)"
+    "notes": "UEFA Conference League Final 2026(First European Trophy)",
+    "notes_el": "Τελικός Conference League 2026 (Το πρώτο ευρωπαϊκό τρόπαιο)"
   },
   {
     "id": 34,
     "match": "Borussia Dortmund vs Bayern Munich",
     "score": "1-2",
     "level": 2,
-    "notes": "UCL Final 2013(Arjen Robben scored the 89th-minute)"
+    "notes": "UCL Final 2013(Arjen Robben scored the 89th-minute)",
+    "notes_el": "Τελικός Champions League 2013 (Ο Arjen Robben σκόραρε στο 89ο λεπτό)"
   },
   {
     "id": 35,
     "match": "Bayern Munich vs Chelsea",
     "score": "1-1",
     "level": 2,
-    "notes": "UCL Final 2012 (with extra time)(Drogba’s Equalizer)"
+    "notes": "UCL Final 2012 (with extra time)(Drogba’s Equalizer)",
+    "notes_el": "Τελικός Champions League 2012 (με παράταση) (Η ισοφάριση του Drogba)"
   },
   {
     "id": 36,
     "match": "Bayern Munich vs Inter",
     "score": "0-2",
     "level": 2,
-    "notes": "UCL Final 2010(Milito’s Magic in Madrid)"
+    "notes": "UCL Final 2010(Milito’s Magic in Madrid)",
+    "notes_el": "Τελικός Champions League 2010 (Η μαγεία του Milito στη Μαδρίτη)"
   },
   {
     "id": 37,
     "match": "Barcelona vs Manchester United",
     "score": "3-1",
     "level": 2,
-    "notes": "UCL Final 2011(Unstoppable Barcelona)"
+    "notes": "UCL Final 2011(Unstoppable Barcelona)",
+    "notes_el": "Τελικός Champions League 2011 (Η ασταμάτητη Barcelona)"
   }
 ]

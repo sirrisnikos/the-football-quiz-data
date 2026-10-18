@@ -5,6 +5,7 @@
     "score": "3-1",
     "level": 5,
     "notes": "UCL Final 1997(Ricken’s Magic Touch)",
+    "notes_el": "Τελικός Champions League 1997 (Το μαγικό άγγιγμα του Ricken)",
     "options": [
       "3-1",
       "2-1",
@@ -18,6 +19,7 @@
     "score": "4-0",
     "level": 5,
     "notes": "UCL Final 1994(Savicević’s Masterpiece in Athens)",
+    "notes_el": "Τελικός Champions League 1994 (Το αριστούργημα του Savićević στην Αθήνα)",
     "options": [
       "4-0",
       "3-0",
@@ -31,6 +33,7 @@
     "score": "0-1",
     "level": 5,
     "notes": "UCL Final 1998(32-Year European Curse Ends)",
+    "notes_el": "Τελικός Champions League 1998 (Τέλος σε μια ευρωπαϊκή κατάρα 32 ετών)",
     "options": [
       "0-1",
       "1-0",
@@ -44,6 +47,7 @@
     "score": "2-0",
     "level": 5,
     "notes": "Conference League Semi-final 2024 second leg(Historic Night in Piraeus)",
+    "notes_el": "Ημιτελικός Conference League 2024, 2ος αγώνας (Ιστορική βραδιά στον Πειραιά)",
     "options": [
       "3-2",
       "2-0",
@@ -57,6 +61,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "UEFA Nations League Final 2019(The Iconic Ronaldo Smile)",
+    "notes_el": "Τελικός Nations League 2019 (Το εμβληματικό χαμόγελο του Ronaldo)",
     "options": [
       "3-1",
       "1-0",
@@ -70,6 +75,7 @@
     "score": "2-0",
     "level": 5,
     "notes": "Copa America Semi-final 2024(Back-to-Back Finals)",
+    "notes_el": "Ημιτελικός Κόπα Αμέρικα 2024 (Δεύτερος συνεχόμενος τελικός)",
     "options": [
       "2-1",
       "1-0",
@@ -83,6 +89,7 @@
     "score": "3-5",
     "level": 5,
     "notes": "2024 Summer Olympics final (with extra time)(Spain Wins Olympic Football Gold in Paris)",
+    "notes_el": "Τελικός Ολυμπιακών Αγώνων 2024 (με παράταση) (Η Ισπανία κατακτά το ολυμπιακό χρυσό στο Παρίσι)",
     "options": [
       "1-3",
       "3-5",
@@ -96,6 +103,7 @@
     "score": "3-1",
     "level": 5,
     "notes": "FIFA World Cup Final 1982(The Immortal Paolo Rossi)",
+    "notes_el": "Τελικός Μουντιάλ 1982 (Ο αθάνατος Paolo Rossi)",
     "options": [
       "3-1",
       "2-1",
@@ -109,6 +117,7 @@
     "score": "3-1",
     "level": 5,
     "notes": "FIFA World Cup Final 1978(with extra time)(Kempes Ready to Shoulder the Hopes of a Nation in the World Cup Final)",
+    "notes_el": "Τελικός Μουντιάλ 1978 (με παράταση) (Ο Kempes έτοιμος να σηκώσει τις ελπίδες ενός έθνους στον τελικό)",
     "options": [
       "3-1",
       "2-1",
@@ -122,6 +131,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "FIFA World Cup Final 1974(The Blueprint of Total Football Faces the Ultimate West German Test)",
+    "notes_el": "Τελικός Μουντιάλ 1974 (Το «ολικό ποδόσφαιρο» μπροστά στη μεγάλη δυτικογερμανική δοκιμασία)",
     "options": [
       "3-1",
       "2-1",
@@ -135,6 +145,7 @@
     "score": "4-1",
     "level": 5,
     "notes": "FIFA World Cup Final 1970(The King Awaits a Historic Third World Cup to Achieve Football Immortality)",
+    "notes_el": "Τελικός Μουντιάλ 1970 (Ο Βασιλιάς περιμένει ένα ιστορικό τρίτο Μουντιάλ για την αθανασία)",
     "options": [
       "3-1",
       "4-1",
@@ -148,6 +159,7 @@
     "score": "4-2",
     "level": 5,
     "notes": "FIFA World Cup Final 1966(with extra time)(The Three Lions Chase the Top of the World)",
+    "notes_el": "Τελικός Μουντιάλ 1966 (με παράταση) (Τα Τρία Λιοντάρια κυνηγούν την κορυφή του κόσμου)",
     "options": [
       "4-2",
       "4-1",
@@ -161,6 +173,7 @@
     "score": "1-2",
     "level": 5,
     "notes": "UEFA Champions League Group Stage 2021(The Heroic Moldovan Defiance)",
+    "notes_el": "Champions League 2021, φάση των ομίλων (Η ηρωική αντίσταση των Μολδαβών)",
     "options": [
       "1-1",
       "2-2",
@@ -174,6 +187,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "UCL Final 1993(Whispers Of Scandal)",
+    "notes_el": "Τελικός Champions League 1993 (Ψίθυροι σκανδάλου)",
     "options": [
       "1-0",
       "2-0",
@@ -187,6 +201,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "European Cup Final 1992 (with extra time)(Koeman Seals Glory)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1992 (με παράταση) (Ο Koeman σφραγίζει τη δόξα)",
     "options": [
       "1-0",
       "2-0",
@@ -200,6 +215,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "European Cup Final 1990(Sacchi's Milan ruled Europe again)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1990 (Η Milan του Sacchi ξανά στην κορυφή της Ευρώπης)",
     "options": [
       "1-0",
       "2-0",
@@ -213,6 +229,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "European Cup Final 1985(The Heysel Shadow)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1985 (Η σκιά του Heysel)",
     "options": [
       "1-0",
       "2-0",
@@ -226,6 +243,7 @@
     "score": "0-0",
     "level": 5,
     "notes": "European Cup Final 1986 (with extra time)(The Hero of Seville)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1986 (με παράταση) (Ο ήρωας της Σεβίλλης)",
     "options": [
       "1-0",
       "0-0",
@@ -239,6 +257,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "European Cup Final 1987(Madjer's backheel)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1987 (Η τακουνιά του Madjer)",
     "options": [
       "1-1",
       "2-1",
@@ -252,6 +271,7 @@
     "score": "0-0",
     "level": 5,
     "notes": "European Cup Final 1988(with extra time)(Van Breukelen's save)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1988 (με παράταση) (Η απόκρουση του Van Breukelen)",
     "options": [
       "1-0",
       "0-0",
@@ -265,6 +285,7 @@
     "score": "4-0",
     "level": 5,
     "notes": "European Cup Final 1989(Gullit and Van Basten demolished Steaua)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1989 (Gullit και Van Basten διέλυσαν τη Steaua)",
     "options": [
       "4-0",
       "3-0",
@@ -278,6 +299,7 @@
     "score": "0-0",
     "level": 5,
     "notes": "UEFA Cup Final 2000 (with extra time)(The First Turkish European Trophy)",
+    "notes_el": "Τελικός Κυπέλλου UEFA 2000 (με παράταση) (Το πρώτο τουρκικό ευρωπαϊκό τρόπαιο)",
     "options": [
       "1-0",
       "2-1",
@@ -291,6 +313,7 @@
     "score": "5-4",
     "level": 5,
     "notes": "UEFA Cup Final 2001 (with extra time)(The Wildest Final)",
+    "notes_el": "Τελικός Κυπέλλου UEFA 2001 (με παράταση) (Ο πιο τρελός τελικός)",
     "options": [
       "4-3",
       "5-4",
@@ -304,6 +327,7 @@
     "score": "3-2",
     "level": 5,
     "notes": "UEFA Cup Final 2002(Van Hooijdonk Rules De Kuip)",
+    "notes_el": "Τελικός Κυπέλλου UEFA 2002 (Ο Van Hooijdonk κάνει κουμάντο στο De Kuip)",
     "options": [
       "3-2",
       "2-1",
@@ -317,6 +341,7 @@
     "score": "3-2",
     "level": 5,
     "notes": "UEFA Cup Final 2003 (with extra time)(Mourinho's First European Trophy)",
+    "notes_el": "Τελικός Κυπέλλου UEFA 2003 (με παράταση) (Το πρώτο ευρωπαϊκό τρόπαιο του Mourinho)",
     "options": [
       "2-1",
       "3-1",
@@ -330,6 +355,7 @@
     "score": "2-0",
     "level": 5,
     "notes": "UEFA Cup Final 2004(Benitez Completes the Double)",
+    "notes_el": "Τελικός Κυπέλλου UEFA 2004 (Ο Benítez ολοκληρώνει το νταμπλ)",
     "options": [
       "2-0",
       "1-0",
@@ -343,6 +369,7 @@
     "score": "1-3",
     "level": 5,
     "notes": "UEFA Cup Final 2005(Heartbreak at Home for Sporting)",
+    "notes_el": "Τελικός Κυπέλλου UEFA 2005 (Πίκρα στην έδρα της για τη Sporting)",
     "options": [
       "1-2",
       "0-2",
@@ -356,6 +383,7 @@
     "score": "0-0",
     "level": 5,
     "notes": "European Cup Final 1991 (with extra time)(The Last Great Yugoslav Team)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1991 (με παράταση) (Η τελευταία μεγάλη γιουγκοσλαβική ομάδα)",
     "options": [
       "0-0",
       "1-0",
@@ -369,6 +397,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "UCL Final 1995(Kluivert's Teenage Winner in Vienna)",
+    "notes_el": "Τελικός Champions League 1995 (Το νικητήριο γκολ του έφηβου Kluivert στη Βιέννη)",
     "options": [
       "1-0",
       "2-1",
@@ -382,6 +411,7 @@
     "score": "1-1",
     "level": 5,
     "notes": "UCL Final 1996 (with extra time)(Peruzzi Denies Ajax in Rome)",
+    "notes_el": "Τελικός Champions League 1996 (με παράταση) (Ο Peruzzi σταματά την Ajax στη Ρώμη)",
     "options": [
       "1-1",
       "2-1",
@@ -395,6 +425,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "European Cup Final 1963(Altafini Ends Benfica's Reign at Wembley)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1963 (Ο Altafini τελειώνει την κυριαρχία της Benfica στο Wembley)",
     "options": [
       "2-1",
       "1-0",
@@ -408,6 +439,7 @@
     "score": "3-1",
     "level": 5,
     "notes": "European Cup Final 1964(Mazzola Dethrones the Kings of Europe)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1964 (Ο Mazzola εκθρονίζει τους βασιλιάδες της Ευρώπης)",
     "options": [
       "3-1",
       "2-1",
@@ -421,6 +453,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "European Cup Final 1965(Back-to-Back at Their Own San Siro)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1965 (Δεύτερο σερί, στο δικό τους San Siro)",
     "options": [
       "1-0",
       "2-0",
@@ -434,6 +467,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "European Cup Final 1966(La Sexta for the Ye-Ye Team)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1966 (La Sexta για την ομάδα «Ye-Ye»)",
     "options": [
       "2-1",
       "1-0",
@@ -447,6 +481,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "European Cup Final 1967(The Lisbon Lions, All Born Within 30 Miles)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1967 (Τα Λιοντάρια της Λισαβόνας, όλοι γεννημένοι σε ακτίνα 30 μιλίων)",
     "options": [
       "2-1",
       "1-1",
@@ -460,6 +495,7 @@
     "score": "4-1",
     "level": 5,
     "notes": "European Cup Final 1968 (with extra time)(Ten Years After Munich)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1968 (με παράταση) (Δέκα χρόνια μετά το Μόναχο)",
     "options": [
       "4-1",
       "3-1",
@@ -473,6 +509,7 @@
     "score": "4-1",
     "level": 5,
     "notes": "European Cup Final 1969(Prati Against a Young Cruyff)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1969 (Ο Prati απέναντι σε έναν νεαρό Cruyff)",
     "options": [
       "4-1",
       "3-0",
@@ -486,6 +523,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "European Cup Final 1970 (with extra time)(The First Dutch European Cup)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1970 (με παράταση) (Το πρώτο ολλανδικό Κύπελλο Πρωταθλητριών)",
     "options": [
       "2-1",
       "1-0",
@@ -499,6 +537,7 @@
     "score": "2-0",
     "level": 5,
     "notes": "European Cup Final 1971(Puskas Took Greece to Wembley)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1971 (Ο Puskás έφερε την Ελλάδα στο Wembley)",
     "options": [
       "2-0",
       "1-0",
@@ -512,6 +551,7 @@
     "score": "2-0",
     "level": 5,
     "notes": "European Cup Final 1972(Total Football vs Catenaccio)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1972 (Ολικό ποδόσφαιρο εναντίον catenaccio)",
     "options": [
       "2-0",
       "1-0",
@@ -525,6 +565,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "European Cup Final 1973(Rep's Header Seals the Three-Peat)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1973 (Η κεφαλιά του Rep σφραγίζει το τρίτο σερί)",
     "options": [
       "1-0",
       "2-0",
@@ -538,6 +579,7 @@
     "score": "4-0",
     "level": 5,
     "notes": "European Cup Final 1974 replay(The Only Replayed European Cup Final)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1974, επαναληπτικός (Ο μόνος τελικός Κυπέλλου Πρωταθλητριών που επαναλήφθηκε)",
     "options": [
       "4-0",
       "3-0",
@@ -551,6 +593,7 @@
     "score": "2-0",
     "level": 5,
     "notes": "European Cup Final 1975(Α Riot in Paris)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1975 (Επεισόδια στο Παρίσι)",
     "options": [
       "2-0",
       "1-0",
@@ -564,6 +607,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "European Cup Final 1976(Τhe Square Posts of Hampden)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1976 (Τα τετράγωνα δοκάρια του Hampden)",
     "options": [
       "1-0",
       "2-0",
@@ -577,6 +621,7 @@
     "score": "3-1",
     "level": 5,
     "notes": "European Cup Final 1977(Liverpool's First in Rome)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1977 (Το πρώτο της Liverpool, στη Ρώμη)",
     "options": [
       "3-1",
       "2-1",
@@ -590,6 +635,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "European Cup Final 1978(Dalglish's Chip at Wembley)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1978 (Το σουτ-λόμπα του Dalglish στο Wembley)",
     "options": [
       "1-0",
       "2-0",
@@ -603,6 +649,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "European Cup Final 1979(Clough's Miracle)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1979 (Το θαύμα του Clough)",
     "options": [
       "1-0",
       "2-0",
@@ -616,6 +663,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "European Cup Final 1980(Robertson Beats Keegan's Hamburg)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1980 (Ο Robertson νικά το Hamburg του Keegan)",
     "options": [
       "1-0",
       "2-1",
@@ -629,6 +677,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "European Cup Final 1981(Alan Kennedy's Unlikely Winner in Paris)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1981 (Το απρόσμενο νικητήριο γκολ του Alan Kennedy στο Παρίσι)",
     "options": [
       "1-0",
       "2-0",
@@ -642,6 +691,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "European Cup Final 1982(Peter Withe and the Substitute Keeper)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1982 (Ο Peter Withe και ο αναπληρωματικός τερματοφύλακας)",
     "options": [
       "1-0",
       "2-1",
@@ -655,6 +705,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "European Cup Final 1983(Magath thunderbolt)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1983 (Η κεραυνοβόλα βολίδα του Magath)",
     "options": [
       "1-0",
       "2-1",
@@ -668,6 +719,7 @@
     "score": "1-1",
     "level": 5,
     "notes": "European Cup Final 1984 (with extra time)(Grobbelaar's Wobbly Legs in Rome)",
+    "notes_el": "Τελικός Κυπέλλου Πρωταθλητριών 1984 (με παράταση) (Τα «λαστιχένια πόδια» του Grobbelaar στη Ρώμη)",
     "options": [
       "1-1",
       "1-0",
@@ -681,6 +733,7 @@
     "score": "4-2",
     "level": 5,
     "notes": "FIFA World Cup Final 1930(The Very First World Cup Final)",
+    "notes_el": "Τελικός Μουντιάλ 1930 (Ο πρώτος τελικός Μουντιάλ της ιστορίας)",
     "options": [
       "4-2",
       "3-2",
@@ -694,6 +747,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "FIFA World Cup Final 1934 (with extra time)(Pozzo's Italy Win at Home)",
+    "notes_el": "Τελικός Μουντιάλ 1934 (με παράταση) (Η Ιταλία του Pozzo νικά στην έδρα της)",
     "options": [
       "2-1",
       "1-0",
@@ -707,6 +761,7 @@
     "score": "4-2",
     "level": 5,
     "notes": "FIFA World Cup Final 1938(Italy Retain the Trophy in Paris)",
+    "notes_el": "Τελικός Μουντιάλ 1938 (Η Ιταλία κρατά το τρόπαιο στο Παρίσι)",
     "options": [
       "4-2",
       "3-1",
@@ -720,6 +775,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "FIFA World Cup Final 1950(The Maracanazo Silenced 200,000)",
+    "notes_el": "Τελικός Μουντιάλ 1950 (Το Maracanazo σώπασε 200.000 κόσμο)",
     "options": [
       "2-1",
       "1-0",
@@ -733,6 +789,7 @@
     "score": "3-2",
     "level": 5,
     "notes": "FIFA World Cup Final 1954(Τhe Miracle of Bern)",
+    "notes_el": "Τελικός Μουντιάλ 1954 (Το θαύμα της Βέρνης)",
     "options": [
       "3-2",
       "2-1",
@@ -746,6 +803,7 @@
     "score": "5-2",
     "level": 5,
     "notes": "FIFA World Cup Final 1958(A 17-Year-Old Named Pele)",
+    "notes_el": "Τελικός Μουντιάλ 1958 (Ένας 17χρονος με το όνομα Pelé)",
     "options": [
       "5-2",
       "4-1",
@@ -759,6 +817,7 @@
     "score": "3-1",
     "level": 5,
     "notes": "FIFA World Cup Final 1962(Garrincha's Brazil)",
+    "notes_el": "Τελικός Μουντιάλ 1962 (Η Βραζιλία του Garrincha)",
     "options": [
       "3-1",
       "2-1",
@@ -772,6 +831,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "EURO Final 1980(Hrubesch's Header Two Minutes From Time)",
+    "notes_el": "Τελικός Euro 1980 (Η κεφαλιά του Hrubesch δύο λεπτά πριν το τέλος)",
     "options": [
       "2-1",
       "1-0",
@@ -785,6 +845,7 @@
     "score": "2-0",
     "level": 5,
     "notes": "EURO Final 1984(Platini's Ninth Goal and Arconada's Error)",
+    "notes_el": "Τελικός Euro 1984 (Το ένατο γκολ του Platini και το λάθος του Arconada)",
     "options": [
       "2-0",
       "1-0",
@@ -798,6 +859,7 @@
     "score": "2-0",
     "level": 5,
     "notes": "EURO Final 1988(Van Basten's Impossible Volley)",
+    "notes_el": "Τελικός Euro 1988 (Το απίθανο βολέ του Van Basten)",
     "options": [
       "2-0",
       "1-0",
@@ -811,6 +873,7 @@
     "score": "2-0",
     "level": 5,
     "notes": "EURO Final 1992(They Were on Holiday Two Weeks Earlier)",
+    "notes_el": "Τελικός Euro 1992 (Δύο εβδομάδες πριν ήταν διακοπές)",
     "options": [
       "2-0",
       "1-0",
@@ -824,6 +887,7 @@
     "score": "3-0",
     "level": 5,
     "notes": "UEFA Cup Final 1998(Ronaldo's Solo Goal in Paris)",
+    "notes_el": "Τελικός Κυπέλλου UEFA 1998 (Το ατομικό γκολ του Ronaldo στο Παρίσι)",
     "options": [
       "3-0",
       "2-0",
@@ -837,6 +901,7 @@
     "score": "3-0",
     "level": 5,
     "notes": "UEFA Cup Final 1999(Veron, Crespo and Buffon in Moscow)",
+    "notes_el": "Τελικός Κυπέλλου UEFA 1999 (Verón, Crespo και Buffon στη Μόσχα)",
     "options": [
       "3-0",
       "2-0",
@@ -850,6 +915,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "Copa America Final 2001(Colombia's Only Title)",
+    "notes_el": "Τελικός Κόπα Αμέρικα 2001 (Ο μοναδικός τίτλος της Κολομβίας)",
     "options": [
       "1-0",
       "2-0",
@@ -863,6 +929,7 @@
     "score": "2-2",
     "level": 5,
     "notes": "Copa America Final 2004(Adriano Equalised in the 93rd Minute)",
+    "notes_el": "Τελικός Κόπα Αμέρικα 2004 (Ο Adriano ισοφάρισε στο 93ο λεπτό)",
     "options": [
       "2-2",
       "1-1",
@@ -876,6 +943,7 @@
     "score": "3-0",
     "level": 5,
     "notes": "Copa America Final 2007(Dunga's Brazil Humbled the Favourites)",
+    "notes_el": "Τελικός Κόπα Αμέρικα 2007 (Η Βραζιλία του Dunga ταπείνωσε το φαβορί)",
     "options": [
       "3-0",
       "2-0",
@@ -889,6 +957,7 @@
     "score": "4-1",
     "level": 5,
     "notes": "Confederations Cup Final 2005(Adriano and Kaka Destroy Argentina)",
+    "notes_el": "Τελικός Κυπέλλου Συνομοσπονδιών 2005 (Adriano και Kaká διαλύουν την Αργεντινή)",
     "options": [
       "4-1",
       "3-1",
@@ -902,6 +971,7 @@
     "score": "3-2",
     "level": 5,
     "notes": "Confederations Cup Final 2009(Brazil rallies to beat US in Confed Cup final)",
+    "notes_el": "Τελικός Κυπέλλου Συνομοσπονδιών 2009 (Η Βραζιλία έκανε την ανατροπή κόντρα στις ΗΠΑ)",
     "options": [
       "3-2",
       "2-1",
@@ -915,6 +985,7 @@
     "score": "3-0",
     "level": 5,
     "notes": "Confederations Cup Final 2013(The World Champions Were Blown Away at the Maracana)",
+    "notes_el": "Τελικός Κυπέλλου Συνομοσπονδιών 2013 (Οι παγκόσμιοι πρωταθλητές σαρώθηκαν στο Maracanã)",
     "options": [
       "3-0",
       "2-0",
@@ -928,6 +999,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "World Cup Quarter-final 1986(The Hand of God and the Goal of the Century)",
+    "notes_el": "Προημιτελικός Μουντιάλ 1986 (Το «Χέρι του Θεού» και το «Γκολ του Αιώνα»)",
     "options": [
       "2-1",
       "1-1",
@@ -941,6 +1013,7 @@
     "score": "3-2",
     "level": 5,
     "notes": "World Cup Second Round 1982(Paolo Rossi Ended the Greatest Team Never to Win)",
+    "notes_el": "Μουντιάλ 1982, δεύτερη φάση (Ο Paolo Rossi τελείωσε την καλύτερη ομάδα που δεν κατέκτησε ποτέ τίποτα)",
     "options": [
       "3-2",
       "2-1",
@@ -954,6 +1027,7 @@
     "score": "3-3",
     "level": 5,
     "notes": "World Cup Semi-final 1982 (with extra time)(Schumacher on Battiston, and No Card))",
+    "notes_el": "Ημιτελικός Μουντιάλ 1982 (με παράταση) (Ο Schumacher πάνω στον Battiston, και καμία κάρτα)",
     "options": [
       "3-3",
       "2-2",
@@ -967,6 +1041,7 @@
     "score": "1-0",
     "level": 5,
     "notes": "World Cup Group Stage 1990(Nine Men Beat the World Champions in the Opener)",
+    "notes_el": "Μουντιάλ 1990, φάση των ομίλων (Εννέα παίκτες νίκησαν τους παγκόσμιους πρωταθλητές στην πρεμιέρα)",
     "options": [
       "1-0",
       "2-1",
@@ -980,6 +1055,7 @@
     "score": "1-1",
     "level": 5,
     "notes": "World Cup Semi-final 1990 (with extra time)(Maradona Knocked Italy Out in Naples)",
+    "notes_el": "Ημιτελικός Μουντιάλ 1990 (με παράταση) (Ο Maradona απέκλεισε την Ιταλία στη Νάπολη)",
     "options": [
       "1-1",
       "0-0",
@@ -993,6 +1069,7 @@
     "score": "1-1",
     "level": 5,
     "notes": "World Cup Semi-final 1990 (with extra time)(Gazza's Tears and Waddle Over the Bar)",
+    "notes_el": "Ημιτελικός Μουντιάλ 1990 (με παράταση) (Τα δάκρυα του Gazza και το άουτ του Waddle)",
     "options": [
       "1-1",
       "2-2",
@@ -1006,6 +1083,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "EURO Semi-final 1988(Van Basten's 89th Minute Revenge for 1974)",
+    "notes_el": "Ημιτελικός Euro 1988 (Η εκδίκηση του Van Basten για το 1974, στο 89ο λεπτό)",
     "options": [
       "2-1",
       "1-0",
@@ -1019,6 +1097,7 @@
     "score": "5-0",
     "level": 5,
     "notes": "European Cup Semi-final 1989 second leg(Sacchi's Milan at Their Absolute Peak)",
+    "notes_el": "Ημιτελικός Κυπέλλου Πρωταθλητριών 1989, 2ος αγώνας (Η Milan του Sacchi στο απόγειό της)",
     "options": [
       "5-0",
       "4-0",
@@ -1032,6 +1111,7 @@
     "score": "0-2",
     "level": 5,
     "notes": "Division One 1988-89 final match(Title Won on Goals Scored)",
+    "notes_el": "First Division 1988-89, τελευταίος αγώνας (Πρωτάθλημα στα γκολ υπέρ)",
     "options": [
       "0-2",
       "0-1",
@@ -1045,6 +1125,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "EURO Final 1996 (with extra time)(Bierhoff and the First Golden Goal)",
+    "notes_el": "Τελικός Euro 1996 (με παράταση) (Ο Bierhoff και το πρώτο χρυσό γκολ)",
     "options": [
       "2-1",
       "1-0",
@@ -1058,6 +1139,7 @@
     "score": "2-1",
     "level": 5,
     "notes": "EURO Final 2000 (with extra time)(Trezeguet's Golden Goal)",
+    "notes_el": "Τελικός Euro 2000 (με παράταση) (Το χρυσό γκολ του Trezeguet)",
     "options": [
       "2-1",
       "1-0",
@@ -1071,6 +1153,7 @@
     "score": "4-2",
     "level": 5,
     "notes": "Serie A 2001-02 final day(Inter Lost the Scudetto in 45 Minutes)",
+    "notes_el": "Serie A 2001-02, τελευταία αγωνιστική (Η Inter έχασε το Scudetto σε 45 λεπτά)",
     "options": [
       "4-2",
       "4-3",

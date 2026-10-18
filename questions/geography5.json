@@ -2,11 +2,18 @@
   {
     "id": 1,
     "question": "In Paris, the 'Parc des Princes' (PSG) and the 'Stade Jean-Bouin' (Paris FC) are famous for what geographical oddity?",
+    "question_el": "Στο Παρίσι, το Parc des Princes (PSG) και το Stade Jean-Bouin (Paris FC) είναι γνωστά για ποια γεωγραφική ιδιαιτερότητα;",
     "options": [
       "They are separated only by a narrow street",
       "They share the same pitch on alternating weeks",
       "They are both built underground",
       "They are the only stadiums in the city"
+    ],
+    "options_el": [
+      "Τα χωρίζει μόνο ένας στενός δρόμος",
+      "Μοιράζονται το ίδιο γήπεδο εναλλάξ κάθε εβδομάδα",
+      "Είναι και τα δύο χτισμένα υπόγεια",
+      "Είναι τα μόνα γήπεδα της πόλης"
     ],
     "correct_answer": "They are separated only by a narrow street",
     "difficulty": 5
@@ -14,6 +21,7 @@
   {
     "id": 2,
     "question": "Which of these clubs is the first team from inside the Arctic Circle to win a top-flight European league title?",
+    "question_el": "Ποια από αυτές τις ομάδες είναι η πρώτη από τον Αρκτικό Κύκλο που κατέκτησε πρωτάθλημα πρώτης κατηγορίας στην Ευρώπη;",
     "options": [
       "Tromsø IL",
       "FK Bodø/Glimt",
@@ -26,11 +34,18 @@
   {
     "id": 3,
     "question": "Didier Drogba famously helped push for peace in the Ivorian Civil War by having a 2007 international match played in which rebel-held city?",
+    "question_el": "Ο Didier Drogba βοήθησε στην ειρήνη στον εμφύλιο της Ακτής Ελεφαντοστού, φέρνοντας έναν διεθνή αγώνα το 2007 σε μια πόλη που ήλεγχαν οι αντάρτες. Ποια;",
     "options": [
       "Abidjan",
       "Bouaké",
       "Yamoussoukro",
       "San Pédro"
+    ],
+    "options_el": [
+      "Αμπιτζάν",
+      "Μπουακέ",
+      "Γιαμουσούκρο",
+      "Σαν Πέδρο"
     ],
     "correct_answer": "Bouaké",
     "difficulty": 5
@@ -38,6 +53,7 @@
   {
     "id": 5,
     "question": "The club 'UD Las Palmas' plays in the Spanish league system, but geographically, which continent is their home stadium located on?",
+    "question_el": "Η UD Las Palmas παίζει στο ισπανικό πρωτάθλημα, αλλά σε ποια ήπειρο βρίσκεται γεωγραφικά το γήπεδό της;",
     "options": [
       "Europe",
       "Africa",
@@ -50,11 +66,18 @@
   {
     "id": 6,
     "question": "Which is the only nation to have won the FIFA World Cup despite not having a fully professional domestic league at the time of their victory?",
+    "question_el": "Ποια είναι η μόνη χώρα που κατέκτησε Μουντιάλ χωρίς να έχει πλήρως επαγγελματικό πρωτάθλημα εκείνη την εποχή;",
     "options": [
       "Uruguay",
       "West Germany",
       "Italy",
       "Argentina"
+    ],
+    "options_el": [
+      "Ουρουγουάη",
+      "Δυτική Γερμανία",
+      "Ιταλία",
+      "Αργεντινή"
     ],
     "correct_answer": "Uruguay",
     "difficulty": 5
@@ -62,11 +85,18 @@
   {
     "id": 7,
     "question": "Which city hosted the highest-scoring match in World Cup history (Austria 7-5 Switzerland)?",
+    "question_el": "Σε ποια πόλη έγινε ο αγώνας με τα περισσότερα γκολ στην ιστορία του Μουντιάλ (Αυστρία – Ελβετία 7-5);",
     "options": [
       "Lausanne",
       "Bern",
       "Zurich",
       "Basel"
+    ],
+    "options_el": [
+      "Λωζάνη",
+      "Βέρνη",
+      "Ζυρίχη",
+      "Βασιλεία"
     ],
     "correct_answer": "Lausanne",
     "difficulty": 5
@@ -74,6 +104,7 @@
   {
     "id": 8,
     "question": "The club 'AS Monaco' plays in the French league system. What is the approximate capacity of their stadium, Stade Louis II, relative to the country's population?",
+    "question_el": "Η AS Monaco παίζει στο γαλλικό πρωτάθλημα. Πόση είναι περίπου η χωρητικότητα του γηπέδου της, του Stade Louis II, σε σχέση με τον πληθυσμό του Μονακό;",
     "options": [
       "5%",
       "15%",
@@ -86,11 +117,18 @@
   {
     "id": 9,
     "question": "Which country is home to the 'Svangaskarð' stadium, famous for its view of the North Atlantic Ocean and the surrounding hills?",
+    "question_el": "Σε ποια χώρα βρίσκεται το γήπεδο Svangaskarð, γνωστό για τη θέα του στον Βόρειο Ατλαντικό και τους λόφους γύρω του;",
     "options": [
       "Iceland",
       "Faroe Islands",
       "Greenland",
       "Scotland"
+    ],
+    "options_el": [
+      "Ισλανδία",
+      "Νήσοι Φερόες",
+      "Γροιλανδία",
+      "Σκωτία"
     ],
     "correct_answer": "Faroe Islands",
     "difficulty": 5
@@ -98,11 +136,18 @@
   {
     "id": 10,
     "question": "In which city is the 'Rungrado 1st of May Stadium', the largest football stadium in the world by capacity, located?",
+    "question_el": "Σε ποια πόλη βρίσκεται το Rungrado 1st of May Stadium, το μεγαλύτερο ποδοσφαιρικό γήπεδο στον κόσμο σε χωρητικότητα;",
     "options": [
       "Seoul",
       "Pyongyang",
       "Beijing",
       "Tokyo"
+    ],
+    "options_el": [
+      "Σεούλ",
+      "Πιονγκγιάνγκ",
+      "Πεκίνο",
+      "Τόκιο"
     ],
     "correct_answer": "Pyongyang",
     "difficulty": 5
@@ -110,11 +155,18 @@
   {
     "id": 11,
     "question": "The 'Dundee Derby' (Dundee FC vs Dundee United) is famous because their stadiums are located where?",
+    "question_el": "Το ντέρμπι του Dundee (Dundee FC – Dundee United) είναι διάσημο επειδή τα γήπεδά τους βρίσκονται πού;",
     "options": [
       "On the same street",
       "In different cities",
       "On opposite sides of a river",
       "They share one stadium"
+    ],
+    "options_el": [
+      "Στον ίδιο δρόμο",
+      "Σε διαφορετικές πόλεις",
+      "Στις δύο όχθες ενός ποταμού",
+      "Μοιράζονται ένα γήπεδο"
     ],
     "correct_answer": "On the same street",
     "difficulty": 5
@@ -122,11 +174,18 @@
   {
     "id": 12,
     "question": "Which country is the home of the club 'Aqvital FC Csákvár', which plays in a town with a population of only 5,000?",
+    "question_el": "Σε ποια χώρα είναι η Aqvital FC Csákvár, που παίζει σε μια πόλη μόλις 5.000 κατοίκων;",
     "options": [
       "Hungary",
       "Slovakia",
       "Slovenia",
       "Czech Republic"
+    ],
+    "options_el": [
+      "Ουγγαρία",
+      "Σλοβακία",
+      "Σλοβενία",
+      "Τσεχία"
     ],
     "correct_answer": "Hungary",
     "difficulty": 5
@@ -134,11 +193,18 @@
   {
     "id": 13,
     "question": "Which European capital city has the most professional football clubs in its country's top two divisions?",
+    "question_el": "Ποια ευρωπαϊκή πρωτεύουσα έχει τις περισσότερες επαγγελματικές ομάδες στις δύο πρώτες κατηγορίες της χώρας της;",
     "options": [
       "Athens",
       "London",
       "Rome",
       "Madrid"
+    ],
+    "options_el": [
+      "Αθήνα",
+      "Λονδίνο",
+      "Ρώμη",
+      "Μαδρίτη"
     ],
     "correct_answer": "London",
     "difficulty": 5
@@ -146,11 +212,18 @@
   {
     "id": 14,
     "question": "Which city hosted the 2024 Euro final?",
+    "question_el": "Σε ποια πόλη έγινε ο τελικός του Euro 2024;",
     "options": [
       "Berlin",
       "Munich",
       "Leipzig",
       "Leverkusen"
+    ],
+    "options_el": [
+      "Βερολίνο",
+      "Μόναχο",
+      "Λειψία",
+      "Λεβερκούζεν"
     ],
     "correct_answer": "Berlin",
     "difficulty": 5
@@ -158,6 +231,7 @@
   {
     "id": 15,
     "question": "Which country does the scorer of the 2024 UEFA Conference league final Ayoub El Kaabi come from?",
+    "question_el": "Από ποια χώρα είναι ο Ayoub El Kaabi, σκόρερ στον τελικό του Conference League το 2024;",
     "options": [
       "Morocco",
       "Iran",
@@ -170,6 +244,7 @@
   {
     "id": 16,
     "question": "Which country hosted the 1998 FIFA World Cup?",
+    "question_el": "Ποια χώρα διοργάνωσε το Μουντιάλ του 1998;",
     "options": [
       "Russia",
       "Germany",
@@ -182,11 +257,18 @@
   {
     "id": 17,
     "question": "In which city was the legendary 1950 World Cup 'final' (Maracanazo) played?",
+    "question_el": "Σε ποια πόλη έγινε ο θρυλικός «τελικός» του Μουντιάλ του 1950 (Maracanazo);",
     "options": [
       "São Paulo",
       "Brasília",
       "Rio de Janeiro",
       "Montevideo"
+    ],
+    "options_el": [
+      "Σάο Πάολο",
+      "Μπραζίλια",
+      "Ρίο ντε Τζανέιρο",
+      "Μοντεβιδέο"
     ],
     "correct_answer": "Rio de Janeiro",
     "difficulty": 5
@@ -194,11 +276,18 @@
   {
     "id": 18,
     "question": "Which is the only CONMEBOL nation located entirely in the Northern Hemisphere?",
+    "question_el": "Ποια είναι η μόνη χώρα της CONMEBOL που βρίσκεται εξ ολοκλήρου στο βόρειο ημισφαίριο;",
     "options": [
       "Colombia",
       "Venezuela",
       "Ecuador",
       "None of the above"
+    ],
+    "options_el": [
+      "Κολομβία",
+      "Βενεζουέλα",
+      "Ισημερινός",
+      "Καμία από τις παραπάνω"
     ],
     "correct_answer": "Venezuela",
     "difficulty": 5
@@ -206,6 +295,7 @@
   {
     "id": 19,
     "question": "Which country's national team is known as the 'Azkals'?",
+    "question_el": "Ποιας χώρας η εθνική ομάδα έχει το παρατσούκλι «Azkals»;",
     "options": [
       "Indonesia",
       "Philippines",
@@ -218,6 +308,7 @@
   {
     "id": 20,
     "question": "Which Brazilian team performed a famous Europe tour in 1959 playing 22 matches in just 44 days with some of the best teams in Europe at the time?",
+    "question_el": "Ποια βραζιλιάνικη ομάδα έκανε μια διάσημη περιοδεία στην Ευρώπη το 1959, παίζοντας 22 αγώνες σε μόλις 44 μέρες με μερικές από τις καλύτερες ευρωπαϊκές ομάδες της εποχής;",
     "options": [
       "Santos",
       "Vasco da Gama",
@@ -230,11 +321,18 @@
   {
     "id": 21,
     "question": "Which city hosted the 2016 UEFA Europa League final?",
+    "question_el": "Σε ποια πόλη έγινε ο τελικός του Europa League το 2016;",
     "options": [
       "Basel",
       "Stockholm",
       "Budapest",
       "Istanbul"
+    ],
+    "options_el": [
+      "Βασιλεία",
+      "Στοκχόλμη",
+      "Βουδαπέστη",
+      "Κωνσταντινούπολη"
     ],
     "correct_answer": "Basel",
     "difficulty": 5
@@ -242,11 +340,18 @@
   {
     "id": 22,
     "question": "The club 'Santa Clara' is the only team from which archipelago to play in the Portuguese top flight?",
+    "question_el": "Η Santa Clara είναι η μόνη ομάδα από ποιο αρχιπέλαγος που παίζει στην πρώτη κατηγορία της Πορτογαλίας;",
     "options": [
       "Madeira",
       "Azores",
       "Cape Verde",
       "Canary Islands"
+    ],
+    "options_el": [
+      "Μαδέρα",
+      "Αζόρες",
+      "Πράσινο Ακρωτήριο",
+      "Κανάριοι Νήσοι"
     ],
     "correct_answer": "Azores",
     "difficulty": 5
@@ -254,11 +359,18 @@
   {
     "id": 23,
     "question": "In which city is the 'Stade de Suisse' located?",
+    "question_el": "Σε ποια πόλη βρίσκεται το Stade de Suisse;",
     "options": [
       "Bern",
       "Zurich",
       "Basel",
       "Lausanne"
+    ],
+    "options_el": [
+      "Βέρνη",
+      "Ζυρίχη",
+      "Βασιλεία",
+      "Λωζάνη"
     ],
     "correct_answer": "Bern",
     "difficulty": 5
@@ -266,6 +378,7 @@
   {
     "id": 24,
     "question": "The 'Estadio Daniel Alcides Carrión', the highest professional football stadium in the world, is in which country?",
+    "question_el": "Σε ποια χώρα βρίσκεται το Estadio Daniel Alcides Carrión, το ψηλότερο επαγγελματικό ποδοσφαιρικό γήπεδο στον κόσμο;",
     "options": [
       "Bolivia",
       "Peru",
@@ -278,11 +391,18 @@
   {
     "id": 25,
     "question": "What is Alejandro Balde's ancestry?",
+    "question_el": "Από πού κατάγεται ο Alejandro Balde;",
     "options": [
       "Dominican and Bissau-Guinean",
       "Senegalese and Portuguese",
       "Ghanaian and Spanish",
       "Moroccan and French"
+    ],
+    "options_el": [
+      "Δομινικανή Δημοκρατία και Γουινέα-Μπισάου",
+      "Σενεγάλη και Πορτογαλία",
+      "Γκάνα και Ισπανία",
+      "Μαρόκο και Γαλλία"
     ],
     "correct_answer": "Dominican and Bissau-Guinean",
     "difficulty": 5
@@ -290,11 +410,18 @@
   {
     "id": 26,
     "question": "What is Antoine Griezmann's ancestry?",
+    "question_el": "Από πού κατάγεται ο Antoine Griezmann;",
     "options": [
       "German and Portuguese",
       "Spanish and Italian",
       "French and Belgian",
       "Portuguese and Moroccan"
+    ],
+    "options_el": [
+      "Γερμανία και Πορτογαλία",
+      "Ισπανία και Ιταλία",
+      "Γαλλία και Βέλγιο",
+      "Πορτογαλία και Μαρόκο"
     ],
     "correct_answer": "German and Portuguese",
     "difficulty": 5
@@ -302,11 +429,18 @@
   {
     "id": 27,
     "question": "What is Ibrahima Konaté's ancestry?",
+    "question_el": "Από πού κατάγεται ο Ibrahima Konaté;",
     "options": [
       "Malian",
       "Senegalese",
       "Ivorian",
       "Guinean"
+    ],
+    "options_el": [
+      "Μάλι",
+      "Σενεγάλη",
+      "Ακτή Ελεφαντοστού",
+      "Γουινέα"
     ],
     "correct_answer": "Malian",
     "difficulty": 5
@@ -314,11 +448,18 @@
   {
     "id": 28,
     "question": "What is Mike Maignan's ancestry?",
+    "question_el": "Από πού κατάγεται ο Mike Maignan;",
     "options": [
       "Haitian and Guadeloupean",
       "Martinican and Senegalese",
       "Guyanese and Haitian",
       "Guadeloupean and Ivorian"
+    ],
+    "options_el": [
+      "Αϊτή και Γουαδελούπη",
+      "Μαρτινίκα και Σενεγάλη",
+      "Γουιάνα και Αϊτή",
+      "Γουαδελούπη και Ακτή Ελεφαντοστού"
     ],
     "correct_answer": "Haitian and Guadeloupean",
     "difficulty": 5
@@ -326,11 +467,18 @@
   {
     "id": 29,
     "question": "In which city did the Heysel Stadium disaster take place during the 1985 European Cup final?",
+    "question_el": "Σε ποια πόλη έγινε η τραγωδία του Heysel, στον τελικό του Κυπέλλου Πρωταθλητριών το 1985;",
     "options": [
       "Brussels",
       "London",
       "Paris",
       "Turin"
+    ],
+    "options_el": [
+      "Βρυξέλλες",
+      "Λονδίνο",
+      "Παρίσι",
+      "Τορίνο"
     ],
     "correct_answer": "Brussels",
     "difficulty": 5
@@ -338,6 +486,7 @@
   {
     "id": 30,
     "question": "Which country hosted the 1982 FIFA World Cup?",
+    "question_el": "Ποια χώρα διοργάνωσε το Μουντιάλ του 1982;",
     "options": [
       "Italy",
       "Spain",
@@ -350,6 +499,7 @@
   {
     "id": 31,
     "question": "Which country hosted the 1978 FIFA World Cup?",
+    "question_el": "Ποια χώρα διοργάνωσε το Μουντιάλ του 1978;",
     "options": [
       "Brazil",
       "Argentina",
@@ -362,6 +512,7 @@
   {
     "id": 32,
     "question": "Which country hosted UEFA Euro 1996?",
+    "question_el": "Ποια χώρα διοργάνωσε το Euro 1996;",
     "options": [
       "England",
       "Scotland",
@@ -374,6 +525,7 @@
   {
     "id": 33,
     "question": "Which country hosted UEFA Euro 1992?",
+    "question_el": "Ποια χώρα διοργάνωσε το Euro 1992;",
     "options": [
       "Sweden",
       "Denmark",
@@ -386,6 +538,7 @@
   {
     "id": 34,
     "question": "Which country is Bohemians FC from?",
+    "question_el": "Από ποια χώρα είναι η Bohemians FC;",
     "options": [
       "Ireland",
       "Scotland",
@@ -398,6 +551,7 @@
   {
     "id": 35,
     "question": "Which country is FC Volendam from?",
+    "question_el": "Από ποια χώρα είναι η FC Volendam;",
     "options": [
       "Belgium",
       "Netherlands",
@@ -410,6 +564,7 @@
   {
     "id": 36,
     "question": "Which country is Asteras Tripolis from?",
+    "question_el": "Από ποια χώρα είναι ο Asteras Tripolis;",
     "options": [
       "Greece",
       "Cyprus",
@@ -422,6 +577,7 @@
   {
     "id": 37,
     "question": "Which country is Inter Turku from?",
+    "question_el": "Από ποια χώρα είναι η Inter Turku;",
     "options": [
       "Finland",
       "Sweden",
@@ -434,6 +590,7 @@
   {
     "id": 38,
     "question": "Which country is F91 Dudelange from?",
+    "question_el": "Από ποια χώρα είναι η F91 Dudelange;",
     "options": [
       "Luxembourg",
       "Belgium",
@@ -446,6 +603,7 @@
   {
     "id": 39,
     "question": "Which country is Araz-Nakhchivan from?",
+    "question_el": "Από ποια χώρα είναι η Araz-Nakhchivan;",
     "options": [
       "Armenia",
       "Georgia",
@@ -458,6 +616,7 @@
   {
     "id": 40,
     "question": "Which country is Arsenal Tula from?",
+    "question_el": "Από ποια χώρα είναι η Arsenal Tula;",
     "options": [
       "Russia",
       "Ukraine",
@@ -470,6 +629,7 @@
   {
     "id": 41,
     "question": "Which country is FC Ballkani from?",
+    "question_el": "Από ποια χώρα είναι η FC Ballkani;",
     "options": [
       "Kosovo",
       "Albania",
@@ -482,6 +642,7 @@
   {
     "id": 42,
     "question": "Which country is Skënderbeu Korçë from?",
+    "question_el": "Από ποια χώρα είναι η Skënderbeu Korçë;",
     "options": [
       "Albania",
       "Kosovo",
@@ -494,11 +655,18 @@
   {
     "id": 43,
     "question": "Which country is La Fiorita from?",
+    "question_el": "Από ποια χώρα είναι η La Fiorita;",
     "options": [
       "Andorra",
       "San Marino",
       "Gibraltar",
       "Liechtenstein"
+    ],
+    "options_el": [
+      "Ανδόρα",
+      "Άγιος Μαρίνος",
+      "Γιβραλτάρ",
+      "Λιχτενστάιν"
     ],
     "correct_answer": "San Marino",
     "difficulty": 5
@@ -506,6 +674,7 @@
   {
     "id": 44,
     "question": "Which country is Anorthosis Famagusta from?",
+    "question_el": "Από ποια χώρα είναι η Anorthosis Famagusta;",
     "options": [
       "Cyprus",
       "Greece",
@@ -518,6 +687,7 @@
   {
     "id": 45,
     "question": "Which country is Zamalek SC from?",
+    "question_el": "Από ποια χώρα είναι η Zamalek SC;",
     "options": [
       "Egypt",
       "Morocco",
@@ -530,6 +700,7 @@
   {
     "id": 46,
     "question": "Which country is Always Ready from?",
+    "question_el": "Από ποια χώρα είναι η Always Ready;",
     "options": [
       "Bolivia",
       "Peru",
@@ -542,6 +713,7 @@
   {
     "id": 47,
     "question": "Which country is The Strongest from?",
+    "question_el": "Από ποια χώρα είναι η The Strongest;",
     "options": [
       "Bolivia",
       "Paraguay",
@@ -554,11 +726,18 @@
   {
     "id": 48,
     "question": "In which city did Germany defeat Brazil 7–1 in the 2014 FIFA World Cup semi-final?",
+    "question_el": "Σε ποια πόλη νίκησε η Γερμανία τη Βραζιλία με 7-1 στον ημιτελικό του Μουντιάλ του 2014;",
     "options": [
       "Rio de Janeiro",
       "São Paulo",
       "Belo Horizonte",
       "Brasília"
+    ],
+    "options_el": [
+      "Ρίο ντε Τζανέιρο",
+      "Σάο Πάολο",
+      "Μπέλο Οριζόντε",
+      "Μπραζίλια"
     ],
     "correct_answer": "Belo Horizonte",
     "difficulty": 5
@@ -566,11 +745,18 @@
   {
     "id": 49,
     "question": "In which city did Spain win its first FIFA World Cup in 2010 with Andrés Iniesta's goal?",
+    "question_el": "Σε ποια πόλη κατέκτησε η Ισπανία το πρώτο της Μουντιάλ το 2010, με το γκολ του Andrés Iniesta;",
     "options": [
       "Johannesburg",
       "Cape Town",
       "Durban",
       "Port Elizabeth"
+    ],
+    "options_el": [
+      "Γιοχάνεσμπουργκ",
+      "Κέιπ Τάουν",
+      "Ντέρμπαν",
+      "Πορτ Ελίζαμπεθ"
     ],
     "correct_answer": "Johannesburg",
     "difficulty": 5
@@ -578,11 +764,18 @@
   {
     "id": 50,
     "question": "In which city did Greece win UEFA Euro 2004?",
+    "question_el": "Σε ποια πόλη κατέκτησε η Ελλάδα το Euro 2004;",
     "options": [
       "Lisbon",
       "Porto",
       "Athens",
       "Faro"
+    ],
+    "options_el": [
+      "Λισαβόνα",
+      "Πόρτο",
+      "Αθήνα",
+      "Φάρο"
     ],
     "correct_answer": "Lisbon",
     "difficulty": 5
@@ -590,11 +783,18 @@
   {
     "id": 51,
     "question": "In which city was the 2022 FIFA World Cup final played?",
+    "question_el": "Σε ποια πόλη έγινε ο τελικός του Μουντιάλ του 2022;",
     "options": [
       "Doha",
       "Lusail",
       "Al Rayyan",
       "Al Wakrah"
+    ],
+    "options_el": [
+      "Ντόχα",
+      "Λουσαΐλ",
+      "Αλ Ραγιάν",
+      "Αλ Ουάκρα"
     ],
     "correct_answer": "Lusail",
     "difficulty": 5
@@ -602,11 +802,18 @@
   {
     "id": 52,
     "question": "In which city did Manchester United complete their famous comeback against Bayern Munich in the 1999 UEFA Champions League final, scoring twice in stoppage time?",
+    "question_el": "Σε ποια πόλη η Manchester United έκανε τη διάσημη ανατροπή κόντρα στην Bayern Munich στον τελικό του Champions League το 1999, με δύο γκολ στις καθυστερήσεις;",
     "options": [
       "London",
       "Barcelona",
       "Madrid",
       "Rome"
+    ],
+    "options_el": [
+      "Λονδίνο",
+      "Βαρκελώνη",
+      "Μαδρίτη",
+      "Ρώμη"
     ],
     "correct_answer": "Barcelona",
     "difficulty": 5
@@ -614,6 +821,7 @@
   {
     "id": 53,
     "question": "Which Liechtenstein club plays in Switzerland's professional leagues (Super League / Challenge League)?",
+    "question_el": "Ποια ομάδα του Λιχτενστάιν παίζει στα επαγγελματικά πρωταθλήματα της Ελβετίας (Super League / Challenge League);",
     "options": [
       "FC Vaduz",
       "FC Balzers",
@@ -626,6 +834,7 @@
   {
     "id": 54,
     "question": "Which Welsh club plays in the English football league system?",
+    "question_el": "Ποια ουαλική ομάδα παίζει στο αγγλικό πρωτάθλημα;",
     "options": [
       "Swansea City",
       "Aberystwyth Town",
@@ -638,6 +847,7 @@
   {
     "id": 55,
     "question": "Which club from Northern Ireland plays in the Republic of Ireland's football league system?",
+    "question_el": "Ποια ομάδα της Βόρειας Ιρλανδίας παίζει στο πρωτάθλημα της Δημοκρατίας της Ιρλανδίας;",
     "options": [
       "Derry City",
       "Linfield",
@@ -650,6 +860,7 @@
   {
     "id": 56,
     "question": "Which country does former Manchester United player Dwight Yorke originate from?",
+    "question_el": "Από ποια χώρα κατάγεται ο πρώην παίκτης της Manchester United, Dwight Yorke;",
     "options": [
       "Trinidad and Tobago",
       "Jamaica",
@@ -662,6 +873,7 @@
   {
     "id": 65,
     "question": "Which national team does Hamza Choudhury represent?",
+    "question_el": "Ποια εθνική ομάδα εκπροσωπεί ο Hamza Choudhury;",
     "options": [
       "England",
       "Bangladesh",
@@ -674,6 +886,7 @@
   {
     "id": 66,
     "question": "Which country does former Arsenal player Aleksandr Hleb originate from?",
+    "question_el": "Από ποια χώρα κατάγεται ο πρώην παίκτης της Arsenal, Aleksandr Hleb;",
     "options": [
       "Belarus",
       "Russia",
@@ -686,6 +899,7 @@
   {
     "id": 67,
     "question": "Which country does former Tottenham Hotspur player Victor Wanyama originate from?",
+    "question_el": "Από ποια χώρα κατάγεται ο πρώην παίκτης της Tottenham Hotspur, Victor Wanyama;",
     "options": [
       "Kenya",
       "Uganda",
@@ -698,6 +912,7 @@
   {
     "id": 68,
     "question": "Which country does Vedat Muriqi originate from?",
+    "question_el": "Από ποια χώρα κατάγεται ο Vedat Muriqi;",
     "options": [
       "Kosovo",
       "Albania",
@@ -710,6 +925,7 @@
   {
     "id": 69,
     "question": "Which country does Reinildo Mandava originate from?",
+    "question_el": "Από ποια χώρα κατάγεται ο Reinildo Mandava;",
     "options": [
       "Mozambique",
       "Angola",
@@ -722,11 +938,18 @@
   {
     "id": 70,
     "question": "Which national team does Gerson Rodrigues represent?",
+    "question_el": "Ποια εθνική ομάδα εκπροσωπεί ο Gerson Rodrigues;",
     "options": [
       "Luxembourg",
       "Liechtenstein",
       "Cape Verde",
       "Curacao"
+    ],
+    "options_el": [
+      "Λουξεμβούργο",
+      "Λιχτενστάιν",
+      "Πράσινο Ακρωτήριο",
+      "Κουρασάο"
     ],
     "correct_answer": "Luxembourg",
     "difficulty": 5
@@ -734,11 +957,18 @@
   {
     "id": 71,
     "question": "Which country did the legendary Eusébio originate from?",
+    "question_el": "Από ποια χώρα καταγόταν ο θρυλικός Eusébio;",
     "options": [
       "Portugal",
       "Mozambique",
       "Angola",
       "Cape Verde"
+    ],
+    "options_el": [
+      "Πορτογαλία",
+      "Μοζαμβίκη",
+      "Αγκόλα",
+      "Πράσινο Ακρωτήριο"
     ],
     "correct_answer": "Mozambique",
     "difficulty": 5
@@ -746,6 +976,7 @@
   {
     "id": 72,
     "question": "In which country was the 1986 FIFA World Cup held?",
+    "question_el": "Σε ποια χώρα έγινε το Μουντιάλ του 1986;",
     "options": [
       "Mexico",
       "Argentina",
@@ -758,6 +989,7 @@
   {
     "id": 73,
     "question": "Which continent's football federation does New Caledonia belong to?",
+    "question_el": "Στην ποδοσφαιρική ομοσπονδία ποιας ηπείρου ανήκει η Νέα Καληδονία;",
     "options": [
       "Asia",
       "Africa",
@@ -770,6 +1002,7 @@
   {
     "id": 74,
     "question": "In what Asian country is the Rungrado 1st of May Stadium, one of the largest stadiums in the world?",
+    "question_el": "Σε ποια ασιατική χώρα βρίσκεται το Rungrado 1st of May Stadium, ένα από τα μεγαλύτερα γήπεδα στον κόσμο;",
     "options": [
       "South Korea",
       "China",
@@ -782,11 +1015,18 @@
   {
     "id": 75,
     "question": "In which territory do all top-division clubs share a single ground, the Victoria Stadium?",
+    "question_el": "Σε ποια περιοχή όλες οι ομάδες της πρώτης κατηγορίας μοιράζονται ένα μόνο γήπεδο, το Victoria Stadium;",
     "options": [
       "Gibraltar",
       "San Marino",
       "Andorra",
       "Faroe Islands"
+    ],
+    "options_el": [
+      "Γιβραλτάρ",
+      "Άγιος Μαρίνος",
+      "Ανδόρα",
+      "Νήσοι Φερόες"
     ],
     "correct_answer": "Gibraltar",
     "difficulty": 5
@@ -794,6 +1034,7 @@
   {
     "id": 76,
     "question": "Which Istanbul club plays its home matches on the Asian side of the Bosphorus?",
+    "question_el": "Ποια ομάδα της Κωνσταντινούπολης παίζει στην ασιατική πλευρά του Βοσπόρου;",
     "options": [
       "Galatasaray",
       "Beşiktaş",
@@ -806,6 +1047,7 @@
   {
     "id": 77,
     "question": "Guyana and Suriname are located in South America, but which confederation do their national teams compete in?",
+    "question_el": "Η Γουιάνα και το Σουρινάμ βρίσκονται στη Νότια Αμερική, αλλά σε ποια συνομοσπονδία αγωνίζονται οι εθνικές τους ομάδες;",
     "options": [
       "CONMEBOL",
       "CONCACAF",
@@ -818,11 +1060,18 @@
   {
     "id": 78,
     "question": "Marítimo and Nacional both come from which Portuguese archipelago?",
+    "question_el": "Από ποιο πορτογαλικό αρχιπέλαγος είναι και η Marítimo και η Nacional;",
     "options": [
       "Azores",
       "Madeira",
       "Cape Verde",
       "Berlengas"
+    ],
+    "options_el": [
+      "Αζόρες",
+      "Μαδέρα",
+      "Πράσινο Ακρωτήριο",
+      "Μπερλένγκας"
     ],
     "correct_answer": "Madeira",
     "difficulty": 5
@@ -830,6 +1079,7 @@
   {
     "id": 79,
     "question": "'The Float' at Marina Bay, a floating football pitch on water, is located in which country?",
+    "question_el": "Σε ποια χώρα βρίσκεται το «The Float» στη Marina Bay, ένα πλωτό γήπεδο πάνω στο νερό;",
     "options": [
       "Malaysia",
       "Singapore",
@@ -842,11 +1092,18 @@
   {
     "id": 80,
     "question": "Which city is home to the Estadio Azteca, the first stadium to host two World Cup finals?",
+    "question_el": "Ποια πόλη έχει το Estadio Azteca, το πρώτο γήπεδο που φιλοξένησε δύο τελικούς Μουντιάλ;",
     "options": [
       "Guadalajara",
       "Mexico City",
       "Monterrey",
       "Puebla"
+    ],
+    "options_el": [
+      "Γκουανταλαχάρα",
+      "Πόλη του Μεξικού",
+      "Μοντερέι",
+      "Πουέμπλα"
     ],
     "correct_answer": "Mexico City",
     "difficulty": 5
@@ -854,11 +1111,18 @@
   {
     "id": 81,
     "question": "The 'Derby della Lanterna' is contested by two clubs from which Italian city?",
+    "question_el": "Το «Derby della Lanterna» το δίνουν δύο ομάδες από ποια ιταλική πόλη;",
     "options": [
       "Turin",
       "Genoa",
       "Verona",
       "Milan"
+    ],
+    "options_el": [
+      "Τορίνο",
+      "Γένοβα",
+      "Βερόνα",
+      "Μιλάνο"
     ],
     "correct_answer": "Genoa",
     "difficulty": 5
@@ -866,6 +1130,7 @@
   {
     "id": 82,
     "question": "Which country is the club HŠK Zrinjski Mostar from?",
+    "question_el": "Από ποια χώρα είναι η HŠK Zrinjski Mostar;",
     "options": [
       "Croatia",
       "Bosnia and Herzegovina",
@@ -878,11 +1143,18 @@
   {
     "id": 83,
     "question": "The second leg of the 2018 Copa Libertadores final between River Plate and Boca Juniors was moved from Buenos Aires to which European city?",
+    "question_el": "Η ρεβάνς του τελικού του Copa Libertadores 2018 ανάμεσα σε River Plate και Boca Juniors μεταφέρθηκε από το Μπουένος Άιρες σε ποια ευρωπαϊκή πόλη;",
     "options": [
       "Lisbon",
       "Madrid",
       "Milan",
       "Barcelona"
+    ],
+    "options_el": [
+      "Λισαβόνα",
+      "Μαδρίτη",
+      "Μιλάνο",
+      "Βαρκελώνη"
     ],
     "correct_answer": "Madrid",
     "difficulty": 5
@@ -890,6 +1162,7 @@
   {
     "id": 84,
     "question": "FC Andorra compete in which country's league system?",
+    "question_el": "Στο πρωτάθλημα ποιας χώρας αγωνίζεται η FC Andorra;",
     "options": [
       "Spain",
       "France",
@@ -902,6 +1175,7 @@
   {
     "id": 85,
     "question": "Gibraltar's national team played its home qualifiers for years at the Estádio Algarve, located in which country?",
+    "question_el": "Η εθνική Γιβραλτάρ έπαιζε για χρόνια τους εντός έδρας αγώνες των προκριματικών στο Estádio Algarve. Σε ποια χώρα βρίσκεται;",
     "options": [
       "Spain",
       "Portugal",

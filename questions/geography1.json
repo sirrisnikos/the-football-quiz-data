@@ -2,6 +2,7 @@
   {
     "id": 1,
     "question": "Which country does Lamine Yamal play for?",
+    "question_el": "Σε ποια εθνική ομάδα παίζει ο Lamine Yamal;",
     "options": [
       "Spain",
       "France",
@@ -14,6 +15,7 @@
   {
     "id": 2,
     "question": "Erling Haaland represents which national team?",
+    "question_el": "Ποια εθνική ομάδα εκπροσωπεί ο Erling Haaland;",
     "options": [
       "Sweden",
       "Denmark",
@@ -26,6 +28,7 @@
   {
     "id": 3,
     "question": "In which country is the 'La Liga' professional football league played?",
+    "question_el": "Σε ποια χώρα διεξάγεται το επαγγελματικό πρωτάθλημα La Liga;",
     "options": [
       "Italy",
       "Portugal",
@@ -38,6 +41,7 @@
   {
     "id": 4,
     "question": "Kylian Mbappé is a citizen of which country?",
+    "question_el": "Από ποια χώρα είναι ο Kylian Mbappé;",
     "options": [
       "Belgium",
       "France",
@@ -50,6 +54,7 @@
   {
     "id": 5,
     "question": "Which South American nation did the legend Pele represent?",
+    "question_el": "Ποια χώρα της Νότιας Αμερικής εκπροσώπησε ο θρυλικός Pelé;",
     "options": [
       "Argentina",
       "Uruguay",
@@ -62,6 +67,7 @@
   {
     "id": 6,
     "question": "The Allianz Arena, famous for its color-changing exterior, is in which country?",
+    "question_el": "Σε ποια χώρα βρίσκεται η Allianz Arena, γνωστή για την πρόσοψη που αλλάζει χρώματα;",
     "options": [
       "Austria",
       "Germany",
@@ -74,6 +80,7 @@
   {
     "id": 7,
     "question": "Which country does Mohamed Salah play for internationally?",
+    "question_el": "Σε ποια εθνική ομάδα παίζει ο Mohamed Salah;",
     "options": [
       "Morocco",
       "Egypt",
@@ -86,6 +93,7 @@
   {
     "id": 8,
     "question": "Wembley Stadium, the 'Home of Football,' is located in which country?",
+    "question_el": "Σε ποια χώρα βρίσκεται το Wembley, το «σπίτι του ποδοσφαίρου»;",
     "options": [
       "England",
       "Italy",
@@ -98,6 +106,7 @@
   {
     "id": 9,
     "question": "The club 'Real Madrid' is based in which country?",
+    "question_el": "Σε ποια χώρα έχει την έδρα της η Real Madrid;",
     "options": [
       "Portugal",
       "Mexico",
@@ -110,6 +119,7 @@
   {
     "id": 10,
     "question": "Lionel Messi was born in which country?",
+    "question_el": "Σε ποια χώρα γεννήθηκε ο Lionel Messi;",
     "options": [
       "Spain",
       "Argentina",
@@ -122,6 +132,7 @@
   {
     "id": 11,
     "question": "In which country would you find the San Siro stadium?",
+    "question_el": "Σε ποια χώρα θα βρεις το γήπεδο San Siro;",
     "options": [
       "Italy",
       "Spain",
@@ -134,6 +145,7 @@
   {
     "id": 12,
     "question": "The 'Superclásico' is a famous derby between Boca Juniors and River Plate in which country?",
+    "question_el": "Σε ποια χώρα γίνεται το Superclásico, το διάσημο ντέρμπι ανάμεσα σε Boca Juniors και River Plate;",
     "options": [
       "Argentina",
       "Colombia",
@@ -146,6 +158,7 @@
   {
     "id": 13,
     "question": "Which nation hosted the 2022 World Cup?",
+    "question_el": "Ποια χώρα διοργάνωσε το Μουντιάλ του 2022;",
     "options": [
       "Iran",
       "Qatar",
@@ -158,6 +171,7 @@
   {
     "id": 14,
     "question": "Cristiano Ronaldo is the all-time leading scorer for which national team?",
+    "question_el": "Ποιας εθνικής ομάδας είναι πρώτος σκόρερ όλων των εποχών ο Cristiano Ronaldo;",
     "options": [
       "Spain",
       "Brazil",
@@ -170,6 +184,7 @@
   {
     "id": 15,
     "question": "In which country is the 'Serie A' league primarily based?",
+    "question_el": "Σε ποια χώρα διεξάγεται η Serie A;",
     "options": [
       "Italy",
       "Spain",
@@ -182,11 +197,18 @@
   {
     "id": 16,
     "question": "The club 'Ajax' is famously located in which city?",
+    "question_el": "Σε ποια πόλη έχει την έδρα της η Ajax;",
     "options": [
       "Brussels",
       "Rotterdam",
       "Amsterdam",
       "Eindhoven"
+    ],
+    "options_el": [
+      "Βρυξέλλες",
+      "Ρότερνταμ",
+      "Άμστερνταμ",
+      "Αϊντχόφεν"
     ],
     "correct_answer": "Amsterdam",
     "difficulty": 1
@@ -194,6 +216,7 @@
   {
     "id": 17,
     "question": "Which continent does the national team of Japan compete in?",
+    "question_el": "Σε ποια ήπειρο αγωνίζεται η εθνική ομάδα της Ιαπωνίας;",
     "options": [
       "Europe",
       "Asia",
@@ -206,6 +229,7 @@
   {
     "id": 18,
     "question": "Kevin De Bruyne is a key player for which national team?",
+    "question_el": "Σε ποια εθνική ομάδα είναι βασικός ο Kevin De Bruyne;",
     "options": [
       "Netherlands",
       "Belgium",
@@ -218,11 +242,18 @@
   {
     "id": 19,
     "question": "The 'Old Trafford' stadium is located in which English city?",
+    "question_el": "Σε ποια αγγλική πόλη βρίσκεται το Old Trafford;",
     "options": [
       "London",
       "Liverpool",
       "Manchester",
       "Leeds"
+    ],
+    "options_el": [
+      "Λονδίνο",
+      "Λίβερπουλ",
+      "Μάντσεστερ",
+      "Λιντς"
     ],
     "correct_answer": "Manchester",
     "difficulty": 1
@@ -230,6 +261,7 @@
   {
     "id": 20,
     "question": "In which country would you find the club 'Valencia'?",
+    "question_el": "Σε ποια χώρα θα βρεις την ομάδα Valencia;",
     "options": [
       "Spain",
       "Brazil",
@@ -242,6 +274,7 @@
   {
     "id": 21,
     "question": "Which of these countries has won a FIFA World Cup?",
+    "question_el": "Ποια από αυτές τις χώρες έχει κατακτήσει Μουντιάλ;",
     "options": [
       "Portugal",
       "Netherlands",
@@ -254,6 +287,7 @@
   {
     "id": 22,
     "question": "The 'Ligue 1' professional league is played in which country?",
+    "question_el": "Σε ποια χώρα διεξάγεται το επαγγελματικό πρωτάθλημα Ligue 1;",
     "options": [
       "Belgium",
       "Switzerland",
@@ -266,11 +300,18 @@
   {
     "id": 23,
     "question": "Which city is home to the stadium 'Camp Nou'?",
+    "question_el": "Σε ποια πόλη βρίσκεται το Camp Nou;",
     "options": [
       "Madrid",
       "Barcelona",
       "Seville",
       "Valencia"
+    ],
+    "options_el": [
+      "Μαδρίτη",
+      "Βαρκελώνη",
+      "Σεβίλλη",
+      "Βαλένθια"
     ],
     "correct_answer": "Barcelona",
     "difficulty": 1
@@ -278,11 +319,18 @@
   {
     "id": 24,
     "question": "Robert Lewandowski is the most famous striker from which country?",
+    "question_el": "Από ποια χώρα είναι ο Robert Lewandowski, ο πιο διάσημος επιθετικός της;",
     "options": [
       "Germany",
       "Poland",
       "Czech Republic",
       "Austria"
+    ],
+    "options_el": [
+      "Γερμανία",
+      "Πολωνία",
+      "Τσεχία",
+      "Αυστρία"
     ],
     "correct_answer": "Poland",
     "difficulty": 1
@@ -290,11 +338,18 @@
   {
     "id": 25,
     "question": "In which country is the 'MLS' (Major League Soccer) primarily based?",
+    "question_el": "Σε ποια χώρα διεξάγεται το MLS (Major League Soccer);",
     "options": [
       "United Kingdom",
       "Australia",
       "USA",
       "South Africa"
+    ],
+    "options_el": [
+      "Ηνωμένο Βασίλειο",
+      "Αυστραλία",
+      "ΗΠΑ",
+      "Νότια Αφρική"
     ],
     "correct_answer": "USA",
     "difficulty": 1
@@ -302,11 +357,18 @@
   {
     "id": 26,
     "question": "The 'Arsenal' and 'Chelsea' rivalry takes place in which city?",
+    "question_el": "Σε ποια πόλη γίνεται το ντέρμπι Arsenal – Chelsea;",
     "options": [
       "Liverpool",
       "London",
       "Manchester",
       "Newcastle"
+    ],
+    "options_el": [
+      "Λίβερπουλ",
+      "Λονδίνο",
+      "Μάντσεστερ",
+      "Νιούκαστλ"
     ],
     "correct_answer": "London",
     "difficulty": 1
@@ -314,6 +376,7 @@
   {
     "id": 27,
     "question": "Luis Suárez is a legendary striker for which national team?",
+    "question_el": "Ποιας εθνικής ομάδας θρυλικός επιθετικός είναι ο Luis Suárez;",
     "options": [
       "Argentina",
       "Uruguay",
@@ -326,11 +389,18 @@
   {
     "id": 28,
     "question": "In which city does the club 'Juventus' play their home matches?",
+    "question_el": "Σε ποια πόλη παίζει τους εντός έδρας αγώνες της η Juventus;",
     "options": [
       "Rome",
       "Milan",
       "Turin",
       "Florence"
+    ],
+    "options_el": [
+      "Ρώμη",
+      "Μιλάνο",
+      "Τορίνο",
+      "Φλωρεντία"
     ],
     "correct_answer": "Turin",
     "difficulty": 1
@@ -338,6 +408,7 @@
   {
     "id": 29,
     "question": "Which country is the home of the 'Eredivisie' league?",
+    "question_el": "Ποια χώρα έχει το πρωτάθλημα Eredivisie;",
     "options": [
       "Belgium",
       "Denmark",
@@ -350,6 +421,7 @@
   {
     "id": 30,
     "question": "Which country does Marcelo represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Marcelo;",
     "options": [
       "Brazil",
       "Portugal",
@@ -362,6 +434,7 @@
   {
     "id": 31,
     "question": "Which country does Rodri represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Rodri;",
     "options": [
       "Italy",
       "Spain",
@@ -374,6 +447,7 @@
   {
     "id": 32,
     "question": "Which country does Julián Álvarez represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Julián Álvarez;",
     "options": [
       "Uruguay",
       "Brazil",
@@ -386,6 +460,7 @@
   {
     "id": 33,
     "question": "Which country does Declan Rice represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Declan Rice;",
     "options": [
       "Ireland",
       "England",
@@ -398,6 +473,7 @@
   {
     "id": 34,
     "question": "Which country does Nicolò Barella represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Nicolò Barella;",
     "options": [
       "Italy",
       "Spain",
@@ -410,6 +486,7 @@
   {
     "id": 35,
     "question": "Which country does Vinícius Jr. represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Vinícius Jr.;",
     "options": [
       "Brazil",
       "Portugal",
@@ -422,6 +499,7 @@
   {
     "id": 36,
     "question": "Which country does Luis Díaz represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Luis Díaz;",
     "options": [
       "Ecuador",
       "Colombia",
@@ -434,11 +512,18 @@
   {
     "id": 39,
     "question": "In which city is Anfield located?",
+    "question_el": "Σε ποια πόλη βρίσκεται το Anfield;",
     "options": [
       "Manchester",
       "Liverpool",
       "London",
       "Birmingham"
+    ],
+    "options_el": [
+      "Μάντσεστερ",
+      "Λίβερπουλ",
+      "Λονδίνο",
+      "Μπέρμιγχαμ"
     ],
     "correct_answer": "Liverpool",
     "difficulty": 1
@@ -446,11 +531,18 @@
   {
     "id": 40,
     "question": "In which city is the Santiago Bernabéu located?",
+    "question_el": "Σε ποια πόλη βρίσκεται το Santiago Bernabéu;",
     "options": [
       "Barcelona",
       "Seville",
       "Madrid",
       "Valencia"
+    ],
+    "options_el": [
+      "Βαρκελώνη",
+      "Σεβίλλη",
+      "Μαδρίτη",
+      "Βαλένθια"
     ],
     "correct_answer": "Madrid",
     "difficulty": 1
@@ -458,11 +550,18 @@
   {
     "id": 41,
     "question": "In which city is Stamford Bridge located?",
+    "question_el": "Σε ποια πόλη βρίσκεται το Stamford Bridge;",
     "options": [
       "London",
       "Manchester",
       "Liverpool",
       "Leeds"
+    ],
+    "options_el": [
+      "Λονδίνο",
+      "Μάντσεστερ",
+      "Λίβερπουλ",
+      "Λιντς"
     ],
     "correct_answer": "London",
     "difficulty": 1
@@ -470,11 +569,18 @@
   {
     "id": 42,
     "question": "In which city is the Emirates Stadium located?",
+    "question_el": "Σε ποια πόλη βρίσκεται το Emirates Stadium;",
     "options": [
       "London",
       "Birmingham",
       "Manchester",
       "Liverpool"
+    ],
+    "options_el": [
+      "Λονδίνο",
+      "Μπέρμιγχαμ",
+      "Μάντσεστερ",
+      "Λίβερπουλ"
     ],
     "correct_answer": "London",
     "difficulty": 1
@@ -482,11 +588,18 @@
   {
     "id": 43,
     "question": "In which city is the Allianz Arena located?",
+    "question_el": "Σε ποια πόλη βρίσκεται η Allianz Arena;",
     "options": [
       "Berlin",
       "Dortmund",
       "Munich",
       "Hamburg"
+    ],
+    "options_el": [
+      "Βερολίνο",
+      "Ντόρτμουντ",
+      "Μόναχο",
+      "Αμβούργο"
     ],
     "correct_answer": "Munich",
     "difficulty": 1
@@ -494,11 +607,18 @@
   {
     "id": 44,
     "question": "In which city is the Parc des Princes located?",
+    "question_el": "Σε ποια πόλη βρίσκεται το Parc des Princes;",
     "options": [
       "Lyon",
       "Marseille",
       "Paris",
       "Monaco"
+    ],
+    "options_el": [
+      "Λυών",
+      "Μασσαλία",
+      "Παρίσι",
+      "Μονακό"
     ],
     "correct_answer": "Paris",
     "difficulty": 1
@@ -506,6 +626,7 @@
   {
     "id": 45,
     "question": "Which country is Sporting CP from?",
+    "question_el": "Από ποια χώρα είναι η Sporting CP;",
     "options": [
       "Spain",
       "Portugal",
@@ -518,6 +639,7 @@
   {
     "id": 46,
     "question": "Which country is Galatasaray from?",
+    "question_el": "Από ποια χώρα είναι η Galatasaray;",
     "options": [
       "Greece",
       "Turkey",
@@ -530,6 +652,7 @@
   {
     "id": 47,
     "question": "Which country is CSKA Moscow from?",
+    "question_el": "Από ποια χώρα είναι η CSKA Moscow;",
     "options": [
       "Ukraine",
       "Russia",
@@ -542,6 +665,7 @@
   {
     "id": 48,
     "question": "Which country is Celtic from?",
+    "question_el": "Από ποια χώρα είναι η Celtic;",
     "options": [
       "England",
       "Wales",
@@ -554,6 +678,7 @@
   {
     "id": 49,
     "question": "Which country is Olympique Lyonnais from?",
+    "question_el": "Από ποια χώρα είναι η Olympique Lyonnais;",
     "options": [
       "Belgium",
       "France",
@@ -566,6 +691,7 @@
   {
     "id": 50,
     "question": "Which country is Crystal Palace from?",
+    "question_el": "Από ποια χώρα είναι η Crystal Palace;",
     "options": [
       "England",
       "Scotland",
@@ -578,6 +704,7 @@
   {
     "id": 51,
     "question": "In which country is the 'Bundesliga' league played?",
+    "question_el": "Σε ποια χώρα διεξάγεται η Bundesliga;",
     "options": [
       "Austria",
       "Germany",
@@ -590,6 +717,7 @@
   {
     "id": 52,
     "question": "Which country does Luka Modrić represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Luka Modrić;",
     "options": [
       "Serbia",
       "Croatia",
@@ -602,6 +730,7 @@
   {
     "id": 53,
     "question": "Which country is Benfica from?",
+    "question_el": "Από ποια χώρα είναι η Benfica;",
     "options": [
       "Spain",
       "Brazil",
@@ -614,6 +743,7 @@
   {
     "id": 54,
     "question": "Which country is Olympiacos from?",
+    "question_el": "Από ποια χώρα είναι ο Olympiacos;",
     "options": [
       "Cyprus",
       "Greece",
@@ -626,6 +756,7 @@
   {
     "id": 55,
     "question": "In which country is the Maracanã stadium?",
+    "question_el": "Σε ποια χώρα βρίσκεται το Maracanã;",
     "options": [
       "Argentina",
       "Mexico",
@@ -638,11 +769,18 @@
   {
     "id": 56,
     "question": "Which three countries host the 2026 World Cup?",
+    "question_el": "Ποιες τρεις χώρες διοργανώνουν το Μουντιάλ του 2026;",
     "options": [
       "USA, Canada and Mexico",
       "Brazil, Argentina and Chile",
       "Spain, Portugal and Morocco",
       "Japan, South Korea and China"
+    ],
+    "options_el": [
+      "ΗΠΑ, Καναδάς και Μεξικό",
+      "Βραζιλία, Αργεντινή και Χιλή",
+      "Ισπανία, Πορτογαλία και Μαρόκο",
+      "Ιαπωνία, Νότια Κορέα και Κίνα"
     ],
     "correct_answer": "USA, Canada and Mexico",
     "difficulty": 1
@@ -650,6 +788,7 @@
   {
     "id": 57,
     "question": "Which country does Neymar represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Neymar;",
     "options": [
       "Portugal",
       "Argentina",
@@ -662,6 +801,7 @@
   {
     "id": 58,
     "question": "Which country is Borussia Dortmund from?",
+    "question_el": "Από ποια χώρα είναι η Borussia Dortmund;",
     "options": [
       "Netherlands",
       "Germany",
@@ -674,6 +814,7 @@
   {
     "id": 59,
     "question": "On which continent does the national team of Nigeria compete?",
+    "question_el": "Σε ποια ήπειρο αγωνίζεται η εθνική ομάδα της Νιγηρίας;",
     "options": [
       "Asia",
       "Europe",
@@ -686,11 +827,18 @@
   {
     "id": 60,
     "question": "In which city does Inter play their home matches?",
+    "question_el": "Σε ποια πόλη παίζει τους εντός έδρας αγώνες της η Inter;",
     "options": [
       "Rome",
       "Naples",
       "Milan",
       "Turin"
+    ],
+    "options_el": [
+      "Ρώμη",
+      "Νάπολη",
+      "Μιλάνο",
+      "Τορίνο"
     ],
     "correct_answer": "Milan",
     "difficulty": 1
@@ -698,6 +846,7 @@
   {
     "id": 61,
     "question": "Which country does Harry Kane represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Harry Kane;",
     "options": [
       "Scotland",
       "England",
@@ -710,6 +859,7 @@
   {
     "id": 62,
     "question": "Which country is the club Al Nassr from?",
+    "question_el": "Από ποια χώρα είναι η Al Nassr;",
     "options": [
       "Qatar",
       "United Arab Emirates",
@@ -722,11 +872,18 @@
   {
     "id": 63,
     "question": "In which city does AS Roma play their home matches?",
+    "question_el": "Σε ποια πόλη παίζει τους εντός έδρας αγώνες της η AS Roma;",
     "options": [
       "Milan",
       "Rome",
       "Naples",
       "Florence"
+    ],
+    "options_el": [
+      "Μιλάνο",
+      "Ρώμη",
+      "Νάπολη",
+      "Φλωρεντία"
     ],
     "correct_answer": "Rome",
     "difficulty": 1
@@ -734,6 +891,7 @@
   {
     "id": 64,
     "question": "Which country does Son Heung-min represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Son Heung-min;",
     "options": [
       "Japan",
       "China",
@@ -746,6 +904,7 @@
   {
     "id": 65,
     "question": "Which country does Virgil van Dijk represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Virgil van Dijk;",
     "options": [
       "Belgium",
       "Netherlands",
@@ -758,6 +917,7 @@
   {
     "id": 66,
     "question": "Which country is Bayern Munich from?",
+    "question_el": "Από ποια χώρα είναι η Bayern Munich;",
     "options": [
       "Austria",
       "Germany",
@@ -770,6 +930,7 @@
   {
     "id": 67,
     "question": "Which country is Paris Saint-Germain (PSG) from?",
+    "question_el": "Από ποια χώρα είναι η Paris Saint-Germain (PSG);",
     "options": [
       "Belgium",
       "France",
@@ -782,6 +943,7 @@
   {
     "id": 68,
     "question": "Which country does Karim Benzema represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Karim Benzema;",
     "options": [
       "Algeria",
       "Morocco",
@@ -794,11 +956,18 @@
   {
     "id": 69,
     "question": "In which Italian city does the club Napoli play their home matches?",
+    "question_el": "Σε ποια ιταλική πόλη παίζει τους εντός έδρας αγώνες της η Napoli;",
     "options": [
       "Rome",
       "Naples",
       "Turin",
       "Milan"
+    ],
+    "options_el": [
+      "Ρώμη",
+      "Νάπολη",
+      "Τορίνο",
+      "Μιλάνο"
     ],
     "correct_answer": "Naples",
     "difficulty": 1
@@ -806,6 +975,7 @@
   {
     "id": 70,
     "question": "Which country is the club Porto from?",
+    "question_el": "Από ποια χώρα είναι η Porto;",
     "options": [
       "Spain",
       "Portugal",
@@ -818,6 +988,7 @@
   {
     "id": 71,
     "question": "Which country is the club Flamengo from?",
+    "question_el": "Από ποια χώρα είναι η Flamengo;",
     "options": [
       "Argentina",
       "Uruguay",
@@ -830,6 +1001,7 @@
   {
     "id": 72,
     "question": "Which country does Zlatan Ibrahimović represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Zlatan Ibrahimović;",
     "options": [
       "Norway",
       "Denmark",
@@ -842,6 +1014,7 @@
   {
     "id": 73,
     "question": "Which country does Didier Drogba represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Didier Drogba;",
     "options": [
       "Ghana",
       "Ivory Coast",
@@ -854,6 +1027,7 @@
   {
     "id": 74,
     "question": "Which country does Samuel Eto'o represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Samuel Eto'o;",
     "options": [
       "Nigeria",
       "Cameroon",
@@ -866,6 +1040,7 @@
   {
     "id": 75,
     "question": "Which country does Riyad Mahrez represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Riyad Mahrez;",
     "options": [
       "Morocco",
       "Tunisia",
@@ -878,6 +1053,7 @@
   {
     "id": 76,
     "question": "Which country does Victor Osimhen represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Victor Osimhen;",
     "options": [
       "Ghana",
       "Nigeria",
@@ -890,6 +1066,7 @@
   {
     "id": 77,
     "question": "Which country does Sadio Mané represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Sadio Mané;",
     "options": [
       "Mali",
       "Guinea",
@@ -902,6 +1079,7 @@
   {
     "id": 78,
     "question": "Which country does Achraf Hakimi represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Achraf Hakimi;",
     "options": [
       "Algeria",
       "Morocco",
@@ -914,6 +1092,7 @@
   {
     "id": 79,
     "question": "Which country is Fenerbahçe from?",
+    "question_el": "Από ποια χώρα είναι η Fenerbahçe;",
     "options": [
       "Greece",
       "Turkey",
@@ -926,6 +1105,7 @@
   {
     "id": 80,
     "question": "Which country is PSV Eindhoven from?",
+    "question_el": "Από ποια χώρα είναι η PSV Eindhoven;",
     "options": [
       "Belgium",
       "Netherlands",

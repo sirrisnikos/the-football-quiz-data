@@ -2,11 +2,18 @@
   {
     "id": 1,
     "question": "In which city is the stadium 'De Kuip' located?",
+    "question_el": "Σε ποια πόλη βρίσκεται το γήπεδο De Kuip;",
     "options": [
       "Amsterdam",
       "Rotterdam",
       "Eindhoven",
       "Utrecht"
+    ],
+    "options_el": [
+      "Άμστερνταμ",
+      "Ρότερνταμ",
+      "Αϊντχόφεν",
+      "Ουτρέχτη"
     ],
     "correct_answer": "Rotterdam",
     "difficulty": 3
@@ -14,6 +21,7 @@
   {
     "id": 2,
     "question": "The club 'Ferencváros' comes from which country?",
+    "question_el": "Από ποια χώρα είναι η Ferencváros;",
     "options": [
       "Hungary",
       "Romania",
@@ -26,11 +34,18 @@
   {
     "id": 3,
     "question": "Which city is home to the 'Vodafone Park' stadium (home ground of Beşiktaş)?",
+    "question_el": "Σε ποια πόλη βρίσκεται το Vodafone Park (έδρα της Beşiktaş);",
     "options": [
       "Ankara",
       "Istanbul",
       "Izmir",
       "Antalya"
+    ],
+    "options_el": [
+      "Άγκυρα",
+      "Κωνσταντινούπολη",
+      "Σμύρνη",
+      "Αττάλεια"
     ],
     "correct_answer": "Istanbul",
     "difficulty": 3
@@ -38,6 +53,7 @@
   {
     "id": 4,
     "question": "Which club plays their home games at the 'Volkswagen Arena'?",
+    "question_el": "Ποια ομάδα παίζει τους εντός έδρας αγώνες της στη Volkswagen Arena;",
     "options": [
       "Leipzig",
       "Bayer Leverkusen",
@@ -50,11 +66,18 @@
   {
     "id": 5,
     "question": "In the 2024/25 Premier League season, which was the most common foreign nationality among players?",
+    "question_el": "Στη σεζόν 2024/25 της Premier League, ποια ήταν η πιο συχνή ξένη εθνικότητα ανάμεσα στους παίκτες;",
     "options": [
       "French",
       "Brazilian",
       "Spanish",
       "Portuguese"
+    ],
+    "options_el": [
+      "Γαλλική",
+      "Βραζιλιάνικη",
+      "Ισπανική",
+      "Πορτογαλική"
     ],
     "correct_answer": "Brazilian",
     "difficulty": 3
@@ -62,11 +85,18 @@
   {
     "id": 6,
     "question": "In the 2025-2026 La Liga season, which was the most common foreign nationality among players?",
+    "question_el": "Στη σεζόν 2025-2026 της La Liga, ποια ήταν η πιο συχνή ξένη εθνικότητα ανάμεσα στους παίκτες;",
     "options": [
       "French",
       "Brazilian",
       "Portuguese",
       "Argentinian"
+    ],
+    "options_el": [
+      "Γαλλική",
+      "Βραζιλιάνικη",
+      "Πορτογαλική",
+      "Αργεντίνικη"
     ],
     "correct_answer": "Argentinian",
     "difficulty": 3
@@ -74,6 +104,7 @@
   {
     "id": 7,
     "question": "The 'Philips Stadion' is the home ground of which Dutch club?",
+    "question_el": "Το Philips Stadion είναι η έδρα ποιας ολλανδικής ομάδας;",
     "options": [
       "Ajax",
       "Feyenoord",
@@ -86,11 +117,18 @@
   {
     "id": 8,
     "question": "The club 'Flamengo', one of the most supported teams in the world, is based in which city?",
+    "question_el": "Σε ποια πόλη έχει την έδρα της η Flamengo, μία από τις ομάδες με τους περισσότερους οπαδούς στον κόσμο;",
     "options": [
       "São Paulo",
       "Rio de Janeiro",
       "Belo Horizonte",
       "Porto Alegre"
+    ],
+    "options_el": [
+      "Σάο Πάολο",
+      "Ρίο ντε Τζανέιρο",
+      "Μπέλο Οριζόντε",
+      "Πόρτο Αλέγκρε"
     ],
     "correct_answer": "Rio de Janeiro",
     "difficulty": 3
@@ -98,6 +136,7 @@
   {
     "id": 9,
     "question": "How many different Dutch clubs have won the European Cup or Champions League?",
+    "question_el": "Πόσες διαφορετικές ολλανδικές ομάδες έχουν κατακτήσει το Κύπελλο Πρωταθλητριών ή το Champions League;",
     "options": [
       "1",
       "2",
@@ -110,6 +149,7 @@
   {
     "id": 10,
     "question": "Which country is PAOK from?",
+    "question_el": "Από ποια χώρα είναι ο PAOK;",
     "options": [
       "Greece",
       "Cyprus",
@@ -122,11 +162,18 @@
   {
     "id": 11,
     "question": "The club 'Atalanta', winners of the 2024 Europa League, is based in which Italian city?",
+    "question_el": "Σε ποια ιταλική πόλη έχει την έδρα της η Atalanta, νικήτρια του Europa League το 2024;",
     "options": [
       "Verona",
       "Bergamo",
       "Bologna",
       "Parma"
+    ],
+    "options_el": [
+      "Βερόνα",
+      "Μπέργκαμο",
+      "Μπολόνια",
+      "Πάρμα"
     ],
     "correct_answer": "Bergamo",
     "difficulty": 3
@@ -134,6 +181,7 @@
   {
     "id": 12,
     "question": "Which country hosted the 2004 Euro?",
+    "question_el": "Ποια χώρα διοργάνωσε το Euro 2004;",
     "options": [
       "Ukraine",
       "Greece",
@@ -146,11 +194,18 @@
   {
     "id": 13,
     "question": "In which city would you find the stadium 'La Mestalla'?",
+    "question_el": "Σε ποια πόλη θα βρεις το γήπεδο Mestalla;",
     "options": [
       "Seville",
       "Valencia",
       "Bilbao",
       "Barcelona"
+    ],
+    "options_el": [
+      "Σεβίλλη",
+      "Βαλένθια",
+      "Μπιλμπάο",
+      "Βαρκελώνη"
     ],
     "correct_answer": "Valencia",
     "difficulty": 3
@@ -158,6 +213,7 @@
   {
     "id": 14,
     "question": "Which country is the club 'Rijeka' from?",
+    "question_el": "Από ποια χώρα είναι η Rijeka;",
     "options": [
       "Croatia",
       "Slovakia",
@@ -170,11 +226,18 @@
   {
     "id": 15,
     "question": "Which city is home to the club 'RCD Espanyol'?",
+    "question_el": "Σε ποια πόλη έχει την έδρα της η RCD Espanyol;",
     "options": [
       "Madrid",
       "Barcelona",
       "Seville",
       "Valencia"
+    ],
+    "options_el": [
+      "Μαδρίτη",
+      "Βαρκελώνη",
+      "Σεβίλλη",
+      "Βαλένθια"
     ],
     "correct_answer": "Barcelona",
     "difficulty": 3
@@ -182,6 +245,7 @@
   {
     "id": 16,
     "question": "Which country is the home of the club 'Atletico Nacional'?",
+    "question_el": "Από ποια χώρα είναι η Atletico Nacional;",
     "options": [
       "Spain",
       "Uruguay",
@@ -194,6 +258,7 @@
   {
     "id": 17,
     "question": "How many French clubs have won the UEFA Champions League (since 1992)?",
+    "question_el": "Πόσες γαλλικές ομάδες έχουν κατακτήσει το Champions League (από το 1992);",
     "options": [
       "1",
       "2",
@@ -206,11 +271,18 @@
   {
     "id": 18,
     "question": "In the 2025-2026 Serie A season, which was the most common foreign nationality among players?",
+    "question_el": "Στη σεζόν 2025-2026 της Serie A, ποια ήταν η πιο συχνή ξένη εθνικότητα ανάμεσα στους παίκτες;",
     "options": [
       "French",
       "Brazilian",
       "Argentinian",
       "Spanish"
+    ],
+    "options_el": [
+      "Γαλλική",
+      "Βραζιλιάνικη",
+      "Αργεντίνικη",
+      "Ισπανική"
     ],
     "correct_answer": "French",
     "difficulty": 3
@@ -218,11 +290,18 @@
   {
     "id": 19,
     "question": "In which city would you find the 'Ibrox Stadium'?",
+    "question_el": "Σε ποια πόλη θα βρεις το Ibrox Stadium;",
     "options": [
       "Edinburgh",
       "Glasgow",
       "Dundee",
       "Aberdeen"
+    ],
+    "options_el": [
+      "Εδιμβούργο",
+      "Γλασκώβη",
+      "Ντάντι",
+      "Αμπερντίν"
     ],
     "correct_answer": "Glasgow",
     "difficulty": 3
@@ -230,6 +309,7 @@
   {
     "id": 20,
     "question": "Which nation has won the most AFC Asian Cups (Asia's continental championship)?",
+    "question_el": "Ποια χώρα έχει κατακτήσει τα περισσότερα Κύπελλα Εθνών Ασίας;",
     "options": [
       "South Korea",
       "Japan",
@@ -242,6 +322,7 @@
   {
     "id": 21,
     "question": "Which country has won the Africa Cup of Nations 7 times, more than any other nation?",
+    "question_el": "Ποια χώρα έχει κατακτήσει 7 φορές το Κύπελλο Εθνών Αφρικής, περισσότερες από κάθε άλλη;",
     "options": [
       "Nigeria",
       "Senegal",
@@ -254,6 +335,7 @@
   {
     "id": 22,
     "question": "Which country's top league is known as the 'Jupiler Pro League'?",
+    "question_el": "Ποιας χώρας το κορυφαίο πρωτάθλημα λέγεται Jupiler Pro League;",
     "options": [
       "Finland",
       "Norway",
@@ -266,6 +348,7 @@
   {
     "id": 23,
     "question": "The 'San Mamés' stadium is the home ground of which club?",
+    "question_el": "Το San Mamés είναι η έδρα ποιας ομάδας;",
     "options": [
       "Real Sociedad",
       "Athletic Bilbao",
@@ -278,11 +361,18 @@
   {
     "id": 24,
     "question": "In which country is the club 'Paderborn' based?",
+    "question_el": "Σε ποια χώρα έχει την έδρα της η Paderborn;",
     "options": [
       "Germany",
       "Poland",
       "Czech Republic",
       "Austria"
+    ],
+    "options_el": [
+      "Γερμανία",
+      "Πολωνία",
+      "Τσεχία",
+      "Αυστρία"
     ],
     "correct_answer": "Germany",
     "difficulty": 3
@@ -290,6 +380,7 @@
   {
     "id": 25,
     "question": "Which country is the home of the club 'Aalborg'?",
+    "question_el": "Από ποια χώρα είναι η Aalborg;",
     "options": [
       "Netherlands",
       "Finland",
@@ -302,11 +393,18 @@
   {
     "id": 26,
     "question": "Which country does Tomas Soucek represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Tomas Soucek;",
     "options": [
       "Czech Republic",
       "Slovakia",
       "Slovenia",
       "Serbia"
+    ],
+    "options_el": [
+      "Τσεχία",
+      "Σλοβακία",
+      "Σλοβενία",
+      "Σερβία"
     ],
     "correct_answer": "Czech Republic",
     "difficulty": 3
@@ -314,6 +412,7 @@
   {
     "id": 27,
     "question": "Which country does Pierre-Emerick Aubameyang represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Pierre-Emerick Aubameyang;",
     "options": [
       "Gabon",
       "Ghana",
@@ -326,11 +425,18 @@
   {
     "id": 28,
     "question": "The 'Georgios Karaiskakis' stadium is located in which city?",
+    "question_el": "Σε ποια πόλη βρίσκεται το γήπεδο «Γεώργιος Καραϊσκάκης»;",
     "options": [
       "Piraeus",
       "Athens",
       "Thessaloniki",
       "Patras"
+    ],
+    "options_el": [
+      "Πειραιάς",
+      "Αθήνα",
+      "Θεσσαλονίκη",
+      "Πάτρα"
     ],
     "correct_answer": "Piraeus",
     "difficulty": 3
@@ -338,6 +444,7 @@
   {
     "id": 29,
     "question": "Which country is the home of the historic club 'Peñarol'?",
+    "question_el": "Από ποια χώρα είναι η ιστορική Peñarol;",
     "options": [
       "Argentina",
       "Chile",
@@ -350,6 +457,7 @@
   {
     "id": 30,
     "question": "The 'Stade Vélodrome' is the home of which French club?",
+    "question_el": "Το Stade Vélodrome είναι η έδρα ποιας γαλλικής ομάδας;",
     "options": [
       "PSG",
       "Lyon",
@@ -362,6 +470,7 @@
   {
     "id": 31,
     "question": "Which of the following teams is from Switzerland?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι από την Ελβετία;",
     "options": [
       "FC Basel",
       "Rosenborg",
@@ -374,6 +483,7 @@
   {
     "id": 32,
     "question": "Which of the following teams is from Sweden?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι από τη Σουηδία;",
     "options": [
       "Malmö FF",
       "Molde",
@@ -386,6 +496,7 @@
   {
     "id": 33,
     "question": "Which of the following teams is from Norway?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι από τη Νορβηγία;",
     "options": [
       "Bodø/Glimt",
       "Djurgårdens IF",
@@ -398,6 +509,7 @@
   {
     "id": 34,
     "question": "Which of the following teams is from Austria?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι από την Αυστρία;",
     "options": [
       "LASK",
       "Rosenborg",
@@ -410,6 +522,7 @@
   {
     "id": 35,
     "question": "Which of the following teams is from Portugal?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι από την Πορτογαλία;",
     "options": [
       "Elche",
       "Real Valladolid",
@@ -422,6 +535,7 @@
   {
     "id": 36,
     "question": "Which of the following teams is from Spain?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι από την Ισπανία;",
     "options": [
       "Real Zaragoza",
       "Maritimo",
@@ -434,6 +548,7 @@
   {
     "id": 37,
     "question": "Which of the following teams is from Republic of Ireland?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι από τη Δημοκρατία της Ιρλανδίας;",
     "options": [
       "Shamrock Rovers",
       "Hearts",
@@ -446,11 +561,18 @@
   {
     "id": 38,
     "question": "Which of the following teams is from Scotland?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι από τη Σκωτία;",
     "options": [
       "Heart of Midlothian",
       "Rangers",
       "Celtic",
       "All of the above"
+    ],
+    "options_el": [
+      "Heart of Midlothian",
+      "Rangers",
+      "Celtic",
+      "Όλες οι παραπάνω"
     ],
     "correct_answer": "All of the above",
     "difficulty": 3
@@ -458,11 +580,18 @@
   {
     "id": 39,
     "question": "Which of the following teams is from Greece?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι από την Ελλάδα;",
     "options": [
       "Panathinaikos",
       "CSKA Sofia",
       "Ferencváros",
       "All of the above"
+    ],
+    "options_el": [
+      "Panathinaikos",
+      "CSKA Sofia",
+      "Ferencváros",
+      "Όλες οι παραπάνω"
     ],
     "correct_answer": "Panathinaikos",
     "difficulty": 3
@@ -470,6 +599,7 @@
   {
     "id": 40,
     "question": "Which of the following teams is from Serbia?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι από τη Σερβία;",
     "options": [
       "Crvena Zvezda",
       "Dinamo Zagreb",
@@ -482,11 +612,18 @@
   {
     "id": 41,
     "question": "Which of the following teams is from Croatia?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι από την Κροατία;",
     "options": [
       "Hajduk Split",
       "Partizan",
       "Ludogorets Razgrad",
       "All of the above"
+    ],
+    "options_el": [
+      "Hajduk Split",
+      "Partizan",
+      "Ludogorets Razgrad",
+      "Όλες οι παραπάνω"
     ],
     "correct_answer": "Hajduk Split",
     "difficulty": 3
@@ -494,6 +631,7 @@
   {
     "id": 42,
     "question": "Which country does Joachim Andersen represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Joachim Andersen;",
     "options": [
       "Denmark",
       "Sweden",
@@ -506,6 +644,7 @@
   {
     "id": 43,
     "question": "Which country does Matty Cash represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Matty Cash;",
     "options": [
       "England",
       "Poland",
@@ -518,6 +657,7 @@
   {
     "id": 44,
     "question": "Which country does Daniel Muñoz represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Daniel Muñoz;",
     "options": [
       "Colombia",
       "Ecuador",
@@ -530,6 +670,7 @@
   {
     "id": 45,
     "question": "Which country does Nicolás González, the winger who played for Fiorentina and Juventus, represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Nicolás González, ο εξτρέμ που έπαιξε σε Fiorentina και Juventus;",
     "options": [
       "Spain",
       "Argentina",
@@ -542,6 +683,7 @@
   {
     "id": 46,
     "question": "Which country does Thomas Meunier represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Thomas Meunier;",
     "options": [
       "Belgium",
       "France",
@@ -554,6 +696,7 @@
   {
     "id": 47,
     "question": "Which country does Nicolas Pépé represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Nicolas Pépé;",
     "options": [
       "Ghana",
       "Ivory Coast",
@@ -566,6 +709,7 @@
   {
     "id": 48,
     "question": "Which country does Antonio Nusa represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Antonio Nusa;",
     "options": [
       "Norway",
       "Sweden",
@@ -578,6 +722,7 @@
   {
     "id": 49,
     "question": "Which country does Ismaël Saibari represent?",
+    "question_el": "Ποια χώρα εκπροσωπεί ο Ismaël Saibari;",
     "options": [
       "Morocco",
       "Algeria",
@@ -590,6 +735,7 @@
   {
     "id": 50,
     "question": "Which of the following footballers represents the Ghana national team?",
+    "question_el": "Ποιος από τους παρακάτω ποδοσφαιριστές παίζει στην Εθνική Γκάνας;",
     "options": [
       "Mohammed Kudus",
       "Victor Osimhen",
@@ -602,11 +748,18 @@
   {
     "id": 51,
     "question": "Which of the following footballers represents the Nigeria national team?",
+    "question_el": "Ποιος από τους παρακάτω ποδοσφαιριστές παίζει στην Εθνική Νιγηρίας;",
     "options": [
       "Victor Osimhen",
       "Thomas Partey",
       "Idrissa Gueye",
       "All of the above"
+    ],
+    "options_el": [
+      "Victor Osimhen",
+      "Thomas Partey",
+      "Idrissa Gueye",
+      "Όλοι οι παραπάνω"
     ],
     "correct_answer": "Victor Osimhen",
     "difficulty": 3
@@ -614,6 +767,7 @@
   {
     "id": 52,
     "question": "Which of the following footballers does not represent the Italy national team?",
+    "question_el": "Ποιος από τους παρακάτω ποδοσφαιριστές δεν παίζει στην Εθνική Ιταλίας;",
     "options": [
       "Lorenzo Pellegrini",
       "Manuel Lanzini",
@@ -626,6 +780,7 @@
   {
     "id": 53,
     "question": "Which of the following footballers represents the Switzerland national team?",
+    "question_el": "Ποιος από τους παρακάτω ποδοσφαιριστές παίζει στην Εθνική Ελβετίας;",
     "options": [
       "Breel Embolo",
       "David Alaba",
@@ -638,6 +793,7 @@
   {
     "id": 54,
     "question": "Which of the following footballers does not represent the Austria national team?",
+    "question_el": "Ποιος από τους παρακάτω ποδοσφαιριστές δεν παίζει στην Εθνική Αυστρίας;",
     "options": [
       "David Alaba",
       "Marko Arnautović",
@@ -650,6 +806,7 @@
   {
     "id": 55,
     "question": "Which of the following footballers does not represent the Greece national team?",
+    "question_el": "Ποιος από τους παρακάτω ποδοσφαιριστές δεν παίζει στην Εθνική Ελλάδας;",
     "options": [
       "Kostas Tsimikas",
       "Christos Tzolis",
@@ -662,6 +819,7 @@
   {
     "id": 56,
     "question": "Which of the following footballers represents the Slovenia national team?",
+    "question_el": "Ποιος από τους παρακάτω ποδοσφαιριστές παίζει στην Εθνική Σλοβενίας;",
     "options": [
       "Benjamin Šeško",
       "Dušan Tadić",
@@ -674,6 +832,7 @@
   {
     "id": 57,
     "question": "Which of the following footballers represents the Serbia national team?",
+    "question_el": "Ποιος από τους παρακάτω ποδοσφαιριστές παίζει στην Εθνική Σερβίας;",
     "options": [
       "Sergej Milinković-Savić",
       "Jan Oblak",
@@ -686,6 +845,7 @@
   {
     "id": 58,
     "question": "Which of the following footballers represents the Scotland national team?",
+    "question_el": "Ποιος από τους παρακάτω ποδοσφαιριστές παίζει στην Εθνική Σκωτίας;",
     "options": [
       "John McGinn",
       "Harry Wilson",
@@ -698,6 +858,7 @@
   {
     "id": 59,
     "question": "Which of the following footballers does not represent the Mexico national team?",
+    "question_el": "Ποιος από τους παρακάτω ποδοσφαιριστές δεν παίζει στην Εθνική Μεξικού;",
     "options": [
       "Hirving Lozano",
       "Santiago Giménez",
@@ -710,6 +871,7 @@
   {
     "id": 60,
     "question": "Which of the following footballers represents the Turkey national team?",
+    "question_el": "Ποιος από τους παρακάτω ποδοσφαιριστές παίζει στην Εθνική Τουρκίας;",
     "options": [
       "Merih Demiral",
       "Mehdi Taremi",
@@ -722,6 +884,7 @@
   {
     "id": 61,
     "question": "Which of the following footballers represents the South Korea national team?",
+    "question_el": "Ποιος από τους παρακάτω ποδοσφαιριστές παίζει στην Εθνική Νότιας Κορέας;",
     "options": [
       "Kim Min-jae",
       "Takumi Minamino",
@@ -734,6 +897,7 @@
   {
     "id": 62,
     "question": "Which country has won the most European club trophies?",
+    "question_el": "Ποια χώρα έχει κατακτήσει τα περισσότερα ευρωπαϊκά τρόπαια συλλόγων;",
     "options": [
       "Spain",
       "England",
@@ -746,6 +910,7 @@
   {
     "id": 63,
     "question": "Which country has the most Ballon d'Or wins?",
+    "question_el": "Ποια χώρα έχει τις περισσότερες Χρυσές Μπάλες;",
     "options": [
       "Argentina",
       "Portugal",
@@ -758,6 +923,7 @@
   {
     "id": 64,
     "question": "Which country has won the most UEFA European Championship titles?",
+    "question_el": "Ποια χώρα έχει κατακτήσει τα περισσότερα Euro;",
     "options": [
       "Germany",
       "France",
@@ -770,6 +936,7 @@
   {
     "id": 65,
     "question": "Which of the following teams does not belong to Catalonia?",
+    "question_el": "Ποια από τις παρακάτω ομάδες δεν είναι από την Καταλονία;",
     "options": [
       "FC Barcelona",
       "Girona FC",
@@ -782,6 +949,7 @@
   {
     "id": 66,
     "question": "Which of the following teams is from the Basque Country?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι από τη Χώρα των Βάσκων;",
     "options": [
       "Valencia CF",
       "Real Sociedad",
@@ -794,6 +962,7 @@
   {
     "id": 67,
     "question": "Which continent's football federation does Israel belong to?",
+    "question_el": "Στην ποδοσφαιρική ομοσπονδία ποιας ηπείρου ανήκει το Ισραήλ;",
     "options": [
       "Asia",
       "Europe",
@@ -806,6 +975,7 @@
   {
     "id": 68,
     "question": "Which continent's football federation does Kazakhstan belong to?",
+    "question_el": "Στην ποδοσφαιρική ομοσπονδία ποιας ηπείρου ανήκει το Καζακστάν;",
     "options": [
       "Asia",
       "Europe",
@@ -818,11 +988,18 @@
   {
     "id": 69,
     "question": "Which countries will host UEFA Euro 2028?",
+    "question_el": "Ποιες χώρες θα διοργανώσουν το Euro 2028;",
     "options": [
       "United Kingdom and Ireland",
       "Spain and Portugal",
       "Germany and France",
       "Italy and Turkey"
+    ],
+    "options_el": [
+      "Ηνωμένο Βασίλειο και Ιρλανδία",
+      "Ισπανία και Πορτογαλία",
+      "Γερμανία και Γαλλία",
+      "Ιταλία και Τουρκία"
     ],
     "correct_answer": "United Kingdom and Ireland",
     "difficulty": 3
@@ -830,6 +1007,7 @@
   {
     "id": 70,
     "question": "Which continent has hosted the most FIFA World Cups?",
+    "question_el": "Ποια ήπειρος έχει διοργανώσει τα περισσότερα Μουντιάλ;",
     "options": [
       "Europe",
       "South America",
@@ -842,6 +1020,7 @@
   {
     "id": 71,
     "question": "Which is the only Scandinavian country to have hosted the World Cup?",
+    "question_el": "Ποια είναι η μόνη σκανδιναβική χώρα που έχει διοργανώσει Μουντιάλ;",
     "options": [
       "Sweden",
       "Denmark",
@@ -854,6 +1033,7 @@
   {
     "id": 72,
     "question": "If watching a game between Steaua Bucharest and CFR Cluj, what country would you be in?",
+    "question_el": "Αν βλέπεις αγώνα ανάμεσα σε Steaua Bucharest και CFR Cluj, σε ποια χώρα βρίσκεσαι;",
     "options": [
       "Hungary",
       "Romania",
@@ -866,6 +1046,7 @@
   {
     "id": 73,
     "question": "The oldest international fixture in football history (first played in 1872) is between Scotland and which other nation?",
+    "question_el": "Ο παλαιότερος διεθνής αγώνας στην ιστορία του ποδοσφαίρου (πρώτη φορά το 1872) είναι ανάμεσα στη Σκωτία και ποια άλλη χώρα;",
     "options": [
       "England",
       "Wales",
@@ -878,6 +1059,7 @@
   {
     "id": 74,
     "question": "Qarabağ FK are based in which country?",
+    "question_el": "Σε ποια χώρα έχει την έδρα της η Qarabağ FK;",
     "options": [
       "Georgia",
       "Armenia",
@@ -890,6 +1072,7 @@
   {
     "id": 75,
     "question": "Which is the most eastern nation to have won the FIFA World Cup?",
+    "question_el": "Ποια είναι η πιο ανατολική χώρα που έχει κατακτήσει Μουντιάλ;",
     "options": [
       "Russia",
       "Spain",
@@ -902,6 +1085,7 @@
   {
     "id": 76,
     "question": "Which non-French club plays in the French Ligue 1?",
+    "question_el": "Ποια μη γαλλική ομάδα παίζει στη γαλλική Ligue 1;",
     "options": [
       "Monaco",
       "Auxerre",
@@ -914,11 +1098,18 @@
   {
     "id": 77,
     "question": "In which English city is the King Power Stadium located?",
+    "question_el": "Σε ποια αγγλική πόλη βρίσκεται το King Power Stadium;",
     "options": [
       "Leicester",
       "Birmingham",
       "Nottingham",
       "Sheffield"
+    ],
+    "options_el": [
+      "Λέστερ",
+      "Μπέρμιγχαμ",
+      "Νότιγχαμ",
+      "Σέφιλντ"
     ],
     "correct_answer": "Leicester",
     "difficulty": 3
@@ -926,11 +1117,18 @@
   {
     "id": 78,
     "question": "In which city is the Estádio do Dragão located?",
+    "question_el": "Σε ποια πόλη βρίσκεται το Estádio do Dragão;",
     "options": [
       "Lisbon",
       "Porto",
       "Braga",
       "Coimbra"
+    ],
+    "options_el": [
+      "Λισαβόνα",
+      "Πόρτο",
+      "Μπράγκα",
+      "Κοΐμπρα"
     ],
     "correct_answer": "Porto",
     "difficulty": 3
@@ -938,11 +1136,18 @@
   {
     "id": 79,
     "question": "Which country is the club Al Ahly from?",
+    "question_el": "Από ποια χώρα είναι η Al Ahly;",
     "options": [
       "Saudi Arabia",
       "Tunisia",
       "Egypt",
       "UAE"
+    ],
+    "options_el": [
+      "Σαουδική Αραβία",
+      "Τυνησία",
+      "Αίγυπτος",
+      "ΗΑΕ"
     ],
     "correct_answer": "Egypt",
     "difficulty": 3
@@ -950,6 +1155,7 @@
   {
     "id": 80,
     "question": "Which country is the club Peñarol from?",
+    "question_el": "Από ποια χώρα είναι η Peñarol;",
     "options": [
       "Argentina",
       "Uruguay",
@@ -962,6 +1168,7 @@
   {
     "id": 81,
     "question": "Which country is Al-Ahli, the club from Jeddah, from?",
+    "question_el": "Από ποια χώρα είναι η Al-Ahli, η ομάδα της Τζέντα;",
     "options": [
       "Qatar",
       "United Arab Emirates",

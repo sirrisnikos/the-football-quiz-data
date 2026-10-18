@@ -2,6 +2,7 @@
   {
     "id": 101,
     "question": "Which team won the FIFA World Cup in 2018?",
+    "question_el": "Ποια ομάδα κατέκτησε το Μουντιάλ του 2018;",
     "options": [
       "France",
       "Croatia",
@@ -14,6 +15,7 @@
   {
     "id": 102,
     "question": "Who won the Ballon d'Or in 2021?",
+    "question_el": "Ποιος κέρδισε τη Χρυσή Μπάλα το 2021;",
     "options": [
       "Lionel Messi",
       "Robert Lewandowski",
@@ -26,6 +28,7 @@
   {
     "id": 103,
     "question": "Which club won the UEFA Champions League in 2020?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2020;",
     "options": [
       "Bayern Munich",
       "Paris Saint-Germain",
@@ -38,6 +41,7 @@
   {
     "id": 104,
     "question": "Who won the Ballon d'Or in 2018?",
+    "question_el": "Ποιος κέρδισε τη Χρυσή Μπάλα το 2018;",
     "options": [
       "Luka Modrić",
       "Cristiano Ronaldo",
@@ -50,6 +54,7 @@
   {
     "id": 105,
     "question": "Which national team won UEFA Euro 2016?",
+    "question_el": "Ποια εθνική ομάδα κατέκτησε το Euro 2016;",
     "options": [
       "France",
       "Portugal",
@@ -62,6 +67,7 @@
   {
     "id": 106,
     "question": "Which club won the UEFA Champions League in 2019?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2019;",
     "options": [
       "Liverpool",
       "Tottenham",
@@ -74,6 +80,7 @@
   {
     "id": 107,
     "question": "Who won the Ballon d'Or in 2022?",
+    "question_el": "Ποιος κέρδισε τη Χρυσή Μπάλα το 2022;",
     "options": [
       "Karim Benzema",
       "Kylian Mbappé",
@@ -86,6 +93,7 @@
   {
     "id": 108,
     "question": "Which country won the FIFA World Cup in 2014?",
+    "question_el": "Ποια χώρα κατέκτησε το Μουντιάλ του 2014;",
     "options": [
       "Germany",
       "Argentina",
@@ -98,6 +106,7 @@
   {
     "id": 109,
     "question": "Which club won the UEFA Champions League in 2018?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2018;",
     "options": [
       "Real Madrid",
       "Liverpool",
@@ -110,6 +119,7 @@
   {
     "id": 110,
     "question": "Which club has won the most Bundesliga titles?",
+    "question_el": "Ποια ομάδα έχει τους περισσότερους τίτλους στην Bundesliga;",
     "options": [
       "Bayern Munich",
       "Borussia Dortmund",
@@ -122,6 +132,7 @@
   {
     "id": 111,
     "question": "Which country won the FIFA World Cup in 2010?",
+    "question_el": "Ποια χώρα κατέκτησε το Μουντιάλ του 2010;",
     "options": [
       "Spain",
       "Netherlands",
@@ -134,6 +145,7 @@
   {
     "id": 112,
     "question": "Which club won the UEFA Champions League in 2021?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2021;",
     "options": [
       "Chelsea",
       "Manchester City",
@@ -146,6 +158,7 @@
   {
     "id": 113,
     "question": "Which club has won the most UEFA Champions League titles?",
+    "question_el": "Ποια ομάδα έχει κατακτήσει τα περισσότερα Champions League;",
     "options": [
       "Real Madrid",
       "Liverpool",
@@ -158,6 +171,7 @@
   {
     "id": 114,
     "question": "Who has won the most Ballon d'Or awards?",
+    "question_el": "Ποιος έχει κερδίσει τις περισσότερες Χρυσές Μπάλες;",
     "options": [
       "Lionel Messi",
       "Cristiano Ronaldo",
@@ -170,6 +184,7 @@
   {
     "id": 115,
     "question": "Which club won the UEFA Champions League in 2017?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2017;",
     "options": [
       "Real Madrid",
       "Juventus",
@@ -182,6 +197,7 @@
   {
     "id": 116,
     "question": "Who won the Ballon d'Or in 2019?",
+    "question_el": "Ποιος κέρδισε τη Χρυσή Μπάλα το 2019;",
     "options": [
       "Lionel Messi",
       "Virgil van Dijk",
@@ -194,6 +210,7 @@
   {
     "id": 118,
     "question": "Which club won the UEFA Champions League in 2016?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2016;",
     "options": [
       "Real Madrid",
       "Atlético Madrid",
@@ -206,6 +223,7 @@
   {
     "id": 119,
     "question": "Who won the Ballon d'Or in 2014?",
+    "question_el": "Ποιος κέρδισε τη Χρυσή Μπάλα το 2014;",
     "options": [
       "Cristiano Ronaldo",
       "Lionel Messi",
@@ -218,6 +236,7 @@
   {
     "id": 120,
     "question": "Which country won UEFA Euro 2008?",
+    "question_el": "Ποια χώρα κατέκτησε το Euro 2008;",
     "options": [
       "Spain",
       "Germany",
@@ -230,6 +249,7 @@
   {
     "id": 121,
     "question": "Which club won the UEFA Champions League in 2015?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2015;",
     "options": [
       "Barcelona",
       "Juventus",
@@ -242,6 +262,7 @@
   {
     "id": 122,
     "question": "Who is the all time top scorer in the UEFA Champions League?",
+    "question_el": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών στο Champions League;",
     "options": [
       "Cristiano Ronaldo",
       "Lionel Messi",
@@ -254,6 +275,7 @@
   {
     "id": 123,
     "question": "Who scored the famous 'Hand of God' goal in the 1986 FIFA World Cup?",
+    "question_el": "Ποιος σκόραρε το διάσημο γκολ με το «Χέρι του Θεού» στο Μουντιάλ του 1986;",
     "options": [
       "Diego Maradona",
       "Pelé",
@@ -266,6 +288,7 @@
   {
     "id": 124,
     "question": "Which club won the UEFA Champions League in 2013?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2013;",
     "options": [
       "Bayern Munich",
       "Borussia Dortmund",
@@ -278,6 +301,7 @@
   {
     "id": 125,
     "question": "Which club won the 2025 UEFA Champions League?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League του 2025;",
     "options": [
       "Inter Milan",
       "Paris Saint-Germain",
@@ -290,6 +314,7 @@
   {
     "id": 126,
     "question": "Which country won UEFA Euro 2020?",
+    "question_el": "Ποια χώρα κατέκτησε το Euro 2020;",
     "options": [
       "Italy",
       "England",
@@ -302,6 +327,7 @@
   {
     "id": 127,
     "question": "Which player won the 2024 Ballon d'Or?",
+    "question_el": "Ποιος παίκτης κέρδισε τη Χρυσή Μπάλα του 2024;",
     "options": [
       "Lionel Messi",
       "Rodri",
@@ -314,6 +340,7 @@
   {
     "id": 128,
     "question": "Who won the Ballon d'Or in 2012?",
+    "question_el": "Ποιος κέρδισε τη Χρυσή Μπάλα το 2012;",
     "options": [
       "Lionel Messi",
       "Cristiano Ronaldo",
@@ -326,6 +353,7 @@
   {
     "id": 129,
     "question": "Which club did Lionel Messi join in 2021?",
+    "question_el": "Σε ποια ομάδα πήγε ο Lionel Messi το 2021;",
     "options": [
       "Paris Saint-Germain",
       "Barcelona",
@@ -338,6 +366,7 @@
   {
     "id": 130,
     "question": "Which club did Cristiano Ronaldo join in 2018?",
+    "question_el": "Σε ποια ομάδα πήγε ο Cristiano Ronaldo το 2018;",
     "options": [
       "Al-Nassr",
       "Manchester United",
@@ -350,6 +379,7 @@
   {
     "id": 131,
     "question": "Which country won the FIFA World Cup 2026?",
+    "question_el": "Ποια χώρα κατέκτησε το Μουντιάλ του 2026;",
     "options": [
       "Spain",
       "Argentina",
@@ -362,6 +392,7 @@
   {
     "id": 132,
     "question": "Which country was the runner-up at the FIFA World Cup 2026?",
+    "question_el": "Ποια χώρα ήταν φιναλίστ στο Μουντιάλ του 2026;",
     "options": [
       "Argentina",
       "England",
@@ -374,6 +405,7 @@
   {
     "id": 133,
     "question": "Which country won the FIFA World Cup 2022?",
+    "question_el": "Ποια χώρα κατέκτησε το Μουντιάλ του 2022;",
     "options": [
       "Argentina",
       "France",
@@ -386,6 +418,7 @@
   {
     "id": 134,
     "question": "Which country was the runner-up at the FIFA World Cup 2022?",
+    "question_el": "Ποια χώρα ήταν φιναλίστ στο Μουντιάλ του 2022;",
     "options": [
       "France",
       "Croatia",
@@ -398,6 +431,7 @@
   {
     "id": 135,
     "question": "Which country won UEFA Euro 2024?",
+    "question_el": "Ποια χώρα κατέκτησε το Euro 2024;",
     "options": [
       "Spain",
       "England",
@@ -410,6 +444,7 @@
   {
     "id": 136,
     "question": "Which country was the runner-up at UEFA Euro 2024?",
+    "question_el": "Ποια χώρα ήταν φιναλίστ στο Euro 2024;",
     "options": [
       "England",
       "Germany",
@@ -422,6 +457,7 @@
   {
     "id": 137,
     "question": "Which club won the UEFA Champions League in 2014?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2014;",
     "options": [
       "Real Madrid",
       "Atletico Madrid",
@@ -434,6 +470,7 @@
   {
     "id": 138,
     "question": "Which club was the runner-up in the UEFA Champions League 2014?",
+    "question_el": "Ποια ομάδα ήταν φιναλίστ στο Champions League του 2014;",
     "options": [
       "Atletico Madrid",
       "Bayern Munich",
@@ -446,6 +483,7 @@
   {
     "id": 139,
     "question": "Which club won the UEFA Champions League in 2022?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2022;",
     "options": [
       "Real Madrid",
       "Liverpool",
@@ -458,6 +496,7 @@
   {
     "id": 140,
     "question": "Which club was the runner-up in the UEFA Champions League 2022?",
+    "question_el": "Ποια ομάδα ήταν φιναλίστ στο Champions League του 2022;",
     "options": [
       "Liverpool",
       "Manchester City",
@@ -470,6 +509,7 @@
   {
     "id": 141,
     "question": "Which club won the UEFA Champions League in 2023?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2023;",
     "options": [
       "Manchester City",
       "Inter Milan",
@@ -482,6 +522,7 @@
   {
     "id": 142,
     "question": "Which club was the runner-up in the UEFA Champions League 2023?",
+    "question_el": "Ποια ομάδα ήταν φιναλίστ στο Champions League του 2023;",
     "options": [
       "Inter Milan",
       "AC Milan",
@@ -494,6 +535,7 @@
   {
     "id": 143,
     "question": "Which club won the UEFA Champions League in 2024?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2024;",
     "options": [
       "Real Madrid",
       "Borussia Dortmund",
@@ -506,6 +548,7 @@
   {
     "id": 144,
     "question": "Which club was the runner-up in the UEFA Champions League 2024?",
+    "question_el": "Ποια ομάδα ήταν φιναλίστ στο Champions League του 2024;",
     "options": [
       "Borussia Dortmund",
       "Bayern Munich",
@@ -518,6 +561,7 @@
   {
     "id": 145,
     "question": "Which club won the UEFA Champions League in 2025?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2025;",
     "options": [
       "Paris Saint-Germain",
       "Inter Milan",
@@ -530,6 +574,7 @@
   {
     "id": 146,
     "question": "Which club was the runner-up in the UEFA Champions League 2025?",
+    "question_el": "Ποια ομάδα ήταν φιναλίστ στο Champions League του 2025;",
     "options": [
       "Inter Milan",
       "Barcelona",
@@ -542,6 +587,7 @@
   {
     "id": 147,
     "question": "Which club won the UEFA Champions League in 2026?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League το 2026;",
     "options": [
       "Paris Saint-Germain",
       "Arsenal",
@@ -554,6 +600,7 @@
   {
     "id": 148,
     "question": "Which club was the runner-up in the UEFA Champions League 2026?",
+    "question_el": "Ποια ομάδα ήταν φιναλίστ στο Champions League του 2026;",
     "options": [
       "Arsenal",
       "Barcelona",
@@ -566,6 +613,7 @@
   {
     "id": 149,
     "question": "Which club has won the most UEFA Europa League/UEFA Cup titles?",
+    "question_el": "Ποια ομάδα έχει κατακτήσει τα περισσότερα Europa League / Κύπελλα UEFA;",
     "options": [
       "Sevilla",
       "Tottenham Hotspur",
@@ -578,6 +626,7 @@
   {
     "id": 150,
     "question": "Which club won the Premier League title in the 2019-20 season (2020)?",
+    "question_el": "Ποια ομάδα κατέκτησε την Premier League τη σεζόν 2019-20 (2020);",
     "options": [
       "Liverpool",
       "Manchester City",
@@ -590,6 +639,7 @@
   {
     "id": 151,
     "question": "Which club won the Premier League title in the 2021-22 season (2022)?",
+    "question_el": "Ποια ομάδα κατέκτησε την Premier League τη σεζόν 2021-22 (2022);",
     "options": [
       "Manchester City",
       "Liverpool",
@@ -602,6 +652,7 @@
   {
     "id": 152,
     "question": "Which club won the Premier League title in the 2023-24 season (2024)?",
+    "question_el": "Ποια ομάδα κατέκτησε την Premier League τη σεζόν 2023-24 (2024);",
     "options": [
       "Manchester City",
       "Arsenal",
@@ -614,6 +665,7 @@
   {
     "id": 153,
     "question": "Which club won the Premier League title in the 2025-26 season (2026)?",
+    "question_el": "Ποια ομάδα κατέκτησε την Premier League τη σεζόν 2025-26 (2026);",
     "options": [
       "Arsenal",
       "Manchester City",
@@ -626,6 +678,7 @@
   {
     "id": 154,
     "question": "Which club did Jude Bellingham join after leaving Borussia Dortmund?",
+    "question_el": "Σε ποια ομάδα πήγε ο Jude Bellingham όταν έφυγε από την Borussia Dortmund;",
     "options": [
       "Real Madrid",
       "Barcelona",
@@ -638,6 +691,7 @@
   {
     "id": 155,
     "question": "Which club did Erling Haaland join after leaving Borussia Dortmund?",
+    "question_el": "Σε ποια ομάδα πήγε ο Erling Haaland όταν έφυγε από την Borussia Dortmund;",
     "options": [
       "Manchester City",
       "Real Madrid",
@@ -650,6 +704,7 @@
   {
     "id": 156,
     "question": "Which club did Michael Olise join after leaving Crystal Palace?",
+    "question_el": "Σε ποια ομάδα πήγε ο Michael Olise όταν έφυγε από την Crystal Palace;",
     "options": [
       "Bayern Munich",
       "Real Madrid",
@@ -662,6 +717,7 @@
   {
     "id": 157,
     "question": "Which club did Harry Kane play for before joining Bayern Munich?",
+    "question_el": "Σε ποια ομάδα έπαιζε ο Harry Kane πριν πάει στην Bayern Munich;",
     "options": [
       "Tottenham Hotspur",
       "Arsenal",
@@ -674,6 +730,7 @@
   {
     "id": 158,
     "question": "Which country has won the most FIFA World Cups?",
+    "question_el": "Ποια χώρα έχει κατακτήσει τα περισσότερα Μουντιάλ;",
     "options": [
       "Brazil",
       "Germany",
@@ -686,6 +743,7 @@
   {
     "id": 159,
     "question": "Who is the all-time top scorer in La Liga?",
+    "question_el": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών στη La Liga;",
     "options": [
       "Lionel Messi",
       "Cristiano Ronaldo",
@@ -698,6 +756,7 @@
   {
     "id": 160,
     "question": "Who is the all-time top scorer in the UEFA Champions League?",
+    "question_el": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών στο Champions League;",
     "options": [
       "Cristiano Ronaldo",
       "Lionel Messi",
@@ -710,6 +769,7 @@
   {
     "id": 161,
     "question": "Which player holds the record for the most appearances for AS Roma, earning the nickname 'Il Capitano'?",
+    "question_el": "Ποιος παίκτης έχει το ρεκόρ συμμετοχών με την AS Roma και το παρατσούκλι «Il Capitano»;",
     "options": [
       "Francesco Totti",
       "Daniele De Rossi",
@@ -722,6 +782,7 @@
   {
     "id": 162,
     "question": "Which team won three consecutive UEFA Champions League titles between 2016 and 2018?",
+    "question_el": "Ποια ομάδα κατέκτησε τρία συνεχόμενα Champions League από το 2016 έως το 2018;",
     "options": [
       "Barcelona",
       "Bayern Munich",
@@ -734,6 +795,7 @@
   {
     "id": 163,
     "question": "Who scored the only goal in the 2020 UEFA Champions League final?",
+    "question_el": "Ποιος σκόραρε το μοναδικό γκολ στον τελικό του Champions League το 2020;",
     "options": [
       "Robert Lewandowski",
       "Kingsley Coman",
@@ -746,6 +808,7 @@
   {
     "id": 164,
     "question": "Who scored the only goal in the 2021 UEFA Champions League final?",
+    "question_el": "Ποιος σκόραρε το μοναδικό γκολ στον τελικό του Champions League το 2021;",
     "options": [
       "Kai Havertz",
       "Timo Werner",
@@ -758,6 +821,7 @@
   {
     "id": 165,
     "question": "Who scored the only goal in the 2022 UEFA Champions League final?",
+    "question_el": "Ποιος σκόραρε το μοναδικό γκολ στον τελικό του Champions League το 2022;",
     "options": [
       "Karim Benzema",
       "Vinícius Júnior",
@@ -770,6 +834,7 @@
   {
     "id": 166,
     "question": "Who scored the only goal in the 2023 UEFA Champions League final?",
+    "question_el": "Ποιος σκόραρε το μοναδικό γκολ στον τελικό του Champions League το 2023;",
     "options": [
       "Erling Haaland",
       "İlkay Gündoğan",
@@ -782,11 +847,18 @@
   {
     "id": 167,
     "question": "How often is the FIFA World Cup held?",
+    "question_el": "Κάθε πόσο γίνεται το Μουντιάλ;",
     "options": [
       "Every 2 years",
       "Every 3 years",
       "Every 4 years",
       "Every 5 years"
+    ],
+    "options_el": [
+      "Κάθε 2 χρόνια",
+      "Κάθε 3 χρόνια",
+      "Κάθε 4 χρόνια",
+      "Κάθε 5 χρόνια"
     ],
     "correct_answer": "Every 4 years",
     "difficulty": 1
@@ -794,11 +866,18 @@
   {
     "id": 168,
     "question": "How often is the UEFA European Championship held?",
+    "question_el": "Κάθε πόσο γίνεται το Euro;",
     "options": [
       "Every 2 years",
       "Every 3 years",
       "Every 4 years",
       "Every 5 years"
+    ],
+    "options_el": [
+      "Κάθε 2 χρόνια",
+      "Κάθε 3 χρόνια",
+      "Κάθε 4 χρόνια",
+      "Κάθε 5 χρόνια"
     ],
     "correct_answer": "Every 4 years",
     "difficulty": 1
@@ -806,7 +885,14 @@
   {
     "id": 169,
     "question": "What is the name of the Spanish Cup?",
+    "question_el": "Πώς λέγεται το Κύπελλο Ισπανίας;",
     "options": [
+      "Copa del Rey",
+      "Copa de España",
+      "Supercopa de España",
+      "Copa Nacional"
+    ],
+    "options_el": [
       "Copa del Rey",
       "Copa de España",
       "Supercopa de España",
@@ -818,11 +904,18 @@
   {
     "id": 170,
     "question": "Which Spanish teams from the same city met in a Champions League final?",
+    "question_el": "Ποιες ισπανικές ομάδες από την ίδια πόλη αναμετρήθηκαν σε τελικό Champions League;",
     "options": [
       "Real Madrid and Rayo Vallecano",
       "Barcelona and Espanyol",
       "Real Madrid and Atlético Madrid",
       "Sevilla and Real Betis"
+    ],
+    "options_el": [
+      "Real Madrid και Rayo Vallecano",
+      "Barcelona και Espanyol",
+      "Real Madrid και Atlético Madrid",
+      "Sevilla και Real Betis"
     ],
     "correct_answer": "Real Madrid and Atlético Madrid",
     "difficulty": 1
@@ -830,6 +923,7 @@
   {
     "id": 171,
     "question": "Which club is known as 'Blaugrana'?",
+    "question_el": "Ποια ομάδα είναι γνωστή ως «Blaugrana»;",
     "options": [
       "Barcelona",
       "Real Madrid",
@@ -842,6 +936,7 @@
   {
     "id": 172,
     "question": "Which club is known as 'The Reds'?",
+    "question_el": "Ποια ομάδα είναι γνωστή ως «The Reds»;",
     "options": [
       "Liverpool",
       "Manchester United",
@@ -854,6 +949,7 @@
   {
     "id": 173,
     "question": "Which club is known as 'The Citizens'?",
+    "question_el": "Ποια ομάδα είναι γνωστή ως «The Citizens»;",
     "options": [
       "Manchester City",
       "Manchester United",
@@ -866,6 +962,7 @@
   {
     "id": 174,
     "question": "Which player scored the most goals in a single season?",
+    "question_el": "Ποιος παίκτης σκόραρε τα περισσότερα γκολ σε μία σεζόν;",
     "options": [
       "Lionel Messi",
       "Cristiano Ronaldo",

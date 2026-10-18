@@ -2,6 +2,7 @@
   {
     "id": 1,
     "question": "Which players scored Manchester United's two injury-time goals in the 1999 Champions League final?",
+    "question_el": "Ποιοι παίκτες σκόραραν τα δύο γκολ της Manchester United στις καθυστερήσεις του τελικού του Champions League το 1999;",
     "options": [
       "Sheringham & Solskjær",
       "Yorke & Cole",
@@ -14,6 +15,7 @@
   {
     "id": 3,
     "question": "Who was the losing finalist against Brazil in the 1994 FIFA World Cup?",
+    "question_el": "Ποια ομάδα έχασε τον τελικό του Μουντιάλ του 1994 από τη Βραζιλία;",
     "options": [
       "Germany",
       "Italy",
@@ -26,6 +28,7 @@
   {
     "id": 4,
     "question": "Who won the Ballon d'Or in 1995, the first year the award was opened to non-European players?",
+    "question_el": "Ποιος κέρδισε τη Χρυσή Μπάλα το 1995, την πρώτη χρονιά που το βραβείο άνοιξε σε μη Ευρωπαίους παίκτες;",
     "options": [
       "Ronaldo Nazário",
       "George Weah",
@@ -38,6 +41,7 @@
   {
     "id": 8,
     "question": "When did Barcelona win their first European Cup?",
+    "question_el": "Πότε κατέκτησε η Barcelona το πρώτο της Κύπελλο Πρωταθλητριών;",
     "options": [
       "1992",
       "1994",
@@ -50,6 +54,7 @@
   {
     "id": 11,
     "question": "Marco van Basten won three Ballon d'Or awards. In which year did he win his first?",
+    "question_el": "Ο Marco van Basten κέρδισε τρεις Χρυσές Μπάλες. Ποια χρονιά κέρδισε την πρώτη;",
     "options": [
       "1987",
       "1988",
@@ -62,6 +67,7 @@
   {
     "id": 12,
     "question": "Which stadium hosted the final of the 1998 FIFA World Cup?",
+    "question_el": "Σε ποιο γήπεδο έγινε ο τελικός του Μουντιάλ του 1998;",
     "options": [
       "Parc des Princes",
       "Stade de France",
@@ -74,11 +80,18 @@
   {
     "id": 13,
     "question": "Who did West Germany defeat in the final to win the 1990 World Cup?",
+    "question_el": "Ποια ομάδα νίκησε η Δυτική Γερμανία στον τελικό για να κατακτήσει το Μουντιάλ του 1990;",
     "options": [
       "Argentina",
       "England",
       "Italy",
       "Yugoslavia"
+    ],
+    "options_el": [
+      "Αργεντινή",
+      "Αγγλία",
+      "Ιταλία",
+      "Γιουγκοσλαβία"
     ],
     "correct_answer": "Argentina",
     "difficulty": 4
@@ -86,6 +99,7 @@
   {
     "id": 14,
     "question": "Which English club was banned from European competition for the longest period following the Heysel Disaster?",
+    "question_el": "Ποια αγγλική ομάδα αποκλείστηκε από τις ευρωπαϊκές διοργανώσεις για το μεγαλύτερο διάστημα μετά την τραγωδία του Heysel;",
     "options": [
       "Everton",
       "Liverpool",
@@ -98,6 +112,7 @@
   {
     "id": 15,
     "question": "Who was the only goalscorer of the 2004 UEFA Euro final between Greece and Portugal?",
+    "question_el": "Ποιος ήταν ο μοναδικός σκόρερ του τελικού του Euro 2004 ανάμεσα σε Ελλάδα και Πορτογαλία;",
     "options": [
       "Luis Figo",
       "Georgios Karagounis",
@@ -110,6 +125,7 @@
   {
     "id": 17,
     "question": "Which Barcelona captain lifted the European Cup at Wembley in 1992?",
+    "question_el": "Ποιος αρχηγός της Barcelona σήκωσε το Κύπελλο Πρωταθλητριών στο Wembley το 1992;",
     "options": [
       "Pep Guardiola",
       "José Mari Bakero",
@@ -122,6 +138,7 @@
   {
     "id": 18,
     "question": "In 1994, which player missed the final penalty for Italy in the World Cup shootout?",
+    "question_el": "Το 1994, ποιος παίκτης της Ιταλίας έχασε το τελευταίο πέναλτι στη διαδικασία των πέναλτι του Μουντιάλ;",
     "options": [
       "Franco Baresi",
       "Roberto Baggio",
@@ -134,6 +151,7 @@
   {
     "id": 19,
     "question": "Which player holds the record for the most goals scored in a single World Cup tournament (13)?",
+    "question_el": "Ποιος παίκτης έχει το ρεκόρ με τα περισσότερα γκολ σε ένα μόνο Μουντιάλ (13);",
     "options": [
       "Just Fontaine",
       "Gerd Müller",
@@ -146,11 +164,18 @@
   {
     "id": 20,
     "question": "Which team won the first-ever UEFA European Championship in 1960?",
+    "question_el": "Ποια ομάδα κατέκτησε το πρώτο Euro της ιστορίας, το 1960;",
     "options": [
       "Yugoslavia",
       "Soviet Union",
       "Spain",
       "France"
+    ],
+    "options_el": [
+      "Γιουγκοσλαβία",
+      "Σοβιετική Ένωση",
+      "Ισπανία",
+      "Γαλλία"
     ],
     "correct_answer": "Soviet Union",
     "difficulty": 4
@@ -158,6 +183,7 @@
   {
     "id": 24,
     "question": "Who won the Golden Ball (Best Player) at the 1998 FIFA World Cup?",
+    "question_el": "Ποιος κέρδισε τη Χρυσή Μπάλα (καλύτερος παίκτης) στο Μουντιάλ του 1998;",
     "options": [
       "Zinedine Zidane",
       "Ronaldo Nazário",
@@ -170,6 +196,7 @@
   {
     "id": 26,
     "question": "How many times did Pelé win the FIFA World Cup as a player?",
+    "question_el": "Πόσες φορές κατέκτησε το Μουντιάλ ο Pelé ως παίκτης;",
     "options": [
       "1",
       "2",
@@ -182,6 +209,7 @@
   {
     "id": 27,
     "question": "Which Balkan country finished 3rd in their debut World Cup appearance in 1998?",
+    "question_el": "Ποια βαλκανική χώρα τερμάτισε 3η στην πρώτη της συμμετοχή σε Μουντιάλ, το 1998;",
     "options": [
       "Serbia",
       "Croatia",
@@ -194,6 +222,7 @@
   {
     "id": 30,
     "question": "Which club won the 2025 UEFA Women's Champions League?",
+    "question_el": "Ποια ομάδα κατέκτησε το Champions League Γυναικών το 2025;",
     "options": [
       "Arsenal",
       "Barcelona",
@@ -206,6 +235,7 @@
   {
     "id": 31,
     "question": "Who scored the 'Golden Goal' for France in the Euro 2000 final against Italy?",
+    "question_el": "Ποιος σκόραρε το «χρυσό γκολ» της Γαλλίας στον τελικό του Euro 2000 κόντρα στην Ιταλία;",
     "options": [
       "Zinedine Zidane",
       "David Trezeguet",
@@ -218,6 +248,7 @@
   {
     "id": 32,
     "question": "Who scored the fastest goal in UEFA Champions League history?",
+    "question_el": "Ποιος σκόραρε το πιο γρήγορο γκολ στην ιστορία του Champions League;",
     "options": [
       "Roy Makaay",
       "Alessandro Del Piero",
@@ -230,6 +261,7 @@
   {
     "id": 33,
     "question": "Which of the following managers is not a former Barcelona player but has managed Barcelona?",
+    "question_el": "Ποιος από τους παρακάτω προπονητές δεν έχει παίξει στην Barcelona, αλλά την έχει προπονήσει;",
     "options": [
       "Pep Guardiola",
       "Luis Enrique",
@@ -242,6 +274,7 @@
   {
     "id": 34,
     "question": "Which of the following Greek players has made the most appearances for AS Roma?",
+    "question_el": "Ποιος από τους παρακάτω Έλληνες παίκτες έχει τις περισσότερες συμμετοχές με την AS Roma;",
     "options": [
       "Kostas Manolas",
       "Vasilis Torosidis",
@@ -254,6 +287,7 @@
   {
     "id": 35,
     "question": "Who was the top scorer at the 2002 FIFA World Cup?",
+    "question_el": "Ποιος ήταν ο πρώτος σκόρερ του Μουντιάλ του 2002;",
     "options": [
       "Ronaldo",
       "Miroslav Klose",
@@ -266,6 +300,7 @@
   {
     "id": 36,
     "question": "Who was the top scorer at the 2006 FIFA World Cup?",
+    "question_el": "Ποιος ήταν ο πρώτος σκόρερ του Μουντιάλ του 2006;",
     "options": [
       "Miroslav Klose",
       "Hernán Crespo",
@@ -278,6 +313,7 @@
   {
     "id": 37,
     "question": "Who was the top scorer at the 2010 FIFA World Cup?",
+    "question_el": "Ποιος ήταν ο πρώτος σκόρερ του Μουντιάλ του 2010;",
     "options": [
       "David Villa",
       "Diego Forlán",
@@ -290,6 +326,7 @@
   {
     "id": 38,
     "question": "Which country won UEFA Euro 1992?",
+    "question_el": "Ποια χώρα κατέκτησε το Euro 1992;",
     "options": [
       "Germany",
       "Sweden",
@@ -302,11 +339,18 @@
   {
     "id": 39,
     "question": "Which country won UEFA Euro 1996?",
+    "question_el": "Ποια χώρα κατέκτησε το Euro 1996;",
     "options": [
       "Germany",
       "Czech Republic",
       "France",
       "England"
+    ],
+    "options_el": [
+      "Γερμανία",
+      "Τσεχία",
+      "Γαλλία",
+      "Αγγλία"
     ],
     "correct_answer": "Germany",
     "difficulty": 4
@@ -314,6 +358,7 @@
   {
     "id": 40,
     "question": "Which country won UEFA Euro 2000?",
+    "question_el": "Ποια χώρα κατέκτησε το Euro 2000;",
     "options": [
       "Italy",
       "France",
@@ -326,6 +371,7 @@
   {
     "id": 41,
     "question": "Who was Chelsea's manager when they won the UEFA Champions League in 2012?",
+    "question_el": "Ποιος ήταν ο προπονητής της Chelsea όταν κατέκτησε το Champions League το 2012;",
     "options": [
       "André Villas-Boas",
       "Roberto Di Matteo",
@@ -338,6 +384,7 @@
   {
     "id": 42,
     "question": "Who was Bayern Munich's manager when they won the UEFA Champions League in 2013?",
+    "question_el": "Ποιος ήταν ο προπονητής της Bayern Munich όταν κατέκτησε το Champions League το 2013;",
     "options": [
       "Jupp Heynckes",
       "Pep Guardiola",
@@ -350,6 +397,7 @@
   {
     "id": 43,
     "question": "Who is the only Portugal international to play for AC Milan and also play in the Bundesliga?",
+    "question_el": "Ποιος είναι ο μόνος διεθνής Πορτογάλος που έπαιξε στη AC Milan και έπαιξε και στην Bundesliga;",
     "options": [
       "André Silva",
       "Rui Costa",
@@ -362,6 +410,7 @@
   {
     "id": 44,
     "question": "How many first-division titles has Napoli won?",
+    "question_el": "Πόσα πρωταθλήματα πρώτης κατηγορίας έχει κατακτήσει η Napoli;",
     "options": [
       "1",
       "2",
@@ -374,6 +423,7 @@
   {
     "id": 45,
     "question": "Which team is the only one to have won the Coppa Italia seven times?",
+    "question_el": "Ποια ομάδα είναι η μόνη που έχει κατακτήσει το Coppa Italia επτά φορές;",
     "options": [
       "Lazio",
       "Roma",
@@ -386,6 +436,7 @@
   {
     "id": 46,
     "question": "Which team has won the most League Cup titles?",
+    "question_el": "Ποια ομάδα έχει κατακτήσει τα περισσότερα League Cup;",
     "options": [
       "Manchester United",
       "Liverpool",
@@ -398,11 +449,18 @@
   {
     "id": 47,
     "question": "For which Spanish teams did Diego Maradona play?",
+    "question_el": "Σε ποιες ισπανικές ομάδες έπαιξε ο Diego Maradona;",
     "options": [
       "Barcelona and Sevilla",
       "Real Madrid and Barcelona",
       "Sevilla and Real Madrid",
       "Valencia and Barcelona"
+    ],
+    "options_el": [
+      "Barcelona και Sevilla",
+      "Real Madrid και Barcelona",
+      "Sevilla και Real Madrid",
+      "Valencia και Barcelona"
     ],
     "correct_answer": "Barcelona and Sevilla",
     "difficulty": 4
@@ -410,6 +468,7 @@
   {
     "id": 48,
     "question": "Against which team did Lionel Messi score his first hat-trick for Barcelona in Spain?",
+    "question_el": "Απέναντι σε ποια ομάδα έκανε ο Lionel Messi το πρώτο του χατ-τρικ με την Barcelona στην Ισπανία;",
     "options": [
       "Real Madrid",
       "Athletic Bilbao",
@@ -422,6 +481,7 @@
   {
     "id": 49,
     "question": "Which of the following teams was founded first?",
+    "question_el": "Ποια από τις παρακάτω ομάδες ιδρύθηκε πρώτη;",
     "options": [
       "Getafe",
       "Barcelona",
@@ -434,6 +494,7 @@
   {
     "id": 50,
     "question": "How many times did Johan Cruyff win the Ballon d'Or?",
+    "question_el": "Πόσες φορές κέρδισε τη Χρυσή Μπάλα ο Johan Cruyff;",
     "options": [
       "0",
       "1",
@@ -446,6 +507,7 @@
   {
     "id": 51,
     "question": "Which national team won the Copa América in 2011?",
+    "question_el": "Ποια εθνική ομάδα κατέκτησε το Κόπα Αμέρικα το 2011;",
     "options": [
       "Argentina",
       "Peru",
@@ -458,6 +520,7 @@
   {
     "id": 52,
     "question": "How many consecutive Bundesliga titles had Bayern Munich won by 2023?",
+    "question_el": "Πόσα συνεχόμενα πρωταθλήματα Bundesliga είχε κατακτήσει η Bayern Munich μέχρι το 2023;",
     "options": [
       "9",
       "10",
@@ -470,6 +533,7 @@
   {
     "id": 53,
     "question": "When was the last time Borussia Dortmund won the Bundesliga?",
+    "question_el": "Πότε ήταν η τελευταία φορά που η Borussia Dortmund κατέκτησε την Bundesliga;",
     "options": [
       "2011-2012",
       "2013-2014",
@@ -482,6 +546,7 @@
   {
     "id": 54,
     "question": "Which of the following countries has never had a team win the Europa League?",
+    "question_el": "Ποια από τις παρακάτω χώρες δεν είχε ποτέ ομάδα που να κατακτήσει το Europa League;",
     "options": [
       "Belgium",
       "Turkey",
@@ -494,6 +559,7 @@
   {
     "id": 55,
     "question": "How many league titles had Chelsea won before Roman Abramovich became the club's owner?",
+    "question_el": "Πόσα πρωταθλήματα είχε κατακτήσει η Chelsea πριν γίνει ιδιοκτήτης της ο Roman Abramovich;",
     "options": [
       "0",
       "1",
@@ -506,6 +572,7 @@
   {
     "id": 56,
     "question": "In which season did Schalke achieve their best-ever Champions League performance by reaching the semi-finals?",
+    "question_el": "Σε ποια σεζόν η Schalke έκανε την καλύτερη πορεία της στο Champions League, φτάνοντας στους ημιτελικούς;",
     "options": [
       "2009-10",
       "2010-11",
@@ -518,6 +585,7 @@
   {
     "id": 57,
     "question": "In which year did Wales reach the European Championship semi-finals?",
+    "question_el": "Ποια χρονιά έφτασε η Ουαλία στους ημιτελικούς του Euro;",
     "options": [
       "2012",
       "2016",
@@ -530,6 +598,7 @@
   {
     "id": 58,
     "question": "When was the last time Santos won the Copa Libertadores?",
+    "question_el": "Πότε κατέκτησε τελευταία φορά η Santos το Copa Libertadores;",
     "options": [
       "1963",
       "1989",
@@ -542,6 +611,7 @@
   {
     "id": 59,
     "question": "Which national team participated in the FIFA World Cup for the first time in 2018?",
+    "question_el": "Ποια εθνική ομάδα συμμετείχε για πρώτη φορά σε Μουντιάλ το 2018;",
     "options": [
       "Egypt",
       "Senegal",
@@ -554,11 +624,18 @@
   {
     "id": 60,
     "question": "Which African country was the first to reach the FIFA World Cup quarter-finals?",
+    "question_el": "Ποια αφρικανική χώρα ήταν η πρώτη που έφτασε στα προημιτελικά Μουντιάλ;",
     "options": [
       "Algeria in 1982",
       "Cameroon in 1990",
       "Senegal in 2002",
       "Ghana in 2010"
+    ],
+    "options_el": [
+      "Η Αλγερία το 1982",
+      "Το Καμερούν το 1990",
+      "Η Σενεγάλη το 2002",
+      "Η Γκάνα το 2010"
     ],
     "correct_answer": "Cameroon in 1990",
     "difficulty": 4
@@ -566,6 +643,7 @@
   {
     "id": 61,
     "question": "Who scored the first goal of the 2022 FIFA World Cup?",
+    "question_el": "Ποιος σκόραρε το πρώτο γκολ του Μουντιάλ του 2022;",
     "options": [
       "Enner Valencia",
       "Moisés Caicedo",
@@ -578,6 +656,7 @@
   {
     "id": 110,
     "question": "Which stopper, who is England's youngest ever goalkeeper, joined Hull City in 2026?",
+    "question_el": "Ποιος τερματοφύλακας, ο νεότερος στην ιστορία της Εθνικής Αγγλίας, πήγε στη Hull City το 2026;",
     "options": [
       "Jack Butland",
       "Aaron Ramsdale",
@@ -590,6 +669,7 @@
   {
     "id": 62,
     "question": "The 2020/21 season ended with Leicester winning the FA Cup. Which club did they beat in the final?",
+    "question_el": "Η σεζόν 2020/21 έκλεισε με τη Leicester να κατακτά το FA Cup. Ποια ομάδα νίκησε στον τελικό;",
     "options": [
       "Chelsea",
       "Manchester City",
@@ -602,6 +682,7 @@
   {
     "id": 63,
     "question": "Which Italian has managed four different Premier League clubs?",
+    "question_el": "Ποιος Ιταλός έχει προπονήσει τέσσερις διαφορετικές ομάδες της Premier League;",
     "options": [
       "Claudio Ranieri",
       "Antonio Conte",
@@ -614,6 +695,7 @@
   {
     "id": 64,
     "question": "Which team has won the most second-tier titles in English football?",
+    "question_el": "Ποια ομάδα έχει κατακτήσει τα περισσότερα πρωταθλήματα δεύτερης κατηγορίας στην Αγγλία;",
     "options": [
       "Leicester City",
       "Manchester City",
@@ -626,6 +708,7 @@
   {
     "id": 65,
     "question": "In which year did Kaká move from AC Milan to Real Madrid?",
+    "question_el": "Ποια χρονιά πήγε ο Kaká από την AC Milan στη Real Madrid;",
     "options": [
       "2007",
       "2008",
@@ -638,6 +721,7 @@
   {
     "id": 66,
     "question": "Which of the following clubs did David Silva never play for?",
+    "question_el": "Σε ποια από τις παρακάτω ομάδες δεν έπαιξε ποτέ ο David Silva;",
     "options": [
       "Sevilla",
       "Valencia",
@@ -650,6 +734,7 @@
   {
     "id": 67,
     "question": "Against which team did Gareth Bale score a hat-trick in one half of a Champions League match during the 2010-11 season?",
+    "question_el": "Απέναντι σε ποια ομάδα έκανε ο Gareth Bale χατ-τρικ σε ένα ημίχρονο αγώνα του Champions League τη σεζόν 2010-11;",
     "options": [
       "Inter Milan",
       "AC Milan",
@@ -662,6 +747,7 @@
   {
     "id": 68,
     "question": "Which club did Barcelona sign Dani Alves from?",
+    "question_el": "Από ποια ομάδα απέκτησε η Barcelona τον Dani Alves;",
     "options": [
       "Sevilla",
       "Real Zaragoza",
@@ -674,6 +760,7 @@
   {
     "id": 69,
     "question": "Who is the oldest player to score in a FIFA World Cup?",
+    "question_el": "Ποιος είναι ο γηραιότερος παίκτης που έχει σκοράρει σε Μουντιάλ;",
     "options": [
       "Roger Milla",
       "Cristiano Ronaldo",
@@ -686,6 +773,7 @@
   {
     "id": 70,
     "question": "Who was the oldest player to participate in the 2026 FIFA World Cup?",
+    "question_el": "Ποιος ήταν ο γηραιότερος παίκτης που αγωνίστηκε στο Μουντιάλ του 2026;",
     "options": [
       "Craig Gordon",
       "Cristiano Ronaldo",
@@ -698,6 +786,7 @@
   {
     "id": 71,
     "question": "Who is the oldest Spanish player to have played at a European Championship?",
+    "question_el": "Ποιος είναι ο γηραιότερος Ισπανός παίκτης που έχει αγωνιστεί σε Euro;",
     "options": [
       "Jesús Navas",
       "Joselu",
@@ -710,6 +799,7 @@
   {
     "id": 72,
     "question": "Which player was named the best player of the 2010 FIFA World Cup?",
+    "question_el": "Ποιος παίκτης αναδείχθηκε καλύτερος του Μουντιάλ του 2010;",
     "options": [
       "Diego Forlán",
       "Xavi",
@@ -722,6 +812,7 @@
   {
     "id": 73,
     "question": "When was the last time VfL Wolfsburg won the Bundesliga?",
+    "question_el": "Πότε κατέκτησε τελευταία φορά η VfL Wolfsburg την Bundesliga;",
     "options": [
       "2007-08",
       "2008-09",
@@ -734,6 +825,7 @@
   {
     "id": 74,
     "question": "Which of the following clubs has Marko Arnautović never played for?",
+    "question_el": "Σε ποια από τις παρακάτω ομάδες δεν έχει παίξει ποτέ ο Marko Arnautović;",
     "options": [
       "West Ham United",
       "Stoke City",
@@ -746,6 +838,7 @@
   {
     "id": 75,
     "question": "Which club has won the most Kazakhstan Premier League titles?",
+    "question_el": "Ποια ομάδα έχει κατακτήσει τα περισσότερα πρωταθλήματα Καζακστάν;",
     "options": [
       "Astana",
       "Kairat",
@@ -758,6 +851,7 @@
   {
     "id": 76,
     "question": "Which of the following clubs is the oldest?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι η παλαιότερη;",
     "options": [
       "Barcelona",
       "AC Milan",
@@ -770,6 +864,7 @@
   {
     "id": 77,
     "question": "Which of the following clubs is the oldest?",
+    "question_el": "Ποια από τις παρακάτω ομάδες είναι η παλαιότερη;",
     "options": [
       "Real Madrid",
       "Napoli",
@@ -782,6 +877,7 @@
   {
     "id": 78,
     "question": "Which of these Belgian clubs has won a major European trophy?",
+    "question_el": "Ποια από αυτές τις βελγικές ομάδες έχει κατακτήσει μεγάλο ευρωπαϊκό τρόπαιο;",
     "options": [
       "Anderlecht",
       "Club Brugge",
@@ -794,6 +890,7 @@
   {
     "id": 79,
     "question": "Which manager has won the most La Liga titles as Barcelona manager?",
+    "question_el": "Ποιος προπονητής έχει κατακτήσει τα περισσότερα πρωταθλήματα La Liga στον πάγκο της Barcelona;",
     "options": [
       "Johan Cruyff",
       "Pep Guardiola",
@@ -806,6 +903,7 @@
   {
     "id": 80,
     "question": "Which of these players has made the most Premier League appearances for Tottenham Hotspur?",
+    "question_el": "Ποιος από αυτούς τους παίκτες έχει τις περισσότερες συμμετοχές στην Premier League με την Tottenham Hotspur;",
     "options": [
       "Harry Kane",
       "Steve Perryman",
@@ -818,6 +916,7 @@
   {
     "id": 81,
     "question": "Which club did Wayne Rooney make his Premier League debut for?",
+    "question_el": "Με ποια ομάδα έκανε ντεμπούτο στην Premier League ο Wayne Rooney;",
     "options": [
       "Everton",
       "Derby County",
@@ -830,6 +929,7 @@
   {
     "id": 82,
     "question": "Which of the following players made the most appearances for the Netherlands national team?",
+    "question_el": "Ποιος από τους παρακάτω παίκτες έχει τις περισσότερες συμμετοχές με την Εθνική Ολλανδίας;",
     "options": [
       "Wesley Sneijder",
       "Edwin van der Sar",
@@ -842,7 +942,14 @@
   {
     "id": 83,
     "question": "Which club did Thierry Henry begin his professional career with?",
+    "question_el": "Σε ποια ομάδα ξεκίνησε την επαγγελματική του καριέρα ο Thierry Henry;",
     "options": [
+      "Monaco",
+      "Lyon",
+      "Juventus",
+      "Arsenal"
+    ],
+    "options_el": [
       "Monaco",
       "Lyon",
       "Juventus",
@@ -854,6 +961,7 @@
   {
     "id": 84,
     "question": "Which of the following players did NOT come through the Manchester United academy?",
+    "question_el": "Ποιος από τους παρακάτω παίκτες ΔΕΝ βγήκε από την ακαδημία της Manchester United;",
     "options": [
       "Marcus Rashford",
       "Mason Greenwood",
@@ -866,6 +974,7 @@
   {
     "id": 85,
     "question": "For which of the following clubs did Mario Balotelli score the most goals?",
+    "question_el": "Σε ποια από τις παρακάτω ομάδες σκόραρε τα περισσότερα γκολ ο Mario Balotelli;",
     "options": [
       "AC Milan",
       "Manchester City",
@@ -878,6 +987,7 @@
   {
     "id": 86,
     "question": "Which of the following players has scored the most goals for Real Madrid?",
+    "question_el": "Ποιος από τους παρακάτω παίκτες έχει σκοράρει τα περισσότερα γκολ με τη Real Madrid;",
     "options": [
       "Fernando Morientes",
       "Álvaro Morata",
@@ -890,7 +1000,14 @@
   {
     "id": 87,
     "question": "Which club did Zinedine Zidane begin his professional career with?",
+    "question_el": "Σε ποια ομάδα ξεκίνησε την επαγγελματική του καριέρα ο Zinedine Zidane;",
     "options": [
+      "Cannes",
+      "Bordeaux",
+      "Marseille",
+      "Monaco"
+    ],
+    "options_el": [
       "Cannes",
       "Bordeaux",
       "Marseille",
@@ -902,6 +1019,7 @@
   {
     "id": 88,
     "question": "Which goalkeeper has kept the most clean sheets for the Brazil national team?",
+    "question_el": "Ποιος τερματοφύλακας έχει κρατήσει τα περισσότερα clean sheets με την Εθνική Βραζιλίας;",
     "options": [
       "Cláudio Taffarel",
       "Alisson",
@@ -914,6 +1032,7 @@
   {
     "id": 89,
     "question": "Which goalkeeper has kept the most clean sheets for the Portugal national team?",
+    "question_el": "Ποιος τερματοφύλακας έχει κρατήσει τα περισσότερα clean sheets με την Εθνική Πορτογαλίας;",
     "options": [
       "Rui Patrício",
       "Vítor Baía",
@@ -926,6 +1045,7 @@
   {
     "id": 90,
     "question": "How many UEFA Champions League titles have Portuguese clubs won in total?",
+    "question_el": "Πόσα Champions League έχουν κατακτήσει συνολικά οι πορτογαλικές ομάδες;",
     "options": [
       "6",
       "3",
@@ -938,6 +1058,7 @@
   {
     "id": 91,
     "question": "How many UEFA Champions League titles have French clubs won in total?",
+    "question_el": "Πόσα Champions League έχουν κατακτήσει συνολικά οι γαλλικές ομάδες;",
     "options": [
       "5",
       "2",
@@ -950,6 +1071,7 @@
   {
     "id": 92,
     "question": "How many UEFA Champions League titles have German clubs won in total?",
+    "question_el": "Πόσα Champions League έχουν κατακτήσει συνολικά οι γερμανικές ομάδες;",
     "options": [
       "7",
       "8",
@@ -962,6 +1084,7 @@
   {
     "id": 93,
     "question": "How many UEFA Champions League titles have English clubs won in total?",
+    "question_el": "Πόσα Champions League έχουν κατακτήσει συνολικά οι αγγλικές ομάδες;",
     "options": [
       "14",
       "15",
@@ -974,6 +1097,7 @@
   {
     "id": 94,
     "question": "How many UEFA Champions League titles have Italian clubs won in total?",
+    "question_el": "Πόσα Champions League έχουν κατακτήσει συνολικά οι ιταλικές ομάδες;",
     "options": [
       "11",
       "12",
@@ -986,6 +1110,7 @@
   {
     "id": 95,
     "question": "How many UEFA Champions League titles have Spanish clubs won in total?",
+    "question_el": "Πόσα Champions League έχουν κατακτήσει συνολικά οι ισπανικές ομάδες;",
     "options": [
       "18",
       "19",
@@ -998,6 +1123,7 @@
   {
     "id": 96,
     "question": "Which club has lost the most Champions League finals?",
+    "question_el": "Ποια ομάδα έχει χάσει τους περισσότερους τελικούς Champions League;",
     "options": [
       "Juventus",
       "Bayern Munich",
@@ -1010,6 +1136,7 @@
   {
     "id": 97,
     "question": "When was the inaugural Premier League season?",
+    "question_el": "Ποια ήταν η πρώτη σεζόν της Premier League;",
     "options": [
       "1990–91",
       "1991–92",
@@ -1022,6 +1149,7 @@
   {
     "id": 98,
     "question": "Which team won the first Premier League title?",
+    "question_el": "Ποια ομάδα κατέκτησε την πρώτη Premier League;",
     "options": [
       "Liverpool",
       "Manchester United",
@@ -1034,6 +1162,7 @@
   {
     "id": 99,
     "question": "How many clubs competed in the inaugural Premier League season?",
+    "question_el": "Πόσες ομάδες συμμετείχαν στην πρώτη σεζόν της Premier League;",
     "options": [
       "18",
       "20",
@@ -1046,6 +1175,7 @@
   {
     "id": 100,
     "question": "Which country has appeared in three World Cup finals, but never won the competition?",
+    "question_el": "Ποια χώρα έχει παίξει σε τρεις τελικούς Μουντιάλ, αλλά δεν το έχει κατακτήσει ποτέ;",
     "options": [
       "Netherlands",
       "Hungary",
@@ -1058,11 +1188,18 @@
   {
     "id": 101,
     "question": "Cristiano Ronaldo is synonymous with the No. 7, but which other number did he wear at Real Madrid?",
+    "question_el": "Ο Cristiano Ronaldo είναι συνώνυμο του Νο. 7, αλλά ποιο άλλο νούμερο φόρεσε στη Real Madrid;",
     "options": [
       "No. 9",
       "No. 10",
       "No. 11",
       "No. 17"
+    ],
+    "options_el": [
+      "Νο. 9",
+      "Νο. 10",
+      "Νο. 11",
+      "Νο. 17"
     ],
     "correct_answer": "No. 9",
     "difficulty": 4
@@ -1070,6 +1207,7 @@
   {
     "id": 102,
     "question": "Who is the only player to win the Champions League with three different clubs?",
+    "question_el": "Ποιος είναι ο μόνος παίκτης που έχει κατακτήσει το Champions League με τρεις διαφορετικές ομάδες;",
     "options": [
       "Cristiano Ronaldo",
       "Clarence Seedorf",
@@ -1082,6 +1220,7 @@
   {
     "id": 103,
     "question": "In which season was the European Cup rebranded as the Champions League?",
+    "question_el": "Σε ποια σεζόν το Κύπελλο Πρωταθλητριών μετονομάστηκε σε Champions League;",
     "options": [
       "1990–91",
       "1991–92",
@@ -1094,6 +1233,7 @@
   {
     "id": 104,
     "question": "Which outfield player appeared in the Champions League final in three different decades?",
+    "question_el": "Ποιος παίκτης (όχι τερματοφύλακας) έπαιξε σε τελικό Champions League σε τρεις διαφορετικές δεκαετίες;",
     "options": [
       "Paolo Maldini",
       "Cafu",
@@ -1106,6 +1246,7 @@
   {
     "id": 105,
     "question": "Which one of the following teams has not won the European Championship?",
+    "question_el": "Ποια από τις παρακάτω ομάδες δεν έχει κατακτήσει το Euro;",
     "options": [
       "Greece",
       "Denmark",
@@ -1118,6 +1259,7 @@
   {
     "id": 106,
     "question": "With 365 goals, who holds the record for the most Bundesliga goals of all time?",
+    "question_el": "Με 365 γκολ, ποιος έχει το ρεκόρ με τα περισσότερα γκολ όλων των εποχών στην Bundesliga;",
     "options": [
       "Robert Lewandowski",
       "Gerd Müller",
@@ -1130,6 +1272,7 @@
   {
     "id": 107,
     "question": "Who is the most capped Germany international of all time?",
+    "question_el": "Ποιος έχει τις περισσότερες συμμετοχές όλων των εποχών με την Εθνική Γερμανίας;",
     "options": [
       "Miroslav Klose",
       "Lothar Matthäus",
@@ -1142,6 +1285,7 @@
   {
     "id": 108,
     "question": "Germany have won the World Cup four times, but how many times have they done so as a unified country?",
+    "question_el": "Η Γερμανία έχει κατακτήσει τέσσερα Μουντιάλ, αλλά πόσα από αυτά ως ενωμένη χώρα;",
     "options": [
       "1",
       "2",
@@ -1154,6 +1298,7 @@
   {
     "id": 109,
     "question": "Which outfield player played every single minute of the Premier League 2025/26 season?",
+    "question_el": "Ποιος παίκτης (όχι τερματοφύλακας) έπαιξε κάθε λεπτό της σεζόν 2025/26 της Premier League;",
     "options": [
       "Jarrod Bowen",
       "Kristoffer Ajer",

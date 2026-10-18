@@ -4,125 +4,143 @@
     "match": "Brazil vs Germany",
     "score": "1-7",
     "level": 1,
-    "notes": "World Cup Semi-final 2014(Germany scored five goals in just 18 minutes during the first half.)"
+    "notes": "World Cup Semi-final 2014(Germany scored five goals in just 18 minutes during the first half.)",
+    "notes_el": "Ημιτελικός Μουντιάλ 2014 (Η Γερμανία σκόραρε πέντε γκολ σε μόλις 18 λεπτά στο πρώτο ημίχρονο.)"
   },
   {
     "id": 2,
     "match": "Liverpool vs AC Milan",
     "score": "3-3",
     "level": 1,
-    "notes": "UCL Final 2005 (with extra time)(Liverpool came back and won the penalty shootout)"
+    "notes": "UCL Final 2005 (with extra time)(Liverpool came back and won the penalty shootout)",
+    "notes_el": "Τελικός Champions League 2005 (με παράταση) (Η Liverpool έκανε την ανατροπή και νίκησε στα πέναλτι)"
   },
   {
     "id": 3,
     "match": "Barcelona vs PSG",
     "score": "6-1",
     "level": 1,
-    "notes": "UCL Round of 16 2017(The miracle of the Camp Nou)"
+    "notes": "UCL Round of 16 2017(The miracle of the Camp Nou)",
+    "notes_el": "Champions League 2017, φάση των 16 (Το θαύμα του Camp Nou)"
   },
   {
     "id": 4,
     "match": "Borussia Dortmund vs Real Madrid",
     "score": "0-2",
     "level": 1,
-    "notes": "UCL Final 2024(Real Madrid won their 15th European Cup"
+    "notes": "UCL Final 2024(Real Madrid won their 15th European Cup",
+    "notes_el": "Τελικός Champions League 2024 (Η Real Madrid κατέκτησε το 15ο Κύπελλο Πρωταθλητριών της)"
   },
   {
     "id": 5,
     "match": "Paris Saint-Germain vs Inter Milan",
     "score": "5-0",
     "level": 1,
-    "notes": "UCL Final 2025(PSG won their first Champions League title)"
+    "notes": "UCL Final 2025(PSG won their first Champions League title)",
+    "notes_el": "Τελικός Champions League 2025 (Η PSG κατέκτησε το πρώτο της Champions League)"
   },
   {
     "id": 6,
     "match": "Liverpool vs Barcelona",
     "score": "4-0",
     "level": 1,
-    "notes": "UCL Semi-final 2019(Liverpool overturned first-leg deficit"
+    "notes": "UCL Semi-final 2019(Liverpool overturned first-leg deficit",
+    "notes_el": "Ημιτελικός Champions League 2019 (Η Liverpool ανέτρεψε το αρνητικό σκορ του πρώτου αγώνα)"
   },
   {
     "id": 7,
     "match": "Bayern Munich vs Barcelona",
     "score": "8-2",
     "level": 1,
-    "notes": "UCL Quarter-final 2020(most shocking Champions League defeats for Barcelona)"
+    "notes": "UCL Quarter-final 2020(most shocking Champions League defeats for Barcelona)",
+    "notes_el": "Προημιτελικός Champions League 2020 (Μία από τις πιο σοκαριστικές ήττες της Barcelona στο Champions League)"
   },
   {
     "id": 8,
     "match": "Manchester City vs Inter",
     "score": "1-0",
     "level": 1,
-    "notes": "UCL Final 2023( Manchester City won their first Champions League trophy)"
+    "notes": "UCL Final 2023( Manchester City won their first Champions League trophy)",
+    "notes_el": "Τελικός Champions League 2023 (Η Manchester City κατέκτησε το πρώτο της Champions League)"
   },
   {
     "id": 9,
     "match": "Liverpool vs Real Madrid",
     "score": "0-1",
     "level": 1,
-    "notes": "UCL Final 2022(Thibaut Courtois made several crucial saves)"
+    "notes": "UCL Final 2022(Thibaut Courtois made several crucial saves)",
+    "notes_el": "Τελικός Champions League 2022 (Ο Thibaut Courtois έκανε σημαντικές αποκρούσεις)"
   },
   {
     "id": 10,
     "match": "Chelsea vs Manchester City",
     "score": "1-0",
     "level": 1,
-    "notes": "UCL Final 2021(Chelsea lifted their second Champions League trophy)"
+    "notes": "UCL Final 2021(Chelsea lifted their second Champions League trophy)",
+    "notes_el": "Τελικός Champions League 2021 (Η Chelsea σήκωσε το δεύτερο Champions League της)"
   },
   {
     "id": 11,
     "match": "Argentina vs France",
     "score": "3-3",
     "level": 1,
-    "notes": "World Cup Final 2022 (with extra time)(one of the greatest World Cup matches of all time)"
+    "notes": "World Cup Final 2022 (with extra time)(one of the greatest World Cup matches of all time)",
+    "notes_el": "Τελικός Μουντιάλ 2022 (με παράταση) (Ένας από τους καλύτερους αγώνες Μουντιάλ όλων των εποχών)"
   },
   {
     "id": 12,
     "match": "Paris Saint-Germain vs Arsenal",
     "score": "1-1",
     "level": 1,
-    "notes": "UCL Final 2026(with extra time)(Paris Saint-Germain remain on the throne)"
+    "notes": "UCL Final 2026(with extra time)(Paris Saint-Germain remain on the throne)",
+    "notes_el": "Τελικός Champions League 2026 (με παράταση) (Η Paris Saint-Germain μένει στον θρόνο)"
   },
   {
     "id": 13,
     "match": "Spain vs Argentina",
     "score": "1-0",
     "level": 1,
-    "notes": "FIFA World Cup Final 2026(with extra time)(Spain wins second World Cup)"
+    "notes": "FIFA World Cup Final 2026(with extra time)(Spain wins second World Cup)",
+    "notes_el": "Τελικός Μουντιάλ 2026 (με παράταση) (Η Ισπανία κατακτά το δεύτερο Μουντιάλ της)"
   },
   {
     "id": 14,
     "match": "Spain vs England",
     "score": "2-1",
     "level": 1,
-    "notes": "UEFA Euro Final 2024(England’s quest to end 58 years of pain )"
+    "notes": "UEFA Euro Final 2024(England’s quest to end 58 years of pain )",
+    "notes_el": "Τελικός Euro 2024 (Η Αγγλία ψάχνει να τελειώσει 58 χρόνια πόνου)"
   },
   {
     "id": 15,
     "match": "SC Freiburg vs Aston Villa",
     "score": "0-3",
     "level": 1,
-    "notes": "UEFA Europa League Final 2026(The 30-Year Trophy Drought Ends)"
+    "notes": "UEFA Europa League Final 2026(The 30-Year Trophy Drought Ends)",
+    "notes_el": "Τελικός Europa League 2026 (Τέλος σε 30 χρόνια χωρίς τρόπαιο)"
   },
   {
     "id": 16,
     "match": "Paris Saint-Germain vs Aston Villa",
     "score": "2-1",
     "level": 1,
-    "notes": "UEFA Super Cup 2026(Villa’s Brave Fight Short-Lived)"
+    "notes": "UEFA Super Cup 2026(Villa’s Brave Fight Short-Lived)",
+    "notes_el": "Super Cup 2026 (Η γενναία μάχη της Villa κράτησε λίγο)"
   },
   {
     "id": 17,
     "match": "Tottenham vs Liverpool",
     "score": "0-2",
     "level": 1,
-    "notes": "UCL Final 2019"
+    "notes": "UCL Final 2019",
+    "notes_el": "Τελικός Champions League 2019"
   },
   {
     "id": 18,
     "match": "Paris Saint-Germain vs Bayern Munich",
     "score": "0-1",
     "level": 1,
-    "notes": "UCL Final 2020"
+    "notes": "UCL Final 2020",
+    "notes_el": "Τελικός Champions League 2020"
   }
 ]

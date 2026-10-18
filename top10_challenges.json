@@ -2,6 +2,7 @@
   {
     "id": "ucl-titles-clubs",
     "title": "Clubs with the most UEFA Champions League / European Cup titles",
+    "title_el": "Ομάδες με τα περισσότερα Champions League / Κύπελλα Πρωταθλητριών",
     "entityType": "club",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -110,6 +111,7 @@
   {
     "id": "english-top-flight-titles-clubs",
     "title": "English clubs with the most top-flight league titles of all time",
+    "title_el": "Αγγλικές ομάδες με τα περισσότερα πρωταθλήματα όλων των εποχών",
     "entityType": "club",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -188,6 +190,7 @@
   {
     "id": "ballon-dor-wins-players",
     "title": "Players with the most Ballon d'Or wins",
+    "title_el": "Παίκτες με τις περισσότερες Χρυσές Μπάλες",
     "entityType": "player",
     "sourceNote": "As of the 2025 ceremony",
     "answers": [
@@ -281,6 +284,7 @@
   {
     "id": "fa-cup-titles-clubs",
     "title": "Clubs with the most FA Cup titles",
+    "title_el": "Ομάδες με τα περισσότερα FA Cup",
     "entityType": "club",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -365,6 +369,7 @@
   {
     "id": "euro-titles-countries",
     "title": "Countries with the most UEFA European Championship titles",
+    "title_el": "Χώρες με τα περισσότερα Euro",
     "entityType": "country",
     "sourceNote": "As of Euro 2024",
     "answers": [
@@ -429,6 +434,7 @@
   {
     "id": "world-cup-final-appearances-countries",
     "title": "Countries with the most FIFA World Cup final appearances",
+    "title_el": "Χώρες με τους περισσότερους τελικούς Μουντιάλ",
     "entityType": "country",
     "sourceNote": "As of the 2026 World Cup",
     "answers": [
@@ -490,6 +496,7 @@
   {
     "id": "last-10-ucl-final-scorers",
     "title": "The last 10 different people to score in a UEFA Champions League final (most recent first)",
+    "title_el": "Οι τελευταίοι 10 διαφορετικοί σκόρερ σε τελικό Champions League (από τον πιο πρόσφατο)",
     "entityType": "player",
     "sourceNote": "Every final goal counts once per scorer, working back from the 2026 final",
     "answers": [
@@ -584,6 +591,7 @@
   {
     "id": "real-madrid-appearances",
     "title": "Players with the most appearances for Real Madrid",
+    "title_el": "Παίκτες με τις περισσότερες συμμετοχές στη Real Madrid",
     "entityType": "player",
     "sourceNote": "Official appearances, all competitions",
     "answers": [
@@ -677,6 +685,7 @@
   {
     "id": "last-10-ballon-dor-winners",
     "title": "The last 10 different Ballon d'Or winners (most recent first)",
+    "title_el": "Οι τελευταίοι 10 διαφορετικοί νικητές της Χρυσής Μπάλας (από τον πιο πρόσφατο)",
     "entityType": "player",
     "sourceNote": "Men's award; skips years won by a repeat winner, and 2020 (not awarded)",
     "answers": [
@@ -769,6 +778,7 @@
   {
     "id": "brazil-most-capped",
     "title": "Players with the most caps for the Brazil national team",
+    "title_el": "Παίκτες με τις περισσότερες συμμετοχές στην Εθνική Βραζιλίας",
     "entityType": "player",
     "sourceNote": "As of 2026",
     "answers": [
@@ -844,6 +854,7 @@
   {
     "id": "argentina-most-capped",
     "title": "Players with the most caps for the Argentina national team",
+    "title_el": "Παίκτες με τις περισσότερες συμμετοχές στην Εθνική Αργεντινής",
     "entityType": "player",
     "sourceNote": "As of 2026",
     "answers": [
@@ -937,6 +948,7 @@
   {
     "id": "germany-most-capped",
     "title": "Players with the most caps for the Germany national team",
+    "title_el": "Παίκτες με τις περισσότερες συμμετοχές στην Εθνική Γερμανίας",
     "entityType": "player",
     "sourceNote": "As of 2026",
     "answers": [
@@ -1028,6 +1040,7 @@
   {
     "id": "premier-league-most-appearances",
     "title": "Players with the most Premier League appearances",
+    "title_el": "Παίκτες με τις περισσότερες συμμετοχές στην Premier League",
     "entityType": "player",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -1111,6 +1124,7 @@
   {
     "id": "last-10-ucl-finalist-clubs",
     "title": "The last 10 different clubs to reach a UEFA Champions League final (most recent first)",
+    "title_el": "Οι τελευταίες 10 διαφορετικές ομάδες που έφτασαν σε τελικό Champions League (από την πιο πρόσφατη)",
     "entityType": "club",
     "sourceNote": "Through the 2026 final",
     "answers": [
@@ -1193,6 +1207,7 @@
   {
     "id": "last-10-world-cup-golden-boot-winners",
     "title": "The last 10 different FIFA World Cup Golden Boot winners (most recent first)",
+    "title_el": "Οι τελευταίοι 10 διαφορετικοί πρώτοι σκόρερ Μουντιάλ – Χρυσό Παπούτσι (από τον πιο πρόσφατο)",
     "entityType": "player",
     "sourceNote": "Distinct winners; skips editions won again by a repeat winner or shared between co-winners",
     "answers": [
@@ -1288,6 +1303,7 @@
   {
     "id": "copa-libertadores-titles-clubs",
     "title": "Clubs with the most Copa Libertadores titles",
+    "title_el": "Ομάδες με τα περισσότερα Κόπα Λιμπερταδόρες",
     "entityType": "club",
     "sourceNote": "As of 2025",
     "answers": [
@@ -1403,6 +1419,7 @@
   {
     "id": "spanish-players-arsenal-appearances",
     "title": "Spanish players with the most appearances for Arsenal",
+    "title_el": "Ισπανοί παίκτες με τις περισσότερες συμμετοχές στην Arsenal",
     "entityType": "player",
     "sourceNote": "As of 2026",
     "answers": [
@@ -1497,6 +1514,7 @@
   {
     "id": "el-clasico-goals-since-2000",
     "title": "Players with the most goals in El Clasico since 2000",
+    "title_el": "Παίκτες με τα περισσότερα γκολ σε Ελ Κλάσικο από το 2000",
     "entityType": "player",
     "sourceNote": "Goals scored in El Clasico from the 2000 calendar year onward",
     "answers": [
@@ -1593,6 +1611,7 @@
   {
     "id": "argentina-premier-league-goals",
     "title": "Argentinian players with the most goals in the Premier League",
+    "title_el": "Αργεντινοί παίκτες με τα περισσότερα γκολ στην Premier League",
     "entityType": "player",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -1690,6 +1709,7 @@
   {
     "id": "world-cup-goals-countries",
     "title": "National teams with the most goals in World Cups",
+    "title_el": "Εθνικές ομάδες με τα περισσότερα γκολ σε Μουντιάλ",
     "entityType": "country",
     "sourceNote": "As of the 2026 World Cup",
     "answers": [
@@ -1751,6 +1771,7 @@
   {
     "id": "europa-league-titles-clubs",
     "title": "Teams with the most Europa League titles",
+    "title_el": "Ομάδες με τα περισσότερα Europa League",
     "entityType": "club",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -1846,6 +1867,7 @@
   {
     "id": "brazilian-la-liga-goals-since-2000",
     "title": "Brazilian players with the most goals in La Liga since 2000",
+    "title_el": "Βραζιλιάνοι παίκτες με τα περισσότερα γκολ στη La Liga από το 2000",
     "entityType": "player",
     "sourceNote": "Goals scored in La Liga from the 2000/2001 season onward",
     "answers": [
@@ -1934,6 +1956,7 @@
   {
     "id": "portuguese-premier-league-appearances",
     "title": "Portuguese players with the most appearances in the Premier League",
+    "title_el": "Πορτογάλοι παίκτες με τις περισσότερες συμμετοχές στην Premier League",
     "entityType": "player",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -2024,6 +2047,7 @@
   {
     "id": "dutch-serie-a-appearances",
     "title": "Dutch players with the most appearances in Serie A",
+    "title_el": "Ολλανδοί παίκτες με τις περισσότερες συμμετοχές στη Serie A",
     "entityType": "player",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -2114,6 +2138,7 @@
   {
     "id": "ligue-1-goals-since-2009-10",
     "title": "Players with the most goals in Ligue 1 since season 2009/2010",
+    "title_el": "Παίκτες με τα περισσότερα γκολ στη Ligue 1 από τη σεζόν 2009/10",
     "entityType": "player",
     "sourceNote": "Goals scored in Ligue 1 from the 2009/2010 season onward",
     "answers": [
@@ -2205,6 +2230,7 @@
   {
     "id": "ucl-clean-sheets-goalkeepers",
     "title": "Goalkeepers with the most clean sheets in the Champions League",
+    "title_el": "Τερματοφύλακες με τα περισσότερα clean sheets στο Champions League",
     "entityType": "player",
     "sourceNote": "As of 2026",
     "answers": [
@@ -2296,6 +2322,7 @@
   {
     "id": "bundesliga-most-seasons-clubs",
     "title": "Teams with the most seasons in the Bundesliga",
+    "title_el": "Ομάδες με τις περισσότερες σεζόν στην Bundesliga",
     "entityType": "club",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -2393,6 +2420,7 @@
   {
     "id": "bundesliga-goals-since-2020-21",
     "title": "Players with the most goals in the Bundesliga since season 2020/21",
+    "title_el": "Παίκτες με τα περισσότερα γκολ στην Bundesliga από τη σεζόν 2020/21",
     "entityType": "player",
     "sourceNote": "Goals scored in the Bundesliga from the 2020/21 season onward",
     "answers": [
@@ -2485,6 +2513,7 @@
   {
     "id": "last-10-euro-winners",
     "title": "The last 10 different UEFA Euro winners (most recent first)",
+    "title_el": "Οι τελευταίοι 10 διαφορετικοί νικητές του Euro (από τον πιο πρόσφατο)",
     "entityType": "country",
     "sourceNote": "Distinct champions; skips editions won again by a repeat winner, working back from Euro 2024",
     "answers": [
@@ -2549,6 +2578,7 @@
   {
     "id": "last-10-ancelotti-clubs",
     "title": "The last 10 clubs Carlo Ancelotti managed (most recent first)",
+    "title_el": "Οι τελευταίες 10 ομάδες που προπόνησε ο Carlo Ancelotti (από την πιο πρόσφατη)",
     "entityType": "club",
     "sourceNote": "Managerial spells only, most recent first",
     "answers": [
@@ -2619,6 +2649,7 @@
   {
     "id": "last-10-english-top-flight-champions",
     "title": "The last 10 different champions of the English top flight (most recent first)",
+    "title_el": "Οι τελευταίοι 10 διαφορετικοί πρωταθλητές Αγγλίας (από τον πιο πρόσφατο)",
     "entityType": "club",
     "sourceNote": "Distinct champions; skips seasons won again by a repeat champion, working back from 2025-26",
     "answers": [
@@ -2699,6 +2730,7 @@
   {
     "id": "ucl-yellow-cards-players",
     "title": "Players with the most yellow cards in Champions League history",
+    "title_el": "Παίκτες με τις περισσότερες κίτρινες κάρτες στην ιστορία του Champions League",
     "entityType": "player",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -2796,6 +2828,7 @@
   {
     "id": "ligue1-points-clubs",
     "title": "Clubs with the most points in Ligue 1 history",
+    "title_el": "Ομάδες με τους περισσότερους βαθμούς στην ιστορία της Ligue 1",
     "entityType": "club",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -2887,6 +2920,7 @@
   {
     "id": "la-liga-most-seasons-clubs",
     "title": "Teams with the most seasons in La Liga",
+    "title_el": "Ομάδες με τις περισσότερες σεζόν στη La Liga",
     "entityType": "club",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -2998,6 +3032,7 @@
   {
     "id": "serie-a-most-expensive-transfers",
     "title": "Most expensive Serie A transfers of all time",
+    "title_el": "Οι πιο ακριβές μεταγραφές της Serie A όλων των εποχών",
     "entityType": "player",
     "sourceNote": "Transfer fees for deals involving a Serie A club, as of the 2025-26 season",
     "answers": [
@@ -3095,6 +3130,7 @@
   {
     "id": "bundesliga-goals-clubs-alltime",
     "title": "Clubs with the most goals in Bundesliga history",
+    "title_el": "Ομάδες με τα περισσότερα γκολ στην ιστορία της Bundesliga",
     "entityType": "club",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -3192,6 +3228,7 @@
   {
     "id": "europa-league-goals-clubs",
     "title": "Clubs with the most goals in Europa League history",
+    "title_el": "Ομάδες με τα περισσότερα γκολ στην ιστορία του Europa League",
     "entityType": "club",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -3301,6 +3338,7 @@
   {
     "id": "liga-portugal-most-expensive-transfers",
     "title": "Most expensive Liga Portugal transfers of all time",
+    "title_el": "Οι πιο ακριβές μεταγραφές του πορτογαλικού πρωταθλήματος όλων των εποχών",
     "entityType": "player",
     "sourceNote": "Transfer fees for deals involving a Liga Portugal club, as of 2025-26",
     "answers": [
@@ -3398,6 +3436,7 @@
   {
     "id": "belgium-premier-league-appearances",
     "title": "Belgian players with the most Premier League appearances",
+    "title_el": "Βέλγοι παίκτες με τις περισσότερες συμμετοχές στην Premier League",
     "entityType": "player",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -3495,6 +3534,7 @@
   {
     "id": "european-titles-outside-big-five-clubs",
     "title": "Clubs outside Europe's \"Big Five\" leagues with the most European titles",
+    "title_el": "Ομάδες εκτός των 5 μεγάλων πρωταθλημάτων της Ευρώπης με τους περισσότερους ευρωπαϊκούς τίτλους",
     "entityType": "club",
     "sourceNote": "Combined European Cup/Champions League, Europa League/UEFA Cup, and Cup Winners' Cup titles for clubs outside England, Spain, Italy, Germany, and France; ties broken by Champions League/European Cup titles won",
     "answers": [
@@ -3598,6 +3638,7 @@
   {
     "id": "portuguese-top5-leagues-appearances-last-decade",
     "title": "Portuguese players with the most appearances in Europe's top five leagues over the last 10 years",
+    "title_el": "Πορτογάλοι παίκτες με τις περισσότερες συμμετοχές στα 5 μεγάλα πρωταθλήματα της Ευρώπης την τελευταία δεκαετία",
     "entityType": "player",
     "sourceNote": "Premier League, La Liga, Serie A, Bundesliga, and Ligue 1 combined, past 10 seasons",
     "answers": [
@@ -3696,6 +3737,7 @@
   {
     "id": "premier-league-nationalities-2025-26",
     "title": "Foreign Nationalities with the most players in the Premier League (2025-26 season)",
+    "title_el": "Ξένες εθνικότητες με τους περισσότερους παίκτες στην Premier League (σεζόν 2025-26)",
     "entityType": "country",
     "sourceNote": "By nationality of registered first-team players, 2025-26 season",
     "answers": [
@@ -3775,6 +3817,7 @@
   {
     "id": "serie-a-nationalities-2025-26",
     "title": "Foreign nationalities with the most players in Serie A (2025-26 season)",
+    "title_el": "Ξένες εθνικότητες με τους περισσότερους παίκτες στη Serie A (σεζόν 2025-26)",
     "entityType": "country",
     "sourceNote": "By nationality of registered first-team players, 2025-26 season",
     "answers": [
@@ -3848,6 +3891,7 @@
   {
     "id": "premier-league-top-scorers-2025-26",
     "title": "Premier League top scorers, 2025-26 season",
+    "title_el": "Οι πρώτοι σκόρερ της Premier League, σεζόν 2025-26",
     "entityType": "player",
     "sourceNote": "Final 2025-26 season totals",
     "answers": [
@@ -3953,6 +3997,7 @@
   {
     "id": "england-most-ucl-appearances-players",
     "title": "Englishmen with the most Champions League appearances",
+    "title_el": "Άγγλοι παίκτες με τις περισσότερες συμμετοχές στο Champions League",
     "entityType": "player",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -4039,6 +4084,7 @@
   {
     "id": "benfica-nationalities-alltime-excl-portugal",
     "title": "Nationalities most represented by Benfica players all-time (excluding Portugal)",
+    "title_el": "Οι εθνικότητες με τους περισσότερους παίκτες στην ιστορία της Benfica (εκτός από Πορτογαλία)",
     "entityType": "country",
     "sourceNote": "All-time, excluding Portuguese players",
     "answers": [

@@ -4,629 +4,719 @@
     "match": "Germany vs Brazil",
     "score": "0-2",
     "level": 4,
-    "notes": "World Cup Final 2002(Ronaldo’s Redemption!)"
+    "notes": "World Cup Final 2002(Ronaldo’s Redemption!)",
+    "notes_el": "Τελικός Μουντιάλ 2002 (Η λύτρωση του Ronaldo!)"
   },
   {
     "id": 92,
     "match": "Chelsea vs Liverpool",
     "score": "4-4",
     "level": 4,
-    "notes": "UCL Quarter-final 2009 second leg(The Night Tactics Went Out the Window)"
+    "notes": "UCL Quarter-final 2009 second leg(The Night Tactics Went Out the Window)",
+    "notes_el": "Προημιτελικός Champions League 2009, 2ος αγώνας (Η βραδιά που η τακτική πήγε περίπατο)"
   },
   {
     "id": 93,
     "match": "Arsenal vs Chelsea",
     "score": "2-1",
     "level": 4,
-    "notes": "2020 FA Cup(Arteta’s First Silverware)"
+    "notes": "2020 FA Cup(Arteta’s First Silverware)",
+    "notes_el": "FA Cup 2020 (Το πρώτο τρόπαιο του Arteta)"
   },
   {
     "id": 94,
     "match": "Real Madrid vs Wolfsburg",
     "score": "3-0",
     "level": 4,
-    "notes": "UCL Quarter-final 2016 second leg(The Ronaldo Remontada)"
+    "notes": "UCL Quarter-final 2016 second leg(The Ronaldo Remontada)",
+    "notes_el": "Προημιτελικός Champions League 2016, 2ος αγώνας (Η remontada του Ronaldo)"
   },
   {
     "id": 95,
     "match": "Real Madrid vs Juventus",
     "score": "1-3",
     "level": 4,
-    "notes": "UCL Quarter-final 2018 second leg(The 97th-Minute Penalty Drama)"
+    "notes": "UCL Quarter-final 2018 second leg(The 97th-Minute Penalty Drama)",
+    "notes_el": "Προημιτελικός Champions League 2018, 2ος αγώνας (Το δράμα του πέναλτι στο 97ο λεπτό)"
   },
   {
     "id": 96,
     "match": "Roma vs Liverpool",
     "score": "4-2",
     "level": 4,
-    "notes": "UCL Semi-final 2018 second leg(Too Little, Too Late)"
+    "notes": "UCL Semi-final 2018 second leg(Too Little, Too Late)",
+    "notes_el": "Ημιτελικός Champions League 2018, 2ος αγώνας (Πολύ λίγο, πολύ αργά)"
   },
   {
     "id": 97,
     "match": "Real Madrid vs Barcelona",
     "score": "1-0",
     "level": 4,
-    "notes": "Copa del Rey Final 2011 (with extra time)(The Flight of CR7)"
+    "notes": "Copa del Rey Final 2011 (with extra time)(The Flight of CR7)",
+    "notes_el": "Τελικός Κυπέλλου Ισπανίας 2011 (με παράταση) (Η πτήση του CR7)"
   },
   {
     "id": 98,
     "match": "Atletico Madrid vs Barcelona",
     "score": "2-0",
     "level": 4,
-    "notes": "UCL Quarter-final 2016 second leg(The Fall of the Champions)"
+    "notes": "UCL Quarter-final 2016 second leg(The Fall of the Champions)",
+    "notes_el": "Προημιτελικός Champions League 2016, 2ος αγώνας (Η πτώση των πρωταθλητών)"
   },
   {
     "id": 99,
     "match": "Real Madrid vs Ajax",
     "score": "1-4",
     "level": 4,
-    "notes": "UCL Round of 16 2019 second leg(Dušan Tadić Had a Perfect 10/10 Match)"
+    "notes": "UCL Round of 16 2019 second leg(Dušan Tadić Had a Perfect 10/10 Match)",
+    "notes_el": "Champions League 2019, φάση των 16, 2ος αγώνας (Ο Dušan Tadić έπαιξε για 10 με 10)"
   },
   {
     "id": 100,
     "match": "Tottenham vs Ajax",
     "score": "0-1",
     "level": 4,
-    "notes": "UCL Semi-final 2019 first leg(Ajax Take Control of London)"
+    "notes": "UCL Semi-final 2019 first leg(Ajax Take Control of London)",
+    "notes_el": "Ημιτελικός Champions League 2019, 1ος αγώνας (Η Ajax παίρνει τον έλεγχο στο Λονδίνο)"
   },
   {
     "id": 101,
     "match": "Dnipro vs Sevilla",
     "score": "2-3",
     "level": 4,
-    "notes": "Europa League Final 2015(The Kings Retain Their Crown)"
+    "notes": "Europa League Final 2015(The Kings Retain Their Crown)",
+    "notes_el": "Τελικός Europa League 2015 (Οι βασιλιάδες κρατούν το στέμμα τους)"
   },
   {
     "id": 102,
     "match": "Chelsea vs Barcelona",
     "score": "1-0",
     "level": 4,
-    "notes": "UCL Semi-final 2012 first leg(Pure Survival)"
+    "notes": "UCL Semi-final 2012 first leg(Pure Survival)",
+    "notes_el": "Ημιτελικός Champions League 2012, 1ος αγώνας (Καθαρή επιβίωση)"
   },
   {
     "id": 103,
     "match": "Lyon vs Bayern Munich",
     "score": "0-3",
     "level": 4,
-    "notes": "UCL Semi-final 2020(Serge Gnabry destroyed Lyon)"
+    "notes": "UCL Semi-final 2020(Serge Gnabry destroyed Lyon)",
+    "notes_el": "Ημιτελικός Champions League 2020 (Ο Serge Gnabry διέλυσε τη Lyon)"
   },
   {
     "id": 104,
     "match": "Barcelona vs PSG",
     "score": "1-4",
     "level": 4,
-    "notes": "UCL Round of 16 2021 first leg(Mbappé Conquers Camp Nou)"
+    "notes": "UCL Round of 16 2021 first leg(Mbappé Conquers Camp Nou)",
+    "notes_el": "Champions League 2021, φάση των 16, 1ος αγώνας (Ο Mbappé κατακτά το Camp Nou)"
   },
   {
     "id": 105,
     "match": "Real Madrid vs Chelsea",
     "score": "2-3",
     "level": 4,
-    "notes": "UCL Quarter-final 2022 second leg (with extra time)(Real Madrid Survive Chelsea’s Storm)"
+    "notes": "UCL Quarter-final 2022 second leg (with extra time)(Real Madrid Survive Chelsea’s Storm)",
+    "notes_el": "Προημιτελικός Champions League 2022, 2ος αγώνας (με παράταση) (Η Real Madrid επιβιώνει από την καταιγίδα της Chelsea)"
   },
   {
     "id": 106,
     "match": "Bayern Munich vs Barcelona",
     "score": "3-2",
     "level": 4,
-    "notes": "UCL Semi-final 2015 second leg(Νeymar Destroys Bayern’s Hopes)"
+    "notes": "UCL Semi-final 2015 second leg(Νeymar Destroys Bayern’s Hopes)",
+    "notes_el": "Ημιτελικός Champions League 2015, 2ος αγώνας (Ο Neymar διαλύει τις ελπίδες της Bayern)"
   },
   {
     "id": 107,
     "match": "Liverpool vs Borussia Dortmund",
     "score": "4-3",
     "level": 4,
-    "notes": "UEFA Europa League 2016 Quarter-finals second leg(Lovren’s 91st Minute Madness)"
+    "notes": "UEFA Europa League 2016 Quarter-finals second leg(Lovren’s 91st Minute Madness)",
+    "notes_el": "Προημιτελικός Europa League 2016, 2ος αγώνας (Η τρέλα του Lovren στο 91ο λεπτό)"
   },
   {
     "id": 108,
     "match": "Croatia vs Brazil",
     "score": "1-1",
     "level": 4,
-    "notes": "World Cup Quarter-final 2022 (with extra time)(Another Failed Dream)"
+    "notes": "World Cup Quarter-final 2022 (with extra time)(Another Failed Dream)",
+    "notes_el": "Προημιτελικός Μουντιάλ 2022 (με παράταση) (Άλλο ένα όνειρο που χάθηκε)"
   },
   {
     "id": 109,
     "match": "Russia vs Croatia",
     "score": "2-2",
     "level": 4,
-    "notes": "World Cup Quarter-final 2018 (with extra time)(The Tragedy of Mario Fernandes)"
+    "notes": "World Cup Quarter-final 2018 (with extra time)(The Tragedy of Mario Fernandes)",
+    "notes_el": "Προημιτελικός Μουντιάλ 2018 (με παράταση) (Η τραγωδία του Mario Fernandes)"
   },
   {
     "id": 110,
     "match": "Germany vs England",
     "score": "4-1",
     "level": 4,
-    "notes": "World Cup Round of 16 2010(Frank Lampard’s Ghost Goal Ruined England)"
+    "notes": "World Cup Round of 16 2010(Frank Lampard’s Ghost Goal Ruined England)",
+    "notes_el": "Μουντιάλ 2010, φάση των 16 (Το «γκολ-φάντασμα» του Frank Lampard τελείωσε την Αγγλία)"
   },
   {
     "id": 111,
     "match": "Portugal vs Spain",
     "score": "0-0",
     "level": 4,
-    "notes": "EURO Semi-final 2012 (with extra time)(Ronaldo’s Euro Dream Delayed!)"
+    "notes": "EURO Semi-final 2012 (with extra time)(Ronaldo’s Euro Dream Delayed!)",
+    "notes_el": "Ημιτελικός Euro 2012 (με παράταση) (Το όνειρο του Ronaldo για το Euro αναβάλλεται!)"
   },
   {
     "id": 112,
     "match": "Netherlands vs Costa Rica",
     "score": "0-0",
     "level": 4,
-    "notes": "World Cup Quarter-final 2014 (with extra time)(The Tim Krul Gamble)"
+    "notes": "World Cup Quarter-final 2014 (with extra time)(The Tim Krul Gamble)",
+    "notes_el": "Προημιτελικός Μουντιάλ 2014 (με παράταση) (Το ρίσκο με τον Tim Krul)"
   },
   {
     "id": 113,
     "match": "Germany vs Turkey",
     "score": "3-2",
     "level": 4,
-    "notes": "EURO 2008 Semi-final(Lahm’s Late Winner)"
+    "notes": "EURO 2008 Semi-final(Lahm’s Late Winner)",
+    "notes_el": "Ημιτελικός Euro 2008 (Το νικητήριο γκολ του Lahm στο τέλος)"
   },
   {
     "id": 114,
     "match": "Germany vs Italy",
     "score": "0-2",
     "level": 4,
-    "notes": "World Cup Semi-final 2006 (with extra time)(The Pass That Blinded Germany)"
+    "notes": "World Cup Semi-final 2006 (with extra time)(The Pass That Blinded Germany)",
+    "notes_el": "Ημιτελικός Μουντιάλ 2006 (με παράταση) (Η πάσα που τύφλωσε τη Γερμανία)"
   },
   {
     "id": 115,
     "match": "Brazil vs France",
     "score": "0-3",
     "level": 4,
-    "notes": "World Cup Final 1998(Ronaldo’s Tragic Final)"
+    "notes": "World Cup Final 1998(Ronaldo’s Tragic Final)",
+    "notes_el": "Τελικός Μουντιάλ 1998 (Ο τραγικός τελικός του Ronaldo)"
   },
   {
     "id": 116,
     "match": "Manchester United vs Bayern Munich",
     "score": "2-1",
     "level": 4,
-    "notes": "UCL Final 1999(Football, bloody hell!)"
+    "notes": "UCL Final 1999(Football, bloody hell!)",
+    "notes_el": "Τελικός Champions League 1999 (Football, bloody hell!)"
   },
   {
     "id": 117,
     "match": "Chelsea vs Leicester City",
     "score": "0-1",
     "level": 4,
-    "notes": "FA Cup Final 2021(Foxes Wrote History)"
+    "notes": "FA Cup Final 2021(Foxes Wrote History)",
+    "notes_el": "Τελικός FA Cup 2021 (Οι Αλεπούδες έγραψαν ιστορία)"
   },
   {
     "id": 118,
     "match": "Brazil vs Italy",
     "score": "0-0",
     "level": 4,
-    "notes": "FIFA World Cup Final 1994(with extra time)(The Loneliest Man on Earth)"
+    "notes": "FIFA World Cup Final 1994(with extra time)(The Loneliest Man on Earth)",
+    "notes_el": "Τελικός Μουντιάλ 1994 (με παράταση) (Ο πιο μοναχικός άνθρωπος στη Γη)"
   },
   {
     "id": 119,
     "match": "Manchester City vs Lyon",
     "score": "1-3",
     "level": 4,
-    "notes": "UEFA Champions League Quarter-final 2020(Sterling’s Historic Miss)"
+    "notes": "UEFA Champions League Quarter-final 2020(Sterling’s Historic Miss)",
+    "notes_el": "Προημιτελικός Champions League 2020 (Η ιστορική αστοχία του Sterling)"
   },
   {
     "id": 120,
     "match": "Barcelona vs Chelsea",
     "score": "2-2",
     "level": 4,
-    "notes": "UEFA Champions League Semi-final 2012(Torres Silences the Camp Nou)"
+    "notes": "UEFA Champions League Semi-final 2012(Torres Silences the Camp Nou)",
+    "notes_el": "Ημιτελικός Champions League 2012 (Ο Torres παγώνει το Camp Nou)"
   },
   {
     "id": 121,
     "match": "Bayer Leverkusen vs Real Madrid",
     "score": "1-2",
     "level": 4,
-    "notes": "UCL Final 2002(Zidane's stunning volley)"
+    "notes": "UCL Final 2002(Zidane's stunning volley)",
+    "notes_el": "Τελικός Champions League 2002 (Το εκπληκτικό βολέ του Zidane)"
   },
   {
     "id": 122,
     "match": "Atletico Madrid vs Athletic Bilbao",
     "score": "3-0",
     "level": 4,
-    "notes": "Europa League Final 2012(The Radamel Falcao Show)"
+    "notes": "Europa League Final 2012(The Radamel Falcao Show)",
+    "notes_el": "Τελικός Europa League 2012 (Το σόου του Radamel Falcao)"
   },
   {
     "id": 123,
     "match": "Liverpool vs Manchester City",
     "score": "3-0",
     "level": 4,
-    "notes": "UCL Quarter-final 2018 first leg(Klopp Outsmarts Pep)"
+    "notes": "UCL Quarter-final 2018 first leg(Klopp Outsmarts Pep)",
+    "notes_el": "Προημιτελικός Champions League 2018, 1ος αγώνας (Ο Klopp ξεγελά τον Pep)"
   },
   {
     "id": 124,
     "match": "Barcelona vs Juventus",
     "score": "0-0",
     "level": 4,
-    "notes": "UCL Quarter-final 2017 second leg(MSN Were Completely Shut Down)"
+    "notes": "UCL Quarter-final 2017 second leg(MSN Were Completely Shut Down)",
+    "notes_el": "Προημιτελικός Champions League 2017, 2ος αγώνας (Η MSN εξαφανίστηκε)"
   },
   {
     "id": 125,
     "match": "Liverpool vs Villarreal",
     "score": "2-0",
     "level": 4,
-    "notes": "UCL Semi-final 2022 first leg(Villarreal’s Wall Crumbles)"
+    "notes": "UCL Semi-final 2022 first leg(Villarreal’s Wall Crumbles)",
+    "notes_el": "Ημιτελικός Champions League 2022, 1ος αγώνας (Το τείχος της Villarreal γκρεμίζεται)"
   },
   {
     "id": 126,
     "match": "Barcelona vs PSG",
     "score": "2-0",
     "level": 4,
-    "notes": "UCL Quarter-final 2015 second leg(Neymar Sinks PSG)"
+    "notes": "UCL Quarter-final 2015 second leg(Neymar Sinks PSG)",
+    "notes_el": "Προημιτελικός Champions League 2015, 2ος αγώνας (Ο Neymar βυθίζει την PSG)"
   },
   {
     "id": 127,
     "match": "Borussia Dortmund vs Malaga",
     "score": "3-2",
     "level": 4,
-    "notes": "UCL Quarter-final 2013 second leg(Malaga Celebrated Too Early)"
+    "notes": "UCL Quarter-final 2013 second leg(Malaga Celebrated Too Early)",
+    "notes_el": "Προημιτελικός Champions League 2013, 2ος αγώνας (Η Málaga πανηγύρισε πολύ νωρίς)"
   },
   {
     "id": 128,
     "match": "Wolfsburg vs Real Madrid",
     "score": "2-0",
     "level": 4,
-    "notes": "UCL Quarter-final 2016 first leg(Real Madrid Locked Down)"
+    "notes": "UCL Quarter-final 2016 first leg(Real Madrid Locked Down)",
+    "notes_el": "Προημιτελικός Champions League 2016, 1ος αγώνας (Η Real Madrid κλειδώθηκε)"
   },
   {
     "id": 129,
     "match": "Atletico Madrid vs Bayern Munich",
     "score": "1-0",
     "level": 4,
-    "notes": "UCL Quarter-final 2016 first leg(Saúl Ñíguez’s Unbelievable Solo Run)"
+    "notes": "UCL Quarter-final 2016 first leg(Saúl Ñíguez’s Unbelievable Solo Run)",
+    "notes_el": "Προημιτελικός Champions League 2016, 1ος αγώνας (Η απίστευτη ατομική ενέργεια του Saúl Ñíguez)"
   },
   {
     "id": 130,
     "match": "Real Madrid vs Manchester City",
     "score": "1-0",
     "level": 4,
-    "notes": "UCL Semi-final 2016 second leg(Pellegrini’s Last Stand vs Zidane’s Final Dream)"
+    "notes": "UCL Semi-final 2016 second leg(Pellegrini’s Last Stand vs Zidane’s Final Dream)",
+    "notes_el": "Ημιτελικός Champions League 2016, 2ος αγώνας (Η τελευταία μάχη του Pellegrini κόντρα στο τελικό όνειρο του Zidane)"
   },
   {
     "id": 131,
     "match": "Real Madrid vs Barcelona",
     "score": "0-2",
     "level": 4,
-    "notes": "UCL Semi-final 2011 first leg(The Clásico of Stars)"
+    "notes": "UCL Semi-final 2011 first leg(The Clásico of Stars)",
+    "notes_el": "Ημιτελικός Champions League 2011, 1ος αγώνας (Το Clásico των αστέρων)"
   },
   {
     "id": 132,
     "match": "Borussia Dortmund vs Monaco",
     "score": "2-3",
     "level": 4,
-    "notes": "UCL Quarter-final 2017 first leg(The Day 18-Year-Old Mbappe Shocked the World)"
+    "notes": "UCL Quarter-final 2017 first leg(The Day 18-Year-Old Mbappe Shocked the World)",
+    "notes_el": "Προημιτελικός Champions League 2017, 1ος αγώνας (Η μέρα που ο 18χρονος Mbappé σόκαρε τον κόσμο)"
   },
   {
     "id": 133,
     "match": "Real Madrid vs PSG",
     "score": "3-1",
     "level": 4,
-    "notes": "UCL Round of 16 2018 first leg(Ronaldo Sinks PSG)"
+    "notes": "UCL Round of 16 2018 first leg(Ronaldo Sinks PSG)",
+    "notes_el": "Champions League 2018, φάση των 16, 1ος αγώνας (Ο Ronaldo βυθίζει την PSG)"
   },
   {
     "id": 134,
     "match": "PSG vs Real Madrid",
     "score": "1-2",
     "level": 4,
-    "notes": "UCL Round of 16 2018 second leg(Cristiano Ronaldo’s Golden Header)"
+    "notes": "UCL Round of 16 2018 second leg(Cristiano Ronaldo’s Golden Header)",
+    "notes_el": "Champions League 2018, φάση των 16, 2ος αγώνας (Η χρυσή κεφαλιά του Cristiano Ronaldo)"
   },
   {
     "id": 135,
     "match": "Chelsea vs Atletico Madrid",
     "score": "1-3",
     "level": 4,
-    "notes": "UCL Semi-final 2014 second leg(Simeone Outsmarted Mourinho’s Bus)"
+    "notes": "UCL Semi-final 2014 second leg(Simeone Outsmarted Mourinho’s Bus)",
+    "notes_el": "Ημιτελικός Champions League 2014, 2ος αγώνας (Ο Simeone ξεγέλασε το «λεωφορείο» του Mourinho)"
   },
   {
     "id": 136,
     "match": "Atletico Madrid vs Chelsea",
     "score": "0-0",
     "level": 4,
-    "notes": "UCL Semi-final 2014 first leg(The Tactical War of Madrid)"
+    "notes": "UCL Semi-final 2014 first leg(The Tactical War of Madrid)",
+    "notes_el": "Ημιτελικός Champions League 2014, 1ος αγώνας (Ο τακτικός πόλεμος της Μαδρίτης)"
   },
   {
     "id": 137,
     "match": "Inter vs Liverpool",
     "score": "0-2",
     "level": 4,
-    "notes": "UCL Round of 16 2022 first leg(San Siro Silenced)"
+    "notes": "UCL Round of 16 2022 first leg(San Siro Silenced)",
+    "notes_el": "Champions League 2022, φάση των 16, 1ος αγώνας (Το San Siro σώπασε)"
   },
   {
     "id": 138,
     "match": "Liverpool vs Inter",
     "score": "0-1",
     "level": 4,
-    "notes": "UCL Round of 16 2022 second leg(The Post-Hits)"
+    "notes": "UCL Round of 16 2022 second leg(The Post-Hits)",
+    "notes_el": "Champions League 2022, φάση των 16, 2ος αγώνας (Τα δοκάρια)"
   },
   {
     "id": 139,
     "match": "Ajax vs Benfica",
     "score": "0-1",
     "level": 4,
-    "notes": "UCL Round of 16 2022 second leg(Onana Miscalculation)"
+    "notes": "UCL Round of 16 2022 second leg(Onana Miscalculation)",
+    "notes_el": "Champions League 2022, φάση των 16, 2ος αγώνας (Ο λάθος υπολογισμός του Onana)"
   },
   {
     "id": 140,
     "match": "Benfica vs Ajax",
     "score": "2-2",
     "level": 4,
-    "notes": "UCL Round of 16 2022 first leg(The Haller Rollercoaster)"
+    "notes": "UCL Round of 16 2022 first leg(The Haller Rollercoaster)",
+    "notes_el": "Champions League 2022, φάση των 16, 1ος αγώνας (Το τρενάκι του Haller)"
   },
   {
     "id": 141,
     "match": "Liverpool vs Atalanta",
     "score": "0-3",
     "level": 4,
-    "notes": "Europa League Quarter-final 2024 first leg(Pašalić Punishes the Reds)"
+    "notes": "Europa League Quarter-final 2024 first leg(Pašalić Punishes the Reds)",
+    "notes_el": "Προημιτελικός Europa League 2024, 1ος αγώνας (Ο Pašalić τιμωρεί τους Reds)"
   },
   {
     "id": 142,
     "match": "Barcelona vs Eintracht Frankfurt",
     "score": "2-3",
     "level": 4,
-    "notes": "Europa League Quarter-final 2022 second leg(The White Beast Kit Triumphs in Catalonia)"
+    "notes": "Europa League Quarter-final 2022 second leg(The White Beast Kit Triumphs in Catalonia)",
+    "notes_el": "Προημιτελικός Europa League 2022, 2ος αγώνας (Η λευκή φανέλα θριαμβεύει στην Καταλονία)"
   },
   {
     "id": 143,
     "match": "Portugal vs Switzerland",
     "score": "6-1",
     "level": 4,
-    "notes": "World Cup 2022 Round of 16(Gonçalo Ramos Destroys Switzerland)"
+    "notes": "World Cup 2022 Round of 16(Gonçalo Ramos Destroys Switzerland)",
+    "notes_el": "Μουντιάλ 2022, φάση των 16 (Ο Gonçalo Ramos διαλύει την Ελβετία)"
   },
   {
     "id": 144,
     "match": "Belgium vs England",
     "score": "2-0",
     "level": 4,
-    "notes": "World Cup 2018 third-place match(The Last Dance of Belgium’s Famous Golden Generation)"
+    "notes": "World Cup 2018 third-place match(The Last Dance of Belgium’s Famous Golden Generation)",
+    "notes_el": "Μουντιάλ 2018, μικρός τελικός (Ο τελευταίος χορός της χρυσής γενιάς του Βελγίου)"
   },
   {
     "id": 145,
     "match": "Colombia vs Uruguay",
     "score": "2-0",
     "level": 4,
-    "notes": "World Cup 2014 Quarter-final(James Rodríguez Volley )"
+    "notes": "World Cup 2014 Quarter-final(James Rodríguez Volley )",
+    "notes_el": "Προημιτελικός Μουντιάλ 2014 (Το βολέ του James Rodríguez)"
   },
   {
     "id": 146,
     "match": "Germany vs Greece",
     "score": "4-2",
     "level": 4,
-    "notes": "EURO 2012 Quarter-final(The Night Germany’s Attack Tested the Famous Greek Resolve)"
+    "notes": "EURO 2012 Quarter-final(The Night Germany’s Attack Tested the Famous Greek Resolve)",
+    "notes_el": "Προημιτελικός Euro 2012 (Η βραδιά που η επίθεση της Γερμανίας δοκίμασε την ελληνική αντοχή)"
   },
   {
     "id": 147,
     "match": "Poland vs Argentina",
     "score": "0-2",
     "level": 4,
-    "notes": "World Cup 2022 group stage(Messi’s Men Overcame the Polish Wall)"
+    "notes": "World Cup 2022 group stage(Messi’s Men Overcame the Polish Wall)",
+    "notes_el": "Μουντιάλ 2022, φάση των ομίλων (Οι άντρες του Messi πέρασαν το πολωνικό τείχος)"
   },
   {
     "id": 148,
     "match": "Argentina vs West Germany",
     "score": "3-2",
     "level": 4,
-    "notes": "FIFA World Cup Final 1986(Nothing Can Stop Diego)"
+    "notes": "FIFA World Cup Final 1986(Nothing Can Stop Diego)",
+    "notes_el": "Τελικός Μουντιάλ 1986 (Τίποτα δεν σταματά τον Diego)"
   },
   {
     "id": 149,
     "match": "West Germany vs Argentina",
     "score": "1-0",
     "level": 4,
-    "notes": "FIFA World Cup Final 1990(The Night of Redemption)"
+    "notes": "FIFA World Cup Final 1990(The Night of Redemption)",
+    "notes_el": "Τελικός Μουντιάλ 1990 (Η βραδιά της λύτρωσης)"
   },
   {
     "id": 150,
     "match": "Deportivo La Coruna vs Milan",
     "score": "4-0",
     "level": 4,
-    "notes": "UEFA Champions League Quarter-final 2004(Nightmarish Night for the Rossoneri)"
+    "notes": "UEFA Champions League Quarter-final 2004(Nightmarish Night for the Rossoneri)",
+    "notes_el": "Προημιτελικός Champions League 2004 (Εφιαλτική βραδιά για τους Rossoneri)"
   },
   {
     "id": 151,
     "match": "Bayern Munich vs Valencia",
     "score": "1-1",
     "level": 4,
-    "notes": "UCL Final 2001(with extra time)(Oliver Kahn's legendary saves)"
+    "notes": "UCL Final 2001(with extra time)(Oliver Kahn's legendary saves)",
+    "notes_el": "Τελικός Champions League 2001 (με παράταση) (Οι θρυλικές αποκρούσεις του Oliver Kahn)"
   },
   {
     "id": 152,
     "match": "AC Milan vs Juventus",
     "score": "0-0",
     "level": 4,
-    "notes": "UCL Final 2003(with extra time)(Gritty tactical chess)"
+    "notes": "UCL Final 2003(with extra time)(Gritty tactical chess)",
+    "notes_el": "Τελικός Champions League 2003 (με παράταση) (Ένα σκληρό τακτικό σκάκι)"
   },
   {
     "id": 153,
     "match": "Middlesbrough vs Sevilla",
     "score": "0-4",
     "level": 4,
-    "notes": "UEFA Cup Final 2006(The Birth of the Sevilla Dynasty)"
+    "notes": "UEFA Cup Final 2006(The Birth of the Sevilla Dynasty)",
+    "notes_el": "Τελικός Κυπέλλου UEFA 2006 (Η γέννηση της δυναστείας της Sevilla)"
   },
   {
     "id": 154,
     "match": "Sevilla vs Espanyol",
     "score": "2-2",
     "level": 4,
-    "notes": "UEFA Cup Final 2007 (with extra time)(Back-to-Back Kings in Glasgow)"
+    "notes": "UEFA Cup Final 2007 (with extra time)(Back-to-Back Kings in Glasgow)",
+    "notes_el": "Τελικός Κυπέλλου UEFA 2007 (με παράταση) (Ξανά βασιλιάδες, στη Γλασκώβη)"
   },
   {
     "id": 155,
     "match": "Zenit vs Rangers",
     "score": "2-0",
     "level": 4,
-    "notes": "UEFA Cup Final 2008(Arshavin Runs the Show in Manchester)"
+    "notes": "UEFA Cup Final 2008(Arshavin Runs the Show in Manchester)",
+    "notes_el": "Τελικός Κυπέλλου UEFA 2008 (Ο Arshavin κάνει κουμάντο στο Μάντσεστερ)"
   },
   {
     "id": 156,
     "match": "Shakhtar Donetsk vs Werder Bremen",
     "score": "2-1",
     "level": 4,
-    "notes": "UEFA Cup Final 2009 (with extra time)(The Last Ever UEFA Cup)"
+    "notes": "UEFA Cup Final 2009 (with extra time)(The Last Ever UEFA Cup)",
+    "notes_el": "Τελικός Κυπέλλου UEFA 2009 (με παράταση) (Το τελευταίο Κύπελλο UEFA)"
   },
   {
     "id": 157,
     "match": "Real Madrid vs Valencia",
     "score": "3-0",
     "level": 4,
-    "notes": "UCL Final 2000(La Octava in an All-Spanish Final)"
+    "notes": "UCL Final 2000(La Octava in an All-Spanish Final)",
+    "notes_el": "Τελικός Champions League 2000 (La Octava σε έναν ισπανικό τελικό)"
   },
   {
     "id": 158,
     "match": "Porto vs Monaco",
     "score": "3-0",
     "level": 4,
-    "notes": "UCL Final 2004(The Impossible Final)"
+    "notes": "UCL Final 2004(The Impossible Final)",
+    "notes_el": "Τελικός Champions League 2004 (Ο απίθανος τελικός)"
   },
   {
     "id": 159,
     "match": "Atletico Madrid vs Fulham",
     "score": "2-1",
     "level": 4,
-    "notes": "Europa League Final 2010 (with extra time)(Forlan Denies the Fairytale)"
+    "notes": "Europa League Final 2010 (with extra time)(Forlan Denies the Fairytale)",
+    "notes_el": "Τελικός Europa League 2010 (με παράταση) (Ο Forlán χαλάει το παραμύθι)"
   },
   {
     "id": 160,
     "match": "Porto vs Braga",
     "score": "1-0",
     "level": 4,
-    "notes": "Europa League Final 2011(Falcao Settles the All-Portuguese Final)"
+    "notes": "Europa League Final 2011(Falcao Settles the All-Portuguese Final)",
+    "notes_el": "Τελικός Europa League 2011 (Ο Falcao κρίνει τον πορτογαλικό τελικό)"
   },
   {
     "id": 161,
     "match": "Chelsea vs Benfica",
     "score": "2-1",
     "level": 4,
-    "notes": "Europa League Final 2013(Ivanovic's Last-Second Header)"
+    "notes": "Europa League Final 2013(Ivanovic's Last-Second Header)",
+    "notes_el": "Τελικός Europa League 2013 (Η κεφαλιά του Ivanović στο τελευταίο δευτερόλεπτο)"
   },
   {
     "id": 162,
     "match": "Sevilla vs Benfica",
     "score": "0-0",
     "level": 4,
-    "notes": "Europa League Final 2014 (with extra time)(Beto's Shootout Heroics in Turin)"
+    "notes": "Europa League Final 2014 (with extra time)(Beto's Shootout Heroics in Turin)",
+    "notes_el": "Τελικός Europa League 2014 (με παράταση) (Ο ήρωας των πέναλτι Beto στο Τορίνο)"
   },
   {
     "id": 163,
     "match": "Bayern Munich vs Chelsea",
     "score": "2-2",
     "level": 4,
-    "notes": "UEFA Super Cup 2013 (with extra time)(Neuer Wins the Shootout)"
+    "notes": "UEFA Super Cup 2013 (with extra time)(Neuer Wins the Shootout)",
+    "notes_el": "Super Cup 2013 (με παράταση) (Ο Neuer κερδίζει τα πέναλτι)"
   },
   {
     "id": 164,
     "match": "Real Madrid vs Sevilla",
     "score": "2-0",
     "level": 4,
-    "notes": "UEFA Super Cup 2014(The Power of the Crown)"
+    "notes": "UEFA Super Cup 2014(The Power of the Crown)",
+    "notes_el": "Super Cup 2014 (Η δύναμη του στέμματος)"
   },
   {
     "id": 165,
     "match": "Barcelona vs Sevilla",
     "score": "5-4",
     "level": 4,
-    "notes": "UEFA Super Cup 2015 (with extra time)(The Most Chaotic Super Cup Ever)"
+    "notes": "UEFA Super Cup 2015 (with extra time)(The Most Chaotic Super Cup Ever)",
+    "notes_el": "Super Cup 2015 (με παράταση) (Το πιο χαοτικό Super Cup όλων των εποχών)"
   },
   {
     "id": 166,
     "match": "Real Madrid vs Sevilla",
     "score": "3-2",
     "level": 4,
-    "notes": "UEFA Super Cup 2016 (with extra time)(Carvajal's Solo Run in Trondheim)"
+    "notes": "UEFA Super Cup 2016 (with extra time)(Carvajal's Solo Run in Trondheim)",
+    "notes_el": "Super Cup 2016 (με παράταση) (Η ατομική ενέργεια του Carvajal στο Τρόντχαϊμ)"
   },
   {
     "id": 167,
     "match": "Real Madrid vs Manchester United",
     "score": "2-1",
     "level": 4,
-    "notes": "UEFA Super Cup 2017(Zidane vs. Mourinho)"
+    "notes": "UEFA Super Cup 2017(Zidane vs. Mourinho)",
+    "notes_el": "Super Cup 2017 (Zidane εναντίον Mourinho)"
   },
   {
     "id": 168,
     "match": "Atletico Madrid vs Real Madrid",
     "score": "4-2",
     "level": 4,
-    "notes": "UEFA Super Cup 2018 (with extra time)(Diego Costa's Ninth-Second Goal)"
+    "notes": "UEFA Super Cup 2018 (with extra time)(Diego Costa's Ninth-Second Goal)",
+    "notes_el": "Super Cup 2018 (με παράταση) (Το γκολ του Diego Costa στο ένατο δευτερόλεπτο)"
   },
   {
     "id": 169,
     "match": "Liverpool vs Chelsea",
     "score": "2-2",
     "level": 4,
-    "notes": "UEFA Super Cup 2019 (with extra time(Adrian, the Accidental Hero)"
+    "notes": "UEFA Super Cup 2019 (with extra time(Adrian, the Accidental Hero)",
+    "notes_el": "Super Cup 2019 (με παράταση) (Adrián, ο τυχαίος ήρωας)"
   },
   {
     "id": 170,
     "match": "Bayern Munich vs Sevilla",
     "score": "2-1",
     "level": 4,
-    "notes": "UEFA Super Cup 2020 (with extra time)(Javi Martinez Repeats His 2013 Trick)"
+    "notes": "UEFA Super Cup 2020 (with extra time)(Javi Martinez Repeats His 2013 Trick)",
+    "notes_el": "Super Cup 2020 (με παράταση) (Ο Javi Martínez επαναλαμβάνει το κόλπο του 2013)"
   },
   {
     "id": 171,
     "match": "Uruguay vs Paraguay",
     "score": "3-0",
     "level": 4,
-    "notes": "Copa America Final 2011(Forlan and Suarez Make It a Record 15th)"
+    "notes": "Copa America Final 2011(Forlan and Suarez Make It a Record 15th)",
+    "notes_el": "Τελικός Κόπα Αμέρικα 2011 (Forlán και Suárez φέρνουν το ρεκόρ των 15 τίτλων)"
   },
   {
     "id": 172,
     "match": "Chile vs Argentina",
     "score": "0-0",
     "level": 4,
-    "notes": "Copa America Final 2015 (with extra time)(Chile's First Ever Title)"
+    "notes": "Copa America Final 2015 (with extra time)(Chile's First Ever Title)",
+    "notes_el": "Τελικός Κόπα Αμέρικα 2015 (με παράταση) (Ο πρώτος τίτλος της Χιλής)"
   },
   {
     "id": 173,
     "match": "Germany vs Chile",
     "score": "1-0",
     "level": 4,
-    "notes": "Confederations Cup Final 2017(Germany's B Team Took the Trophy)"
+    "notes": "Confederations Cup Final 2017(Germany's B Team Took the Trophy)",
+    "notes_el": "Τελικός Κυπέλλου Συνομοσπονδιών 2017 (Η «Β ομάδα» της Γερμανίας πήρε το τρόπαιο)"
   },
   {
     "id": 174,
     "match": "Real Madrid vs Barcelona",
     "score": "2-1",
     "level": 4,
-    "notes": "Copa del Rey Final 2014(Bale's Run Off the Pitch and Past Bartra)"
+    "notes": "Copa del Rey Final 2014(Bale's Run Off the Pitch and Past Bartra)",
+    "notes_el": "Τελικός Κυπέλλου Ισπανίας 2014 (Ο Bale έτρεξε έξω από το γήπεδο και πέρασε τον Bartra)"
   },
   {
     "id": 175,
     "match": "Manchester City vs Manchester United",
     "score": "2-1",
     "level": 4,
-    "notes": "FA Cup Final 2023(The First All-Manchester Final)"
+    "notes": "FA Cup Final 2023(The First All-Manchester Final)",
+    "notes_el": "Τελικός FA Cup 2023 (Ο πρώτος τελικός με δύο ομάδες του Μάντσεστερ)"
   },
   {
     "id": 176,
     "match": "Crystal Palace vs Manchester City",
     "score": "1-0",
     "level": 4,
-    "notes": "FA Cup Final 2025(Henderson's Penalty Save)"
+    "notes": "FA Cup Final 2025(Henderson's Penalty Save)",
+    "notes_el": "Τελικός FA Cup 2025 (Η απόκρουση πέναλτι του Henderson)"
   },
   {
     "id": 177,
     "match": "Inter vs Juventus",
     "score": "4-2",
     "level": 5,
-    "notes": "Coppa Italia Final 2022 (with extra time)(Perisic's Two Minutes of Madness)"
+    "notes": "Coppa Italia Final 2022 (with extra time)(Perisic's Two Minutes of Madness)",
+    "notes_el": "Τελικός Coppa Italia 2022 (με παράταση) (Τα δύο τρελά λεπτά του Perišić)"
   },
   {
     "id": 178,
     "match": "Bayer Leverkusen vs Kaiserslautern",
     "score": "1-0",
     "level": 5,
-    "notes": "DFB Pokal Final 2024(Xabi Alonso's Side Complete the Double)"
+    "notes": "DFB Pokal Final 2024(Xabi Alonso's Side Complete the Double)",
+    "notes_el": "Τελικός Κυπέλλου Γερμανίας 2024 (Η ομάδα του Xabi Alonso κάνει το νταμπλ)"
   },
   {
     "id": 179,
     "match": "Argentina vs Brazil",
     "score": "1-0",
     "level": 5,
-    "notes": "Copa America Final 2021(Messi's First Senior Trophy, at the Maracana)"
+    "notes": "Copa America Final 2021(Messi's First Senior Trophy, at the Maracana)",
+    "notes_el": "Τελικός Κόπα Αμέρικα 2021 (Ο πρώτος τίτλος του Messi με την Εθνική, στο Maracanã)"
   },
   {
     "id": 180,
     "match": "Brazil vs Peru",
     "score": "3-1",
     "level": 4,
-    "notes": "Copa America Final 2019(Brazil's First Title in 12 Years)"
+    "notes": "Copa America Final 2019(Brazil's First Title in 12 Years)",
+    "notes_el": "Τελικός Κόπα Αμέρικα 2019 (Ο πρώτος τίτλος της Βραζιλίας μετά από 12 χρόνια)"
   }
 ]
