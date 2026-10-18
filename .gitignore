@@ -1,0 +1,8 @@
+# This repo is public: only the JSON data files belong here.
+.DS_Store
+*.jks
+*.keystore
+*.p8
+*.p12
+key.properties
+.env*
