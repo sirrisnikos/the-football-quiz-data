@@ -646,32 +646,31 @@
     ]
   },
   {
-    "id": "sergio-ramos",
-    "name": "Sergio Ramos",
+    "id": "gerard-pique",
+    "name": "Gerard Piqué",
     "nationality": "Spain",
     "continent": "Europe",
     "position": "Defender",
-    "birthYear": 1986,
+    "birthYear": 1987,
     "stillPlaying": false,
     "clubs": [
-      "Sevilla",
-      "Real Madrid",
-      "Paris Saint-Germain",
-      "Sevilla",
-      "Monterrey"
+      "Manchester United",
+      "Real Zaragoza",
+      "Manchester United",
+      "Barcelona"
     ],
     "leagues": [
-      "La Liga",
-      "Ligue 1",
-      "Liga MX"
+      "Premier League",
+      "La Liga"
     ],
     "trophies": [
-      "La Liga",
-      "Copa del Rey",
-      "Champions League",
-      "Ligue 1",
       "World Cup",
       "European Championship",
+      "Champions League",
+      "La Liga",
+      "Premier League",
+      "Copa del Rey",
+      "League Cup",
       "FIFA Club World Cup"
     ]
   },
