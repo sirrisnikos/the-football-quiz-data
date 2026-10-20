@@ -2,6 +2,10 @@
   {
     "id": "cristiano-ronaldo",
     "name": "Cristiano Ronaldo",
+    "aliases": [
+      "Ronaldo",
+      "CR7"
+    ],
     "nationality": "Portugal",
     "continent": "Europe",
     "position": "Forward",
@@ -39,6 +43,10 @@
   {
     "id": "lionel-messi",
     "name": "Lionel Messi",
+    "aliases": [
+      "Messi",
+      "Leo Messi"
+    ],
     "nationality": "Argentina",
     "continent": "South America",
     "position": "Forward",
@@ -70,6 +78,10 @@
   {
     "id": "neymar",
     "name": "Neymar",
+    "aliases": [
+      "Neymar Jr",
+      "Neymar Júnior"
+    ],
     "nationality": "Brazil",
     "continent": "South America",
     "position": "Forward",
@@ -100,6 +112,9 @@
   {
     "id": "ronaldinho",
     "name": "Ronaldinho",
+    "aliases": [
+      "Ronaldinho Gaúcho"
+    ],
     "nationality": "Brazil",
     "continent": "South America",
     "position": "Midfielder",
@@ -134,6 +149,9 @@
   {
     "id": "luis-suarez",
     "name": "Luis Suárez",
+    "aliases": [
+      "Suárez"
+    ],
     "nationality": "Uruguay",
     "continent": "South America",
     "position": "Forward",
@@ -172,6 +190,9 @@
   {
     "id": "marco-reus",
     "name": "Marco Reus",
+    "aliases": [
+      "Reus"
+    ],
     "nationality": "Germany",
     "continent": "Europe",
     "position": "Midfielder",
@@ -195,6 +216,9 @@
   {
     "id": "manuel-neuer",
     "name": "Manuel Neuer",
+    "aliases": [
+      "Neuer"
+    ],
     "nationality": "Germany",
     "continent": "Europe",
     "position": "Goalkeeper",
@@ -218,6 +242,9 @@
   {
     "id": "joshua-kimmich",
     "name": "Joshua Kimmich",
+    "aliases": [
+      "Kimmich"
+    ],
     "nationality": "Germany",
     "continent": "Europe",
     "position": "Midfielder",
@@ -240,6 +267,9 @@
   {
     "id": "harry-kane",
     "name": "Harry Kane",
+    "aliases": [
+      "Kane"
+    ],
     "nationality": "England",
     "continent": "Europe",
     "position": "Forward",
@@ -264,6 +294,9 @@
   {
     "id": "kylian-mbappe",
     "name": "Kylian Mbappé",
+    "aliases": [
+      "Mbappé"
+    ],
     "nationality": "France",
     "continent": "Europe",
     "position": "Forward",
@@ -287,6 +320,12 @@
   {
     "id": "vinicius-junior",
     "name": "Vinícius Júnior",
+    "aliases": [
+      "Vinícius",
+      "Vinícius Jr",
+      "Vini Jr",
+      "Vini"
+    ],
     "nationality": "Brazil",
     "continent": "South America",
     "position": "Forward",
@@ -310,6 +349,9 @@
   {
     "id": "steven-gerrard",
     "name": "Steven Gerrard",
+    "aliases": [
+      "Gerrard"
+    ],
     "nationality": "England",
     "continent": "Europe",
     "position": "Midfielder",
@@ -333,6 +375,10 @@
   {
     "id": "mohamed-salah",
     "name": "Mohamed Salah",
+    "aliases": [
+      "Salah",
+      "Mo Salah"
+    ],
     "nationality": "Egypt",
     "continent": "Africa",
     "position": "Forward",
@@ -365,6 +411,9 @@
   {
     "id": "jude-bellingham",
     "name": "Jude Bellingham",
+    "aliases": [
+      "Bellingham"
+    ],
     "nationality": "England",
     "continent": "Europe",
     "position": "Midfielder",
@@ -388,6 +437,9 @@
   {
     "id": "antoine-griezmann",
     "name": "Antoine Griezmann",
+    "aliases": [
+      "Griezmann"
+    ],
     "nationality": "France",
     "continent": "Europe",
     "position": "Forward",
@@ -414,6 +466,9 @@
   {
     "id": "david-beckham",
     "name": "David Beckham",
+    "aliases": [
+      "Beckham"
+    ],
     "nationality": "England",
     "continent": "Europe",
     "position": "Midfielder",
@@ -446,6 +501,11 @@
   {
     "id": "emiliano-martinez",
     "name": "Emiliano Martínez",
+    "aliases": [
+      "Dibu Martínez",
+      "Emi Martínez",
+      "Dibu"
+    ],
     "nationality": "Argentina",
     "continent": "South America",
     "position": "Goalkeeper",
@@ -477,6 +537,9 @@
   {
     "id": "andres-iniesta",
     "name": "Andrés Iniesta",
+    "aliases": [
+      "Iniesta"
+    ],
     "nationality": "Spain",
     "continent": "Europe",
     "position": "Midfielder",
@@ -504,6 +567,9 @@
   {
     "id": "josko-gvardiol",
     "name": "Joško Gvardiol",
+    "aliases": [
+      "Gvardiol"
+    ],
     "nationality": "Croatia",
     "continent": "Europe",
     "position": "Defender",
@@ -527,6 +593,9 @@
   {
     "id": "bruno-fernandes",
     "name": "Bruno Fernandes",
+    "aliases": [
+      "Fernandes"
+    ],
     "nationality": "Portugal",
     "continent": "Europe",
     "position": "Midfielder",
@@ -553,6 +622,9 @@
   {
     "id": "erling-haaland",
     "name": "Erling Haaland",
+    "aliases": [
+      "Haaland"
+    ],
     "nationality": "Norway",
     "continent": "Europe",
     "position": "Forward",
@@ -583,6 +655,10 @@
   {
     "id": "diego-maradona",
     "name": "Diego Maradona",
+    "aliases": [
+      "Maradona",
+      "Diego Armando Maradona"
+    ],
     "nationality": "Argentina",
     "continent": "South America",
     "position": "Forward",
@@ -613,6 +689,9 @@
   {
     "id": "thierry-henry",
     "name": "Thierry Henry",
+    "aliases": [
+      "Henry"
+    ],
     "nationality": "France",
     "continent": "Europe",
     "position": "Forward",
@@ -648,6 +727,9 @@
   {
     "id": "gerard-pique",
     "name": "Gerard Piqué",
+    "aliases": [
+      "Piqué"
+    ],
     "nationality": "Spain",
     "continent": "Europe",
     "position": "Defender",
@@ -677,6 +759,11 @@
   {
     "id": "samuel-etoo",
     "name": "Samuel Eto'o",
+    "aliases": [
+      "Eto'o",
+      "Etoo",
+      "Samuel Etoo"
+    ],
     "nationality": "Cameroon",
     "continent": "Africa",
     "position": "Forward",
@@ -718,6 +805,9 @@
   {
     "id": "xavi-hernandez",
     "name": "Xavi Hernández",
+    "aliases": [
+      "Xavi"
+    ],
     "nationality": "Spain",
     "continent": "Europe",
     "position": "Midfielder",
@@ -743,6 +833,11 @@
   {
     "id": "son-heung-min",
     "name": "Son Heung-min",
+    "aliases": [
+      "Son",
+      "Heung-min Son",
+      "Son Heung min"
+    ],
     "nationality": "South Korea",
     "continent": "Asia",
     "position": "Forward",
@@ -766,6 +861,9 @@
   {
     "id": "karim-benzema",
     "name": "Karim Benzema",
+    "aliases": [
+      "Benzema"
+    ],
     "nationality": "France",
     "continent": "Europe",
     "position": "Forward",
@@ -829,6 +927,9 @@
   {
     "id": "didier-drogba",
     "name": "Didier Drogba",
+    "aliases": [
+      "Drogba"
+    ],
     "nationality": "Ivory Coast",
     "continent": "Africa",
     "position": "Forward",
@@ -862,6 +963,10 @@
   {
     "id": "ronaldo-nazario",
     "name": "Ronaldo Nazário",
+    "aliases": [
+      "Ronaldo",
+      "R9"
+    ],
     "nationality": "Brazil",
     "continent": "South America",
     "position": "Forward",
@@ -955,6 +1060,10 @@
   {
     "id": "zinedine-zidane",
     "name": "Zinedine Zidane",
+    "aliases": [
+      "Zidane",
+      "Zizou"
+    ],
     "nationality": "France",
     "continent": "Europe",
     "position": "Midfielder",
@@ -983,6 +1092,9 @@
   {
     "id": "andrea-pirlo",
     "name": "Andrea Pirlo",
+    "aliases": [
+      "Pirlo"
+    ],
     "nationality": "Italy",
     "continent": "Europe",
     "position": "Midfielder",
@@ -1011,6 +1123,9 @@
   {
     "id": "paolo-maldini",
     "name": "Paolo Maldini",
+    "aliases": [
+      "Maldini"
+    ],
     "nationality": "Italy",
     "continent": "Europe",
     "position": "Defender",
@@ -1031,6 +1146,10 @@
   {
     "id": "gianluigi-buffon",
     "name": "Gianluigi Buffon",
+    "aliases": [
+      "Buffon",
+      "Gigi Buffon"
+    ],
     "nationality": "Italy",
     "continent": "Europe",
     "position": "Goalkeeper",
@@ -1057,6 +1176,9 @@
   {
     "id": "iker-casillas",
     "name": "Iker Casillas",
+    "aliases": [
+      "Casillas"
+    ],
     "nationality": "Spain",
     "continent": "Europe",
     "position": "Goalkeeper",
@@ -1082,6 +1204,9 @@
   {
     "id": "carles-puyol",
     "name": "Carles Puyol",
+    "aliases": [
+      "Puyol"
+    ],
     "nationality": "Spain",
     "continent": "Europe",
     "position": "Defender",
@@ -1105,6 +1230,9 @@
   {
     "id": "frank-lampard",
     "name": "Frank Lampard",
+    "aliases": [
+      "Lampard"
+    ],
     "nationality": "England",
     "continent": "Europe",
     "position": "Midfielder",
@@ -1132,6 +1260,9 @@
   {
     "id": "wayne-rooney",
     "name": "Wayne Rooney",
+    "aliases": [
+      "Rooney"
+    ],
     "nationality": "England",
     "continent": "Europe",
     "position": "Forward",
@@ -1160,6 +1291,9 @@
   {
     "id": "luka-modric",
     "name": "Luka Modrić",
+    "aliases": [
+      "Modrić"
+    ],
     "nationality": "Croatia",
     "continent": "Europe",
     "position": "Midfielder",
@@ -1192,6 +1326,10 @@
   {
     "id": "sergio-aguero",
     "name": "Sergio Agüero",
+    "aliases": [
+      "Agüero",
+      "Kun Agüero"
+    ],
     "nationality": "Argentina",
     "continent": "South America",
     "position": "Forward",
@@ -1220,6 +1358,9 @@
   {
     "id": "yaya-toure",
     "name": "Yaya Touré",
+    "aliases": [
+      "Touré"
+    ],
     "nationality": "Ivory Coast",
     "continent": "Africa",
     "position": "Midfielder",
@@ -1258,6 +1399,9 @@
   {
     "id": "michael-essien",
     "name": "Michael Essien",
+    "aliases": [
+      "Essien"
+    ],
     "nationality": "Ghana",
     "continent": "Africa",
     "position": "Midfielder",
