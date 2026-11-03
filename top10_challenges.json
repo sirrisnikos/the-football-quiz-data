@@ -1,8 +1,8 @@
 [
   {
     "id": "ucl-titles-clubs",
-    "title": "Clubs with the most UEFA Champions League / European Cup titles",
-    "title_el": "Ομάδες με τα περισσότερα Champions League / Κύπελλα Πρωταθλητριών",
+    "title": "Clubs with the most UEFA Champions League / European Cup titles (ties: most recent winner first)",
+    "title_el": "Ομάδες με τα περισσότερα Champions League / Κύπελλα Πρωταθλητριών (σε ισοβαθμία προηγείται η πιο πρόσφατη κατάκτηση)",
     "entityType": "club",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -21,18 +21,18 @@
       },
       {
         "rank": 3,
-        "name": "Liverpool",
-        "stat": "6 titles",
-        "aliases": [
-          "Liverpool FC"
-        ]
-      },
-      {
-        "rank": 4,
         "name": "Bayern Munich",
         "stat": "6 titles",
         "aliases": [
           "Bayern"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Liverpool",
+        "stat": "6 titles",
+        "aliases": [
+          "Liverpool FC"
         ]
       },
       {
@@ -54,15 +54,6 @@
       },
       {
         "rank": 7,
-        "name": "Manchester United",
-        "stat": "3 titles",
-        "aliases": [
-          "Man United",
-          "Man Utd"
-        ]
-      },
-      {
-        "rank": 8,
         "name": "Inter Milan",
         "stat": "3 titles",
         "aliases": [
@@ -71,39 +62,29 @@
         ]
       },
       {
+        "rank": 8,
+        "name": "Manchester United",
+        "stat": "3 titles",
+        "aliases": [
+          "Man United",
+          "Man Utd"
+        ]
+      },
+      {
         "rank": 9,
-        "name": "Benfica",
+        "name": "Paris Saint-Germain",
         "stat": "2 titles",
         "aliases": [
-          "SL Benfica"
-        ],
-        "tiedWith": [
-          "Nottingham Forest",
-          "Forest",
-          "Paris Saint-Germain",
           "PSG",
-          "Chelsea",
-          "Juventus",
-          "FC Porto",
-          "Porto"
+          "Paris SG"
         ]
       },
       {
         "rank": 10,
-        "name": "Nottingham Forest",
+        "name": "Chelsea",
         "stat": "2 titles",
         "aliases": [
-          "Forest",
-          "Nott'm Forest"
-        ],
-        "tiedWith": [
-          "Benfica",
-          "Paris Saint-Germain",
-          "PSG",
-          "Chelsea",
-          "Juventus",
-          "FC Porto",
-          "Porto"
+          "Chelsea FC"
         ]
       }
     ]
@@ -283,8 +264,8 @@
   },
   {
     "id": "fa-cup-titles-clubs",
-    "title": "Clubs with the most FA Cup titles",
-    "title_el": "Ομάδες με τα περισσότερα FA Cup",
+    "title": "Clubs with the most FA Cup titles (ties: most recent winner first)",
+    "title_el": "Ομάδες με τα περισσότερα FA Cup (σε ισοβαθμία προηγείται η πιο πρόσφατη κατάκτηση)",
     "entityType": "club",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -304,20 +285,14 @@
       },
       {
         "rank": 3,
-        "name": "Tottenham Hotspur",
+        "name": "Manchester City",
         "stat": "8 titles",
         "aliases": [
-          "Tottenham",
-          "Spurs"
+          "Man City"
         ]
       },
       {
         "rank": 4,
-        "name": "Chelsea",
-        "stat": "8 titles"
-      },
-      {
-        "rank": 5,
         "name": "Liverpool",
         "stat": "8 titles",
         "aliases": [
@@ -325,11 +300,17 @@
         ]
       },
       {
+        "rank": 5,
+        "name": "Chelsea",
+        "stat": "8 titles"
+      },
+      {
         "rank": 6,
-        "name": "Manchester City",
+        "name": "Tottenham Hotspur",
         "stat": "8 titles",
         "aliases": [
-          "Man City"
+          "Tottenham",
+          "Spurs"
         ]
       },
       {
@@ -342,14 +323,6 @@
       },
       {
         "rank": 8,
-        "name": "Blackburn Rovers",
-        "stat": "6 titles",
-        "aliases": [
-          "Blackburn"
-        ]
-      },
-      {
-        "rank": 9,
         "name": "Newcastle United",
         "stat": "6 titles",
         "aliases": [
@@ -357,12 +330,17 @@
         ]
       },
       {
+        "rank": 9,
+        "name": "Blackburn Rovers",
+        "stat": "6 titles",
+        "aliases": [
+          "Blackburn"
+        ]
+      },
+      {
         "rank": 10,
         "name": "Everton",
-        "stat": "5 titles",
-        "tiedWith": [
-          "West Bromwich Albion"
-        ]
+        "stat": "5 titles"
       }
     ]
   },
@@ -1302,8 +1280,8 @@
   },
   {
     "id": "copa-libertadores-titles-clubs",
-    "title": "Clubs with the most Copa Libertadores titles",
-    "title_el": "Ομάδες με τα περισσότερα Κόπα Λιμπερταδόρες",
+    "title": "Clubs with the most Copa Libertadores titles (ties: most recent winner first)",
+    "title_el": "Ομάδες με τα περισσότερα Κόπα Λιμπερταδόρες (σε ισοβαθμία προηγείται η πιο πρόσφατη κατάκτηση)",
     "entityType": "club",
     "sourceNote": "As of 2025",
     "answers": [
@@ -1330,11 +1308,8 @@
       },
       {
         "rank": 4,
-        "name": "Estudiantes",
-        "stat": "4 titles",
-        "aliases": [
-          "Estudiantes de La Plata"
-        ]
+        "name": "Flamengo",
+        "stat": "4 titles"
       },
       {
         "rank": 5,
@@ -1346,71 +1321,38 @@
       },
       {
         "rank": 6,
-        "name": "Flamengo",
-        "stat": "4 titles"
+        "name": "Estudiantes",
+        "stat": "4 titles",
+        "aliases": [
+          "Estudiantes de La Plata"
+        ]
       },
       {
         "rank": 7,
-        "name": "Nacional",
+        "name": "Palmeiras",
         "stat": "3 titles",
         "aliases": [
-          "Club Nacional",
-          "Nacional Montevideo"
-        ],
-        "tiedWith": [
-          "Olimpia",
-          "Sao Paulo",
-          "Santos",
-          "Gremio",
-          "Palmeiras",
-          "Grêmio",
-          "São Paulo"
+          "SE Palmeiras"
         ]
       },
       {
         "rank": 8,
-        "name": "Olimpia",
+        "name": "Gremio",
         "stat": "3 titles",
         "aliases": [
-          "Club Olimpia"
-        ],
-        "tiedWith": [
-          "Nacional",
-          "Sao Paulo",
-          "Santos",
-          "Gremio",
-          "Palmeiras",
-          "Grêmio",
-          "São Paulo"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "Sao Paulo",
-        "stat": "3 titles",
-        "aliases": [
-          "São Paulo"
-        ],
-        "tiedWith": [
-          "Nacional",
-          "Olimpia",
-          "Santos",
-          "Gremio",
-          "Palmeiras",
           "Grêmio"
         ]
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "Santos",
+        "stat": "3 titles"
+      },
+      {
+        "rank": 10,
+        "name": "Sao Paulo",
         "stat": "3 titles",
-        "tiedWith": [
-          "Nacional",
-          "Olimpia",
-          "Sao Paulo",
-          "Gremio",
-          "Palmeiras",
-          "Grêmio",
+        "aliases": [
           "São Paulo"
         ]
       }
@@ -1770,8 +1712,8 @@
   },
   {
     "id": "europa-league-titles-clubs",
-    "title": "Teams with the most Europa League titles",
-    "title_el": "Ομάδες με τα περισσότερα Europa League",
+    "title": "Teams with the most Europa League titles (ties: most recent winner first)",
+    "title_el": "Ομάδες με τα περισσότερα Europa League (σε ισοβαθμία προηγείται η πιο πρόσφατη κατάκτηση)",
     "entityType": "club",
     "sourceNote": "As of the 2025-26 season",
     "answers": [
@@ -1785,31 +1727,15 @@
       },
       {
         "rank": 2,
-        "name": "Liverpool",
+        "name": "Tottenham Hotspur",
         "stat": "3 titles",
         "aliases": [
-          "Liverpool FC"
+          "Tottenham",
+          "Spurs"
         ]
       },
       {
         "rank": 3,
-        "name": "Juventus",
-        "stat": "3 titles",
-        "aliases": [
-          "Juve"
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "Inter Milan",
-        "stat": "3 titles",
-        "aliases": [
-          "Inter",
-          "Internazionale"
-        ]
-      },
-      {
-        "rank": 5,
         "name": "Atletico Madrid",
         "stat": "3 titles",
         "aliases": [
@@ -1820,18 +1746,38 @@
         ]
       },
       {
-        "rank": 6,
-        "name": "Tottenham Hotspur",
+        "rank": 4,
+        "name": "Liverpool",
         "stat": "3 titles",
         "aliases": [
-          "Tottenham",
-          "Spurs"
+          "Liverpool FC"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Inter Milan",
+        "stat": "3 titles",
+        "aliases": [
+          "Inter",
+          "Internazionale"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Juventus",
+        "stat": "3 titles",
+        "aliases": [
+          "Juve"
         ]
       },
       {
         "rank": 7,
-        "name": "Parma",
-        "stat": "2 titles"
+        "name": "Eintracht Frankfurt",
+        "stat": "2 titles",
+        "aliases": [
+          "Frankfurt",
+          "Eintracht"
+        ]
       },
       {
         "rank": 8,
@@ -1840,27 +1786,16 @@
       },
       {
         "rank": 9,
-        "name": "Borussia Monchengladbach",
+        "name": "Porto",
         "stat": "2 titles",
         "aliases": [
-          "Borussia Mönchengladbach",
-          "Monchengladbach",
-          "Gladbach"
+          "FC Porto"
         ]
       },
       {
         "rank": 10,
         "name": "Feyenoord",
-        "stat": "2 titles",
-        "tiedWith": [
-          "Eintracht Frankfurt",
-          "Frankfurt",
-          "IFK Goteborg",
-          "IFK Göteborg",
-          "Porto",
-          "FC Porto",
-          "Real Madrid"
-        ]
+        "stat": "2 titles"
       }
     ]
   },
@@ -2769,10 +2704,7 @@
       {
         "rank": 5,
         "name": "Fernandinho",
-        "stat": "30 yellow cards",
-        "tiedWith": [
-          "Gerard Pique"
-        ]
+        "stat": "30 yellow cards"
       },
       {
         "rank": 6,
@@ -2782,9 +2714,6 @@
           "Gerard Piqué",
           "Pique",
           "Piqué"
-        ],
-        "tiedWith": [
-          "Fernandinho"
         ]
       },
       {
@@ -2799,9 +2728,6 @@
         "aliases": [
           "Nicolás Otamendi",
           "Otamendi"
-        ],
-        "tiedWith": [
-          "Gennaro Gattuso"
         ]
       },
       {
@@ -2810,9 +2736,6 @@
         "stat": "28 yellow cards",
         "aliases": [
           "Gattuso"
-        ],
-        "tiedWith": [
-          "Nicolas Otamendi"
         ]
       },
       {
@@ -2930,10 +2853,6 @@
         "stat": "95 seasons",
         "aliases": [
           "Athletic Bilbao"
-        ],
-        "tiedWith": [
-          "Barcelona",
-          "Real Madrid"
         ]
       },
       {
@@ -2943,20 +2862,12 @@
         "aliases": [
           "FC Barcelona",
           "Barca"
-        ],
-        "tiedWith": [
-          "Athletic Club",
-          "Real Madrid"
         ]
       },
       {
         "rank": 3,
         "name": "Real Madrid",
-        "stat": "95 seasons",
-        "tiedWith": [
-          "Athletic Club",
-          "Barcelona"
-        ]
+        "stat": "95 seasons"
       },
       {
         "rank": 4,
@@ -2975,9 +2886,6 @@
           "Atletico",
           "Atléti",
           "Atleti"
-        ],
-        "tiedWith": [
-          "Espanyol"
         ]
       },
       {
@@ -2986,9 +2894,6 @@
         "stat": "89 seasons",
         "aliases": [
           "RCD Espanyol"
-        ],
-        "tiedWith": [
-          "Atletico Madrid"
         ]
       },
       {
@@ -3011,9 +2916,6 @@
         "aliases": [
           "Celta de Vigo",
           "RC Celta"
-        ],
-        "tiedWith": [
-          "Real Betis"
         ]
       },
       {
@@ -3022,9 +2924,6 @@
         "stat": "60 seasons",
         "aliases": [
           "Betis"
-        ],
-        "tiedWith": [
-          "Celta Vigo"
         ]
       }
     ]
@@ -3264,9 +3163,6 @@
         "stat": "305 goals",
         "aliases": [
           "AFC Ajax"
-        ],
-        "tiedWith": [
-          "PSV Eindhoven"
         ]
       },
       {
@@ -3275,9 +3171,6 @@
         "stat": "305 goals",
         "aliases": [
           "PSV"
-        ],
-        "tiedWith": [
-          "Ajax"
         ]
       },
       {
@@ -3287,9 +3180,6 @@
         "aliases": [
           "Inter",
           "Internazionale"
-        ],
-        "tiedWith": [
-          "Club Brugge"
         ]
       },
       {
@@ -3298,9 +3188,6 @@
         "stat": "297 goals",
         "aliases": [
           "Club Brugge KV"
-        ],
-        "tiedWith": [
-          "Inter Milan"
         ]
       },
       {
@@ -3309,9 +3196,6 @@
         "stat": "283 goals",
         "aliases": [
           "Sevilla FC"
-        ],
-        "tiedWith": [
-          "Anderlecht"
         ]
       },
       {
@@ -3320,9 +3204,6 @@
         "stat": "283 goals",
         "aliases": [
           "RSC Anderlecht"
-        ],
-        "tiedWith": [
-          "Sevilla"
         ]
       },
       {
@@ -3337,8 +3218,8 @@
   },
   {
     "id": "liga-portugal-most-expensive-transfers",
-    "title": "Most expensive Liga Portugal transfers of all time",
-    "title_el": "Οι πιο ακριβές μεταγραφές του πορτογαλικού πρωταθλήματος όλων των εποχών",
+    "title": "Most expensive Liga Portugal transfers of all time (ties: most recent transfer first)",
+    "title_el": "Οι πιο ακριβές μεταγραφές του πορτογαλικού πρωταθλήματος όλων των εποχών (σε ισοβαθμία προηγείται η πιο πρόσφατη μεταγραφή)",
     "entityType": "player",
     "sourceNote": "Transfer fees for deals involving a Liga Portugal club, as of 2025-26",
     "answers": [
@@ -3426,9 +3307,6 @@
         "stat": "€60M (Porto to Al-Nassr)",
         "aliases": [
           "Otávio"
-        ],
-        "tiedWith": [
-          "Manuel Ugarte"
         ]
       }
     ]
@@ -3487,9 +3365,6 @@
         "stat": "245 apps",
         "aliases": [
           "Hazard"
-        ],
-        "tiedWith": [
-          "Simon Mignolet"
         ]
       },
       {
@@ -3498,9 +3373,6 @@
         "stat": "245 apps",
         "aliases": [
           "Mignolet"
-        ],
-        "tiedWith": [
-          "Eden Hazard"
         ]
       },
       {
@@ -3533,10 +3405,10 @@
   },
   {
     "id": "european-titles-outside-big-five-clubs",
-    "title": "Clubs outside Europe's \"Big Five\" leagues with the most European titles",
-    "title_el": "Ομάδες εκτός των 5 μεγάλων πρωταθλημάτων της Ευρώπης με τους περισσότερους ευρωπαϊκούς τίτλους",
+    "title": "Clubs outside Europe's \"Big Five\" leagues with the most European titles (ties: most European Cups, then most recent winner)",
+    "title_el": "Ομάδες εκτός των 5 μεγάλων πρωταθλημάτων της Ευρώπης με τους περισσότερους ευρωπαϊκούς τίτλους (σε ισοβαθμία: περισσότερα Κύπελλα Πρωταθλητριών, μετά η πιο πρόσφατη κατάκτηση)",
     "entityType": "club",
-    "sourceNote": "Combined European Cup/Champions League, Europa League/UEFA Cup, and Cup Winners' Cup titles for clubs outside England, Spain, Italy, Germany, and France; ties broken by Champions League/European Cup titles won",
+    "sourceNote": "Combined European Cup/Champions League, Europa League/UEFA Cup, and Cup Winners' Cup titles for clubs outside England, Spain, Italy, Germany, and France; ties broken by Champions League/European Cup titles won, then by most recent title",
     "answers": [
       {
         "rank": 1,
@@ -3587,10 +3459,6 @@
         "aliases": [
           "IFK Göteborg",
           "Goteborg"
-        ],
-        "tiedWith": [
-          "Dynamo Kyiv",
-          "Dynamo Kiev"
         ]
       },
       {
@@ -3599,23 +3467,15 @@
         "stat": "2 titles",
         "aliases": [
           "Dynamo Kiev"
-        ],
-        "tiedWith": [
-          "IFK Goteborg",
-          "IFK Göteborg"
         ]
       },
       {
         "rank": 9,
-        "name": "Celtic",
+        "name": "Red Star Belgrade",
         "stat": "1 title",
-        "tiedWith": [
-          "Steaua Bucuresti",
-          "FCSB",
-          "Steaua",
-          "Crvena Zvezda",
+        "aliases": [
           "Red Star",
-          "Red Star Belgrade"
+          "Crvena Zvezda"
         ]
       },
       {
@@ -3625,12 +3485,6 @@
         "aliases": [
           "Steaua București",
           "FCSB"
-        ],
-        "tiedWith": [
-          "Celtic",
-          "Crvena Zvezda",
-          "Red Star",
-          "Red Star Belgrade"
         ]
       }
     ]
@@ -3706,9 +3560,6 @@
         "stat": "238 apps",
         "aliases": [
           "André Silva"
-        ],
-        "tiedWith": [
-          "Joao Moutinho"
         ]
       },
       {
@@ -3718,9 +3569,6 @@
         "aliases": [
           "João Moutinho",
           "Moutinho"
-        ],
-        "tiedWith": [
-          "Andre Silva"
         ]
       },
       {
@@ -3744,18 +3592,12 @@
       {
         "rank": 1,
         "name": "Brazil",
-        "stat": "38 players",
-        "tiedWith": [
-          "France"
-        ]
+        "stat": "38 players"
       },
       {
         "rank": 2,
         "name": "France",
-        "stat": "38 players",
-        "tiedWith": [
-          "Brazil"
-        ]
+        "stat": "38 players"
       },
       {
         "rank": 3,
@@ -3783,34 +3625,22 @@
       {
         "rank": 7,
         "name": "Argentina",
-        "stat": "15 players",
-        "tiedWith": [
-          "Belgium"
-        ]
+        "stat": "15 players"
       },
       {
         "rank": 8,
         "name": "Belgium",
-        "stat": "15 players",
-        "tiedWith": [
-          "Argentina"
-        ]
+        "stat": "15 players"
       },
       {
         "rank": 9,
         "name": "Scotland",
-        "stat": "14 players",
-        "tiedWith": [
-          "Wales"
-        ]
+        "stat": "14 players"
       },
       {
         "rank": 10,
         "name": "Wales",
-        "stat": "14 players",
-        "tiedWith": [
-          "Scotland"
-        ]
+        "stat": "14 players"
       }
     ]
   },
@@ -3834,18 +3664,12 @@
       {
         "rank": 3,
         "name": "Argentina",
-        "stat": "22 players",
-        "tiedWith": [
-          "Brazil"
-        ]
+        "stat": "22 players"
       },
       {
         "rank": 4,
         "name": "Brazil",
-        "stat": "22 players",
-        "tiedWith": [
-          "Argentina"
-        ]
+        "stat": "22 players"
       },
       {
         "rank": 5,
@@ -3873,18 +3697,12 @@
       {
         "rank": 9,
         "name": "Albania",
-        "stat": "14 players",
-        "tiedWith": [
-          "Belgium"
-        ]
+        "stat": "14 players"
       },
       {
         "rank": 10,
         "name": "Belgium",
-        "stat": "14 players",
-        "tiedWith": [
-          "Albania"
-        ]
+        "stat": "14 players"
       }
     ]
   },
@@ -3933,9 +3751,6 @@
         "stat": "15 goals",
         "aliases": [
           "João Pedro"
-        ],
-        "tiedWith": [
-          "Morgan Gibbs-White"
         ]
       },
       {
@@ -3944,9 +3759,6 @@
         "stat": "15 goals",
         "aliases": [
           "Gibbs-White"
-        ],
-        "tiedWith": [
-          "Joao Pedro"
         ]
       },
       {
@@ -3957,9 +3769,6 @@
           "Viktor Gyökeres",
           "Gyokeres",
           "Gyökeres"
-        ],
-        "tiedWith": [
-          "Dominic Calvert-Lewin"
         ]
       },
       {
@@ -3968,18 +3777,12 @@
         "stat": "14 goals",
         "aliases": [
           "Calvert-Lewin"
-        ],
-        "tiedWith": [
-          "Viktor Gyokeres"
         ]
       },
       {
         "rank": 9,
         "name": "Junior Kroupi",
-        "stat": "13 goals",
-        "tiedWith": [
-          "Danny Welbeck"
-        ]
+        "stat": "13 goals"
       },
       {
         "rank": 10,
@@ -3987,9 +3790,6 @@
         "stat": "13 goals",
         "aliases": [
           "Welbeck"
-        ],
-        "tiedWith": [
-          "Junior Kroupi"
         ]
       }
     ]
@@ -4101,18 +3901,12 @@
       {
         "rank": 3,
         "name": "Spain",
-        "stat": "16 players",
-        "tiedWith": [
-          "Serbia"
-        ]
+        "stat": "16 players"
       },
       {
         "rank": 4,
         "name": "Serbia",
-        "stat": "16 players",
-        "tiedWith": [
-          "Spain"
-        ]
+        "stat": "16 players"
       },
       {
         "rank": 5,
@@ -4130,42 +3924,22 @@
       {
         "rank": 7,
         "name": "Sweden",
-        "stat": "8 players",
-        "tiedWith": [
-          "Croatia",
-          "France",
-          "Greece"
-        ]
+        "stat": "8 players"
       },
       {
         "rank": 8,
         "name": "Croatia",
-        "stat": "8 players",
-        "tiedWith": [
-          "Sweden",
-          "France",
-          "Greece"
-        ]
+        "stat": "8 players"
       },
       {
         "rank": 9,
         "name": "France",
-        "stat": "8 players",
-        "tiedWith": [
-          "Sweden",
-          "Croatia",
-          "Greece"
-        ]
+        "stat": "8 players"
       },
       {
         "rank": 10,
         "name": "Greece",
-        "stat": "8 players",
-        "tiedWith": [
-          "Sweden",
-          "Croatia",
-          "France"
-        ]
+        "stat": "8 players"
       }
     ]
   }
