@@ -173,7 +173,7 @@
     "title": "Players with the most Ballon d'Or wins",
     "title_el": "Παίκτες με τις περισσότερες Χρυσές Μπάλες",
     "entityType": "player",
-    "sourceNote": "As of the 2025 ceremony",
+    "sourceNote": "As of the 2026 ceremony",
     "answers": [
       {
         "rank": 1,
@@ -626,27 +626,27 @@
       {
         "rank": 7,
         "name": "Fernando Hierro",
-        "stat": "601 apps",
+        "stat": "602 apps",
         "aliases": [
           "Hierro"
         ]
       },
       {
         "rank": 8,
+        "name": "Paco Gento",
+        "stat": "600 apps",
+        "aliases": [
+          "Francisco Gento",
+          "Gento"
+        ]
+      },
+      {
+        "rank": 9,
         "name": "Luka Modric",
         "stat": "597 apps",
         "aliases": [
           "Luka Modrić",
           "Modric"
-        ]
-      },
-      {
-        "rank": 9,
-        "name": "Paco Gento",
-        "stat": "596 apps",
-        "aliases": [
-          "Francisco Gento",
-          "Gento"
         ]
       },
       {
@@ -669,6 +669,14 @@
     "answers": [
       {
         "rank": 1,
+        "name": "Harry Kane",
+        "stat": "2026",
+        "aliases": [
+          "Kane"
+        ]
+      },
+      {
+        "rank": 2,
         "name": "Ousmane Dembele",
         "stat": "2025",
         "aliases": [
@@ -678,7 +686,7 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "Rodri",
         "stat": "2024",
         "aliases": [
@@ -686,7 +694,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Lionel Messi",
         "stat": "2023",
         "aliases": [
@@ -694,7 +702,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Karim Benzema",
         "stat": "2022",
         "aliases": [
@@ -702,7 +710,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Luka Modric",
         "stat": "2018",
         "aliases": [
@@ -711,7 +719,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Cristiano Ronaldo",
         "stat": "2017",
         "aliases": [
@@ -720,7 +728,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Kaka",
         "stat": "2007",
         "aliases": [
@@ -728,7 +736,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Fabio Cannavaro",
         "stat": "2006",
         "aliases": [
@@ -736,19 +744,11 @@
         ]
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Ronaldinho",
         "stat": "2005",
         "aliases": [
           "Ronaldinho Gaucho"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "Andriy Shevchenko",
-        "stat": "2004",
-        "aliases": [
-          "Shevchenko"
         ]
       }
     ]
@@ -768,7 +768,7 @@
       {
         "rank": 2,
         "name": "Neymar",
-        "stat": "128 caps",
+        "stat": "130 caps",
         "aliases": [
           "Neymar Jr"
         ]
@@ -789,10 +789,15 @@
       {
         "rank": 5,
         "name": "Thiago Silva",
-        "stat": "112 caps"
+        "stat": "113 caps"
       },
       {
         "rank": 6,
+        "name": "Marquinhos",
+        "stat": "112 caps"
+      },
+      {
+        "rank": 7,
         "name": "Lucio",
         "stat": "105 caps",
         "aliases": [
@@ -800,14 +805,9 @@
         ]
       },
       {
-        "rank": 7,
-        "name": "Marquinhos",
-        "stat": "103 caps"
-      },
-      {
         "rank": 8,
         "name": "Claudio Taffarel",
-        "stat": "101 caps",
+        "stat": "102 caps",
         "aliases": [
           "Taffarel"
         ]
@@ -820,7 +820,7 @@
       {
         "rank": 10,
         "name": "Ronaldo Nazario",
-        "stat": "98 caps",
+        "stat": "99 caps",
         "aliases": [
           "Ronaldo Nazário",
           "Ronaldo",
@@ -839,7 +839,7 @@
       {
         "rank": 1,
         "name": "Lionel Messi",
-        "stat": "196 caps",
+        "stat": "208 caps",
         "aliases": [
           "Messi"
         ]
@@ -872,7 +872,7 @@
       {
         "rank": 5,
         "name": "Nicolas Otamendi",
-        "stat": "129 caps",
+        "stat": "140 caps",
         "aliases": [
           "Nicolás Otamendi",
           "Otamendi"
@@ -983,7 +983,7 @@
       {
         "rank": 7,
         "name": "Joshua Kimmich",
-        "stat": "114 caps",
+        "stat": "116 caps",
         "aliases": [
           "Kimmich"
         ]
@@ -1360,8 +1360,8 @@
   },
   {
     "id": "spanish-players-arsenal-appearances",
-    "title": "Spanish players with the most appearances for Arsenal",
-    "title_el": "Ισπανοί παίκτες με τις περισσότερες συμμετοχές στην Arsenal",
+    "title": "Spanish players with the most Premier League appearances for Arsenal",
+    "title_el": "Ισπανοί παίκτες με τις περισσότερες συμμετοχές στην Premier League με την Arsenal",
     "entityType": "player",
     "sourceNote": "As of 2026",
     "answers": [
@@ -1650,30 +1650,30 @@
   },
   {
     "id": "world-cup-goals-countries",
-    "title": "National teams with the most goals in World Cups",
-    "title_el": "Εθνικές ομάδες με τα περισσότερα γκολ σε Μουντιάλ",
+    "title": "National teams with the most goals in World Cups (ties: most recent World Cup goal first)",
+    "title_el": "Εθνικές ομάδες με τα περισσότερα γκολ σε Μουντιάλ (σε ισοβαθμία προηγείται η ομάδα με το πιο πρόσφατο γκολ)",
     "entityType": "country",
     "sourceNote": "As of the 2026 World Cup",
     "answers": [
       {
         "rank": 1,
         "name": "Brazil",
-        "stat": "237 goals"
+        "stat": "247 goals"
       },
       {
         "rank": 2,
         "name": "Germany",
-        "stat": "232 goals"
+        "stat": "243 goals"
       },
       {
         "rank": 3,
         "name": "Argentina",
-        "stat": "152 goals"
+        "stat": "171 goals"
       },
       {
         "rank": 4,
         "name": "France",
-        "stat": "136 goals"
+        "stat": "156 goals"
       },
       {
         "rank": 5,
@@ -1682,18 +1682,18 @@
       },
       {
         "rank": 6,
-        "name": "Spain",
-        "stat": "108 goals"
+        "name": "England",
+        "stat": "124 goals"
       },
       {
         "rank": 7,
-        "name": "England",
-        "stat": "104 goals"
+        "name": "Spain",
+        "stat": "122 goals"
       },
       {
         "rank": 8,
         "name": "Netherlands",
-        "stat": "96 goals",
+        "stat": "107 goals",
         "aliases": [
           "Holland"
         ]
@@ -1701,11 +1701,11 @@
       {
         "rank": 9,
         "name": "Uruguay",
-        "stat": "89 goals"
+        "stat": "92 goals"
       },
       {
         "rank": 10,
-        "name": "Hungary",
+        "name": "Sweden",
         "stat": "87 goals"
       }
     ]
@@ -1862,7 +1862,12 @@
       {
         "rank": 7,
         "name": "Luis Eduardo",
-        "stat": "63 goals"
+        "stat": "63 goals",
+        "aliases": [
+          "Edu",
+          "Luís Eduardo",
+          "Luis Eduardo Schmidt"
+        ]
       },
       {
         "rank": 8,
@@ -2172,7 +2177,7 @@
       {
         "rank": 1,
         "name": "Manuel Neuer",
-        "stat": "62 clean sheets",
+        "stat": "63 clean sheets",
         "aliases": [
           "Neuer"
         ]
@@ -2195,6 +2200,14 @@
       },
       {
         "rank": 4,
+        "name": "Edwin van der Sar",
+        "stat": "51 clean sheets",
+        "aliases": [
+          "Van der Sar"
+        ]
+      },
+      {
+        "rank": 5,
         "name": "Victor Valdes",
         "stat": "45 clean sheets",
         "aliases": [
@@ -2204,7 +2217,7 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Petr Cech",
         "stat": "41 clean sheets",
         "aliases": [
@@ -2214,15 +2227,15 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Jan Oblak",
-        "stat": "36 clean sheets",
+        "stat": "37 clean sheets",
         "aliases": [
           "Oblak"
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Thibaut Courtois",
         "stat": "34 clean sheets",
         "aliases": [
@@ -2230,26 +2243,16 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Dida",
         "stat": "34 clean sheets"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Oliver Kahn",
         "stat": "33 clean sheets",
         "aliases": [
           "Kahn"
-        ]
-      },
-      {
-        "rank": 10,
-        "name": "Marc-Andre ter Stegen",
-        "stat": "32 clean sheets",
-        "aliases": [
-          "Marc-André ter Stegen",
-          "ter Stegen",
-          "Ter Stegen"
         ]
       }
     ]
@@ -3782,7 +3785,11 @@
       {
         "rank": 9,
         "name": "Junior Kroupi",
-        "stat": "13 goals"
+        "stat": "13 goals",
+        "aliases": [
+          "Kroupi",
+          "Eli Junior Kroupi"
+        ]
       },
       {
         "rank": 10,
